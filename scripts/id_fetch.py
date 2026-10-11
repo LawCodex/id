@@ -328,11 +328,12 @@ def candidates(item):
 def process_item(item, max_files=12):
     key = item["key"]
     tp = os.path.join(C.RAW, "text", item["kind"], f"{key}.json")
-    if os.path.exists(tp):
-        return
+    cands = candidates(item)
+    if not cands:
+        return  # nothing to download (yet) - e.g. BPK metadata not cached
     tried = []
     best = None
-    for src, files in candidates(item):
+    for src, files in cands:
         delay = 0.5 if src == "setneg" else 1.0
         parts = []
         skipped = []
@@ -370,14 +371,62 @@ def process_item(item, max_files=12):
     C.jsave(tp, res)
 
 
+UUD_PARTS = [  # BPK file name -> (output key, title, date)
+    ("UUD45.pdf", "uud-1945-naskah-asli", "Undang-Undang Dasar 1945 (naskah asli)", "1945-08-18"),
+    ("UUD45_perubahan1.pdf", "uud-1945-perubahan-pertama", "Perubahan Pertama Undang-Undang Dasar Negara Republik Indonesia Tahun 1945", "1999-10-19"),
+    ("UUD45_perubahan2.pdf", "uud-1945-perubahan-kedua", "Perubahan Kedua Undang-Undang Dasar Negara Republik Indonesia Tahun 1945", "2000-08-18"),
+    ("UUD45_perubahan3.pdf", "uud-1945-perubahan-ketiga", "Perubahan Ketiga Undang-Undang Dasar Negara Republik Indonesia Tahun 1945", "2001-11-09"),
+    ("UUD45_perubahan4.pdf", "uud-1945-perubahan-keempat", "Perubahan Keempat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945", "2002-08-10"),
+    ("UUD45_SatuNaskah.pdf", "uud-1945", "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (dalam satu naskah)", "1945-08-18"),
+]
+
+
+def step_uud():
+    import id_plan
+    recs = id_plan.uud_records()
+    files = {}
+    for r in recs:
+        for f in r.get("files") or []:
+            name = urllib.parse.unquote(f["href"].rsplit("/", 1)[-1])
+            files.setdefault(name, (C.BPK + f["href"], r))
+    for name, key, title, date in UUD_PARTS:
+        tp = os.path.join(C.RAW, "text", "uud", f"{key}.json")
+        if os.path.exists(tp) or name not in files:
+            continue
+        url, r = files[name]
+        data, st = download(url, 1.0)
+        if data is None:
+            print(f"UUD {name}: {st}", file=sys.stderr)
+            continue
+        txt, pages = pdf_to_text(data)
+        C.jsave(tp, {"key": key, "title": title, "date": date, "source": "bpk",
+                     "parts": [{"label": name, "url": url, "pages": pages, "text": txt}],
+                     "bpk": {k: r.get(k) for k in ("url", "snapshot", "status", "bpk_id")}})
+    print("uud done", flush=True)
+
+
 def step_text(args):
     import id_plan
+    os.makedirs(os.path.join(C.RAW, "tmp"), exist_ok=True)
+    if "uud" in args.kinds.split(","):
+        step_uud()
     plan = id_plan.build_plan()
     kinds = set(args.kinds.split(","))
     items = [it for it in plan if it["kind"] in kinds]
     os.makedirs(os.path.join(C.RAW, "tmp"), exist_ok=True)
-    todo = [it for it in items
-            if not os.path.exists(os.path.join(C.RAW, "text", it["kind"], f"{it['key']}.json"))]
+    def done_ok(it):
+        p = os.path.join(C.RAW, "text", it["kind"], f"{it['key']}.json")
+        if not os.path.exists(p):
+            return False
+        if args.retry_failed:
+            r = C.jload(p)
+            if not r.get("parts") and any("scanned" not in t.get("error", "") for t in r.get("tried", [])):
+                return False
+            # retry if a source that was not tried is now available
+            if not r.get("parts") and len(r.get("tried", [])) < len(candidates(it)):
+                return False
+        return True
+    todo = [it for it in items if not done_ok(it)]
     if args.limit:
         todo = todo[:args.limit]
     print(f"{len(items)} items, {len(todo)} to process", flush=True)
@@ -398,6 +447,7 @@ def main():
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--workers", type=int, default=2)
     ap.add_argument("--extra-ids", default="")
+    ap.add_argument("--retry-failed", action="store_true")
     a = ap.parse_args()
     {"bpk-cdx": step_bpk_cdx, "bpk-meta": step_bpk_meta, "bpk-follow": step_bpk_follow,
      "setneg": step_setneg, "dpr": step_dpr, "text": step_text}[a.step](a)

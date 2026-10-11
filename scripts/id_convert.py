@@ -24,7 +24,7 @@ RE_BUKU = re.compile(r"^BUKU\s+(KE[A-Z]+|[IVXLC]+|SATU|DUA|TIGA|EMPAT|LIMA)\b\s*
 RE_BAB = re.compile(r"^BAB\s+([IVXLC]+[A-Z]?|[0-9]+[A-Z]?)\s*(?:[-–—:.]\s*)?(.*)$")
 RE_BAGIAN = re.compile(r"^Bagian\s+(Ke[a-z]+(?:\s+[A-Z][a-z]+)?|Pertama|[A-Z][a-z]+)\s*$")
 RE_PARAGRAF = re.compile(r"^Paragraf\s+(\d+[A-Z]?|Ke[a-z]+)\s*$", re.I)
-RE_PASAL = re.compile(r"^Pasa[l1]\s+(\d+[A-Z]?|[IVXLC]+)\s*$")
+RE_PASAL = re.compile(r"^Pasa[l1]\s+(\d+[A-Z]?|[IVXLC]+)\s*\.?$")
 RE_PAGENUM = re.compile(r"^[-–—]?\s*\d{1,4}\s*[-–—]?$")
 RE_WEB = re.compile(r"^(www\.|https?://)\S+$|^\S+\.go\.id\s*$", re.I)
 RE_CATCH = re.compile(r"(…|\.\s?\.\s?\.)\s*$")
@@ -41,7 +41,19 @@ def is_upper_line(s):
 def clean_lines(text):
     """Return list of (indent, stripped_line) with page furniture removed; '' marks blank."""
     out = []
+    text = text.replace("\u00ad", "-")
     pages = text.split("\f")
+    # running headers/footers: upper-case lines recurring in the top/bottom 4 lines of many pages
+    from collections import Counter
+    zone = Counter()
+    for pg in pages:
+        nb = [l.strip() for l in pg.split("\n") if l.strip()]
+        for l in set(nb[:4] + nb[-4:]):
+            if is_upper_line(l) or re.match(r"^\*+\)\s*:", l):
+                zone[l] += 1
+    furniture = {l for l, c in zone.items() if c >= max(3, 0.3 * len(pages))}
+    furniture -= {"PENJELASAN"}
+    legend_seen = set()
     for pg in pages:
         lines = pg.split("\n")
         # catchword: last non-blank line of the page ending in "..." / "…"
@@ -72,6 +84,12 @@ def clean_lines(text):
             if RE_CATCH.search(s) and len(s) <= 60 and ind >= 20:
                 i += 1
                 continue
+            if s in furniture:
+                # keep the first occurrence of a legend / title, drop the repeats
+                if s in legend_seen or not re.match(r"^\*+\)\s*:", s):
+                    i += 1
+                    continue
+                legend_seen.add(s)
             out.append((ind, s))
             i += 1
         out.append((0, ""))
@@ -98,7 +116,8 @@ def convert_body(text):
     lines = clean_lines(text)
     # amending laws: "Pasal I", "Pasal II" are the operative articles; arabic "Pasal N" inside are
     # quoted provisions of the amended law -> do not make them headings
-    roman_pasal = sum(1 for _, s in lines if re.match(r"^Pasal\s+(I|II)\s*$", s)) >= 1
+    first = next((m.group(1) for _, s in lines for m in [RE_PASAL.match(s)] if m), "1")
+    roman_pasal = re.fullmatch(ROMAN, first) is not None
     has_buku = any(RE_BUKU.match(s) for _, s in lines)
     lvl = {}
     n = 2
@@ -192,6 +211,10 @@ def convert_body(text):
             k += 1
             continue
         if mode == "body":
+            if s in ("PEMBUKAAN", "ATURAN PERALIHAN", "ATURAN TAMBAHAN") and prev_end:
+                h(lvl["bab"], s)
+                k += 1
+                continue
             m = RE_BUKU.match(s)
             if m and prev_end:
                 t, k2 = (m.group(2), k + 1) if m.group(2) else title_after(k + 1, 4, True)
@@ -332,12 +355,48 @@ def render(it, tx, retrieved):
     return "\n".join(fm) + "\n\n" + "\n\n".join(body).rstrip() + "\n"
 
 
+def write_uud(retrieved):
+    tdir = os.path.join(C.RAW, "text", "uud")
+    if not os.path.isdir(tdir):
+        return 0
+    n = 0
+    for f in sorted(os.listdir(tdir)):
+        tx = C.jload(os.path.join(tdir, f))
+        b = tx.get("bpk") or {}
+        p = tx["parts"][0]
+        consolidated = tx["key"] == "uud-1945"
+        fm = ["---", f"title: {yaml_str(tx['title'])}",
+              f"identifier: {yaml_str('UUD 1945' if consolidated else tx['title'])}",
+              "type: constitution", "jurisdiction: id", "language: id", f"date: {tx['date']}"]
+        if consolidated:
+            fm.append("last_amended: 2002-08-10")
+        fm += ["status: in_force",
+               f"source: {yaml_str(p['url'])}", f"source_page: {yaml_str(b.get('url', ''))}",
+               f"bpk_metadata_archived: {yaml_str(b.get('snapshot', ''))}",
+               f"consolidated: {'true' if consolidated else 'false'}"]
+        if consolidated:
+            fm.append('note: "Naskah UUD 1945 dalam satu naskah (original text with the four amendments '
+                      'of 1999-2002 incorporated, as published by the Sekretariat Jenderal MPR); '
+                      'markers *) to ****) indicate the amendment that introduced each provision."')
+        elif tx["key"] == "uud-1945-naskah-asli":
+            fm.append('note: "Original 1945 text, before the amendments of 1999-2002."')
+        fm += [f"retrieved: {retrieved}", "---"]
+        body = f"# {tx['title']}\n\n" + convert_body(p["text"])
+        os.makedirs(os.path.join(C.REPO, "uud-1945"), exist_ok=True)
+        with open(os.path.join(C.REPO, "uud-1945", tx["key"] + ".md"), "w", encoding="utf-8", newline="\n") as fh:
+            fh.write("\n".join(fm) + "\n\n" + body.rstrip() + "\n")
+        n += 1
+    return n
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--kinds", default="uu,uudrt,perppu,pp,perpres")
     ap.add_argument("--retrieved", default=datetime.date.today().isoformat())
     a = ap.parse_args()
     kinds = a.kinds.split(",")
+    if "uud" in kinds:
+        print("uud files:", write_uud(a.retrieved))
     plan = id_plan.build_plan()
     missing = []
     written = 0
