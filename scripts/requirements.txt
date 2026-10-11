@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+lxml
+pypdf
+# also requires poppler-utils (pdftotext), used for text extraction from the official PDFs
