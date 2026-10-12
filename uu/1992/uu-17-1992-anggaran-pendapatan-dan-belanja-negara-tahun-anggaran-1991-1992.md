@@ -1,0 +1,198 @@
+---
+title: "Undang-Undang Nomor 17 Tahun 1992 tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1991/1992"
+identifier: "UU No. 17 Tahun 1992"
+type: act
+jurisdiction: id
+language: id
+number: "17"
+year: 1992
+date: 1992-08-24
+promulgated: 1992-08-24
+in_force_from: 1991-04-01
+status: in_force
+status_basis: "BPK: Berlaku; Setneg: berlaku"
+amends:
+  - "UU No. 2 Tahun 1991"
+gazette: "LN. 1992, LL SETNEG : 4 HLM"
+subject: "APBN"
+source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_17_TH_1992.pdf&fl=P00937"
+source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=1992"
+bpk_page: "https://peraturan.bpk.go.id/Details/46614"
+bpk_metadata_archived: "http://web.archive.org/web/20240919133400/https://peraturan.bpk.go.id/Details/46614"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 17 Tahun 1992 tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1991/1992
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 17 TAHUN 1992
+
+TENTANG
+
+ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1991/1992
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa untuk lebih menyesuaikan dan menyempurnakan pelaksanaan program Pemerintah dalam Tahun Anggaran 1991/92 diperlukan tambahan dan perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1991/92 sebagaimana dimaksud dalam Undang-undang Nomor 2 Tahun 1991;
+
+b. bahwa tambahan dan perubahan dimaksud perlu diatur dengan Undang-undang;
+
+Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 23 ayat (1) Undang-Undang Dasar 1945;
+
+2. Indische Comptabiliteitswet (Staatsblad Tahun 1925 Nomor 448) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 9 Tahun 1968 (Lembaran Negara Tahun 1968 Nomor 53, Tambahan Lembaran Negara Nomor 2860);
+
+3. Undang-undang Nomor 2 Tahun 1991 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1991/92 (Lembaran Negara Tahun 1991 Nomor 26, Tambahan Lembaran Negara Nomor 3436);
+
+Dengan persetujuan
+
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+MEMUTUSKAN:
+
+Menetapkan : UNDANG-UNDANG TENTANG TAMBAHAN DAN PERUBAHAN ATAS
+
+ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN
+
+1991/92.
+
+##### Pasal 1
+
+(1) Anggaran Pendapatan Negara Tahun Anggaran 1991/92 diperkirakan bertambah deagan Rp 1.438.412.000.000,00 (satu trilyun empat ratus tiga puluh delapan milyar empat ratus dua belas juta rupiah) yang terdiri dari:
+
+a. Pendapatan Rutin bertambah dengan Rp 1.400.812.000.000,00 (satu trilyun empat ratus milyar delapan ratus dua belas juta rupiah);
+
+b. Pendapatan Pembangunan bertambah dengan Rp 37.600.000.000,00 (tiga puluh tujuh milyar enam ratus juta rupiah);
+
+(2) Perincian pendapatan tambahan dan perubahan sebagaimana dimaksud dalam ayat (1) huruf a dan huruf b masing-masing dimuat dalam Lampiran I dan Lampiran II Undang-undang ini.
+
+##### Pasal 2
+
+(1) Anggaran Belanja Negara Tahun Anggaran 1991/92 diperkirakan bertambah dengan Rp 1.436.331.000.000,00 (satu trilyun empat ratus tiga puluh enam milyar tiga ratus tiga puluh satu rupiah) yang terdiri dari:
+
+a. Belanja Rutin berkurang dengan Rp 330.151.000.000,00 (tiga ratus tiga puluh milyar seratus lima puluh satu juta rupiah);
+
+b. Belanja Pembangunan bertambah dengan Rp 1.766.482.000.000,00 (satu trilyun tujuh ratus enam puluh enam milyar empat ratus delapan puluh dua juta rupiah)
+
+(2) Perincian pengeluaran tambahan dan perubahan sebagaimana dimaksud dalam ayat (1) huruf a dan huruf b masing-masing dimuat dalam Lampiran III dan Lampiran IV Undang-undang ini.
+
+##### Pasal 3
+
+(1) Kredit anggaran proyek-proyek pada Anggaran Pembangunan Tahun Anggaran 1991/92 yang telah disahkan dalam Undang-undang Nomor 2 Tahun 1991 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1991/92 yang pada akhir Tahun Anggaran 1991/ 92 menunjukkan sisa yang masih diperlukan untuk penyelesaian proyek, dengan Peraturan Pemerintah dipindahkan ke Tahun Anggaran 1992/93 menjadi kredit anggaran Tahun Anggaran 1992/93.
+
+(2) Sisa-anggaran-lebih Tahun Anggaran 1991/92 dipergunakan untuk membiayai Anggaran Belanja Tahun Anggaran 1992/93 dan/atau Tahun-tahun Anggaran berikutnya.
+
+##### Pasal 4
+
+Ketentuan-ketentuan dalam Indische Comptabiliteitswet (Undang-undang Perbendaharaan) yang bertentangan dengan bentuk, susunan, dan isi Undang-undang ini dinyatakan tidak berlaku.
+
+##### Pasal 5
+
+Undang-undang ini mulai berlaku pada tanggal diundangkan dan mempunyai daya laku surut sejak tanggal 1 April 1991.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 24 Agustus 1992
+
+PRESIDEN REPUBLIK INDONESIA
+
+ttd
+
+SOEHARTO
+
+Diundangkan di Jakarta pada tanggal 24 Agustus 1992
+
+MENTERI/SEKRETARIS NEGARA
+
+ttd
+
+MOERDIONO
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 17 TAHUN 1992
+
+TENTANG
+
+TAMBAHAN DAN PERUBAHAN
+
+ATAS
+
+ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+
+TAHUN ANGGARAN 1991/92
+
+UMUM
+
+Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1991/ 92 merupakan pelaksanaan tahun ketiga Rencana Pembangunan Lima Tahun Ke V. Didasarkan atas perkembangan ekonomi dalam dan luar negeri, yang mempengaruhi pelaksanaannya, maka terhadap Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1991/92 diperlukan beberapa tambahan dan perubahan.
+
+Dalam Tahun Anggaran 1991/92, realisasi pendapatan negara diperkirakan lebih besar daripada yang direncanakan. Lebih besarnya pendapatan negara tersebut disebabkan oleh lebih tingginya pendapatan dalam negeri, baik dari sektor minyak bumi dan gas alam maupun di luar minyak bumi dan gas alam, khususnya dari perpajakan.
+
+Di samping itu juga karena lebih tingginya realisasi pendapatan pembangunan, baik dari bantuan luar negeri yang dapat dirupiahkan, maupun dari bantuan proyek.
+
+Disisi pengeluaran, realisasi belanja rutin sedikit lebih rendah dari jumlah yang direncanakan. Lebih rendahnya belanja rutin terutama disebabkan oleh lebih rendahnya realisasi pembayaran bunga dan cicilan hutang luar negeri serta subsidi BBM, walupun realisasi belanja pegawai mengalami kenaikan sejalan dengan adanya pemberian tunjangan perbaikan penghasilan pegawai negeri/pensiunan sipil dan
+
+ABRI yang lebih besar sejak bulan Juli 1991. Walaupun demikian, realisasi tabungan pemerintah diperkirakan lebih tinggi dari yang direncanakan semula, oleh karena peningkatan dalam realisasi penerimaan dalam negeri masih lebih besar daripada peningkatan dalam realisasi belanja rutin.
+
+Selanjutanya realisasi belanja pembangunan diperkirakan lebih tinggi dari rencananya, sejalan dengan peningkatan penerimaan dalam negeri, yang memungkinkan lebih tingginya realisasi belanja pembangunan di semua sektor, Selain daripada itu dalam realisasi belanja pembangunan Tahun Anggaran 1991/92 termasuk pula alokasi untuk cadangan anggaran pembangunan, yang dimaksudkan untuk menjaga kesinambungan pembiayaan pembangunan, khususnya untuk mengamankan anggaran pembangunan Tahun Anggaran 1992/93 bilamana terjadi penurunan harga rata-rata minyak bumi dan tidak tercapainya penerimaan pembangunan yang dianggarkan.
+
+Dalam rangka kesinambungan kegiatan pembangunan, kredit anggaran yang menunjukkan sisa dan masih diperlukan untuk menyelesaikan proyek, dipindahkan ke Tahun Anggaran 1992/93 dan menjadi kredit anggaran Tahun Anggaran 1992/93. Sisa anggaran lebih yang diperkirakan sebesar Rp 2.081.000.000,00 (dua milyar delapan puluh satu juta rupiah), dipergunakan untuk membiayai anggaran belanja Tahun Anggaran 1992/93 atau tahun-tahun anggaran berikutnya.
+
+Dengan demikian Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1991/92, yang dalam Undang-undang Nomor 2 Tahun 1991 berimbang pada tingkat Rp 50.555.500.000.000,00 (lima puluh trilyun lima ratus lima puluh lima milyar lima ratus juta rupiah), kini berubah sehingga Anggaran Pendapatan Negara diperkirakan menjadi Rp 51.993.912.000.000,00 (lima puluh satu trilyun sembilan ratus sembilan puluh tiga milyar sembilan ratus dua belas juta rupiah) dan Anggaran Belanja Negara diperkirakan menjadi Rp 51.991,831.000.000,00 (lima puluh satu trilyun sembilan ratus sembilan puluh satu milyar delapan ratus tiga puluh satu juta rupiah).
+
+Oleh sebab itu, sesuai dengan ketentuan Pasal 5 Undang-undang Nomor 2 Tahun 1991, tambahan dan perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun. Anggaran 1991/92 perlu diatur dengan Undang-undang.
+
+PASAL DEMI PASAL
+
+#### Pasal 1
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Cukup jelas
+
+#### Pasal 2
+
+Ayat (1)
+
+Huruf a
+
+Cukup jelas
+
+Huruf b
+
+Dalam jumlah tersebut pada Pasal 2 ayat (1) huruf b Undang-undang ini termasuk Cadangan Anggaran Pembangunan sebesar Rp 1.500.000.000.000,00 (satu trilyun lima ratus milyar rupiah) yang dipergunakan untuk membiayai Anggaran Pembangunan Tahun Anggaran 1992/93, sesuai sasaran dan prioritasnya. Sedangkan mekanisme penggunaan Cadangan Anggaran Pembangunan Tahun Anggaran 1992/93 tidak terlepas dari Anggaran Pendapatan dan Belanja Negara yang sedang berjalan. Apabila Cadangan Anggaran Pembangunan
+
+Tahun Anggaran 1992/ 93 tidak dipergunakan atau dipergunakan sebagian, maka sisanya dipindahkan menjadi Cadangan Anggaran, Pembangunan tahun berikutnya.
+
+Ayat (2)
+
+Cukup jelas
+
+#### Pasal 3
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Cukup jelas
+
+#### Pasal 4
+
+Cukup jelas
+
+#### Pasal 5
+
+Cukup jelas

@@ -10,9 +10,9 @@ Steps (run in this order; each is resumable / cached):
   bpk-meta   Download the latest Wayback copy of each detail page and parse it.
   setneg     List UU / Perppu / PP / Perpres from JDIH Kementerian Sekretariat Negara
              (jdih.setneg.go.id, public JSON API used by its own web UI) incl. per-item details.
-  dpr        List UU / Perppu from JDIH Setjen DPR RI (jdih.dpr.go.id) year pages (cross-check).
-  text       For every instrument in the merged plan, download its PDF(s) (Setneg first, then
-             BPK /Download/ links), extract the text with pdftotext, keep only the text in
+  dpr        List UU from JDIH Setjen DPR RI (jdih.dpr.go.id) year pages (cross-check).
+  text       For every instrument in the merged plan, download its PDF(s) (BPK /Download/ links first -
+             fast; then Setneg, also used when the BPK text looks like poor OCR), extract the text with pdftotext, keep only the text in
              _raw/id/text/, and delete the PDF straight away.
 
 Politeness: User-Agent "LawCodex/1.0 (+https://github.com/LawCodex)", sequential requests per
@@ -231,8 +231,7 @@ def step_setneg(args):
 
 DPR_LISTS = {
     "uu": "Undang-undang-BAGIAN-PERTIMBANGAN-DAN-DOKUMENTASI-INFORMASI-HUKUM",
-    "perppu": "Peraturan-Pemerintah-Pengganti-Undang-undang-BAGIAN-PERTIMBANGAN-DAN-DOKUMENTASI-INFORMASI-HUKUM",
-}
+}  # the DPR Perppu pages list titles without numbers, so they are not used
 
 
 def step_dpr(args):
@@ -291,6 +290,19 @@ def is_scanned(txt, pages):
     return cpp < 150 or words < 30
 
 
+RE_GARBAGE = re.compile(r"^(?=.*[A-Za-z])(?=.*\d)(?!\d+[A-Za-z]{1,2}$)(?!\d+[.,]?\d*$)[A-Za-z0-9]+$")
+
+
+def garbage_ratio(txt):
+    """Share of OCR-garbage tokens (letters and digits mixed: '2OO8', 'lZ', 'a286'...)."""
+    toks = re.findall(r"[A-Za-z0-9]+", txt)
+    if not toks:
+        return 1.0
+    bad = sum(1 for t in toks if RE_GARBAGE.match(t) and not re.match(r"^(\d+[A-Za-z]|[A-Z]+\d+)$", t))
+    bad += txt.count("{") + txt.count("\\") + txt.count("|")
+    return bad / len(toks)
+
+
 def download(url, host_delay):
     r = C.http("GET", url, delay=host_delay, timeout=600, stream=True)
     if r is None or r.status_code != 200:
@@ -310,6 +322,11 @@ def download(url, host_delay):
 def candidates(item):
     """Ordered list of PDF source sets: [(source_name, [(label, url)])]."""
     out = []
+    bp = item.get("bpk")
+    if bp and bp.get("files"):
+        fl = [(urllib.parse.unquote(f["href"].rsplit("/", 1)[-1]), C.BPK + f["href"])
+              for f in bp["files"]]
+        out.append(("bpk", fl))
     sn = item.get("setneg")
     if sn and sn.get("files"):
         fl = []
@@ -317,11 +334,6 @@ def candidates(item):
             q = urllib.parse.urlencode({"l": "uploads", "f": f["realName"], "fl": sn["id"]})
             fl.append((f["realName"], f"{C.SETNEG}/api/hukumproduk/pdf?{q}"))
         out.append(("setneg", fl))
-    bp = item.get("bpk")
-    if bp and bp.get("files"):
-        fl = [(urllib.parse.unquote(f["href"].rsplit("/", 1)[-1]), C.BPK + f["href"])
-              for f in bp["files"]]
-        out.append(("bpk", fl))
     return out
 
 
@@ -334,7 +346,7 @@ def process_item(item, max_files=12):
     tried = []
     best = None
     for src, files in cands:
-        delay = 0.5 if src == "setneg" else 1.0
+        delay = 1.0
         parts = []
         skipped = []
         main_ok = False
@@ -363,9 +375,13 @@ def process_item(item, max_files=12):
                 continue
             parts.append({"label": label, "url": url, "pages": pages, "text": txt})
         if main_ok:
-            best = {"source": src, "parts": parts, "skipped": skipped}
-            break
-    res = {"key": key, "tried": tried}
+            g = garbage_ratio(parts[0]["text"])
+            cand = {"source": src, "parts": parts, "skipped": skipped, "garbage": round(g, 4)}
+            if best is None or g < best["garbage"]:
+                best = cand
+            if g < 0.005:
+                break  # good enough; otherwise also try the next source and keep the cleaner text
+    res = {"key": key, "tried": tried, "compared": len(cands) > 1}
     if best:
         res.update(best)
     C.jsave(tp, res)
@@ -421,6 +437,10 @@ def step_text(args):
         if args.retry_failed:
             r = C.jload(p)
             if not r.get("parts") and any("scanned" not in t.get("error", "") for t in r.get("tried", [])):
+                return False
+            # poor OCR text and an untried alternative source
+            if r.get("parts") and r.get("garbage", 1) >= 0.005 and len(candidates(it)) > 1 \
+                    and len(r.get("tried", [])) + 1 < len(candidates(it)) and not r.get("compared"):
                 return False
             # retry if a source that was not tried is now available
             if not r.get("parts") and len(r.get("tried", [])) < len(candidates(it)):

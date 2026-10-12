@@ -1,0 +1,128 @@
+---
+title: "Undang-Undang Nomor 4 Tahun 1983 tentang Perhitungan Anggaran Negara Tahun Anggaran 1979/1980"
+identifier: "UU No. 4 Tahun 1983"
+type: act
+jurisdiction: id
+language: id
+number: "4"
+year: 1983
+date: 1983-06-28
+promulgated: 1983-06-28
+in_force_from: 1983-06-28
+status: in_force
+status_basis: "BPK: Berlaku"
+gazette: "LN. 1983/ No. 34, TLN. No. 3256, LL SETNEG : 2 HLM"
+subject: "APBN"
+source: "https://peraturan.bpk.go.id/Download/35799/UU%20Nomor%204%20Tahun%201983.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46983"
+bpk_page: "https://peraturan.bpk.go.id/Details/46983"
+bpk_metadata_archived: "http://web.archive.org/web/20240919132449/https://peraturan.bpk.go.id/Details/46983"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 4 Tahun 1983 tentang Perhitungan Anggaran Negara Tahun Anggaran 1979/1980
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 4 TAHUN 1983
+
+TENTANG
+
+PERHITUNGAN ANGGARAN NEGARA TAHUN ANGGARAN 1979/1980
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+Presiden Republik Indonesia,
+
+Menimbang : bahwa Perhitungan Anggaran Negara Tahun Anggaran 1979/1980 perlu ditetapkan dengan Undang-undang;
+
+Mengingat : 1. Pasal 23 ayat (5) Undang-Undang Dasar 1945;
+
+2. Indische Comptabiliteitswet (Staatsblad Tahun 1925 Nomor 448) sebagaimana diubah dan ditambah terakhir dengan Undang-undang Nomor 9 Tahun 1968 tentang Perubahan Pasal 7 Indische Comptabiliteitswet (Lembaran Negara Tahun 1968 Nomor 53, Tambahan Lembaran Negara Nomor 2860);
+
+3. Undang-undang Nomor 2 Tahun 1979 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1979/1980 (Lembaran Negara Tahun 1979 Nomor 6, Tambahan Lembaran Negara Nomor 3131);
+
+4. Undang-undang Nomor 3 Tahun 1980 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1979/ 1980 (Lembaran Negara Tahun 1980 Nomor 32, Tambahan Lembaran Negara Nomor 3167);
+
+Memperhatikan : Surat Badan Pemeriksa Keuangan Nomor Wk. 272 a/A/3/1983 tanggal 28 Maret 1983 perihal Hasil Pemeriksaan Atas Perhitungan Anggaran Negara Tahun 1979/1980;
+
+Dengan persetujuan
+
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA,
+
+MEMUTUSKAN :
+
+Menetapkan : UNDANG-UNDANG TENTANG PERHITUNGAN ANGGARAN
+
+NEGARA TAHUN ANGGARAN 1979/1980.
+
+##### Pasal 1
+
+(1) Penerimaan Negara dalam Tahun Anggaran 1979/1980 adalah sebesar Rp 7.508.381.591.057,33 (tujuh trilyun lima ratus delapan milyar tiga ratus delapan puluh satu juta lima ratus sembilan puluh satu ribu lima puluh tujuh tiga puluh tiga per seratus rupiah).
+
+(2) Pengeluaran Negara dalam Tahun Anggaran 1979/1980 adalah sebesar Rp 7.478.920.662.880,40 (tujuh trilyun empat ratus tujuh puluh delapan milyar sembilan ratus dua puluh juta enam ratus enam puluh dua ribu delapan ratus delapan puluh empat puluh per seratus rupiah).
+
+(3) Sisa lebih Perhitungan Anggaran Negara Tahun Anggaran 1979/1980 adalah sebesar Rp 29.460.928.176,93 (dua puluh sembilan milyar empat ratus enam puluh juta sembilan ratus dua puluh delapan ribu seratus tujuh puluh enam sembilan puluh tiga per seratus rupiah).
+
+##### Pasal 2
+
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 28 Juni 1983
+
+PRESIDEN REPUBLIK INDONESIA,
+
+TTD
+
+SOEHARTO
+
+Diundangkan di Jakarta pada tanggal 28 Juni 1983
+
+MENTERI/SEKRETARIS NEGARA
+
+REPUBLIK INDONESIA,
+
+TTD
+
+SUDHARMONO, S.H.
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1983 NOMOR 34
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 4 TAHUN 1983
+
+TENTANG
+
+PERHITUNGAN ANGGARAN NEGARA
+
+TAHUN ANGGARAN 1979/1980
+
+### I.    UMUM
+
+Perhitungan Anggaran Negara Tahun Anggaran 1979/1980 diajukan oleh Pemerintah kepada Dewan Perwakilan Rakyat untuk memenuhi kewajiban mengadakan perhitungan dan pertanggungjawaban tentang pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1979/1980.
+
+Hal ini mengingat Pasal 23 ayat(5)Undang-Undang Dasar 1945 yang dipertegas dalam Pasal 6 ayat (1) Undang-undang Nomor 2 Tahun 1979 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1979/1980.
+
+Jelas kiranya bahwa Undang-undang Perhitungan Anggaran Negara adalah suatu pernyataan dari suatu fakta mengenai pelaksanaan Anggaran Pendapatan dan Belanja Negara.
+
+### II.   PASAL DEMI PASAL
+
+#### Pasal 1
+
+Cukup jelas.
+
+#### Pasal 2
+
+Cukup jelas.
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA
+
+TAHUN 1983 NOMOR 3256

@@ -45,7 +45,7 @@ Menetapkan peraturan sebagai berikut :
 
 UNDANG-UNDANG TENTANG WARGA NEGARA DAN PENDUDUK NEGARA INDONESIA.
 
-Pasal 1.
+##### Pasal 1.
 
 Warga Negara Indonesia ialah :
 
@@ -67,13 +67,13 @@ h. anak yang lahir di dalam daerah Negara Indonesia, yang oleh bapanya ataupun o
 
 i. anak yang lahir di dalam daerah Negara Indonesia, yang tidak diketahui siapa orang tuanya atau kewargaan negara orang tuanya.
 
-Pasal 2.
+##### Pasal 2.
 
 (1) Seorang perempuan selama di dalam perkawinan turut kewargaan negara suaminya.
 
 (2) Permohonan atau pernyataan untuk merubah kewargaan negara tidak dapat diajukan oleh seorang isteri.
 
-Pasal 3.
+##### Pasal 3.
 
 (1) Kewargaan Negara Indonesia yang diberikan kepada seorang bapa dengan sendirinya berlaku juga untuk anak-anaknya yang sah, disahkan atau olehnya diakui dengan cara yang sah, dan anak-anak-angkatnya yang belum berumur 21 tahun dan belum kawin.
 
@@ -85,7 +85,7 @@ Pasal 3.
 
 (5) Kehilangan kewargaan Negara Indonesia seorang ibu karena atau sebagai akibat dari perkawinannya atau karena pernyataan sebagai tersebut dalam pasal 10 tidak berlaku untuk anak-anaknya.
 
-Pasal 4.
+##### Pasal 4.
 
 (1) Pernyataan tersebut dalam pasal 1 bab b harus disampaikan dengan tulisan kepada Menteri Kehakiman dalam waktu 1 tahun setelah peraturan dalam pasal tersebut berlaku buat orang yang bersangkutan.
 
@@ -101,7 +101,7 @@ d. bahwa mereka adalah warga negara negeri lain.
 
 (3) Dengan selekas-lekasnya setelah menerima surat pernyataan itu Menteri Kehakiman harus mendaftarkan dan mengumumkan pernyataan itu dalam majalah Pemerintah, jika pernyataan itu disahkan dan untuk siapa pernyataan itu berlaku, dan memberitahukan putusan tentang pernyataan itu kepada orang yang menyatakan.
 
-Pasal 5.
+##### Pasal 5.
 
 (1) Kewargaan Negara Indonesia dengan cara naturalisasi diperoleh dengan berlakunya undang-undang yang memberikan naturalisasi itu.
 
@@ -145,7 +145,7 @@ Saya bersumpah (berjanji), bahwa saya mengakui dan menerima kekuasaan yang terti
 
 (13) Jika permohonan untuk naturalisasi tidak dikabulkan maka jumlah uang yang dibayarkan kepada Kas Negeri Indonesia harus dikembalikan lagi.
 
-Pasal 6.
+##### Pasal 6.
 
 (1) Bilamana anak yang mendapat kewargaan Negara Indonesia karena terbawa dalam naturalisasi bapa atau ibunya sampai berumur 21 tahun atau sebelum itu kawin, maka dalam tahun yang berikut ia boleh menyatakan bahwa ia tidak suka lagi terbawa dalam naturalisasi itu.
 
@@ -165,13 +165,15 @@ e. bahwa anak-anaknya tersebut di atas dengan pernyataan ini mendapat kewargaan 
 
 (3) Dengan selekas-lekasnya setelah menerima surat pernyataan itu maka Menteri Kehakiman harus mendaftarkan dan mengumumkan pernyataan itu dalam majalah
 
-Pemerintah, jika pernyataan itu disahkan dan untuk siapa pernyataan itu berlaku, dan memberitahukan putusan tentang pernyataan itu kepada orang yang menyatakan. Pasal 7.
+Pemerintah, jika pernyataan itu disahkan dan untuk siapa pernyataan itu berlaku, dan memberitahukan putusan tentang pernyataan itu kepada orang yang menyatakan.
+
+##### Pasal 7.
 
 Naturalisasi juga dapat diberikan dengan beralasan kepentingan Negara. Dalam hal ini maka peraturan-peraturan tersebut dalam pasal 5 ayat 2 sampai dengan ayat 7 dan ayat 13 tidak berlaku.
 
 Undang-undang yang memberikan naturalisasi ini tiaptiap kali menetapkan syarat-syarat untuk naturalisasi ini.
 
-Pasal 8.
+##### Pasal 8.
 
 Kewargaan Negara Indonesia akan hilang :
 
@@ -179,7 +181,7 @@ Kewargaan Negara Indonesia akan hilang :
 
 2. oleh karena dengan tidak mendapat idzin lebih dahulu dari Presiden Republik Indonesia masuk menjadi perajurit atau pegawai Negeri negeri lain.
 
-Pasal 9.
+##### Pasal 9.
 
 (1) Seorang perempuan yang disebabkan oleh atau sebagai akibat dari perkawinannya kehilangan kewargaan Negara Indonesia, dapat memperoleh kewargaan itu kembali, jika dalam waktu 1 tahun setelah perkawinannya terputus ia menyatakan kehendaknya kepada Menteri Kehakiman dengan tulisan.
 
@@ -195,7 +197,7 @@ d. kelahiran dan nama-nama yang lengkap dari anaknya yang lahir di luar perkawin
 
 (2) Dengan selekas-lekasnya setelah menerima surat pernyataan itu maka Menteri Kehakiman harus mendaftarkan dan mengumumkan pernyataan itu dalam Majalah Pemerintah, jika pernyataan itu disahkan dan untuk siapa pernyataan itu berlaku, dan memberitahukan putusan tentang pernyataan itu kepada orang yang menyatakan.
 
-Pasal 10.
+##### Pasal 10.
 
 (1) Seorang perempuan yang disebabkan oleh atau sebagai akibat dari perkawinannya mendapat kewargaan Negara Indonesia, tetep menjadi Warga Negara Indonesia, kecuali jika dalam waktu 1 tahun setelah perkawinannya terputus, ia menyatakan dengan tulisan kepada Menteri Kehakiman, bahwa ia tidak suka lagi menjadi Warga Negara Indonesia.
 
@@ -209,7 +211,7 @@ c. bahwa ia sebelum kawin itu bukan Warga Negara Indonesia;
 
 (2) Dengan selekas-lekasnya setelah menerima surat pernyataan itu maka Menteri Kehakiman harus mendaftarkan dan mengumumkan pernyataan itu dalam majalah Pemerintah jika pernyataan itu disahkan, dan memberitahukan putusan tentang pernyataan itu kepada orang yang menyatakan.
 
-Pasal 11.
+##### Pasal 11.
 
 (1) Anak Warga Negara Indonesia yang kehilangan kewargaan Negara Indonesia karena terbawa oleh bapa atau ibunya yang dengan cara naturalisasi memperoleh kewargaan
 
@@ -227,15 +229,15 @@ d. perputusan perkawinan-perkawinannya.
 
 (2) Dengan selekas-lekasnya setelah menerima surat pernyataan itu maka Menteri Kehakiman harus mendaftarkan dan mengumumkan pernyataan itu dalam majalah Pemerintah, jika pernyataan itu disahkan dan untuk siapa pernyataan itu berlaku, dan memberitahukan putusan tentang pernyataan itu kepada orang yang menyatakan.
 
-Pasal 12.
+##### Pasal 12.
 
 Menteri Kehakiman harus mengadakan dan memelihara dalam departemennya sebuah daftar guna pendaftaran-pendaftaran tersebut diatas.
 
-Pasal 13.
+##### Pasal 13.
 
 Barang siapa bukan Warga Negara Indonesia, ialah orang asing.
 
-Pasal 14.
+##### Pasal 14.
 
 (1) Penduduk Negara Indonesia ialah tiap-tiap orang yang bertempat kedudukan di dalam daerah Negara Indonesia selama 1 tahun berturut-turut.
 
@@ -247,7 +249,7 @@ Pasal 14.
 
 Bilamana anak itu sampai berumur 21 tahun atau sebelum itu kawin, maka ia tetap menjadi Penduduk Negara Indonesia, jika ia bertempat kedudukan di dalam daerah Negara Indonesia.
 
-Pasal 15.
+##### Pasal 15.
 
 Undang-undang ini mulai berlaku pada hari diumumkannya.
 

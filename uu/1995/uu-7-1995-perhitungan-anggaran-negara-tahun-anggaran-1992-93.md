@@ -1,0 +1,152 @@
+---
+title: "Undang-Undang Nomor 7 Tahun 1995 tentang Perhitungan Anggaran Negara Tahun Anggaran 1992/93"
+identifier: "UU No. 7 Tahun 1995"
+type: act
+jurisdiction: id
+language: id
+number: "7"
+year: 1995
+date: 1995-08-24
+promulgated: 1995-08-24
+in_force_from: 1995-08-24
+status: in_force
+status_basis: "BPK: Berlaku; Setneg: berlaku"
+gazette: "LN. 1995/ No. 53, TLN NO. 3605, LL SETNEG : 4HLM"
+subject: "APBN"
+source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0071995.pdf&fl=P00971"
+source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1995"
+bpk_page: "https://peraturan.bpk.go.id/Details/46187"
+bpk_metadata_archived: "http://web.archive.org/web/20240919133941/https://peraturan.bpk.go.id/Details/46187"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 7 Tahun 1995 tentang Perhitungan Anggaran Negara Tahun Anggaran 1992/93
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 7 TAHUN 1995
+
+TENTANG
+
+PERHITUNGAN ANGGARAN NEGARA TAHUN ANGGARAN 1992/93
+
+DENGAN RAKHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa Perhitungan Anggaran Negara sebagai tahap terakhir dari rangkaian siklus anggaran negara merupakan pertanggungjawaban konstitusional atas pelaksanaan Anggaran Pendapatan dan Belanja Negara;
+
+b. bahwa berhubung dengan itu Perhitungan Anggaran Negara Tahun Anggaran 1992/93 perlu ditetapkan dengan Undang-Undang;
+
+Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 23 Undang-Undang Dasar 1945;
+
+2. Indische Comptabiliteitswet (Staatsblad Tahun 1925 Nomor 448) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 9 Tahun 1968 tentang perubahan Pasal 7 Indische Comptabiliteitswet (Lembaran Negara Tahun 1968 Nomor 53, Tambahan Lembaran Negara Nomor 2860);
+
+3. Undang-undang Nomor 6 Tahun 1992 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1992/93 (Lembaran Negara Tahun 1992 Nomor 28, Tambahan Lembaran Negara Nomor 3471);
+
+4. Undang-undang Nomor 5 Tahun 1993 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1992/93 (Lembaran Negara Tahun 1993 Nomor 67 Tambahan Lembaran Negara Nomor 3532);
+
+5. Undang-undang Nomor 3 Tahun 1994 tentang Perhitungan Anggaran Negara Tahun 1991/92 (Lembaran Negara Tahun 1994 Nomor 35, Tambahan Lembaran Negara Nomor 3554);
+
+Dengan Persetujuan
+
+DEWAN PERWAKILAN RAKYAT
+
+MEMUTUSKAN:
+
+Menetapkan : UNDANG-UNDANG TENTANG PERHITUNGAN ANGGARAN
+
+NEGARA TAHUN ANGGARAN 1992/1993.
+
+##### Pasal 1
+
+(1) Pendapatan Negara dalam Tahun Anggaran 1992/93 adalah sebesar Rp 59.960.453.046.106,00 (lima puluh sembilan triliun sembilan ratus enam puluh miliar empat ratus lima puluh tiga juta empat puluh enam ribu seratus enam rupiah);
+
+(2) Belanja Negara Tahun Anggaran 1992/93 adalah sebesar Rp 60.511.651.042.372,00 (enam puluh triliun lima ratus sebelas miliar enam ratus lima puluh satu juta empat puluh dua ribu tiga ratus tujuh puluh dua rupiah);
+
+(3) Sisa Anggaran Kurang Perhitungan Anggaran Negara Tahun Anggaran 1992/93 adalah sebesar Rp 551.197.996.266,00 (lima ratus lima puluh satu miliar seratus sembilan puluh tujuh juta sembilan ratus sembilan puluh enam ribu dua ratus enam puluh enam rupiah);
+
+(4) Perincian Pendapatan Negara, Belanja Negara dan Sisa Anggaran Kurang sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) adalah seperti tersebut pada Lampiran Undang-undang ini.
+
+##### Pasal 2
+
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 24 Agustus 1995
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+SOEHARTO
+
+Diundangkan di Jakarta pada tanggal 24 Agustus 1995
+
+MENTERI NEGARA SEKRETARIS NEGARA
+
+ttd.
+
+MOERDIONO
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1995 NOMOR 53
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 7 TAHUN 1995
+
+TENTANG
+
+PERHITUNGAN ANGGARAN NEGARA TAHUN ANGGARAN 1992/93
+
+UMUM
+
+Perhitungan Anggaran Negara Tahun Anggaran 1992/93 diajukan oleh Pemerintah kepada Dewan Perwakilan Rakyat untuk memenuhi kewajiban mengadakan perhitungan dan pertanggungjawaban tentang pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1992/93, sebagaimana dimaksud dalam Pasal 6 ayat (1) Undang-undang Nomor 6 Tahun 1992 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1992/93. Perhitungan Anggaran Negara ini merupakan tahap terakhir dari rangkaian siklus anggaran negara yang berkaitan erat dengan kebijaksanaan anggaran berimbang yang dinamis sebagaimana diamanatkan dalam Garis-garis Besar Haluan Negara.
+
+Dalam Perhitungan Anggaran Negara Tahun Anggaran 1992/93 tersebut, terdapat Sisa Anggaran Kurang sebesar Rp. 551.197.996.266,00 Lima ratus lima puluh satu miliar seratus sembilan puluh tujuh juta sembilan ratus sembilan puluh enam ribu dua ratus enam puluh enam rupiah), sedangkan Sisa Anggaran Lebih sampai dengan Tahun Anggaran 1991/92 adalah sebesar Rp 4.710.287.779,230,00 (empat triliun tujuh ratus sepuluh miliar dua ratus delapan puluh tujuh juta tujuhratus tujuh puluh sembilan ribu dua ratus tiga puluh rupiah).
+
+Dengan demikian Sisa Anggaran Lebih sampai dengan Tahun Anggaran 1992/93 menjadi sebesar Rp 4.159.089.782.964,00 (empat triliun seratus limapuluh sembilan miliar delapan puluh sembilan juta tujuh ratus delapan puluh dua ribu sembilan ratus enam puluh empat rupiah), termasuk Cadangan Anggaran Pembangunan sebesar Rp 3.500.000.000.000,00 (tiga triliun lima ratus miliar rupiah).
+
+PASAL DEMI PASAL
+
+#### Pasal 1
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas
+
+Ayat (4)
+
+Yang dimaksud dengan Lampiran Undang-undang ini adalah:
+
+\- Perhitungan Anggaran Negara Tahun Anggaran 1992/1993;
+
+\- Perhitungan Anggaran Pendapatan Rutin Tahun Anggaran 1992/93;
+
+\- Perhitungan Anggaran Pendapatan Pembangunan TahunAnggaran 1992/93;
+
+\- Perhitungan Anggaran Belanja Rutin Tahun Anggaran 1992/93;
+
+\- Perhitungan Anggaran Belanja Pembangunan Tnapa Bantuan Proyek/Teknis Tahun Anggaran 1992/93;
+
+\- Perhitungan Anggaran Belanja Pembangunan Bantuan Proyek/Teknis Tahun Anggaran 1992/93.
+
+#### Pasal 2
+
+Cukup jelas
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3605

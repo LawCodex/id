@@ -1,0 +1,156 @@
+---
+title: "Undang-Undang Nomor 17 Tahun 1982 tentang Pembentukan Pengadilan Tinggi Kalimantan Timur di Samarinda dan Perubahan Wilayah Hukum Pengadilan Tinggi Banjarmasin"
+identifier: "UU No. 17 Tahun 1982"
+type: act
+jurisdiction: id
+language: id
+number: "17"
+year: 1982
+date: 1982-08-20
+promulgated: 1982-08-20
+in_force_from: 1982-08-20
+status: in_force
+status_basis: "BPK: Berlaku"
+gazette: "LN. 1982/ No.44, TLN. No. 3231, LL SETNEG : 3 HLM"
+subject: "HUKUM ACARA DAN PERADILAN"
+source: "https://peraturan.bpk.go.id/Download/35857/UU%20Nomor%2017%20Tahun%201982.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/47027"
+bpk_page: "https://peraturan.bpk.go.id/Details/47027"
+bpk_metadata_archived: "http://web.archive.org/web/20240919132256/https://peraturan.bpk.go.id/Details/47027"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 17 Tahun 1982 tentang Pembentukan Pengadilan Tinggi Kalimantan Timur di Samarinda dan Perubahan Wilayah Hukum Pengadilan Tinggi Banjarmasin
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 17 TAHUN 1982
+
+TENTANG
+
+PEMBENTUKAN PENGADILAN TINGGI KALIMANTAN TIMUR DI SAMARINDA
+
+DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI BANJARMASIN
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+Presiden Republik Indonesia,
+
+Menimbang : a. bahwa guna peningkatan pelayanan hukum kepada masyarakat dalam rangka kesempatan memperoleh keadilan dan untuk tercapainya penyelesaian perkara secara sederhana, cepat dan biaya ringan' serta berhubung dengan perkembangan ketatanegaraan, perlu dibentuk Pengadilan Tinggi Kalimantan Timur di Samarinda;
+
+b. bahwa berhubung dengan huruf a, perlu mengadakan perubahan wilayah hukum Pengadilan Tinggi Banjarmasin;
+
+Mengingat : 1. Pasal 5 ayat (1) dan Pasal 20 ayat (1) Undang-Undang Dasar 1945;
+
+2. Undang-undang Nomor 1 Drt. Tahun 1951 tentang Tindakan-tindakan Sementara untuk menyelenggarakan Kesatuan Susunan, Kekuasaan dan Acara Pengadilan-pengadilan Sipil (Lembaran Negara Tahun 1951 Nomor 9, Tambahan Lembaran Negara Nomor 81) jo. Undang-undang Nomor 11 Drt. Tahun 1955 tentang Perubahan Undang-undang Nomor 1 Drt. Tahun 1951 tentang Tindakan-tindakan Sementara untuk menyelenggarakan Kesatuan Susunan, Kekuasaan dan Acara Pengadilan-pengadilan Sipil (Lembaran Negara Tahun 1955 Nomor 36, Tambahan Lembaran Negara Nomor 816);
+
+3. Undang-undang Nomor 13 Tahun 1965 tentang Pengadilan dalam Lingkungan Peradilan Umum dan Mahkamah Agung (Lembaran Negara Tahun 1965 Nomor 70, Tambahan Lembaran Negara Nomor 2767) jo. Undang-undang Nomor 6 Tahun 1969 tentang Pernyataan tidak berlakunya berbagai Undang-undang dan Peraturan Pemerintah Pengganti Undang-undang (Lembaran Negara Tahun 1969 Nomor 37, Tambahan Lembaran Negara Nomor 2901);
+
+4. Undang-undang Nomor 20 Tahun 1965 tentang Pembentukan Pengadilan Tinggi di Banjarmasin dan Perubahan Daerah Hukum Pengadilan Tinggi di Surabaya (Lembaran Negara Tahun 1965 Nomor 86, Tambahan Lembaran Negara Nomor 2780) sebagaimana telah diubah dengan Undang-undang Nomor 8 Tahun 1980 tentang Pembentukan Pengadilan Tinggi Palangkaraya dan Perubahan Wilayah Hukum Pengadilan Tinggi Banjarmasin (Lembaran Negara Tahun 1980 Nomor 43, Tambahan Lembaran Negara Nomor 3171);
+
+5. Undang-undang Nomor 14 Tahun 1970 tentang Ketentuan-ketentuan Pokok Kekuasaan Kehakiman (Lembaran Negara Tahun 1970 Nomor 74, Tambahan Lembaran Negara Nomor 2951).
+
+Dengan persetujuan
+
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+MEMUTUSKAN :
+
+Menetapkan : UNDANG-UNDANG TENTANG PEMBENTUKAN
+
+PENGADILAN TINGGI KALIMANTAN TIMUR DI
+
+SAMARINDA DAN PERUBAHAN WILAYAH HUKUM
+
+PENGADILAN TINGGI BANJARMASIN.
+
+##### Pasal 1
+
+(1) Membentuk pengadilan tinggi Kalimantan Timur yang berkedudukan di Samarinda.
+
+(2) Wilayah hukum pengadilan tinggi sebagaimana dimaksud dalam ayat(1) meliputi wilayah hukum semua pengadilan negeri dalam Propinsi Daerah Tingkat I Kalimantan Timur.
+
+##### Pasal 2
+
+Wilayah hukum Pengadilan Tinggi Banjarmasin dikurangi dengan wilayah hukum semua pengadilan negeri dalam Propinsi Daerah Tingkat I Kalimantan Timur.
+
+##### Pasal 3
+
+Perkara-perkara yang berasal dari pengadilan negeri dalam Propinsi Daerah Tingkat I Kalimantan Timur yang pada saat mulai berlakunya undang-undang ini, belum diputus oleh Pengadilan Tinggi Banjarmasin, tetap didaftar, diperiksa dan diputus oleh Pengadilan Tinggi Banjarmasin sampai saat diresmikannya Pengadilan Tinggi Kalimantan Timur.
+
+##### Pasal 4
+
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 20 Agustus 1982
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd
+
+SOEHARTO
+
+Diundangkan di Jakarta pada tanggal 20 Agustus 1982
+
+MENTERI/SEKRETARIS NEGARA
+
+REPUBLIK INDONESIA,
+
+ttd
+
+SUDHARMONO, S.H.
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1982 NOMOR 44
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 17 TAHUN 1982
+
+TENTANG
+
+PEMBENTUKAN PENGADILAN TINGGI KALIMANTAN TIMUR DI SAMARINDA
+
+DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI BANJARMASIN
+
+### I.    UMUM
+
+Sesuai dengan ketentuan Undang-undang yang berlaku, pada dasarnya di tiap-tiap propinsi perlu diadakan pengadilan tinggi, seperti juga halnya di tiap-tiap kabupaten/kotamadya diadakan pengadilan negeri.
+
+Pelaksanaan selanjutnya segera dapat diwujudkan apabila secara teknis dapat dipertanggungjawabkan.
+
+Disamping itu guna peningkatan pelayanan hukum kepada masyarakat dalam rangka pemerataan kesempatan memperoleh keadilan dan untuk tercapainya penyelesaian perkara secara sederhana, cepat dan biaya ringan perlu membentuk pengadilan tinggi baru.
+
+Langkah yang pertama adalah perlu segera mengadakan tindakan untuk meringankan beban Pengadilan Tinggi Banjarmasin dan selekas mungkin diserahkan sebagian tugas dari pengadilan tinggi tersebut kepada pengadilan tinggi lain, sehingga dalam waktu yang singkat perlu dibentuk Pengadilan Tinggi Kalimantan Timur di Samarinda.
+
+Dengan demikian, perlu diatur kembali wilayah hukum Pengadilan Tinggi Banjarmasin sebagaimana dimaksud dalam Undang-undang Nomor 20 Tahun 1965 tentang Pembentukan Pengadilan Tinggi di Banjarmasin dan Perubahan Daerah Hukum Pengadailan Tinggi di Surabaya (Lembaran Negara Tahun 1965 Nomor 86,Tambahan Lembaran Negara Nomor 2780) sebagaimana telah diubah dengan Undang-undang Nomor 8 Tahun 1980 tentang Pembentukan Pengadilan Tinggi Palangkaraya dan Perubahan Wilayah Hukum Pengadilan Tinggi Banjarmasin (Lembaran Negara Tahun 1980 Nomor 43, Tambahan Lembaran Negara Nomor 3171).
+
+Hal-hal tersebut di atas dilaksanakan dengan Undang-undang ini.
+
+II. PASAL DEMI PASAL.
+
+#### Pasal 1
+
+Cukup jelas.
+
+#### Pasal 2
+
+Pengadilan Tinggi Kalimantan Timur pada saat disahkannya undang-undang ini meliputi 6 (enam) buah pengadilan negeri yaitu Pengadilan Negeri Samarinda, Pengadilan Negeri Balikpapan, Pengadilan Negeri Tenggarong, Pengadilan Negeri Tarakan, Pengadilan Negeri Tanah Grogot, dan Pengadilan Negeri Tanjung Redep.
+
+#### Pasal 3
+
+Cukup jelas.
+
+#### Pasal 4
+
+Cukup jelas.
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA
+
+TAHUN 1982 NOMOR 3231

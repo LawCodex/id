@@ -1,0 +1,577 @@
+---
+title: "Undang-Undang Nomor 34 Tahun 1999 tentang Pemerintahan Propinsi Daerah Khusus Ibukota Negara Republik Indonesia Jakarta"
+identifier: "UU No. 34 Tahun 1999"
+type: act
+jurisdiction: id
+language: id
+number: "34"
+year: 1999
+date: 1999-08-31
+promulgated: 1999-08-31
+in_force_from: 1999-08-31
+status: repealed
+status_basis: "BPK: Tidak Berlaku; BPK relation: dicabut dengan UU No. 29 Tahun 2007; Setneg: sebagian"
+repealed_by:
+  - "UU No. 29 Tahun 2007"
+repeals:
+  - "UU No. 11 Tahun 1990"
+gazette: "LN. 1999/ No. 146, TLN NO. 3878, LL SETNEG : 14 HLM"
+subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
+source: "https://peraturan.bpk.go.id/Download/33855/UU%20Nomor%2034%20Tahun%201999.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45355"
+bpk_page: "https://peraturan.bpk.go.id/Details/45355"
+bpk_metadata_archived: "http://web.archive.org/web/20240919140125/https://peraturan.bpk.go.id/Details/45355"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=34&thn=1999"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 34 Tahun 1999 tentang Pemerintahan Propinsi Daerah Khusus Ibukota Negara Republik Indonesia Jakarta
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 34 TAHUN 1999
+
+TENTANG
+
+PEMERINTAHAN PROPINSI DAERAH KHUSUS IBUKOTA
+
+NEGARA REPUBLIK INDONESIA JAKARTA
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa Jakarta sebagai Ibukota Negara Republik Indonesia memiliki peranan yang penting dalam mendukung penyelenggaraan pemerintahan Negara Republik Indonesia, membangun masyarakat Jakarta yang sejahtera, dan mewujudkan citra bangsa Indonesia;
+
+b. bahwa dengan memperhatikan peranannya sebagai Ibukota Negara Republik Indonesia perlu memberikan kedudukan yang khusus dalam penyelenggaraan pemerintahan kepada Propinsi Daerah Khusus Ibukota Negara Republik Indonesia Jakarta;
+
+c. bahwa untuk melaksanakan peranan dan kedudukan yang khusus itu, perlu mengadakan pengaturan tersendiri mengenai pemerintahan Propinsi Daerah Khusus Ibukota Negara Republik Indonesia Jakarta;
+
+d. bahwa berhubung dengan itu dan sesuai dengan ketentuan Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan daerah, dipandang perlu menetapkan pengaturan mengenai pemerintahan Propinsi daerah Khusus Ibukota Negara Republik Indonesia Jakarta dalam suatu Undang-undang untuk mengganti Undang-undang Nomor 11 Tahun 1990 tentang Susunan Pemerintahan Daerah Khusus Ibukota Negara Republik Indonesia Jakarta;
+
+Mengingat : 1. Pasal 5 ayat (1), Pasal 18, dan Pasal 20 ayat (1) Undang-Undang Dasar 1945;
+
+2. Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah (Lembaran Negara Tahun 1999 Nomor 60, Tambahan Lembaran Negara Nomor 3839);
+
+3. Undang-undang Nomor 25 Tahun 1999 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah (Lembaran Negara Tahun 1999 Nomor 72, Tambahan Lembaran Negara Nomor 3848);
+
+Dengan Persetujuan
+
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+MEMUTUSKAN:
+
+Menetapkan : UNDANG-UNDANG TENTANG PEMERINTAHAN PROPINSI
+
+DAERAH KHUSUS IBUKOTA NEGARA REPUBLIK INDONESIA
+
+JAKARTA.
+
+## BAB I — KETENTUAN UMUM
+
+##### Pasal 1
+
+(1) Dalam Undang-undang ini yang dimaksud dengan Pemerintah, Pemerintah Daerah, Pemerintahan Daerah, Dekonsentrasi, Desentralisasi, Tugas Pembantuan, Otonomi Daerah, Daerah Otonom, dan Wilayah Administrasi adalah sama dengan yang termuat dalam Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah.
+
+(2) Jakarta sebagai Ibukota Negara Republik Indonesia merupakan Daerah Khusus, yang selanjutnya disebut Propinsi Daerah Khusus Ibukota Jakarta.
+
+(3) Gubernur adalah Kepala Daerah Propinsi Daerah Khusus Ibukota Jakarta.
+
+(4) Kotamadya/Kabupaten administrasi adalah wilayah kerja perangkat Propinsi yang terdiri atas wilayah Kecamatan dan Keluraham.
+
+(5) Dewan Kotamadya/Kabupaten Administrasi adalah mitra kerja Pemerintah Kotamadya/Kabupaten Administrasi dalam merumuskan kebijakan-kebijakan operasional pemerintahan, yang selanjutnya disebut Dewan Kota/Kabupaten.
+
+(6) Dewan Kelurahan adalah mitra kerja Pemerintah Kelurahan dalam penyelenggaraan pemerintahan dan pemberdayaan masyarakat.
+
+##### Pasal 2
+
+(1) Pemerintahan Propinsi Daerah Khusus Ibukota Jakarta diatur dengan berpedoman kepada Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah, kecuali hal-hal yang diatur tersendiri dalam Undang-undang ini.
+
+(2) Aspek-aspek pemerintahan Propinsi Daerah Khusus Ibukota Jakarta yang diatur dalam Undang-undang ini meliputi kedudukan, pembagian wilayah, kewenangan pemerintahan, bentuk dan susunan pemerintahan, pembiayaan, dan kerja sama antar Daerah.
+
+## BAB II — KEDUDUKAN
+
+##### Pasal 3
+
+Propinsi Daerah Khusus Ibukota Jakarta adalah pusat pemerintahan negara.
+
+##### Pasal 4
+
+(1) Otonomi Propinsi Daerah Khusus Ibukota Jakarta diletakkan pada lingkup Propinsi.
+
+(2) Otonomi sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan asas desentralisasi, dekonsentrasi, dan tugas pembantuan.
+
+##### Pasal 5
+
+(1) Propinsi Daerah Khusus Ibukota Jakarta memiliki batas-batas:
+
+a. sebelah Utara dengan Laut Jawa;
+
+b. sebelah Timur dengan Kabupaten Bekasi dan Kota Bekasi;
+
+c. sebelah Selatan dengan Kota Depok;
+
+d. sebelah Barat dengan Kabupaten Tangerang dan Kota Tangerang.
+
+(2) Batas wilayah sebagaimana dimaksud pada ayat (1), dituangkan dalam peta yang merupakan bagian tidak terpisahkan dari Undang-undang ini.
+
+## BAB III — PEMBAGIAN WILAYAH
+
+##### Pasal 6
+
+(1) Wilayah Propinsi Daerah Khusus Ibukota Jakarta dibagi dalam Kotamadya dan Kabupaten Administrasi.
+
+(2) Wilayah Kotamadya dan Kabupaten Administrasi dibagi dalam Kecamatan.
+
+(3) Wilayah Kecamatan dibagi dalam Kelurahan.
+
+##### Pasal 7
+
+Wilayah Propinsi Daerah Khusus Ibukota Jakarta terdiri atas wilayah darat dan wilayah laut sejauh dua belas mil laut, sesuai dengan ketentuan peraturan perundang-undangan.
+
+##### Pasal 8
+
+(1) Pembentukan, perubahan, nama, batas, dan penghapusan Kotamadya serta Kabupaten Administrasi ditetapkan dengan Peraturan Pemerintah.
+
+(2) Pembentukan, perubahan, nama, batas, dan penghapusan Kecamatan ditetapkan dengan Peraturan Daerah.
+
+(3) Pembentukan, perubahan, nama, batas, dan penghapusan Kelurahan ditetapkan dengan Keputusan Gubernur.
+
+## BAB IV — KEWENANGAN PEMERINTAHAN
+
+##### Pasal 9
+
+(1) Kewenangan Pemerintahan Propinsi Daerah Khusus Ibukota Jakarta mencakup kewenangan dalam seluruh bidang pemerintahan, kecuali kewenangan dalam bidang politik luar negeri, pertahanan keamanan, peradilan, moneter dan fiskal, agama serta bidang lain sebagaimana diatur dalam peraturan perundang-undangan.
+
+(2) Kewenangan Pemerintahan Propinsi Daerah Khusus Ibukota Jakarta sebagai wilayah administrasi mencakup kewenangan dalam bidang pemerintahan yang dilimpahkan kepada Gubernur selaku wakil Pemerintah.
+
+(3) Kewenangan Pemerintahan Propinsi Daerah Khusus Ibukota Jakarta mencakup kewenangan dalam menetapkan seluruh kebijakan pemerintahan Daerah, melakukan pengawasan terhadap pelaksanaan kebijakan, dan menetapkan Anggaran Pendapatan dan Belanja Daerah.
+
+(4) Pemerintah Propinsi Daerah Khusus Ibukota Jakarta melimpahkan kewenangan yang luas kepada Kotamadya dan Kabupaten Administrasi dalam rangka peningkatan pelayanan kepada masyarakat.
+
+##### Pasal 10
+
+(1) Kewenangan Pemerintahan Kotamadya dan Kabupaten Administrasi mencakup kewenangan dalam menetapkan kebijakan operasional dan pelaksanaan pelayanan masyarakat yang terdiri atas :
+
+a. penyusunan dan penetapan kebijakan pelaksanaan pemerintahan Kotamadya/Kabupaten Administrasi, Kecamatan, dan Kelurahan;
+
+b. perencanaan dan pelaksanaan program penyelenggaraan jasa perkotaan, sarana, dan prasarana Kotamadya/Kabupaten Administrasi;
+
+c. perencanaan program pelayanan masyarakat;
+
+d. penyelenggaraan kegiatan pelayanan masyarakat yang tidak didelegasikan kepada Pemerintahan Kecamatan dan Kelurahan;
+
+e. pengawasan pelaksanaan kegiatan pelayanan masyarakat;
+
+f. perencanaan dan pelaksanaan kegiatan untuk terselenggaranya ketentraman dan ketertiban;
+
+g. pembinaan penyelenggaraan pemerintahan Kecamatan dan Kelurahan;
+
+h. perencanaan dan pelaksanaan program pemberdayaan masyarakat;
+
+i. pemeliharaan kelestarian lingkungan dan konservasi sumber daya alam;
+
+j. pengelolaan sumber daya kelautan sesuai dengan kewenangannya;
+
+k. perencanaan, pelaksanaan, dan pengembangan wisata laut; dan
+
+l. kewenangan lain yang dilimpahkan kemudian.
+
+(2) Pemerintahan Kotamadya/Kabupaten Administrasi melimpahkan kewenangan yang luas kepada Kecamatan dalam rangka peningkatan pelayanan kepada masyarakat.
+
+##### Pasal 11
+
+(1) Kewenangan Pemerintah Kecamatan mencakup pelaksanaan pelayanan masyarakat yang terdiri atas :
+
+a. penyelenggaraan kegiatan pelayanan masyarakat yang menjadi kewenangannya;
+
+b. pemeliharaan prasarana umum dan fasilitas pelayanan masyarakat;
+
+c. pelaksanaan kegiatan untuk terselenggaranya ketenteraman dan ketertiban;
+
+d. pelaksanaan program pemberdayaan masyarakat; dan
+
+e. pembinaan pemerintahan Kelurahan.
+
+(2) Pemerintah Kecamatan melimpahkan kewenangan secara luas kepada Kelurahan dalam rangka pelaksanaan pelayanan kepada masyarakat.
+
+##### Pasal 12
+
+Kewenangan Pemerintah Keluarahan mencakup pelaksanaan pelayanan masyarakat terdiri atas :
+
+a. penyelenggaraan kegiatan pelayanan masyarakat yang menjadi kewenangannya;
+
+b. penyusunan dan penetapan kebijakan pemberdayaan masyarakat yang tumbuh atas inisiatif masyarakat;
+
+c. pemeliharaan terciptanya ketenteraman dan ketertiban; dan
+
+d. pelaksanaan program dan kegiatan perberdayaan masyarakat.
+
+##### Pasal 13
+
+Kewenangan sebagaimana dimaksud dalam Pasal 9, Pasal 10, Pasal 11, dan Pasal 12 diatur lebih lanjut dengan Peraturan Daerah sesuai dengan ketentuan peraturan perundang-undangan.
+
+## BAB V — BENTUK DAN SUSUNAN PEMERINTAHAN
+
+### Bagian Kesatu — Umum
+
+##### Pasal 14
+
+(1) Di Propinsi Daerah Khusus Ibukota Jakarta dibentuk Dewan Perwakilan Rakyat Daerah sebagai Badan Legislatif Daerah dan Pemerintah Daerah sebagai Badan Eksekutif Daerah.
+
+(2) Pemerintah Propinsi Daerah Khusus Ibukota Jakarta terdiri atas Gubernur dan perangkat Daerah.
+
+(3) Di Kotamadya dibentuk Pemerintah Kotamadya dan Dewan Kota.
+
+(4) Di Kabupaten Administrasi dibentuk Pemerintah Kabupaten Administrasi dan Dewan Kabupaten.
+
+(5) Di Kecamatan dibentuk Pemerintah Kecamatan.
+
+(6) Di Kelurahan dibentuk Pemerintah Kelurahan dan Dewan Kelurahan.
+
+### Bagian Kedua — Dewan Perwakilan Rakyat Daerah
+
+##### Pasal 15
+
+(1) Untuk melaksanakan fungsi legislatif Daerah, dibentuk Dewan Perwakilan Rakyat Daerah Propinsi Daerah Khusus Ibukota Jakarta sesuai dengan peraturan Perundang-undangan.
+
+(2) Pimpinan Dewan Perwakilan Rakyat Daerah Propinsi Daerah Khusus Ibukota Jakarta memberikan persetujuan terhadap calon Walikotamadya/Bupati yang diajukan oleh Gubernur.
+
+### Bagian Ketiga — Gubernur dan Wakil Gubernur
+
+##### Pasal 16
+
+(1) Semua ketentuan peraturan perundang-undangan yang mengatur Kepala Daerah dan Wakil Kepala Daerah berlaku pula bagi Gubernur dan Wakil Gubernur Propinsi Daerah Khusus Ibukota Jakarta.
+
+(2) Nama-nama calon Gubernur dan calon Wakil Gubernur yang telah ditetapkan oleh Pimpinan Dewan Perwakilan Rakyat Daerah dikonsultasikan dengan Presiden.
+
+### Bagian Keempat — Perangkat Propinsi
+
+##### Pasal 17
+
+(1) Perangkat Propinsi Daerah Khusus Ibukota Jakarta terdiri atas Sekretaris Propinsi, Dinas Propinsi, Kotamadya, Kabupaten Administrasi, dan lembaga teknis lainnya.
+
+(2) Segala ketentuan tentang perangkat Propinsi berpedoman pada ketentuan peraturan perundang-undangan.
+
+##### Pasal 18
+
+(1) Sekretariat Daerah Propinsi dipimpin oleh Sekretaris Daerah.
+
+(2) Sekretaris Daerah Propinsi diangkat oleh Gubernur atas persetujuan pimpinan Dewan Perwakilan Rakyat Daerah dari Pegawai Negeri Sipil yang memenuhi syarat.
+
+(3) Sekretaris Daerah Propinsi bertanggung jawab kepada Gubernur.
+
+(4) Sekretaris Daerah Propinsi karena jabatannya adalah Sekretaris Wilayah Administrasi.
+
+##### Pasal 19
+
+(1) Dinas Propinsi adalah unsur pelaksana Pemerintah Propinsi.
+
+(2) Dinas Propinsi dipimpin oleh Kepala Dinas oleh Gubernur dari Pegawai Negeri Sipil yang memenuhi syarat atas usul Sekretaris Daerah Propinsi.
+
+(3) Kepala Dinas Propinsi bertanggung jawab kepada Gubernur melalui Sekretaris Daerah propinsi.
+
+##### Pasal 20
+
+(1) Kotamadya/Kabupaten Administrasi dipimpin oleh Walikotamadya/Bupati.
+
+(2) Walikotamadya/Bupati diangkat oleh Gubernur dengan persetujuan pimpinan Dewan Perwakilan Rakyat Daerah dari Pegawai Negeri Sipil yang memenuhi syarat.
+
+(3) Walikotamadya/Bupati dalam melaksanakan tugasnya dibantu oleh seorang Wakil Walikotamadya/Wakil Bupati.
+
+(4) Wakil Walikotamadya/Wakil Bupati diangkat oleh Gubernur dari Pegawai Negeri Sipil yang memenuhi syarat.
+
+(5) Wakil Walikotamadya/Wakil Bupati bertanggung jawab kepada Walikotamadya/Bupati.
+
+##### Pasal 21
+
+Di Propinsi Daerah Khusus Ibukota Jakarta dapat dibentuk lembaga teknis sesuai dengan kebutuhan.
+
+##### Pasal 22
+
+(1) Perangkat Kotamadya/Kabupaten Administrasi terdiri atas Sekretariat Kotamadya/Kabupaten Administrasi, suku dinas, Kecamatan, Kelurahan, dan lembaga teknis lainnya.
+
+(2) Sekretariat Kotamadya/kabupaten Administrasi dipimpin oleh Sekretaris Kotamadya/Kabupaten Administrasi.
+
+(3) Sekretaris Kotamadya/Kabupaten Administrasi diangkat oleh Gubernur dari Pegawai Negeri Sipil yang memenuhi syarat berdasarkan usul Walikotamadya/Bupati.
+
+##### Pasal 23
+
+(1) Kecamatan dipimpin oleh Camat yang dibantu oleh seorang Wakil Camat.
+
+(2) Camat dan Wakil Camat diangkat oleh Walikotamadya/Bupati dari Pegawai Negeri Sipil yang memenuhi syarat.
+
+(3) Camat bertanggung jawab kepada Walikotamadya/Bupati.
+
+(4) Wakil Camat bertanggung jawab kepada Camat.
+
+##### Pasal 24
+
+(1) Kelurahan dipimpin oleh Lurah yang dibantu oleh seorang Wakil Lurah.
+
+(2) Lurah dan Wakil Lurah diangkat oleh Walikotamadya/Bupati dari Pegawai Negeri Sipil yang memenuhi syarat.
+
+(3) Lurah bertanggung jawab kepada Camat.
+
+(4) Wakil Lurah bertanggung jawab kepada Lurah.
+
+##### Pasal 25
+
+(1) Susunan organisasi perangkat Daerah Propinsi, Kotamadya, dan Kabupaten Administrasi ditetapkan dengan Peraturan Daerah, sesuai dengan pedoman yang ditetapkan oleh Pemerintah.
+
+(2) Formasi dan persyaratan jabatan perangkat Daerah Propinsi, Kotamadya, dan Kabupaten Administrasi ditetapkan dengan Keputusan Gubernur, sesuai dengan pedoman yang ditetapkan oleh Pemerintah.
+
+### Bagian Kelima — Dewan Kota/Kabupaten dan Dewan Kelurahan
+
+##### Pasal 26
+
+(1) Untuk membantu Walikotamadya/Bupati dalam penyelenggaraan pemerintahan Kotamadya/Kabupaten Administrasi, dibentuk Dewan Kota/Kabupaten.
+
+(2) Dewan Kota/Kabupaten adalah mitra kerja Pemerintah Kotamadya/Kabupaten Administrasi dalam menentukan kebijakan-kebijakan operasional Pemerintah Kotamadya/Kabupaten Administrasi.
+
+(3) Dewan Kota/Kabupaten mempunyai tugas untuk menampung aspirasi masyarakat, memberi masukan kepada Pemerintah Kotamadya/Kabupaten Administrasi, menjelaskan kebijakan
+
+Pemerintah kepada masyarakat, dan ikut mengawasi penyelenggaraan pemerintahan Kotamadya/Kabupaten Administrasi.
+
+(4) Dalam melaksankaan tugas sebagaimana dimaksud pada ayat (3), Dewan Kota/Kabupaten mempunyai hak untuk mengajukan pertanyaan dan pernyataan pendapat.
+
+(5) Anggota Dewan Kota/Kabupaten dipilih oleh Dewan Perwakilan Rakyat Daerah dari tokoh masyarakat yang diusulkan oleh Dewan Kelurahan.
+
+(6) Jumlah Anggota Dewan Kota/Kabupaten sama dengan jumlah Kecamatan yang ada di Kotamadya/Kabupaten Administrasi.
+
+##### Pasal 27
+
+(1) Untuk membantu Lurah dalam penyelenggaraan pemerintahan Kelurahan, dibentuk Dewan Kelurahan.
+
+(2) Anggota Dewan Kelurahan dipilih oleh Ketua Rukun Warga dari tokon masyarakat Kelurahan yang jumlah anggotanya sama dengan jumlah Rukun Warga yang terdapat di Kelurahan.
+
+(3) Dewan Kelurahan mempunyai tugas untuk menampung aspirasi warga Kelurahan, memberikan usul dan saran kepada Lurah tentang penyelenggaraan pemerintahan Kelurahan, menjelaskan kebijakan Pemerintah Kelurahan kepada warga Kelurahan, membantu Lurah dalam melaksanakan kegiatan pemberdayaan masyarakat, dan mengajukan calon anggota dewan Kota/Kabupaten kepada Dewan Perwakilan Rakyat daerah melalui Kecamatan masing-masing.
+
+##### Pasal 28
+
+Pengaturan lebih lanjut tentang Dewan Kota/kabupaten dan Dewan Kelurahan diatur dengan Peraturan Daerah.
+
+## BAB VI — PEMBIAYAAN
+
+##### Pasal 29
+
+(1) Semua ketentuan peraturan perundang-undangan yang mengatur keuangan Daerah berlaku pula bagi Propinsi Daerah Khusus Ibukota Jakarta.
+
+(2) Selain ketentuan ayat (1), pemerintah dapat menetapkan pengaturan di bidang pembiayaan yang khusus berlaku bagi Propinsi Daerah Khusus Ibukota Jakarta.
+
+(3) Kewenangan anggaran sebagaimana dimaksud dalam Pasal 9 ayat (3), terdiri atas :
+
+a. anggaran belanja setiap Kotamadya dan Kabupaten Administrasi yang ditetapkan dalam Anggaran Pendapatan dan Belanja Daerah Khsusus Jakarta; dan
+
+b. pengelolaan anggaran belanja sebagaimana dimaksud pada huruf a, yang dilaksanakan oleh Walikotamadya/Bupati sesuai dengan ketentuan peraturan perundang-undangan.
+
+(4) Pengaturan lebih lanjut mengenai ayat (3) huruf a dan b ditetapkan dengan Surat Keputusan Gubernur.
+
+## BAB VII — KERJA SAMA ANTAR DAERAH
+
+##### Pasal 30
+
+(1) Semua ketentuan tentang kerja sama antar-Daerah berpedoman pada ketentuan peraturan perundang-undangan.
+
+(2) Pemerintah Propinsi Daerah Khusus Ibukota Jakarta dapat membentuk lembaga bersama dengan Pemerintah Kota/Kabupaten yang wilayahnya berbatasan langsung untuk mengelola kawasan secara terpadu.
+
+## BAB VIII — KETENTUAN LAIN-LAIN
+
+##### Pasal 31
+
+(1) Kewenangan Pemerintah Propinsi Daerah Khusus Ibukota Jakarta sebagaimana dimaksud dalam Pasal 9, Pasal 10, Pasal 11, dan Pasal 12 berlaku juga kawasan otorita, yang meliputi badan otorita, kawasan pelabuhan, kawasan bandar udara, kawasan kehutanan, kawasan perumahan, kawasan industri, kawasan pariwisata, kawasan jalan bebas hambatan, kawasan kepulauan, dan kawasan lain yang sejenis.
+
+(2) Pengaturan lebih lanjut sebagaimana dimaksud pada ayat (1), ditetapkan dengan Keputusan Gubernur dengan berpedoman pada ketentuan peraturan perundang-undangan.
+
+## BAB IX — KETENTUAN PERALIHAN
+
+##### Pasal 32
+
+(1) Kecamatan Kepulauan Seribu ditingkatkan statusnya menjadi Kabupaten Administrasi Kepulauan Seribu.
+
+(2) Peningkatan status, sebagaimana dimaksud pada ayat (1), dilakukan selambat-lambatnya dua tahun setelah berlakunya Undang-undang ini.
+
+##### Pasal 33
+
+Pembentukan Dewan Kota/Kabupaten dan Dewan Kelurahan, sebagaimana dimaksud dalam Pasal 26 dan Pasal 27, dilakukan selambat-lambatnya enam bulan setelah berlakunya Undang-undang ini.
+
+##### Pasal 34
+
+Selama belum ditetapkan peraturan pelaksanaan Undang-undang ini, seluruh instruksi, petunjuk, atau pedoman yang ada atau yang diadakan oleh Pemerintah dan Pemerintah Propinsi Daerah Khusus Ibukota Jakarta yang tidak bertentangan dengan Undang-undang ini dinyatakan tetap berlaku.
+
+##### Pasal 35
+
+Kotamadya, Kecamatan, dan Kelurahan yang ada pada saat mulai berlakunya Undang-undang ini tetap sebagai Kotamadya, Kecamatan, dan Kelurahan kecuali ditentukan lain oleh peraturan perundang-undangan.
+
+##### Pasal 36
+
+Gubernur Kepala Daerah Khusus Ibukota Jakarta, Wakil Gubernur, Walikotamadya, Wakil Walikotamadya, Camat, Wakil Camat, dan Lurah beserta perangkatnya yang ada, pada saat mulai berlakunya Undang-undang ini tetap melaksanakan tugasnya, kecuali ditentukan lain berdasarkan Undang-undang ini.
+
+## BAB X — KETENTUAN PENUTUP
+
+##### Pasal 37
+
+Pada saat berlakunya Undang-undang ini, dinyatakan tidak berlaku lagi Undang-undang Nomor 11 Tahun 1990 tentang Susunan Pemerintahan Daerah Khusus Ibukota Negara Republik Indonesia Jakarta (Lembaran Negara Republik Indonesia Tahun 1990 Nomor 84, Tambahan Lembaran Negara Nomor 3430).
+
+##### Pasal 38
+
+(1) Ketentuan pelaksanaan sebagai tindak lanjut Undang-undang ini sudah selesai selambat-lambatnya satu tahun sejak Undang-undang ini ditetapkan.
+
+(2) Pelaksanaan Undang-undang ini dilakukan secara efektif selambat-lambatnya dalam waktu dua tahun sejak ditetapkannya Undang-undang ini.
+
+##### Pasal 39
+
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 31 Agustus 1999
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+BACHARUDDIN JUSUF HABIBIE
+
+Diundangkan di Jakarta pada tanggal 31 Agustus 1999
+
+MENTERI NEGARA SEKRETARIS NEGARA
+
+REPUBLIK INDONESIA,
+
+ttd.
+
+MULADI
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 146
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 34 TAHUN 1999
+
+TENTANG
+
+PEMERINTAHAN PROPINSI DAERAH KHUSUS IBUKOTA
+
+REPUBLIK INDONESIA JAKARTA
+
+### I.   UMUM
+
+Sejarah kota Jakarta yang terkait erat dengan perjuangan bangsa telah ada sejak tanggal 22 Juni 1527, yaitu pada saat Fatahillah mengalahkan armada asing, dan kemudian mengganti nama Sunda Kelapa menjadi Jayakarta.
+
+Perinstiwa ini selanjutnya diperingati sebagai hari jadi kota Jakarta. Dalam perkembangan selanjutnya Jakarta mempunyai peranan penting dalam sejarah perjuangan bangsa. Banyak momentum penting dalam sejarah kebangkitan nasional, kesatuan dan persatuan bangsa serta sejarah kebangkitan Indonesia yang terjadi di kota Jakarta, seperti lahirnya Boedi Oetomo, Sumpah Pemuda, Proklamasi Kemerdekaan serta penetapan Pancasila dan Undang-Undang Dasar 1945.
+
+NIlai-nilai sejarah tersebut sangat besar artinya bagi usaha pembinaan bangsa dan pengembangan lebih lanjut kota Jakarta.
+
+Mengingat pentingnya peranan dan kedudukan kota Jakarta dalam sejarah perjuangan bangsa seperti tersebut di atas, maka telah dikeluarkan beberapa peraturan perundang-undangan yang mengaturnya secara khusus, yaitu Undang-undang Nomor 2 Pnps Tahun 1961 tentang Pemerintah Daerah Khusus Ibukota Jakarta Raya sebagaimana telah diubah dengan Undang-undang Nomor 15 Pnps Tahun 1963 tentang Perubahan dan Tambahan Penetapan Nomor 2 Tahun 1961 tentang Pemerintahan Daerah Khusus Ibukota Jakarta Raya, Undang-undang Nomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus Ibukota Jakarta Raya tetap sebagai Ibukota Negara Republik Indonesia dengan nama Jakarta, dan Undang-undang Nomor 11 Tahun 1990 tentang Susunan Pemerintahan Daerah Khusus Ibukota Negara. Namun, peraturan perundang-undangan tersebut tidak lagi memenuhi tuntutan pertumbuhan dan perkembangan Jakarta Ibukota Negara dan semangat desentralisasi sesuai dengan jiwa Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah yang dalam Pasal 117 dinyatakan bahwa Ibukota Negara Republik Indonesia Jakarta, karena kedudukannya diatur tersendiri dengan Undang-undang.
+
+Jakarta sebagai Ibukota Negara Republik Indonesia adalah Daerah Propinsi yang memiliki ciri tersendiri, berbeda dengan Daerah Propinsi lainnya yang bersumber dari beban tugas, tanggung jawab, dan tantangan yang lebih kompleks.
+
+Kompleksitas permasalahan itu juga berkaitan erat dengan terbatas, jumlah dan populasi penduduk yang tinggi dengan segala dampak yang ditimbulkannya terhadap aspek-aspek pemukiman, peranan wilayah transportasi, komunikasi, dan faktor-faktor lainnya. Untuk menjawab tantangan yang serba kompleks itu maka sangat dirasakan pentingnyapemberian otonomi hanya pada lingkup Propinsi agar dapat membina menumbuhkembangkan Jakarta dalam satu kesatuan perencanaan, pelaksanaan, dan pengendalian. Dengan demikian, diharapkan Jakarta akan mampu memberikan pelayanan yang cepat, tepat, dan terpadu kepada masyarakat.
+
+Propinsi Daerah Khusus Ibukota Jakarta terbagi dalam wilayah Kotamadya/Kabupaten yang bukan merupakan Daerah Otonom. Keberadaan wilayah Kabupaten adalah untuk mengakomodasikan peningkatan status Kepulauan Seribu sebagai bagian dari wilayah Propinsi Daerah Khusus Ibukota Jakarta. Peningkatan status Kepulauan Seribu menjadi Kabupaten dimaksudkan untuk meningkatkan pengelolaan Kepulauan Seribu yang terdiri atas 110 pulau dalam segala aspek antara lain kelestarian lingkungan, konservasi sumber daya alam, ekonomi, kesejahteraan rakyat, dan sosial budaya.
+
+Untuk memberikan peluang bagi terciptanya penyelenggaraan pemerintahan yang transparan dan demokratis, di setiap Kotamadya/Kabupaten dibentuk Dewan Kota/Kabupaten sebagai wadah komunikasi timbal balik antara warga dan Pemerintah Kotamadya/Kabupaten. Sementara itu, di tingkat Kelurahan dibentuk Dewan Kelurahan yang berfungsi sebagai forum pemberdayaan masyarakat.
+
+### II. PASAL DEMI PASAL
+
+#### Pasal 1
+
+Cukup jelas Pasal 2 Cukup jelas Pasal 3 Cukup jelas Pasal 4
+
+Ayat (1)
+
+Yang dimaksud dengan otonomi yang diletakkan pada lingkup Propinsi adalah bahwa otonom hanya berada pada Propinsi Daerah Khusus Ibukota Jakarta.
+
+Ayat (2)
+
+Cukup jelas Pasal 5 Cukup jelas Pasal 6 Wilayah Kotamadya sebagai wilayah administrasi di Propinsi Daerah Khusus Ibukota Jakarta yang ada pada saat diundangkannya Undang-undang ini menjadi Kotamadya sebagai perangkat Propinsi Daerah Khusus Ibukota Jakarta dan Kecamatan Kepulauan Seribu ditingkatkan statusnya menjadi Kabupaten Administrasi.
+
+#### Pasal 7
+
+Cukup jelas Pasal 8 Cukup jelas Pasal 9
+
+Cukup jelas Pasal 10 Cukup jelas Pasal 11 Cukup jelas Pasal 12 Cukup jelas Pasal 13 Cukup jelas Pasal 14 Cukup jelas Pasal 15
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Pemberian persetujuan terhadap calon Walikotamadya/Bupati oleh pimpinan Dewan Perwakilan Rakyat Daerah dimaksudkan untuk memberi peluang kepada rakyat ikut serta dalam menentukan pemimpin Pemerintahan Kotamadya/Kabupaten Administrasi. Pemberian persetujuan tidak dilakukan melalui pemilihan yang mekanismenya berpedoman pada tata tertib Dewan Perwakilan Rakyat daerah.
+
+#### Pasal 16
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Konsultasi tersebut mengandung makna persetujuan Presiden atas nama-nama calon Gubernur dan calon Wakil Gubernur Propinsi Daerah Khusus Ibukota Jakarta.
+
+#### Pasal 17
+
+Cukup jelas Pasal 18 Cukup jelas Pasal 19 Cukup jelas Pasal 20 Cukup jelas Pasal 21 Cukup jelas Pasal 22 Cukup jelas Pasal 23 Cukup jelas Pasal 24 Cukup jelas
+
+#### Pasal 25
+
+Cukup jelas Pasal 26
+
+Ayat (1)
+
+Pembentukan dewan Kota/Kabupaten dimaksudkan untuk memberikan perluang bagi terciptanya penyelenggaraan pemerintahan yang transparan dan demokratis dengan melibatkan para tokoh masyarakat yang profesional di bidangnya dalam membantu penyelenggaraan pemerintahan.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas
+
+Ayat (4)
+
+Cukup jelas
+
+Ayat (5)
+
+Anggota Dewan Kota/Kabupaten yang berasal dari partai politik tidak mewakili partai politiknya.
+
+Ayat (6)
+
+Cukup jelas Pasal 27
+
+Ayat (1)
+
+Pembentukan Dewan Kelurahan dimaksudkan untuk memberikan peluang bagi terciptanya penyelenggaraan pemerintahan Kelurahan yang transparan, demokratis dan berorientasi pada pemberdayaan masyarakat.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas Pasal 28 Cukup jelas Pasal 29 Cukup jelas Pasal 30 Cukup jelas Pasal 31 Cukup jelas Pasal 32 Cukup jelas Pasal 33 Cukup jelas Pasal 34 Cukup jelas Pasal 35 Cukup jelas Pasal 36 Cukup jelas Pasal 37
+
+Cukup jelas Pasal 38
+
+Ayat (1)
+
+Peraturan perundang-undangan yang terkait dengan pelaksanaan Undang-undang ini sudah harus selesai selambat-lambatnya dalam waktu satu tahun.
+
+Ayat (2)
+
+pelaksanaan penataan dimulai sejak ditetapkannya Undang-undang ini dan harus sudah selesai dalam waktu dua tahun.
+
+#### Pasal 39
+
+Cukup jelas
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3878

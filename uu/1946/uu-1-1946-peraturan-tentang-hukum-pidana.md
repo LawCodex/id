@@ -48,25 +48,37 @@ Menetapkan peraturan sebagai berikut :
 
 UNDANG-UNDANG TENTANG PERATURAN HUKUM PIDANA.
 
-Pasal 1.
+##### Pasal 1.
 
-Dengan menyimpang seperlunya dari Peraturan Presiden Republik Indonesia tertanggal 10 Oktober 1945 No. 2, menetapkan, bahwa peraturan-peraturan hukum pidana yang sekarang berlaku, ialah peraturan-peraturan hukum pidana yang ada pada tanggal 8 Maret 1942. Pasal 2.
+Dengan menyimpang seperlunya dari Peraturan Presiden Republik Indonesia tertanggal 10 Oktober 1945 No. 2, menetapkan, bahwa peraturan-peraturan hukum pidana yang sekarang berlaku, ialah peraturan-peraturan hukum pidana yang ada pada tanggal 8 Maret 1942.
 
-Semua peraturan hukum pidana yang dikeluarkan oleh panglima tertinggi balatentara Hindia-Belanda dulu (Verordeningen van het Militair Gezag) dicabut. Pasal 3.
+##### Pasal 2.
 
-Jikalau di dalam sesuatu peraturan hukum pidana ditulis dengan perkataan "Nederlandsch-Indie" atau "NederlandschIndisch(e) (en)", maka perkataan-perkataan itu harus dibaca "Indonesie" atau "Indonesishc(e) (en)". Pasal 4.
+Semua peraturan hukum pidana yang dikeluarkan oleh panglima tertinggi balatentara Hindia-Belanda dulu (Verordeningen van het Militair Gezag) dicabut.
+
+##### Pasal 3.
+
+Jikalau di dalam sesuatu peraturan hukum pidana ditulis dengan perkataan "Nederlandsch-Indie" atau "NederlandschIndisch(e) (en)", maka perkataan-perkataan itu harus dibaca "Indonesie" atau "Indonesishc(e) (en)".
+
+##### Pasal 4.
 
 Jikalau di dalam sesuatu peraturan hukum pidana suatu hak, kewajiban, kekuasaan atau perlindungan diberikan atau suatu larangan ditujukan kepada sesuatu pegawai, badan, jawatan dan sebagainya, yang sekarang tidak ada lagi, maka hak, kewajiban, kekuasaan atau perlindungan itu harus dianggap diberikan dan larangan tersebut ditujukan kepada pegawai, badan, jawatan dan sebagainya, yang harus dianggap menggantinya.
 
-Pasal 5.
+##### Pasal 5.
 
-Peraturan hukum pidana, yang seluruhnya atau sebagian sekarang tidak dapat dijalankan, atau bertentangan dengan kedudukan Republik Indonesia sebagai negara merdeka, atau tidak mempunyai arti lagi, harus dianggap seluruh atau sebagian sementara tidak berlaku. Pasal 6.
+Peraturan hukum pidana, yang seluruhnya atau sebagian sekarang tidak dapat dijalankan, atau bertentangan dengan kedudukan Republik Indonesia sebagai negara merdeka, atau tidak mempunyai arti lagi, harus dianggap seluruh atau sebagian sementara tidak berlaku.
+
+##### Pasal 6.
 
 (1) Nama Undang-undang hukum pidana "Wetboek van Strafrecht voor Nederlandsh-Indie" dirobah menjadi "Wetboek van Strafrecht".
 
-(2) Undang-undang tersebut dapat disebut : Kitab Undang-undang hukum pidana". Pasal 7.
+(2) Undang-undang tersebut dapat disebut : Kitab Undang-undang hukum pidana".
 
-Dengan tidak mengurangi apa yang ditetapkan dalam pasal 3, maka semua perkataan "Nederlandsch-onderdaan" dalam Kitan Undang-undang hukum pidana diganti dengan "Warga Negara Indonesia". Pasal 8.
+##### Pasal 7.
+
+Dengan tidak mengurangi apa yang ditetapkan dalam pasal 3, maka semua perkataan "Nederlandsch-onderdaan" dalam Kitan Undang-undang hukum pidana diganti dengan "Warga Negara Indonesia".
+
+##### Pasal 8.
 
 Kitab Undang-undang hukum pidana dirobah sebagai berikut :
 
@@ -234,31 +246,41 @@ b. perkataan-perkataan "s'Konings verlof" harus dibaca "verlof van den President
 
 68. Dalam pasal 544 ayat (1) bagian kalimat "het hoofd van plaatselijk bestuur" (den regent) harus dibaca "het hoofd van den politie".
 
-Pasal 9.
+##### Pasal 9.
 
 Barang siapa membikin benda semacam mata uang atau uang kertas dengan maksud untuk menjalankannya atau menyuruh menjalankannya sebagai alat pembayaran yang sah, dihukum dengan hukuman penjara setinggi-tingginya lima belas tahun.
 
-Pasal 10.
+##### Pasal 10.
 
 Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata uang kertas, sedang ia sewaktu menerimanya mengetahui atau setidak-tidaknya patut dapat menduga bahwa benda-benda itu oleh pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, atau, dengan maksud untuk menjalankannya atau menyuruh menjalankannya sebagai alat pembayaran yang sah, menyediakannya atau memasukkannya ke dalam Indonesia, dihukum dengan hukuman penjara setinggitingginya lima belas tahun.
 
-Pasal 11.
+##### Pasal 11.
 
 Barang siapa dengan sengaja menjalankan sebagai alat pembayaran yang sah mata uang atau uang kertas yang dari pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dalam hal di luar keadaan sebagai yang tersebut dalam pasal yang baru lalu, dihukum dengan hukuman penjara setinggitingginya lima belas tahun.
 
-Pasal 12.
+##### Pasal 12.
 
-Barang siapa menerima sebagai alat pembayaran atau penukaran atau sebagai hadiah atau penyimpan atau mengangkut mata uang atau uang kertas, sedangkan ia mengetahui, bahwa benda-benda itu oleh pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dihukum dengan hukuman penjara setinggi-tingginya lima tahun. Pasal 13.
+Barang siapa menerima sebagai alat pembayaran atau penukaran atau sebagai hadiah atau penyimpan atau mengangkut mata uang atau uang kertas, sedangkan ia mengetahui, bahwa benda-benda itu oleh pihak Pemerintah tidak diakui sebagai alat pembayaran yang sah, dihukum dengan hukuman penjara setinggi-tingginya lima tahun.
 
-Kalau orang dihukum karena melakukan salah satu kejahatan seperti tersebut dalam pasal-pasal 9, 10, 11 dan 12 maka mata uang atau uang kertas serta benda lain yang dipergunakan untuk melakukan salah satu kejahatan itu dirampas, juga kalau benda-benda itu bukan kepunyaan terhukum. Pasal 14.
+##### Pasal 13.
+
+Kalau orang dihukum karena melakukan salah satu kejahatan seperti tersebut dalam pasal-pasal 9, 10, 11 dan 12 maka mata uang atau uang kertas serta benda lain yang dipergunakan untuk melakukan salah satu kejahatan itu dirampas, juga kalau benda-benda itu bukan kepunyaan terhukum.
+
+##### Pasal 14.
 
 (1) Barang siapa, dengan menyiarkan berita atau pemberitahuan bohong, dengan sengaja menerbitkan keonaran dikalangan rakyat, dihukum dengan hukuman penjara setinggitingginya sepuluh tahun.
 
-(2) Barang siapa menyiarkan suatu berita atau mengeluarkan pemberitahuan, yang dapat menerbitkan keonaran dikalangan rakyat, sedangkan ia patut dapat menyangka bahwa berita atau pemberitahuan itu adalah bohong, dihukum dengan penjara setinggi-tingginya tiga tahun. Pasal 15.
+(2) Barang siapa menyiarkan suatu berita atau mengeluarkan pemberitahuan, yang dapat menerbitkan keonaran dikalangan rakyat, sedangkan ia patut dapat menyangka bahwa berita atau pemberitahuan itu adalah bohong, dihukum dengan penjara setinggi-tingginya tiga tahun.
 
-Barang siapa menyiarkan kabar yang tidak pasti atau kabar yang berkelebihan atau yang tidak lengkap, sedangkan ia mengerti setidak-tidaknya patut dapat menduga, bahwa kabar demikian akan atau mudah dapat menerbitkan keonaran dikalangan rakyat, dihukum dengan hukuman penjara setinggitingginya dua tahun. Pasal 16.
+##### Pasal 15.
 
-Barang siapa terhadap bendera kebangsaan Indonesia dengan sengaja menjalankan suatu perbuatan yang dapat menimbulkan perasaan penghinaan kebangsaan, dihukum dengan hukuman penjara setinggi-tingginya satu tahun enam bulan. Pasal 17.
+Barang siapa menyiarkan kabar yang tidak pasti atau kabar yang berkelebihan atau yang tidak lengkap, sedangkan ia mengerti setidak-tidaknya patut dapat menduga, bahwa kabar demikian akan atau mudah dapat menerbitkan keonaran dikalangan rakyat, dihukum dengan hukuman penjara setinggitingginya dua tahun.
+
+##### Pasal 16.
+
+Barang siapa terhadap bendera kebangsaan Indonesia dengan sengaja menjalankan suatu perbuatan yang dapat menimbulkan perasaan penghinaan kebangsaan, dihukum dengan hukuman penjara setinggi-tingginya satu tahun enam bulan.
+
+##### Pasal 17.
 
 Undang-undang ini mulai berlaku buat pulau Jawa dan Madura pada hari diumumkannya dan buat daerah lain pada hari yang akan ditetapkan oleh Presiden.
 
@@ -334,11 +356,11 @@ Pasal I sampai VI.
 
 Penjelasan telah diberikan dibagian penjelasan umum. Petunjuk-petunjuk dalam pasal I sampai V diatas dirasa perlu terhadap peraturan-peraturan hukum pidana yang belum dapat dirobah atau diganti sesuai dengan keadaan sekarang.
 
-Pasal VII.
+#### Pasal VII.
 
 Tidak perlu diterangkan lagi.
 
-Pasal VIII.
+#### Pasal VIII.
 
 No. 1 Pasal 105, 130, 132 dan 133 dihapuskan, (lihatlah No. 13, 19 dan 21).
 
@@ -432,7 +454,7 @@ Pasal-pasal ini dibutuhkan buat menindas usaha untuk mengacaukan peradaran uang 
 
 Mata uang atau uang kertas yang tidak disebut dalam Maklumat Presiden Republik Indonesia tertanggal 3 Oktober 1945 No. 1/10 sebagai alat pembayaran yang sah, adalah buat daerah Jawa dan Madura alat pembayaran yang tidak sah.
 
-Pasal IX.
+#### Pasal IX.
 
 Mengancam hukuman terhadap barang siapa membikin benda semacam mata uang atau uang kertas dengan maksud seperti diterangkan dalam pasal itu.
 
@@ -440,7 +462,7 @@ Pasal X dan pasal XI.
 
 Disusun hampir sama dengan susunan pasal 245 dan pasal 249 Kitab undang-undang hukum pidana. Bedanya disebabkan oleh hal yang pasal X dan XI mengenai mata uang atau uang kertas yang tidak sah, sedangkan pasal 245 dan 249 Kitab undang-undang hukum pidana mengenai mata uang atau uang kertas palsu atau yang dipalsukan. Penjelasan dalam kitab-kitab tafsir tentang pasal 245 dan 249 Kitab undang-undang hukum pidana dapat dipergunakan untuk menafsirkan pasal X dan XI dari rancangan ini, dengan mengingat akan bedanya.
 
-Pasal XIII.
+#### Pasal XIII.
 
 Merupakan pasangannya pasal 250 bis Kitab Undang-undang Hukum Pidana.
 
@@ -448,13 +470,15 @@ Pasal XIV dan pasal XV.
 
 Menggantikan pasal 171 Kitab Undang-undang Hukum Pidana, yang pada masa pancaroba ini perlu diperluas.
 
-Pasal XIV.
+#### Pasal XIV.
 
 Ialah sama dengan "Verordening No. 18 van het Militair Gezag".
 
 Keonaran adalah lebih hebat dari pada kegelisahan dan menggoncangkan hati penduduk yang tidak sedikit jumlahnya. Kekacauan meuat juga keonaran.
 
-Menyiarkan artinya sama dengan "verspreiden" dalam pasal 171 Kitab Undang-undang Hukum Pidana. Pasal XV.
+Menyiarkan artinya sama dengan "verspreiden" dalam pasal 171 Kitab Undang-undang Hukum Pidana.
+
+#### Pasal XV.
 
 Disusun tidak begitu luas sebagai "verordening No. 19 van het Militair Gezag".
 

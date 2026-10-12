@@ -47,7 +47,9 @@ Menetapkan undang-undang sebagai berikut :
 
 UNDANG-UNDANG TENTANG PINJAMAN NASIONAL 1946.
 
-Pasal 1. Pemberian kuasa, Jumlah. Nama.
+##### Pasal 1.
+
+Pemberian kuasa, Jumlah. Nama.
 
 (1) Menteri Keuangan diberi kuasa untuk menjual surat-surat pengakuan hutang atas tanggungan Negara dengan kurs dan bunga, yang dipandangnya perlu untuk memperoleh sejumlah uang f 1.000.000.000,- (seribu juta rupiah).
 
@@ -59,11 +61,13 @@ Pasal 1. Pemberian kuasa, Jumlah. Nama.
 
 (5) Pinjaman ini disebut "Pinjaman Nasional 1946" dan apabila tidak diselenggarakan sekaligus tetapi sebagian sebagian seperti termaksud dalam ayat ke-empat, maka bagian itu dinamakan "Bagian (I, II dst.) dari pinjaman Nasional 1946".
 
-Pasal 2.
+##### Pasal 2.
 
 Rupiah dalam undang-undang ini berarti rupiah yang sah sebagai alat pembayaran Republik Indonesia pada waktu pinjaman dikeluarkan.
 
-Pasal 3. Peraturan menjalankan Undang-undang.
+##### Pasal 3.
+
+Peraturan menjalankan Undang-undang.
 
 Perhitungan pinjaman. Pembayaran pinjaman.
 
@@ -81,15 +85,29 @@ Perhitungan pinjaman. Pembayaran pinjaman.
 
 (7) Surat-surat pengakuan hutang yang diterima kembali, setelah hutang yang bersangkutan dilunasi menurut ayat ke-empat dan ke-lima, dikirimkan kepada Badan Pemeriksa Keuang untuk dibinasakan.
 
-Pasal 4. Provisi.
+##### Pasal 4.
+
+Provisi.
 
 (1) Kepada bank-bank, yang langsung membeli sejumlah surat-surat pengakuan hutang, dapat diberikan provisi sebanyak-banyaknya 3/8 prosen dari jumlah nominal dalam surat-surat pengakuan hutang yang diberikan (toegewezen) kepadanya, provisi mana akan dibayarkan sesudah jumlah yang harus dibayar disetor dalam kantorkantor yang ditunjukkan oleh Menteri Keuangan.
 
-(2) Juga kepada bank-bank yang kantornya dipergunakan untuk memberi pertolongan buat penjualan surat-surat pengakuan hutang, penerimaan pendaftaran-pendaftaran (inschrijvingen), setoran-setoran pengeluaran suratsurat pengakuan hutang dapat diberikan kerugian sebanyak-banyaknya 3/8 prosen dari jumlah nominal dari surat-surat pengakuan hutang yang dijual dengan perantaranya. Pasal 5. Pembayaran bunga, cicilan dan ongkos-ongkos pinjaman.
+(2) Juga kepada bank-bank yang kantornya dipergunakan untuk memberi pertolongan buat penjualan surat-surat pengakuan hutang, penerimaan pendaftaran-pendaftaran (inschrijvingen), setoran-setoran pengeluaran suratsurat pengakuan hutang dapat diberikan kerugian sebanyak-banyaknya 3/8 prosen dari jumlah nominal dari surat-surat pengakuan hutang yang dijual dengan perantaranya.
 
-Uang yang dibutuhkan untuk memenuhi .embayaran bunga, pembayaran hutang dan biaya-biaya penjualan surat-surat pengakuan hutang yang dikeluarkan menurut undang-undang ini, disediakan dalam Anggaran Belanja Negara. Pasal 6. Pembebasan bea meterai.
+##### Pasal 5.
 
-Segala surat-surat, kwitansi-kwitansi, surat-surat pendaftaran nama, surat-surat pengakuan hutang yang dimaksud dalam pasal 1 dan perjanjian-perjanjian tentang penjualan surat-surat pengakuan hutang, yang dibuat dan dikeluarkan menurut Undang-undang ini, dibebaskan dari pembayaran meterai. Pasal 7. Conversi.
+Pembayaran bunga, cicilan dan ongkos-ongkos pinjaman.
+
+Uang yang dibutuhkan untuk memenuhi .embayaran bunga, pembayaran hutang dan biaya-biaya penjualan surat-surat pengakuan hutang yang dikeluarkan menurut undang-undang ini, disediakan dalam Anggaran Belanja Negara.
+
+##### Pasal 6.
+
+Pembebasan bea meterai.
+
+Segala surat-surat, kwitansi-kwitansi, surat-surat pendaftaran nama, surat-surat pengakuan hutang yang dimaksud dalam pasal 1 dan perjanjian-perjanjian tentang penjualan surat-surat pengakuan hutang, yang dibuat dan dikeluarkan menurut Undang-undang ini, dibebaskan dari pembayaran meterai.
+
+##### Pasal 7.
+
+Conversi.
 
 (1) Jika perjanjian-perjanjian yang dimaksud dalam ayat 1 pasal 3 memperkenankan, maka Menteri Keuangan diberi kuasa untuk mengadakan conversi buat seluruhnya atau sebagian dari pinjaman yang dibuat menurut Undang-undang ini dengan jalan mengadakan pinjaman lain dengan bunga yang lebih rendah. Untuk keperluan itu ia berhak mengeluarkan surat-surat pengakuan hutang baru sebesar jumlah yang dibutuhkan untuk membayar kembali surat-surat pengakuan hutang yang lama yang termasuk dalam pinjaman yang harus diganti (diconversikan).
 
@@ -99,11 +117,15 @@ Dengan mengingat "kurs pengeluaran" dan peraturan tentang caranya membayar kemba
 
 (3) Pinjaman yang akan diselenggarakan menurut pasal ini, akan dibayar kembali dalam waktu selama-lamanya 40 tahun, terhitung dari tahun sesudah pinjaman yang bermula, yang diganti oleh pinjaman baru itu diselenggarakan.
 
-(4) Selanjutnya peraturan-peraturan dari Undang-undang ini juga akan berlaku terhadap surat-surat pengakuan hutang yang akan dikeluarkan menurut pasal ini. Pasal 8. Berlakunya Undang-undang.
+(4) Selanjutnya peraturan-peraturan dari Undang-undang ini juga akan berlaku terhadap surat-surat pengakuan hutang yang akan dikeluarkan menurut pasal ini.
+
+##### Pasal 8.
+
+Berlakunya Undang-undang.
 
 Undang-undang ini mulai berlaku pada hari diumumkan.
 
-Pasal 9.
+##### Pasal 9.
 
 Undang-undang ini dapat disebut dengan nama "Undangundang tentang Pinjaman Nasional 1946".
 

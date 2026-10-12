@@ -1,0 +1,176 @@
+---
+title: "Undang-Undang Nomor 5 Tahun 1995 tentang Perubahan atas Undang-Undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah Sebagaimana Telah Beberapa Kali Diubah, Terakhir Dengan Undang-Undang Nomor 2 Tahun 1985"
+identifier: "UU No. 5 Tahun 1995"
+type: act
+jurisdiction: id
+language: id
+number: "5"
+year: 1995
+date: 1995-07-03
+promulgated: 1995-07-03
+in_force_from: 1995-07-03
+status: repealed
+status_basis: "BPK: Tidak Berlaku; BPK relation: dicabut dengan UU No. 4 Tahun 1999; Setneg: sebagian"
+repealed_by:
+  - "UU No. 4 Tahun 1999"
+amends:
+  - "UU No. 2 Tahun 1985"
+  - "UU No. 5 Tahun 1975"
+  - "UU No. 16 Tahun 1969"
+gazette: "LN. 1995/ No. 36, TLN NO. 3600, LL SETNEG : 4 HLM"
+subject: "PELIMPAHAN KEWENANGAN/PENUGASAN PEJABAT NEGARA/PENUGASAN BUMN - DASAR PEMBENTUKAN KEMENTERIAN/LEMBAGA/BADAN/ORGANISASI"
+source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0051995.pdf&fl=P00969"
+source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1995"
+bpk_page: "https://peraturan.bpk.go.id/Details/46180"
+bpk_metadata_archived: "http://web.archive.org/web/20240919133937/https://peraturan.bpk.go.id/Details/46180"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 5 Tahun 1995 tentang Perubahan atas Undang-Undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah Sebagaimana Telah Beberapa Kali Diubah, Terakhir Dengan Undang-Undang Nomor 2 Tahun 1985
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 5 TAHUN 1995
+
+TENTANG
+
+PERUBAHAN ATAS UNDANG-UNDANG NOMOR 16 TAHUN 1969 TENTANG
+
+SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATAN RAKYAT,
+
+DEWAN PERWAKILAN RAKYAT,
+
+DAN DEWAN PERWAKILAN RAKYAT DAERAH SEBAGAIMANA TELAH
+
+BEBERAPA KALI DIUBAH, TERAKHIR DENGAN UNDANG-UNDANG
+
+NOMOR 2 TAHUN 1985.
+
+DENGAN RAKHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa Dewan Perwakilan Rakyat sebagai lembaga perwakilan yang anggotanya dipilih dan diangkat, ditetapkan berdasarkan peraturan perundang-undangan merupakan perwujudan demokrasi Pancasila dalam penyelenggaraan negara Indonesia;
+
+b. bahwa dengan telah diterimanya Pancasila sebagai satu-satunya asas dalam kehidupan bermasyarakat, berbangsa, dan bernegara dalam proses pembaharuan kehidupan politik dan pelaksanaan pengembangan tatanan demokrasi Pancasila, perlu melakukan penyesuaian jumlah anggota Dewan Perwakilan Rakyat yang dipilih dan yang diangkat;
+
+c. bahwa sehubungan dengan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, dipandang perlu untuk mengadakan perubahan terhadap Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 dan Undang-undang Nomor 2 Tahun 1985;
+
+Mengingat : 1. Pasal 1 ayat (2), Pasal 2 ayat (1), Pasal 5 ayat (1), Pasal 19 ayat (1), dan Pasal 20 ayat (1) Undang-Undang Dasar 1945;
+
+2. Undang-undang Nomor 15 Tahun 1969 tentang Pemilihan Umum anggota-anggota Badan Permusyawaratan/Perwakilan Rakyat (Lembaran Negara RI Tahun 1969 Nomor 58, Tambahan Lembaran Negara RI Nomor 2914) sebagaimana telah diubah dengan Undang-undang Nomor 4 Tahun 1975 (Lembaran Negara RI Tahun 1975 Nomor 38, Tambahan Lembaran Negara RI Nomor 3063), Undang-undang Nomor 2 Tahun 1980 (Lembaran Negara RI Tahun 1980 Nomor 24, Tambahan Lembaran Negara RI Nomor 3163) dan Undang-undang Nomor 1 Tahun 1985 (Lembaran Negara RI Tahun 1985 Nomor 1, Tambahan Lembaran Negara RI Nomor 3281);
+
+3. Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara RI Tahun 1969 Nomor 59, Tambahan Lembaran Negara RI Nomor 2915) sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 (Lembaran Negara RI Tahun 1975 Nomor 39, Tambahan Lembaran Negara RI Nomor 3064) dan Undang-undang Nomor 2 Tahun 1985 (Lembaran Negara RI Tahun 1985 Nomor 2, Tambahan Lembaran Negara RI Nomor 3282);
+
+Dengan Persetujuan
+
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+MEMUTUSKAN :
+
+Menetapkan : UNDANG-UNDANG REPUBLIK INDONESIA PERUBAHAN ATAS
+
+UNDANG-UNDANG NOMOR 16 TAHUN 1969 TENTANG
+
+SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATAN
+
+RAKYAT, DEWAN PERWAKILAN RAKYAT, DAN DEWAN
+
+PERWAKILAN RAKYAT DAERAH SEBAGAIMANA TELAH
+
+BEBERAPA KALI DIUBAH, TERAKHIR DENGAN
+
+UNDANG-UNDANG NOMOR 2 TAHUN 1985.
+
+##### Pasal I
+
+Ketentuan Pasal 10 ayat (3) dan ayat (4) Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 dan Undang-undang Nomor 2 Tahun 1985, diubah lagi sehingga berbunyi sebagai berikut:
+
+"(3) Jumlah anggota DPR ditetapkan sebanyak 500 (lima ratus) orang, terdiri dari 425 (empat ratus dua puluh lima) orang dipilih dalam Pemilihan Umum dan 75 (tujuh puluh lima) orang diangkat.
+
+(4) Anggota DPR yang diangkat sebanyak 75 (tujuh puluh lima) orang sebagaimana dimaksud dalam ayat (3) diambilkan dari golongan karya ABRI dan pengangkatannya ditetapkan oleh Presiden atas usul Panglima Angkatan Bersenjata".
+
+##### Pasal II
+
+Undang-undang ini dapat disebut Undang-undang Perubahan Ketiga Undang-undang tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah, dan mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 3 Juli 1995
+
+PRESIDEN REPUBLIK INDONESIA
+
+ttd.
+
+SOEHARTO
+
+Diundangkan di Jakarta pada tanggal 3 Juli 1995
+
+MENTERI NEGARA SEKRETARIS NEGARA
+
+ttd
+
+MOERDIONO
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1995 NOMOR 36
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 5 TAHUN 1995
+
+TENTANG
+
+PERUBAHAN ATAS UNDANG-UNDANG NOMOR 16 TAHUN 1969 TENTANG
+
+SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATA RAKYAT,
+
+DEWAN PERWAKILAN RAKYAT,
+
+DAN DEWAN PERWAKILAN RAKYAT DAERAH
+
+SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH, TERAKHIR DENGAN
+
+UNDANG-UNDANG NOMOR 2 TAHUN 1985
+
+UMUM
+
+1. Perubahan atas Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 dan Undang-undang Nomor 2 Tahun 1985 didasarkan atas telah diterimanya Pancasila sebagai satu-satunya asas dalam kehidupan bermasyarakat, berbangsa, dan bernegara dalam proses pembaharuan kehidupan politik dan pelaksanaan pengembangan tatanan demokrasi Pancasila serta disesuaikan dengan perkembangan keadaan. Kehidupan politik dan kenegaraan berdasarkan Pancasila dan Undang-Undang Dasar 1945 terus ditingkatkan dengan mengamalkan dan membudayakan Pancasila yang diwujudkan dalam sikap dan perilaku pelaksanaan demokrasi Pancasila. Kondisi tersebut memungkinkan dilakukan penyesuaian jumlah anggota Dewan Perwakilan Rakyat yang dipilih dan yang diangkat.
+
+Dalam Negara Republik Indonesia, semua golongan termasuk ABRI, mempunyai hak dan kewajiban untuk berperan serta dalam penyelenggaraan kehidupan bermasyarakat, berbangsa dan bernegara. ABRI sejak kelahirannya telah memberikan dharma bakti dalam perjuangan bangsa, dan tampil bersama-sama segenap potensi dan kekuatan efektif bangsa dalam proses pengambilan keputusan untuk menentukan kebijakan penyelenggaraan pemerintahan negara dan menumbuhkembangkan demokrasi Pancasila, Keberadaan ABRI di lembaga perwakilan rakyat melalui pengangkatan adalah menyatu dalam tatanan kehidupan demokrasi Pancasila.
+
+Dalam Ketetapan Majelis Permusyawaratan Rakyat Nomor II/MPR/1993 tentang Garis-garis Besar Haluan Negara, diamanatkan antara lain sebagai berikut:
+
+"a. Angkatan Bersenjata Republik Indonesia sebagai kekuatan pertahanan keamanan dan kekuatan sosial politik yang tumbuh dari rakyat dan bersama rakyat menegakkan serta mengisi kemerdekaan bangsa dan negara;
+
+b. ABRI melaksanakan fungsi sebagai kekuatan pertahanan keamanan dan sebagai kekuatan sosial politik. Dalam melaksanakan fungsi sosial politik, ABRI harus mampu berperan sebagai stabilisator, dinamisator, dan unsur pemersatu kehidupan nasional, berperanserta secara aktif dalam pembangunan, serta memperkuat kehidupan konstitusional, demokrasi, dan tegaknya hukum dalam rangka memperkukuh ketahanan nasional;
+
+c. Untuk mendukung tatanan politik demokrasi Pancasila, budaya politik yang menjunjung tinggi semangat kebersamaan, kekeluargaan dan keterbukaan yang bertanggung jawab perlu terus dikembangkan, didukung oleh moral dan etik politik yang bersumber pada nilai-nilai Pancasila serta sikap kenegarawanan di dalam perilaku politik".
+
+2. Materi pokok perubahan Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 2 Tahun 1985, adalah mengenai perubahan jumlah anggota Dewan Perwakilan Rakyat yang dipilih dan yang diangkat.
+
+3. Perubahan terhadap Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Rakyat Daerah sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 2 Tahun 1985 yang diatur dalam Undang-undang ini meliputi:
+
+a. Perubahan Pasal 10 ayat (3), bahwa jumlah anggota Dewan Perwakilan Rakyat yang ditetapkan 500 (lima ratus) orang, terdiri dari jumlah anggota Dewan Perwakilan Rakyat yang dipilih 425 (empat ratus dua puluh lima) orang dan jumlah anggota Dewan Perwakilan Rakyat Daerah yang diangkat 75 (tujuh puluh lima) orang, dimaksudkan untuk menyesuaikan dengan perkembangan keadaan, dalam rangka lebih mengembangkan tatanan kehidupan politik yang berdasarkan demokrasi Pancasila, dengan tetap menjamin terlaksananya fungsi sosial politik ABRI sebagai stabilisator dan dinamisator.
+
+b. Perubahan Pasal 10 ayat (4) dimaksudkan untuk menegaskan bahwa anggota Dewan Perwakilan Rakyat yang diangkat, diambil dari golongan karya ABRI, yang ditetapkan oleh Presiden atas usul Panglima Angkatan Bersenjata.
+
+4. Kemudian apabila ada ketentuan atau perkataan/kata dalam Undang-undang ini akan dinyatakan diubah, diganti, atau dihapus, maka ketentuan atau perkataan/kata tersebut dalam Penjelasannya juga diubah, diganti, atau dihapus.
+
+5. Untuk memudahkan masyarakat memahami dan menggunakan Undang-undang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah, maka Pasal-pasal dalam Undang-undang Nomor 16 Tahun 1969 yang telah diubah dengan Undang-undang Nomor 5 Tahun 1975, Undang-undang Nomor 2 Tahun 1985 dan Undang-undang ini, disusun dalam satu Naskah.
+
+PASAL DEMI PASAL
+
+#### Pasal I
+
+Cukup jelas
+
+#### Pasal II
+
+Dengan berlakunya Undang-undang ini pada tanggal diundangkan, perubahan jumlah keanggotaan Dewan Perwakilan Rakyat yang dipilih dan yang diangkat dilaksanakan sejak Pemilihan Umum tahun 1997.
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3600

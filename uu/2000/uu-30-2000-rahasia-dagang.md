@@ -1,0 +1,433 @@
+---
+title: "Undang-Undang Nomor 30 Tahun 2000 tentang Rahasia Dagang"
+identifier: "UU No. 30 Tahun 2000"
+type: act
+jurisdiction: id
+language: id
+number: "30"
+year: 2000
+date: 2000-12-20
+promulgated: 2000-12-20
+in_force_from: 2000-12-20
+status: in_force
+status_basis: "BPK: Berlaku; Setneg: berlaku"
+gazette: "LN. 2000/ No. 242, TLN NO. 4044, LL SETNEG : 8 HLM"
+subject: "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN"
+source: "https://peraturan.bpk.go.id/Download/33395/UU%20Nomor%2030%20Tahun%202000.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45002"
+bpk_page: "https://peraturan.bpk.go.id/Details/45002"
+bpk_metadata_archived: "http://web.archive.org/web/20240427120443/https://peraturan.bpk.go.id/Details/45002"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=30&thn=2000"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 30 Tahun 2000 tentang Rahasia Dagang
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 30 TAHUN 2000
+
+TENTANG
+
+RAHASIA DAGANG
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa untuk memajukan industri yang mampu bersaing dalam lingkup perdagangan nasional dan internasional perlu diciptakan iklim yang mendorong kreasi dan inovasi masyarakat dengan memberikan perlindungan hukum terhadap Rahasia Dagang sebagai bagian dari sistem Hak Kekayaan Intelektual;
+
+b. bahwa Indonesia telah meratifikasi Agreement Establishing the World Trade Organization (Persetujuan Pembentukan Organisasi Perdagangan Dunia) yang mencakup Agreement an Trade Related Aspects of Intellectual Property Rights (Persetujuan TRIPs) dengan Undang-undang Nomor 7 Tahun 1994 sehingga perlu diatur ketentuan mengenai Rahasia Dagang;
+
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan b, perlu dibentuk Undang-undang tentang Rahasia Dagang;
+
+Mengingat : 1. Pasal 5 ayat (1), Pasal 20, dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+2. Undang-undang Nomor 7 Tahun 1994 tentang Pengesahan Agreement Establishing the World Trade Organization (Persatuan Pembentukan Organisasi Perdagangan Dunia), (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 57, Tambahan Lembaran Negara Republik Indonesia Nomor 3564);
+
+3. Undang-undang Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 33, Tambahan Lembaran Negara Republik Indonesia Nomor 3817).
+
+Dengan persetujuan
+
+DEWAN PERWAKILAN RAKYATA REPUBLIK INDONESIA
+
+MEMUTUSKAN
+
+Menetapkan : UNDANG-UNDANG TENTANG RAHASIA DAGANG
+
+## BAB I — KETENTUAN UMUM
+
+##### Pasal 1
+
+Dalam Undang-undang ini yang dimaksud dengan:
+
+1. Rahasia Dagang adalah informasi yang tidak diketahui oleh umum di bidang teknologi dan/atau bisnis, mempunyai nilai ekonomi karena berguna dalam kegiatan usaha, dan dijaga kerahasiaannya oleh pemilik Rahasia Dagang.
+
+2. Hak Rahasia Dagang adalah hak atas rahasia dagang yang timbul berdasarkan Undang-undang ini.
+
+3. Menteri adalah Menteri yang membawahkan Departemen yang salah satu lingkup tugas dan tanggung jawabnya meliputi bidang Hak Kekayaan Intelektual, termasuk Rahasia Dagang.
+
+4. Direktorat Jenderal adalah Direktorat Jenderal Hak Kekayaan Intelektual yang berada di bawah Departemen yang dipimpin oleh Menteri.
+
+5. Lisensi adalah izin yang diberikan oleh pemegang Hak Rahasia Dagang kepada pihak lain melalui suatu perjanjian berdasarkan pada pemberian hak (bukan pengalihan hak) untuk menikmati manfaat ekonomi dari suatu Rahasia Dagang yang diberi perlindungan dalam jangka waktu tertentu dan syarat tertentu.
+
+## BAB II — LINGKUP RAHASIA DAGANG
+
+##### Pasal 2
+
+Lingkup perlindungan Rahasia Dagang meliputi metode produksi, metode pengolahan, metode penjualan, atau informasi lain di bidang teknologi dan/atau bisnis yang memiliki nilai ekonomi dan tidak diketahui oleh masyarakat umum.
+
+##### Pasal 3
+
+(1) Rahasia Dagang mendapat perlindungan apabila informasi tersebut bersifat rahasia, mempunyai nilai ekonomi, dan dijaga kerahasiaannya melalui upaya sebagaimana mestinya.
+
+(2) Informasi dianggap bersifat rahasia apabila informasi tersebut hanya diketahui oleh pihak tertentu atau tidak diketahui secara umum oleh masyarakat.
+
+(3) Informasi dianggap memiliki nilai ekonomi apabila sifat kerahasiaan informasi tersebut dapat digunakan untuk menjalankan kegiatan atau usaha yang bersifat komersial atau dapat meningkatkan keuntungan secaraekonomi.
+
+(4) Informasi dianggap dijaga kerahasiaannya apabila pemilik atau para pihak yang menguasainya telah melakukan langkah-langkah yang layak dan patut.
+
+## BAB III — HAK PEMILIK RAHASIA DAGANG
+
+##### Pasal 4
+
+Pemilik Rahasia Dagang memiliki hak untuk:
+
+a. menggunakan sendiri Rahasia Dagang yang dimilikinya;
+
+b. memberikan Lisensi kepada atau melarang pihak lain untuk menggunakan Rahasia Dagang atau mengungkapkan Rahasia Dagang itu kepada pihak ketiga untuk kepentingan yang bersifat komersial.
+
+## BAB IV — PENGALIHAN HAK DAN LISENSI
+
+### Bagian Pertama — Pengalihan Hak
+
+##### Pasal 5
+
+(1) Hak Rahasia Dagang dapat beralih atau dialihkan dengan:
+
+a. pewarisan;
+
+b. hibah;
+
+c. wasiat;
+
+d. perjanjian tertulis; atau
+
+e. sebab-sebab lain yang dibenarkan oleh peraturan perundang-undangan.
+
+(2) Pengalihan Hak Rahasia Dagang sebagaimana dimaksud dalam ayat (1) disertai dengan dokumen tentang pengalihan hak.
+
+(3) Segala bentuk pengalihan Hak Rahasia Dagang sebagaimana dimaksud dalam ayat (1) wajib dicatatkan pada Direktorat Jenderal dengan membayar biaya sebagaimana diatur dalam Undang-undang ini.
+
+(4) Pengalihan Hak Rahasia Dagang yang tidak dicatatkan pada Direktorat Jenderal tidak berakibat hukum pada pihak ketiga.
+
+(5) Pengalihan Hak Rahasia Dagang sebagaimana dimaksud dalam ayat (3) diumumkan dalam Berita Resmi Rahasia Dagang.
+
+### Bagian Kedua — Lisensi
+
+##### Pasal 6
+
+Pemegang Hak Rahasia Dagang berhak memberikan Lisensi kepada pihak lain berdasarkan perjanjian Lisensi untuk melaksanakan perbuatan sebagaimana dimaksud dalam Pasal 4, kecuali jika diperjanjikan lain.
+
+##### Pasal 7
+
+Dengan tidak mengurangi ketentuan sebagaimana dimaksud dalam pasal 6, pemegang Hak Rahasia Dagang tetap dapat melaksanakan sendiri atau memberikan Lisensi kepada pihak ketiga untuk melaksanakan perbuatan sebagaimana dimaksud dalam Pasal 4, kecuali jika diperjanjikan lain.
+
+##### Pasal 8
+
+(1) Perjanjian Lisensi wajib dicatatakan pada Direktorat Jenderal dengan dikenai biaya sebagaimana diatur dalam Undang-undang ini.
+
+(2) Perjanjian Lisensi Rahasia Dagang yang tidak dicatatkan pada Direktorat Jenderal tidak mempunyai akibat hukum terhadap pihak ketiga.
+
+(3) Perjanjian Lisensi sebagaimana dimaksud dalam ayat (1) diumumkan dalam Berita Rahasia Dagang.
+
+##### Pasal 9
+
+(1) Perjanjian Lisensi dilarang memuat ketentuan yang dapat menimbulkan akibat yang merugikan perekonomian Indonesia atau memuat ketentuan yang mengakibatkan persaingan usaha tidak sehat sebagaimana diatur dalam peraturan perundang-undangan yang berlaku.
+
+(2) Direktorat Jenderal wajib menolak pencatatan perjanjian Lisensi yang memuat ketentuan sebagaimana dimaksud dalam ayat(1).
+
+(3) Ketentuan mengenai pencatatan perjanjian Lisensi diatur dengan Keputusan Presiden.
+
+## BAB V — BIAYA
+
+##### Pasal 10
+
+(1) Pencatatan pengalihan hak dan pencatatan perjanjian Lisensi Rahasia Dagang dikenai biaya yang jumlahnya ditetapkan dengan Peraturan Pemerintah.
+
+(2) Ketentuan lebih lanjut mengenai persyaratan, jangka waktu, dan tata cara pembayaran biaya sebagiamana dimaksud dalam ayat (1) diatur dengan Keputusan Presiden.
+
+(3) Direktorat Jenderal dengan persetujuan Menteri dan Menteri Keuangan dapat mengelola sendiri biaya sebagaimana dimaksud dalam ayat (1) dan ayat (2) berdasarkan peraturan perundang-undangan yang berlaku.
+
+## BAB VI — PENYELESAIAN SENGKETA
+
+##### Pasal 11
+
+(1) Pemegang Hak Rahasia Dagang atau penerima Lisensi dapat menggugat siapa pun yang dengan sengaja dan tanpa hak melakukan perbuatan sebagaimana dimaksud dalam Pasal 4, berupa:
+
+a. gugatan ganti rugi; dan/atau
+
+b. penghentian semua perbuatan sebagaimana dalam Pasal 4.
+
+(2) Gugatan sebagiamana dimaksud dalam ayat (1) diajukan ke Pengadilan Negeri.
+
+##### Pasal 12
+
+Selain penyelesaian gugatan sebagaimana dimaksud dalam Pasal 11, para pihak dapat menyelesaikan perselisihan tersebut melalui arbitrase atau alternatif penyelesaian sengketa.
+
+## BAB VII — LELANGGARAN RAHASIA DAGANG
+
+##### Pasal 13
+
+Pelanggaran Rahasia Dagang juga terjadi apabila seseorang dengan sengaja mengungkapkan Rahasia Dagang, mengingkari kesepakatan atau mengingkari kewajiban tertulis atau tidak tertulis untuk menjaga Rahasia
+
+Dagang yang bersangkutan.
+
+##### Pasal 14
+
+Seseorang dianggap melanggar Rahasia Dagang pihak lain apabila ia memperoleh atau menguasai Rahasia Dagang tersebut dengan cara yang bertentangan dengan peraturan perundang-undangan yang berlaku.
+
+##### Pasal 15
+
+Perbuatan sebagiamana dimaksud dalam Pasal 13 tidak dianggap pelanggaran Rahasia Dagang apabila:
+
+a. tindakan pengungkapan Rahasia Dagang atau penggunaan ertahanan keamanan, kesehatan, atau keselamatan masyarakat;
+
+b. tindakan rekayasa ulang atas produk yang dihasilkan dari penggunaan Rahasia Dagang milik orang lain yang dilakukan semata-mata untuk kepentingan pengembangan lebih lanjut produk yang bersangkutan.
+
+## BAB VIII — PENYIDIKAN
+
+##### Pasal 16
+
+(1) Selain Penyidik Pejabat Polisi Negara Republik Indonesia, Penyidik Pejabat Pegawai Negari Sipil di lingkungan Departemen yang lingkup tugas dan tanggung jawababnya meliputi Hak Kekayaan Intelektual diberi wewenang khusus sebagai penyidik sebagaimana dimaksud dalam Udnang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana untuk melakukan penyidikan tindak pidana di bidang Rahasia Dagang.
+
+(2) Penyidik sebagaimana dimaksud dalam ayat (1) berwenang:
+
+a. melakukan pemeriksaan atas kebenaran pengaduan atau keterangan berkenaan dengan tindak pidana di bidang Rahasia Dagang;
+
+b. melakukan pemeriksaan terhadap pihak yang melakukan tindak pidana di bidang Rahasia Dagang;
+
+c. meminta keterangan dan bahan bukti dari para pihak sehubungan dengan peristiwa tindak pidana di bidang Rahasia Dagang;
+
+d. melakukan pemeriksaan atas pembukuan, pencatatan dan dokumen lain berkenaan dengan tindak pidana di bidang Rahasia Dagang;
+
+e. melakukan pemeriksaan ditempat tertentu yang diduga terdapat barang bukti pembukuan, pencatatan dan dokumen lain;
+
+f. melakukan penyitaan terhadap bahan dan/atau barang hasil pelanggaran yang dapat dijadikan bukti dalam perkara tindak pidana di bidang Rahasia Dagang; dan/atau
+
+g. meminta bantuan ahli dalam rangka pelaksanaan tugas penyidikan tindak pidana di bidang Rahasia Dagang.
+
+(3) Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud dalam ayat
+
+(1) dalam melaksanakan tugasnya memberitahukan dimulainya penyidikan dan melaporkan hasil penyidikannya kepada Penyidik Pejabat Polisi Negara Republik Indonesia.
+
+(4) Dalam hal penyidikan sudah selesai, Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud dalam ayat (1) menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia dengan mengingat ketentuan Pasal 107 Undang-undang Hukum Acara Pidana.
+
+## BAB IX — KETENTUAN PIDANA
+
+##### Pasal 17
+
+(1) Barangsiapa dengan sengaja dan tanpa hak menggunakan Rahasia Dagang pihak lain atau melakukan perbuatan sebagaimana dimaksud dalam pasal 13 atau Pasal 14 dipidana dengan pidana penjara paling lama 2 (dua) tahun dan/atau denda paling banyak Rp.300.000.000,00 (tiga ratus juta rupiah).
+
+(2) Tindak pidana sebagaimana dimaksud dalam ayat (1) merupakan delik aduan.
+
+## BAB X — KETENTUAN LAIN-LAIN
+
+##### Pasal 18
+
+Atas permintaan para pihak dalam perkara pidana ataupun perkara perdata, hakim dapat memerintahkan agar sidang dilakukan secara tertutup.
+
+## BAB XI — KETENTUAN PENUTUP
+
+##### Pasal 19
+
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 20 Desember 2000
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+ABDURRAHMAN WAHID
+
+Diundangkan di Jakarta pada tanggal 20 Desember 2000
+
+SEKRETARIAT NEGARA REPUBLIK INDONESIA,
+
+ttd.
+
+DJOHAN EFFENDI
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2000 NOMOR 242
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 30 TAHUN 2000
+
+TENTANG
+
+RAHASIA DAGANG
+
+### I.   UMUM
+
+Sebagai negara berkembang, Indonesia perlu mengupayakan adanya persaingan yang tangguh di kalangan dunia usaha. Hal itu sejalan dengan kondisi di bidang perdagangan dan investasi. Daya saing semacam itu telah lama dikenal dalam sistem Hak Kekayaan Intelektual, misalnya Paten.
+
+Dalam Paten, sebagai imbalan atas hak ekslusif yang diberikan oleh negara, penemu harus mengungkapkan temuan atau invensinya. Namun, tidak semua penemu atau kalangan pengusaha bersedia mengungkapkan temuan atau invensinya itu. Mereka ingin tetap menjaga kerahasiaan karya intelektual mereka. Di Indonesia, masalah kerahasiaan itu terdapat di dalam beberapa aturan yang terpisah, yang belum merupakan satu sistem aturan terpadu.
+
+Kebutuhan akan perlindungan hukum terhadap Rahasia Dagang sesuai pula dengan salah satu ketentuan dalam Agreement on Trade Related Aspects of Intellectual Property Ringhts (Persetujuan TRIPs) yang merupakan lampiran dari Agreement Establishing the World Trade Organization (Persetujuan Pembentukan Organisasi Perdagangan Dunia), sebagaimana telah diratifikasi oleh Indonesia dengan Undang-undang Nomor 7 Tahun 1994, Adanya perlindungan tersebut akan mendorong lahirnya temuan atau invensi baru yang meskipun diperlakukan sebagai rahasia, tetap mendapat perlindungan hukum, baik dalam rangka kepemilikan, pengusaan maupun pemanfaatannya oleh penemuanya.
+
+Untuk mengelola administrasi Rahasia Dagang pada saat ini Pemerintah menunjuk Departemen Kehakiman dan Hak Asasi Manusia c.q.
+
+Direktorat Jenderal Hak Kekayaan Intelektual untuk melakukan pelayanan di bidang Hak Kekayaan Intelektual. Mengingat cukup luasnya tugas dan tanggung jawab tersebut, tidak tertutup kemungkinan pada waktu yang akan datang, Direktorat Jenderal yang membidangi Hak Kekayaan Intelektual ini berkemang menjadi suatu badan lain yang bersifat mandiri dilingkungan Pemerintah, termasuk mandiri dalam pengelolaan keuangan.
+
+### II. PASAL DEMI PASAL
+
+#### Pasal 1
+
+Cukup jelas
+
+#### Pasal 2
+
+Cukup jelas
+
+#### Pasal 3
+
+Ayat (1)
+
+"Upaua-upaya sebagaimana mestinya" adalah semua langkah yang memuat ukuran kewajaran, kelayakan, dan kepatutan yang harus dilakukan.
+
+Misalnya, di dalam suatu perusahaan harus ada prosedur baku berdasarkan praktik umum yang berlaku di tempat-tempat lain dan/atau yang dituangkan ke dalam ketentuan internal perusahaan itu sendiri. Demikian pula dalam ketentuan internal perusahaan dapat ditetapkan bagaimana Rahasia Dagang itu dijaga dan siapa yang bertanggung jawab atas kerahasiaan itu.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas
+
+Ayat (4)
+
+Cukup jelas
+
+#### Pasal 5
+
+Ayat (1)
+
+Sebagai hak milik, Rahasia Dagang dapat beralih atau dialihkan kepada pihak lain, Peristiwa hukum tersebut dapat berlangsung antara lain dalam bentuk hibah, wasiat, atau pewarisan. Khusus untuk pengalihan hak atas dasar perjanjian, ketentuan ini menetapkan perlunya pengalihan hak tersebut dilakukan dengan akta. Hal itu penting mengingat begitu luas dan peliknya aspek yang dijangkau.
+
+Yang dimaksud dengan "sebab-sebab lain yang dibenarkan oleh peraturan perundang-udnangan" misalnya putusan pengadilan yang menyangkut kepailitan.
+
+Ayat (2)
+
+Yang dimaksud dengan "dokumen tentang pengalihan hak" adalah dokumen yang menunjukkan terjadinya pengalihan hak Rahasia Dagang.
+
+Namun, Rahasia Dagang itu sendiri tetap tidak diungkapkan.
+
+Ayat (3)
+
+Yang "wajib dicatatkan" pada Direktorat Jenderal hanyalah mengenai data yang bersifat administratif dari dokumen pengelihan hak dan tidak mencakup substansi Rahasia Dagang yang diperjanjikan.
+
+Ayat (4)
+
+Cukup jelas
+
+Ayat (5)
+
+Hal-hal yang diumumkan di dalam Berita Resmi Rahasia Dagang hanya mengenai data yang bersifat administratif dan tidak mencakup substansi Rahasi Dagang yang diperjanjikan.
+
+#### Pasal 6
+
+Berbeda dengan perjanjian yang menjadi dasar pengalihan Rahasia Dagang, Lisensi hanya memberikan hak secara terbatas dan dengan waktu yang terbatas pula. Dengan demikian, Lisensi hanya diberikan untuk pemakaian atau penggunaan Rahasia Dagnag dalam jangka waktu tertentu. Berdasarkan pertimbangan bahwa sifat Rahasia Dagang yang tertutup bagi pihak lain, pelaksanaan Lisensi dilakukan dengan mengirimkan atau memperbantukan secara langsung tenaga ahli yang dapat menjaga Rahasia Dagang itu.
+
+Hal itu berbeda, misalnya, dari pemberian bantuan teknis yang biasanya dilakukan dalam rangka pelaksanaan proyek, pengoperasian mesin baru atau kegiatan lain yang khusus dirancang dalam rangka bantuan teknik.
+
+#### Pasal 7
+
+Ketentuan ini dimaksudkan untuk menegaskan prinsip bahwa Lisensi bersifat non-eksklusif.
+
+Artinya, Lisensi tetap memberikan kemungkinan kepada pemilik ketiga lainnya. Apakah akan dibuat sebaliknya, hal ini harus dinyatakan secara tegas dalam perjanjian Lisensi tersebut.
+
+#### Pasal 8
+
+Ayat (1)
+
+Yang "wajib dicatatkan" pada Direktorat Jenderal hanyalah mengenai data yang bersifat administratif dari perjanjian Lisensi dan tidak mencakup subtansi Rahasia Dagang yang diperjanjikan.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Hal-hal yang diumumkan di dalam Berita Resmi Rahasia Dagng hanya mengenai data yang bersifat administratif dan tidak mencakup substansi Rahasia Dagang yang diperjanjikan.
+
+#### Pasal 9
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Pencatatan ditolak oleh Direktorat Jenderal apabila isi perjanjian Lisensi tersebut akan dapat menimbulkan akibat yang merugikan kepentingan ekonomi Indonesia. Misalnya, perjanjian tersebut mengatur kewajiban yang dapat dinilai tidak adil bagi penerima Lisensi, seperti menghalangi proses alih teknologi ke Indonesia.
+
+Ayat (3)
+
+Cukup jelas
+
+#### Pasal 10
+
+Cukup jelas
+
+#### Pasal 11
+
+Cukup jelas
+
+#### Pasal 12
+
+Yang dimaksud dengan "alternatif penyelesaian sengketa" adalah negosiasi, mediasi, konsiliasi, dan cara lain yang dipilih oleh para pihak sesuai dengan Undang-undang yang berlaku.
+
+#### Pasal 13
+
+Cukup jelas
+
+#### Pasal 14
+
+Cukup jelas
+
+#### Pasal 15
+
+Huruf a
+
+Cukup jelas
+
+Huruf b
+
+Yang dimaksud dengan "Rekayasa Ulang" (reverse engineering) adalah suatu tindakan analisis dan evaluasi untuk mengetahui informasi tentang suatu teknologi yang sudah ada.
+
+#### Pasal 16
+
+Cukup jelas
+
+#### Pasal 17
+
+Cukup jelas
+
+#### Pasal 18
+
+Cukup jelas
+
+#### Pasal 19
+
+Cukup jelas
+
+TANBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4044

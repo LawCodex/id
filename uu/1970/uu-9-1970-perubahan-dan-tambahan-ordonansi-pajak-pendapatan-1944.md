@@ -1,0 +1,190 @@
+---
+title: "Undang-Undang Nomor 9 Tahun 1970 tentang Perubahan dan Tambahan Ordonansi Pajak Pendapatan 1944"
+identifier: "UU No. 9 Tahun 1970"
+type: act
+jurisdiction: id
+language: id
+number: "9"
+year: 1970
+date: 1970-08-07
+promulgated: 1970-08-07
+in_force_from: 1970-08-07
+status: repealed
+status_basis: "BPK: Tidak Berlaku; BPK relation: dicabut dengan UU No. 6 Tahun 1983"
+repealed_by:
+  - "UU No. 6 Tahun 1983"
+amends:
+  - "UU No. 8 Tahun 1967"
+gazette: "LN. 1970, LL SETNEG : 4 HLM"
+subject: "PERPAJAKAN"
+source: "https://peraturan.bpk.go.id/Download/36626/UU%20Nomor%209%20Tahun%201970.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/47627"
+bpk_page: "https://peraturan.bpk.go.id/Details/47627"
+bpk_metadata_archived: "http://web.archive.org/web/20240919125507/https://peraturan.bpk.go.id/Details/47627"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 9 Tahun 1970 tentang Perubahan dan Tambahan Ordonansi Pajak Pendapatan 1944
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 9 TAHUN 1970
+
+TENTANG
+
+PERUBAHAN DAN TAMBAHAN ORDONANSI PAJAK PENDAPATAN 1944
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA.
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa garis besar politik perpajakan Negara dalam menghadapi pembangunan meliputi: peningkatan tabungan Pemerintah melalui peningkatan penerimaan, merangsang tabungan masyarakat, mendorong investasi dan produksi serta membantu redistribusi penghasilan ke arah yang lebih seimbang dan mudah di dalam administrasinya;
+
+b. bahwa dalam rangka itu perlu diadakan beberapa perubahan pada Ordonansi Pajak Pendapatan 1944.
+
+Mengingat : 1. Undang-Undang Dasar 1945 pasal 5 ayat (1), pasal 20 ayat (1) dan pasal 23 ayat (2);
+
+2. Ketetapan Majelis Permusyawaratan Rakyat Sementara No.
+
+XXIII/MPRS/1966.
+
+3. Ordonansi Pajak Pendapatan 1944, sebagaimana telah diubah dan ditambah terakhir dengan Undang-undang No. 8 tahun 1967 (Lembaran Negara tahun 1967 No. 18).
+
+Dengan persetujuan Dewan Perwakilan Rakyat Gotong Royong;
+
+MEMUTUSKAN :
+
+Menetapkan : UNDANG-UNDANG TENTANG PERUBAHAN DAN TAMBAHAN
+
+ORDONANSI PAJAK PENDAPATAN 1944.
+
+##### Pasal 1.
+
+Ordonansi Pajak Pendapatan 1944, sebagaimana telah diubah dan ditambah dan ditambah terakhir dengan Undang-Undang No. 8 tahun 1967 (Lembaran Negara tahun 1967 No. 18) diubah dan ditambah sebagai berikut :
+
+I. Pasal 2 ayat (2) huruf a dan b dihapuskan.
+
+II. Pasal 2e ayat (2) dihapuskan.
+
+III. Pasal 5a ayat (1) seluruhnya diubah sehingga berbunyi sebagai berikut : "Jika dalam melakukan peraturan-peraturan untuk menetapkan pendapatan bersih dalam sesuatu tahun dihitung kerugian, maka kerugian ini dikurangkan dari pendapatan bersih dalam 4 (empat) tahun berikutnya, dimulai dengan tahun pertama dari tahun-tahun itu".
+
+IV. A. Pasal 8 ayat (2) seluruhnya sehingga berbunyi sebagai berikut: "Pendapatan bersih yang melebihi batas pendapatan bebas pajak, seperti yang dimaksud pada ayat (1) pasal ini, disebut pendapatan sisa kena pajak, atas dasar mana pajak dihitung menurut tarip progresip antara 10% (sepuluh perseratus) dan 50% (lima puluh perseratus)".
+
+B. Pasal 8ayat (5) diubah seluruhnya sehingga berbunyi sebagai berikut : 'Lapisan-lapisan pendapatan sisa kena pajak dan 'tarip-tarip yang bersangkutan seperti dimaksud pada ayat (2) pasal ini ditetapkan oleh Menteri Keuangan".
+
+V. A. Pasal 8b ayat (1) diubah dan ditambah sebagai berikut: A.Titik pada akhir ketentuan ke-6 diubah menjadi titik-koma.
+
+B. Sesudah ketentuan ke-6 ditambahkan ketentuan baru "ke-7" yang berbunyi sebagai berikut:
+
+"ke-7, Keuntungan yang diperoleh berupa pemberian saham-saham baru atau penambahan nilai nominal saham-saham tanpa pemegang saham menyetor sesuatu, sepanjang pemberian saham-saham baru atau penambahan nilai nominal saham-saham itu dilakukan oleh badan usaha, dimana si penerima keuntungan memiliki saham-sahamnya, dalam rangka memperbesar jumlah modal sehubungan dengan penilaian kembali aktivita tetap yang dimaksud dalam pasal 3a Ordonansi Pajak Perseroan 1925.
+
+VI. Kata-kata :
+
+a. "Menteri luran Negara".
+
+b. "Pembantu Menteri Direktur Jenderal Pajak",
+
+c. "Kepala Jawatan Pajak"
+
+d. "Kepala Direktorat Pajak Langsung",
+
+e. "Kepala Inspeksi Keuangan",
+
+f. "batas pendapatan minimum kena pajak", yang terdapat dalam Ordonansi, masing-masing diubah menjadi:
+
+a. "Menteri Keuangan",
+
+b. "Direktur Jenderal Pajak",
+
+c. "Direktur Jenderal Pajak",
+
+d. "Direktur Jenderal Pajak",
+
+e. "Kepala Inspeksi Pajak",
+
+f. "batas pendapatan bebas pajak",
+
+##### Pasal 2.
+
+Undang-undang ini mulai berlaku pada hari diundangkan dan untuk pertama kali diberlakukan terhadap pengenaan pajak pendapatan tahun pajak 1970.
+
+Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta. pada tanggal 7 Agustus 1970.
+
+PRESIDEN REPUBLIK INDONESIA,
+
+SOEHARTO
+
+Jenderal T.N.I.
+
+Diundangkan di Jakarta pada tanggal 7 Agustus 1970.
+
+SEKRETARIS NEGARA REPUBLIK INDONESIA,
+
+ALAMSJAH
+
+Mayor Jenderal T.N.I
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG NOMOR 9 TAHUN 1970
+
+TENTANG
+
+PERUBAHAN DAN TAMBAHAN ORDONANSI PAJAK
+
+PENDAPATAN 1944.
+
+UMUM.
+
+Dalam rangka melaksanakan garis besar politik perpajakan Negara, maka perlu diadakan beberapa perubahan dalam Ordonansi Pajak Pendapatan 1944, yaitu mengenai:
+
+a. pencabutan ketentuan pembebasan pajak pendapatan atas laba yang diperoleh perusahaan pelayaran dan penerbangan asing dari pengangkutan orang dan barang dari dan ke pelabuhan (udara) di Indonesia;
+
+b. perpanjangan batas waktu kompensasi kerugian;
+
+c. penurunan tarip pajak pendapatan.
+
+PASAL DEMI PASAL.
+
+I. Pasal 2 ayat (2) huruf a dan b memuat pembebasan para wajib pajak luar negeri yang melakukan perusahaan pelayaran dan penerbangan dari dan ke pelabuhan (udara) di Indonesia.
+
+Ketentuan tersebut adalah sesuai dengan pasal 1a huruf a dan b (lama) dari Ordonansi Pajak Perseroan 1925, yang kini dihapuskan.
+
+Berhubung dengan itu, maka pasal 2 ayat (2) huruf a dan b (lama) itu perlu pula dihapuskan.
+
+II. Pasal 2e ayat (2) Ordonansi Pajak Pendapatan 1944, mengatur pengecualian dividen dari pendapatan, karena dalam Undang-undang Pajak Dividen 1959 pajak dividen dianggap sebagai pungutan akhir.
+
+Dengan perubahan Undang-undang Pajak Dividen 1959, maka pajak dividen pada asasnya tidak lagi bersifat pungutan akhir, tetapi akan diperhitungkan dengan pajak pendapatan yang terhutang atas seluruh pendapatan.
+
+Berhubung dengan itu ketentuan pasal 2e ayat (2) perlu dicabut.
+
+III. Pasal 5 ayat (1) mengatur kompensasi kerugian. Perpanjangan batas waktu kompensasi kerugian dari 2 menjadi 4 tahun, dilakukan agar ada persesuaian dengan perubahan yang telah dilakukan pada pajak perseroan.
+
+IV. Huruf A. Pasal 8 ayat (2) mengatur tarip pajak pendapatan. Untuk menciptakan suatu iklim yang lega bagi para wajib-pajak, tarip pajak pendapatan ditinjau kembali dengan menurunkan tarip pajak pendapatan yang semula berjumlah 15% (lima belas perseratus) hingga 50% (lima puluh perseratus) menjadi 10% (sepuluh perseratus) hingga 50% (lima puluh perseratus) di samping peningkatan batas pendapatan bebas pajak yang akan diatur dengan surat keputusan Menteri Keuangan.
+
+Huruf B. Besar kecilnya tekanan pajak pendapatan tidak saja tergantung pada penurunan tarip, tetapi juga pada susunan lapisan-lapisan pendapatan.
+
+Agar dapat tercapai suatu keringanan dalam besarnya beban pajak pendapatan yang sesuai dengan perkembangan keadaan, maka wewenang pengaturan tarip-tarip maupun lapisan-lapisan pendapatan sisa kena pajak perlu diserahkan kepada Menteri Keuangan.
+
+V. A. Cukup jelas.
+
+B. Keuntungan yang diperoleh berupa pemberian saham-saham baru atau penambahan nilai nominal saham-saham tanpa pemegang saham menyetor sesuatu pada asasnya termasuk dalam pengertian pendapatan yang dapat dipajaki dengan tarip biasa.
+
+Namun mengingat keuntungan tersebut di dalam hal ini erat hubungannya dengan suatu fasilitas fiskal dalam rangka menyehatkan nilai aktiva tetap badan-badan usaha yang termasuk sebagai subyek pajak perseroan (pasal 3a Ordonansi Pajak Perseroan 1925), maka sepantasnyalah keuntungan tersebut dikenakan tarip pajak tersendiri sebesar 10% (sepuluh perseratus).
+
+VI. Cukup jelas.
+
+#### Pasal 2.
+
+Cukup jelas.
+
+CATATAN
+
+Kutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA
+
+TAHUN 1970 YANG TELAH DICETAK ULANG

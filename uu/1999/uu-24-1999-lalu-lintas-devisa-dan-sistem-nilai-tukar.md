@@ -1,0 +1,323 @@
+---
+title: "Undang-Undang Nomor 24 Tahun 1999 tentang Lalu Lintas Devisa dan Sistem Nilai Tukar"
+identifier: "UU No. 24 Tahun 1999"
+type: act
+jurisdiction: id
+language: id
+number: "24"
+year: 1999
+date: 1999-05-17
+promulgated: 1999-05-17
+in_force_from: 1999-05-17
+status: in_force
+status_basis: "BPK: Berlaku; Setneg: sebagian"
+repeals:
+  - "UU No. 32 Tahun 1964"
+gazette: "LN. 1999/ No. 67, TLN NO. 3844, LL SETNEG : 5 HLM"
+subject: "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI"
+source: "https://peraturan.bpk.go.id/Download/33835/UU%20Nomor%2024%20Tahun%201999.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45335"
+bpk_page: "https://peraturan.bpk.go.id/Details/45335"
+bpk_metadata_archived: "http://web.archive.org/web/20240919134558/https://peraturan.bpk.go.id/Details/45335"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=24&thn=1999"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 24 Tahun 1999 tentang Lalu Lintas Devisa dan Sistem Nilai Tukar
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 24 TAHUN 1999
+
+TENTANG
+
+LALU LINTAS DEVISA DAN SISTEM NILAI TUKAR
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa kesinambungan pembangunan nasional harus dipelihara berdasarkan keadilan yangmerata dan diarahkan untuk terwujudnya perekonomian nasional yang bernafaskan kerakyatan, mandiri, andal dan mampu bersaing dalam kancah perekonomian internasional yang ditunjang dengan sistem devisa dan sistem nilai tukar yang dapat mendukung tercapinya stabilitas moneter guna mewujudkan masyarakat Indonesia yang adil dan makmur berdasarkan Pancasila dan Undang-Undang dasar 1945;
+
+b. bahwa devisa merupakan salah satu alat dan sumber pembiayaan yang penting bagi bangsa dan negara, oleh karena itu pemilikan dan penggunaan devisa serta sistem nilai tukar perlu diatur sebaik-baiknya untuk memperlancar lalu lintas perdagangan, investasi dan pembayaran dengan luar negeri;
+
+c. bahwa Undang-undang Nomor 32 Tahun 1964 tentang Peraturan Lalu Lintas Devisa sudah tidak sesuai lagi dengan tuntunan dan perkembangan keadaan, oleh karena itu perlu diadakan pembaruan;
+
+d. bahwa berdasarkan pertimbangan tersebut pada huruf a, huruf b dan huruf c perlu ditetapkan Undang-undang baru tentang Lalu Lintas Devisa dan Sistem Nilai Tukar;
+
+Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 37 Undang-Undang Dasar 1945;
+
+2. Undang-undang Nomor 23 Tahun 1999 tentang Bank Indonesia (Lembaran Negara Nomor 66 Tahun 1999, Tambahan Lembaran Negara Nomor 3843);
+
+Dengan Persetujuan
+
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+MEMUTUSKAN:
+
+Menetapkan : UNDANG-UNDANG TENTANG LALU LINTAS DEVISA DAN
+
+SISTEM NILAI TUKAR.
+
+## BAB I — KETENTUAN UMUM
+
+##### Pasal 1
+
+Dalam Undang-undang ini yang dimaksud dengan :
+
+1. Lalu Lintas Devisa adalah perpindahan aset dan kewajiban finansial antara penduduk dan bukan penduduk termasuk perpindahan aset dan kewajiban finansial luar negeri antar penduduk;
+
+2. Devisa adalah aset dan kewajiban finansial yang digunakan dalam transaksi internasional;
+
+3. Penduduk adalah orang, badan hukum, atau badan lainnya, yang berdomisili atau berencana berdomisili di Indonesia sekur (satu) tahun, termasuk perwakilan dan staf diplomatik Republik Indonesia di luar negeri;
+
+4. Sistem Nilai Tukar adalah sistem yang digunakan untuk pembetunkan harga mata uang rupiah terhadap mata uang asing.
+
+## BAB II — LALU LINTAS DEVISA
+
+##### Pasal 2
+
+(1) Setiap Penduduk dapat dengan bebas memiliki dan menggunakan Devisa.
+
+(2) Penggunaan Devisa sebagaimana dimaksud pada ayat (1) untuk keperluan transaksi di dalam negeri, wajib memperhatikan ketentuan mengenai alat pembayaran yang sah sebagaimana diatur dalam Undang-undang tentang Bank Indonesia.
+
+##### Pasal 3
+
+(1) Bank Indonesia berwenang meminta keterangan dan data mengenai kegiatan lalu lintas Devisa yang dilakukan oleh Penduduk.
+
+(2) Setiap Penduduk wajib memberikan keterangan dan data mengenai kegiatan Lalu Lintas Devisa yang dilakukannya, secara langsung atau melalui pihak lain yang ditetapkan oleh Bank Indonesia.
+
+(3) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan dengan peraturan Bank Indonesia.
+
+##### Pasal 4
+
+(1) Dalam rangka penerapan prinsip kehati-hatian, Bank Indonesia menetapkabn ketentuan atas berbagai jenis transaksi Devisa yang dilakukan oleh bank.
+
+(2) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bank Indonesia.
+
+## BAB III — SISTEM NILAI TUKAR
+
+##### Pasal 5
+
+(1) Bank Indonesia mengajukan Sistem Nilai Tukar untuk ditetapkan oleh Pemerintah.
+
+(2) Bank Indonesia melaksanakan kebijakan nilai tukar berdasarkan Sistem Nilai Tukar sebagaimana dimaksud pada ayat (1).
+
+(3) Pelaksaaan ketentuan sebagaimana dimaksud pada ayat (2) ditetapkan dengan Peraturan Bank Indonesia.
+
+## BAB IV — KETENTUAN PIDANA DAN SANKSI ADMINISTRATIF
+
+##### Pasal 6
+
+Barangsiapa dengan sengaja tidak memenuhi kewajiban sebagaimana dimaksud dalam Pasal 3 ayat (2) diancam dengan pidana denda sekurang-kurangnya Rp 250.000.000,00 (dua ratus lima puluh juta rupiah) dan paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
+
+##### Pasal 7
+
+(1) Dengan tidak mengurangi ketentuan pidana sebagaimana dimaksud dalam Pasal 6, Bank Indonesia berwenang menetapkan sanksi administratif terhadap Penduduk sebagaimana dimaksud dalam Pasal 3 ayat (2).
+
+(2) Sanksi administratif sebagaimana dimaksud pada ayat (1) dapat berupa :
+
+a. teguran tertulis; atau
+
+b. denda; atau
+
+c. pencabutan atau pembatalan izin usaha oleh instansi yang berwenang apabila pelanggaran dilakukan oleh badan usaha.
+
+(3) Ketentuan lebih lanjut mengenai sanksi administratif sebagaimana dimaksud pada ayat (2) ditetapkan dengan Peraturan Bank Indonesia.
+
+## BAB V — KETENTUAN PERALIHAN
+
+##### Pasal 8
+
+Dengan berlakunya Undang-undang ini, Undang-undang Nomor 32 Tahun 1964 tentang Peraturan Lalu Lintas Devisa (Lembaran Negara Tahun 1964 Nomor 131, Tambahan Lembaran Negara Nomor 2717) dinyatakan tidak berlaku.
+
+## BAB VI — KETENTUAN PENUTUP
+
+##### Pasal 9
+
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 17 Mei 1999
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+BACHARUDDIN JUSUF HABIBIE
+
+Diundangkan di Jakarta pada tanggal 17 Mei 1999
+
+MENTERI NEGARA SEKRETARIS NEGARA
+
+ttd.
+
+PROF. DR. H. MULADI, S.H.
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1999 NOMOR 67
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 24 TAHUN 1999
+
+TENTANG
+
+LALU LINTAS DEVISA DAN SISTEM NILAI TUKAR
+
+UMUM
+
+Pembangunan nasional yang dilaksanakan oleh Bangsa Indonesia untuk mewujudkan masyarakat adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945.
+
+Dalam mendorong pembangunan ekonomi nasional, salah satu alat dan sumber pembiayaan yang sangat penting adalah Devisa. Untuk meningkatkan Devisa tersebut, sejak tahun 1970 Pemerintah telah menerapkan sistem Devisa bebas.
+
+Penerapan sistem Devisa bebas tanpa diikuti dengan kebijakan pemantauan Lalu Lintas Devisa dan penentuan Sistem Nilai Tukar dapat menimbulkan dampak negatif bagi perekonomian nasional. Untuk mencegah dampak negatif tersebut, sistem Devisa perlu ditopang dengan undang-undang baru yang memadai, sekaligus menghapuskan ketidakpuasan hukum yang telah berlangsung selama ini dengan mencabut Undang-undang Nomor 32 Tahun 1964.
+
+Pelaksaaan kebijakan sistem Devisa dan Sistem Nilai Tukar dilakukan oleh Bank Indonesia sebagai otoritas moneter yang bertanggungjawab dalam memelihara kestabilan nilai rupiah. Upaya itu perlu didukung oleh suatu sistem pemantauan Lalu Lintas Devisa yang efektif.
+
+Untuk itu, Bank Indonesia diberi wewenang meminta keterangan dan data mengenai kegiatan Lalu Lintas Devisa dan menetapkan ketentuan mengenai kegiatan Devisa yang didasarkan atas prinsip kehati-hatian.
+
+PASAL DEMI PASAL
+
+#### Pasal 1
+
+Angka 1
+
+Cukup jelas
+
+Angka 2
+
+Cukup jelas
+
+Angka 3
+
+Cukup jelas
+
+Angka 4
+
+Cukup jelas
+
+#### Pasal 2
+
+Ayat (1)
+
+Yang dimaksud dengan bebas memiliki Devisa adalah bahwa Penduduk yang memperoleh dan memiliki devisa tidak wajib menjualnya kepada negara.
+
+Yang dimaksud dengan bebas menggunakan Devisa adalah bahwa Penduduk dapat secara bebas melakukan kegiatan Devisa antara lain untuk perdagangan internasional, transaksi di pasar uang, dan transaksi pasar modal.
+
+Ayat (2)
+
+Cukup jelas
+
+#### Pasal 3
+
+Ayat (1)
+
+Dalam melaksanakan kewenangannya Bank Indonesia secara aktif meminta keterangan dan data mengenai kegiatan Lalu Lintas Devisa yang dilakukan oleh Penduduk.
+
+Dalam hal keterangan dan data yang disampaikan diragukan kebenarannya, Bank Indonesia meneliti kebenaran keterangan dan data yang diminta tersebut, termasuk meminta bukti pembukuan, catatan, dan dokumen yang berkaitan dengan pelaporan kegiatan Lalu Lintas Devisa.
+
+Ayat (2)
+
+Keterangan dan data mengenai kegiatan lalu Lintas Devisa sekurang-kurangnya meliputi nilai dan jenis transaksi, tujuan atau maksud transaksi, pelaku transaksi, dan negara tujuan atau asal pelaku transaksi.
+
+Yang dimaksud dengan pihak lain adalah pihak-pihak yang terkait dalam kegiatan Lalu Lintas Devisa seperti bank, lembaga keuangan bukan bank, dan penyelenggara jasa transaksi internasional.
+
+Ayat (3)
+
+Pokok-pokok ketentuan yang akan ditetapkan dengan Peraturan Bank Indonesia memuat antara lain :
+
+a. Prosedur dan tata cara penyampaian keterangan dan data;
+
+b. pihak-pihak yang harus menyampaikan keterangan dan data;
+
+c. keterangan dan data mengenai kegiatan Lalu Lintas Devisa yang harus disampaikan;
+
+d. sanksi pelanggaran.
+
+#### Pasal 4
+
+Ayat (1)
+
+Yang dimaksud dengan prinsip kehati-hatian adalah salah satu upaya untuk meminimalkan risiko usaha dalam pengelolaan bank, baik melalui ketentuan yang ditetapkan oleh Bank Indonesia maupun ketentuan intern bank yang bersangkutan.
+
+Ayat (2)
+
+Pokok-pokok ketentuan yang akan ditetapkan dengan Peraturan Bank Indonesia antara lain dapat berupa :
+
+a. standar pedoman kebijakan dan prosedur keiatan transaksi Devisa;
+
+b. rasio posisi Devisa neto;
+
+c. pembatasan kerugian potensial dan aktual terhadap modal.
+
+#### Pasal 5
+
+Ayat (1)
+
+Penetapan Sistem Nilai Tukar sebagaimana dimaksud dalam ayat ini dilakukan dengan Keputusan Presiden Republik Indonesia.
+
+Bank Indonesia mengkaji Sistem Nilai Tukar yang diajukan kepada Pemerintah secaran hati-hati.
+
+Sistem Nilai Tukar tersebut antara lain berupa :
+
+a. Sistem Nilai Tukar tetap; atau
+
+b. Sistem Nilai Tukar mengambang; atau
+
+c. Sistem Nilai Tukar mengambang terkendali.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Pokok-pokok ketentuan yang akan ditetapkan dalam Peraturan Bank Indonesia antara lain berupa :
+
+a. develuasi atau revaluasi rupiah terhadap mata uang asing;
+
+b. penetapan nilai tukar harian serta penetapan lebar pita intervensi (intervention band);
+
+c. arah apresiasi atau depresiasi rupiah;
+
+d. kegiatan intervensi Bank Indonesia.
+
+#### Pasal 6
+
+Cukup jelas
+
+#### Pasal 7
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Yang dimaksud dengan denda adalah kewajiban untuk membayar uang dalam jumlah tertentu sebagai akibat tidak dipenuhinya ketentuan dalam Undang-undang ini. Sanksi denda ini dapat dikenakan terhadap pelanggaran antara lain atas keterlambatan, ketidaklengkapan, atau kelalaian penyampaian laporan.
+
+Ayat (3)
+
+Pokok-pokok ketentuan sanksi administratif yang akan ditetapkan dalam Peraturan Bank Indonesia memuat antara lain :
+
+a. tata cara pengenaan sanksi;
+
+b. jenis-jenis pelanggaran yang dapat dikenakan sanksi;
+
+c. besarnya denda.
+
+#### Pasal 8
+
+Cukup jelas
+
+#### Pasal 9
+
+Cukup jelas
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 3844
