@@ -74,8 +74,6 @@ II. Menetapkan : UNDANG-UNDANG TENTANG KETENTUAN-KETENTUAN
 
 POKOK PERS.
 
-BAB I….
-
 ## BAB I — KETENTUAN UMUM
 
 ##### Pasal 1.
@@ -180,7 +178,7 @@ Terhadap Pers Nasional tidak dikenakan sensor dan pemberedelan.
 
 ##### Pasal 11.
 
-Penerbitan pers yang bertentangan dengan Pancasila seperti halnya yang bertolak dari paham Komunisme/Marxisme-Leninisme dilarang. Pasal 12….
+Penerbitan pers yang bertentangan dengan Pancasila seperti halnya yang bertolak dari paham Komunisme/Marxisme-Leninisme dilarang.
 
 ##### Pasal 12.
 
@@ -265,8 +263,6 @@ b. tidak memusuhi revolusi Indonesia,
 c. disahkan oleh Pemerintah dan terdaftar pada Dewan Pers.
 
 (2) Ketentuan-ketentuan lebih lanjut mengenai wartawan asing diatur oleh Pemerintah bersama-sama dengan Dewan Pers.
-
-BAB VIII….
 
 ## BAB VIII — KETENTUAN PIDANA.
 
@@ -372,8 +368,6 @@ Cukup jelas.
 
 Cukup jelas.
 
-BAB III….
-
 BAB Ill. Pasal 6 dan 7.
 
 Pengertian ayat (I ) pasal 6 ini adalah bahwa Pemerintah bersama-sama dengan Dewan Pers membina pertumbuhan dan perkembangan Pers Nasional.
@@ -398,7 +392,7 @@ Penerbitan-penerbitan berkala Pemerintah yang bersifat informatoris dan keahlian
 
 #### Pasal 11.
 
-Jika sesuatu penerbitan pers isinya ternyata bertentangan dengan Pancasila, maka sesudah mendengar pertimbangan Dewan Pers, Pemerintah mengeluarkan suatu keputusan untuk melarang kelangsungan terbitnya. Pasal 12….
+Jika sesuatu penerbitan pers isinya ternyata bertentangan dengan Pancasila, maka sesudah mendengar pertimbangan Dewan Pers, Pemerintah mengeluarkan suatu keputusan untuk melarang kelangsungan terbitnya.
 
 #### Pasal 12.
 

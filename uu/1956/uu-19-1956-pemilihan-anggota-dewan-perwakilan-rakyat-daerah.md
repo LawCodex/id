@@ -527,8 +527,6 @@ Seorang pemilih yang turut mengemukakan calon dikeluarkan dari surat pencalonan,
 
 Pemeriksaan surat-surat-pencalonan dan keputusan-keputusan mengenai pengaduan-pengaduan tersebut dalam pasal 45 ayat 2 dan 3 harus selesai dalam waktu yang ditentukan dengan Peraturan Daerah, dengan mengingat ketentuan-ketentuan dalam Peraturan Pemerintah yang mengatur pelaksanaan undang-undang ini.
 
-Bagian VII….
-
 Bagian VII.
 
 Tentang Daftar-Calon. § 1. Tentang daftar-calon sementara

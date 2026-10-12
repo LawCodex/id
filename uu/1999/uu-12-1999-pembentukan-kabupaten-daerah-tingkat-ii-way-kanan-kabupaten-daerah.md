@@ -58,8 +58,6 @@ Mengingat : 1. Pasal 5 ayat (1), Pasal 18, dan Pasal 20 ayat (1) Undang-Undang D
 
 5. Undang-undang Nomor 4 Tahun 1999 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Tahun 1999 Nomor 24, Tambahan Lembaran Negara Nomor 3811);
 
-Dengan persetujuan
-
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
 MEMUTUSKAN :
@@ -724,8 +722,6 @@ b. Kecamatan Bantul.
 
 Dengan dibentuknya Kotamadya Daerah Tingkat II Metro, Kota Administratif Metro dalam wilayah Kabupaten Daerah Tingkat II Lampung Tengah dihapus.
 
-#### Pasal 8
-
 (1) Wilayah Kabupaten Daerah Tingkat II Way Kanan mempunyai batas-batas sebagai berikut :
 
 a. Sebelah utara berbatasan dengan Propinsi Daerah Tingkat I Sumatera Selatan;
@@ -869,8 +865,6 @@ m. Perindustrian dan Perdagangan;
 n. Tenaga Kerja;
 
 (3) Pelaksanaan penambahan atau pengurangan urusan sebagaimana dimaksud dalam ayat (1) dan ayat (2), diatur dengan Peraturan Pemerintah.
-
-BAB V
 
 KETENTUAN PERALIHAN
 

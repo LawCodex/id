@@ -67,8 +67,6 @@ Agar supaya setiap orang dapat mengetahuinya memerintahkan pengundangan undang-u
 
 Disahkan di Jakarta pada tanggal 10 Juni 1961. Pejabat Presiden Republik Indonesia,
 
-JUANDA
-
 Diundangkan di Jakarta pada tanggal 10 Juni 1961.
 
 Pejabat Sekretaris Negara,

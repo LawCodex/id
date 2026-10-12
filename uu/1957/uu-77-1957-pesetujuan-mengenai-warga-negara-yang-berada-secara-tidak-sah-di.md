@@ -163,7 +163,7 @@ Pasal-pasal dalam persetujuan ini, yang mengenai pemecahan soal warga-negara yan
 
 Mereka yang berada di wilayah itu sesudah tanggal 23 Oktober 1954 harus direpatrier berdasar atas ketentuan-ketentuan dari pasal I.
 
-Pasal IV: Cukup jelas.
+Pasal IV:
 
 Pasal V:
 
@@ -207,7 +207,7 @@ Bilamana seorang pemegang KartuLalu Lintas Perbatasan melanggar suatu ketentuan 
 
 Pasal XII: Cukup jelas.
 
-Pasal XIII: Cukup jelas.
+Pasal XIII:
 
 Pasal XIV: Cukup jelas.
 

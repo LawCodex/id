@@ -807,8 +807,6 @@ Contoh:
 
 Jurusita Pajak dari Kantor Pelayanan Pajak Jakarta Menteng dapat melaksanakan penyitaan barang Penanggung Pajak yang berada di wilayah kerja Kantor Pelayanan Pajak Jakarta Pasar Minggu.
 
-Pasal 6….
-
 #### Pasal 6.
 
 Ayat (1)

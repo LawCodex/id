@@ -261,8 +261,6 @@ Untuk kepentingan umum, termasuk kepentingan bangsa dan Negara serta kepentingan
 
 Bagian II Pendaftaran tanah.
 
-##### Pasal 19.
-
 (1) Untuk menjamin kepastian hukum oleh Pemerintah diadakan pendaftaran tanah diseluruh wilayah Republik Indonesia menurut ketentuan-ketentuan yang diatur dengan Peraturan Pemerintah.
 
 (2) Pendaftaran tersebut dalam ayat (1) pasal ini meliputi:
@@ -491,8 +489,6 @@ d. badan hukum asing yang mempunyai perwakilan di Indonesia.
 
 Bagian VII. Hak sewa untuk bangunan.
 
-##### Pasal 44.
-
 (1) Seseorang atau suatu badan hukum mempunyai hak sewa atas tanah, apabila ia berhak mempergunakan tanah-milik orang lain untuk keperluan bangunan, dengan membayar kepada pemiliknya sejumlah uang sebagai sewa.
 
 (2) Pembayaran uang sewa dapat dilakukan
@@ -545,8 +541,6 @@ Bagian X. Hak guna ruang angkasa.
 
 Bagian XI Hak-hak tanah untuk keperluan suci dan sosial.
 
-##### Pasal 49.
-
 (1) Hak milik tanah badan-badan keagamaan dan sosial sepanjang dipergunakan untuk usaha dalam bidang keagamaan dan sosial, diakui dan dilindungi. Badan-badan tersebut dijamin pula akan memperoleh tanah yang cukup untuk bangunan dan usahanya dalam bidang keagamaan dan sosial.
 
 (2) Untuk keperluan peribadatan dan keperluan suci lainnya sebagai dimaksud dalam pasal 14 dapat diberikan tanah yang dikuasai langsung oleh Negara dengan hak pakai.
@@ -582,8 +576,6 @@ Hak tanggungan yang dapat dibebankan pada hak milik, hak guna-usaha dan hak guna
 (1) Hak-hak yang sifatnya sementara sebagai yang dimaksud dalam pasal 16 ayat (1) huruf h, ialah hak gadai, hak usaha bagi hasil, hak menumpang dan hak sewa tanah pertanian diatur untuk membatasi sifat-sifatnya yang bertentangan dengan Undang-undang ini dan hak-hak tersebut diusahakan hapusnya didalam waktu yang singkat.
 
 (2) Ketentuan dalam pasal 52 ayat (2) dan (3) berlaku terhadap peraturan-peraturan yang dimaksud dalam ayat (1) pasal ini.
-
-##### Pasal 54.
 
 Berhubung dengan ketentuan-ketentuan dalam pasal 21 dan 26, maka jika seseorang yang disamping kewarganegaraan Indonenesianya mempunyai kewarga-negaraan Republik Rakyat Tiongkok, telah menyatakan menolak kewarga-negaraan Republik Rakyat Tiongkok itu yang disahkan menurut peraturan perundangan yang bersangkutan, ia dianggap hanya berkewarga-negaraan Indonesia saja menurut pasal 21 ayat (1).
 
@@ -1321,8 +1313,6 @@ Untuk kepentingan umum, termasuk kepentingan bangsa dan Negara serta kepentingan
 
 Bagian II Pendaftaran tanah.
 
-##### Pasal 19.
-
 (1) Untuk menjamin kepastian hukum oleh Pemerintah diadakan pendaftaran tanah diseluruh wilayah Republik Indonesia menurut ketentuan-ketentuan yang diatur dengan Peraturan Pemerintah.
 
 (2) Pendaftaran tersebut dalam ayat (1) pasal ini meliputi:
@@ -1551,8 +1541,6 @@ d. badan hukum asing yang mempunyai perwakilan di Indonesia.
 
 Bagian VII. Hak sewa untuk bangunan.
 
-##### Pasal 44.
-
 (1) Seseorang atau suatu badan hukum mempunyai hak sewa atas tanah, apabila ia berhak mempergunakan tanah-milik orang lain untuk keperluan bangunan, dengan membayar kepada pemiliknya sejumlah uang sebagai sewa.
 
 (2) Pembayaran uang sewa dapat dilakukan
@@ -1605,8 +1593,6 @@ Bagian X. Hak guna ruang angkasa.
 
 Bagian XI Hak-hak tanah untuk keperluan suci dan sosial.
 
-##### Pasal 49.
-
 (1) Hak milik tanah badan-badan keagamaan dan sosial sepanjang dipergunakan untuk usaha dalam bidang keagamaan dan sosial, diakui dan dilindungi. Badan-badan tersebut dijamin pula akan memperoleh tanah yang cukup untuk bangunan dan usahanya dalam bidang keagamaan dan sosial.
 
 (2) Untuk keperluan peribadatan dan keperluan suci lainnya sebagai dimaksud dalam pasal 14 dapat diberikan tanah yang dikuasai langsung oleh Negara dengan hak pakai.
@@ -1642,8 +1628,6 @@ Hak tanggungan yang dapat dibebankan pada hak milik, hak guna-usaha dan hak guna
 (1) Hak-hak yang sifatnya sementara sebagai yang dimaksud dalam pasal 16 ayat (1) huruf h, ialah hak gadai, hak usaha bagi hasil, hak menumpang dan hak sewa tanah pertanian diatur untuk membatasi sifat-sifatnya yang bertentangan dengan Undang-undang ini dan hak-hak tersebut diusahakan hapusnya didalam waktu yang singkat.
 
 (2) Ketentuan dalam pasal 52 ayat (2) dan (3) berlaku terhadap peraturan-peraturan yang dimaksud dalam ayat (1) pasal ini.
-
-##### Pasal 54.
 
 Berhubung dengan ketentuan-ketentuan dalam pasal 21 dan 26, maka jika seseorang yang disamping kewarganegaraan Indonenesianya mempunyai kewarga-negaraan Republik Rakyat Tiongkok, telah menyatakan menolak kewarga-negaraan Republik Rakyat Tiongkok itu yang disahkan menurut peraturan perundangan yang bersangkutan, ia dianggap hanya berkewarga-negaraan Indonesia saja menurut pasal 21 ayat (1).
 

@@ -1127,8 +1127,6 @@ Dalam Undang-undang ini tidak ditentukan secara terperinci jabatan-jabatan apa d
 
 Umumnya dapatlah difahami, bahwa umpamanya tidaklah akan dibenarkan apabila Kepala Desapraja merangkap menjadi Kepala Daerah, karena kedua jabatan itu bukan saja mempunyai kekhusuan tanggung jawab akan kewenangan tugas dan kewajiban yang dibebankan kepadanya masing-masing, tetapi juga ada saling hubungan dalam hal pengawasan dan pimpinan, sehingga kedua jabatan tersebut mustahil dapat dirangkap oleh satu orang. Dapat pula difahami, bahwa umpamanya tidak akan dibenarkan apabila Kepala Desapraja menjadi pokrol yang membela perkara melawan Desapraja.
 
-Pasal 12….
-
 #### Pasal 12.
 
 Keberhentian karena berakhirnya masa jabatan harus tidak menyebabkan kekosongan penyelenggaraan urusan rumah tangga Desapraja, karena itu sebelum Kepala Desapraja yang baru dilantik dan menerima penyerahan jabatan, maka Kepala Desapraja yang lama harus tetap dalam jabatannya. Kalau kewenangan untuk mengngkat Kepala Desapraja yang ada pada Kepala Daerah tingkat I dapat dikuasakan kepada Kepala Daerah tingkat II yang bersangkutan (pasal 9 ayat 2), maka dalam hal pemberhentian Kepala Desapraja tidaklah demikian. Tegasnya, untuk menjaga adanya obyektivitas dalam hal pemberhentian seseorang Kepala Desapraja, maka tindakan tersebut hanya dapat dilakukan oleh Kepala Daerah tingkat I atas usul dari Kepala Daerah tingkat II yang bersangkutan.
@@ -1236,8 +1234,6 @@ Ayat (2) mengharuskan Badan Musyawarah Desapraja mengambil sesuatu keputusan den
 Dalam hal belum terdapat kata mufakat untuk mengambil sesuatu keputusan mengenai sesuatu soal, maka pembicaraannya dapat ditunda untuk memberi kesempatan mengadakan pembicaraan dari hasi kehati dilur rapat, juga memberi kesempatan kepada Pimpinan untuk mengadakan pembicaraan-pembicaraan informil guna mendapatkan titik-titik pertemuan dan persamaan pikiran. Jika usaha-usaha inipun belum memungkinkan untuk mencapai kata mufakat, sedang soal yang dibicarakan perlu ada keputusannya, maka keputusan atas soal tersebut diserahkan kepada Pimpinan, yaitu Ketua dan Wakil-wakil Ketua Badan Musyawarah Desapraja.
 
 Jika dengan jalan inipun belum juga tercapai kata mufakat, maka sebagai tindakan terakhir, keputusan atas persoalan tersebut diserahkan kepada Ketua untuk menetapkannya, mengingat bahwa Ketua Badan Musyawarah Desapraja adalah juga Kepala Desapraja sebagai penyelenggara utama urusan rumah-tangga Desapraja.
-
-Pasal 25….
 
 #### Pasal 25.
 

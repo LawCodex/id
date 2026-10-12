@@ -539,8 +539,6 @@ KETERANGAN :
 
 PRESIDEN REPUBLIK INDONESIA,
 
-ttd
-
 MEGAWATI SOEKARNOPUTRI
 
 LAMPIRAN 2
@@ -555,10 +553,6 @@ PETA KABUPATEN PAKPAK BHARAT
 
 KETERANGAN :
 
-++++++++ : Batas Provinsi +-+-+-+-+-+- : Batas Kabupaten -.-.-.-.-.-.-.-.- : Batas Kecamatan
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd
+++++++++ : Batas Provinsi +-+-+-+-+-+- : Batas Kabupaten -.-.-.-.-.-.-.-.- : Batas Kecamatan ttd
 
 MEGAWATI SOEKARNOPUTRI

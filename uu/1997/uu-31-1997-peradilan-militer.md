@@ -1464,8 +1464,6 @@ Dalam hal Oditur menerima satu berkas perkara yang memuat beberapa tindak pidana
 
 ##### Pasal 130
 
-##### Pasal 130
-
 (1) Penyerahan perkara oleh Perwira Penyerah Perkara sebagaimana dimaksud dalam Pasal 123 ayat (1) huruf f dilaksanakan oleh Oditur dengan melimpahkan berkas perkara kepada Pengadilan yang berwenang dengan disertai surat dakwaan.
 
 (2) Oditur membuat surat dakwaan yang diberi tanggal dan ditandatangani serta berisi:
@@ -1841,8 +1839,6 @@ b. orang sakit ingatan atau sakit jiwa meskipun kadang-kadang ingatannya baik ke
 ##### Pasal 168
 
 (1) Hakim Ketua memperlihatkan kepada Terdakwa dan apabila perlu juga kepada Saksi segala barang bukti dan menanyakan kepadanya apakah ia mengenal benda itu dengan memperhatikan ketentuan sebagaimana dimaksud dalam Pasal 94 serta menanyakan sangkut paut barang itu dengan perkara untuk memperoleh kejelasan tentang peristiwanya.
-
-(2) Apabila..
 
 (2) Apabila dianggap perlu untuk pembuktian, Hakim Ketua membacakan atau memperlihatkan surat atau berita acara yang bersangkut paut dengan barang bukti sebagaimana dimaksud pada ayat (1) kepada Terdakwa dan/atau Saksi, dan selanjutnya meminta keterangan seperlunya tentang hal itu.
 
@@ -3621,8 +3617,6 @@ d. Undang-undang Nomor 5 Pnps Tahun 1965 tentang Pembentukan Pengadilan Bersama 
 Dengan berakhirnya DWIKORA dan adanya Undang-undang Nomor 5 Tahun 1969, Undang-undang Nomor 5 Pnps Tahun 1965 perlu dicabut karena sudah tidak sesuai lagi dengan keadaan.
 
 Dalam rangka memenuhi kepentingan Angkatan Bersenjata untuk memelihara disiplin dan keutuhan pasukan serta penegakan hukum dan keadilan di daerah pertempuran yang bersifat mobil mengikuti gerakan pasukan, yang berwenang memeriksa dan mengadili tingkat pertama dan terakhir semua tindak pidana yang dilakukan oleh Prajurit yang terjadi di daerah pertempuran.
-
-Peradilan..
 
 Peradilan militer yang merupakan salah satu pelaksanaan kekuasaan kehakiman untuk memeriksa, memutus, dan menyelesaikan sengketa dalam bidang tata usaha Angkatan Bersenjata dan dalam soal-soal kepegawaian militer sebagaimana dinyatakan dalam Undang-undang Nomor 16 Tahun 1953 tentang Kedudukan Hukum Anggota Angkatan Perang dan Undang-undang Nomor 19 Tahun 1958 tentang Undang-undang Militer Sukarela ternyata belum terlaksana sampai kedua Undang-undang tersebut dicabut dengan Undang-undang Nomor 2 Tahun 1988 tentang Prajurit Angkatan Bersenjata Republik Indonesia.
 

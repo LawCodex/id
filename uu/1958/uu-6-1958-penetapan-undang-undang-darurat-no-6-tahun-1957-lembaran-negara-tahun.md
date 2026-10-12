@@ -51,8 +51,6 @@ c. Undang-undang No.29 tahun 1957 (Lembaran-Negara tahun 1957 No.101).
 
 Dengan persetujuan Dewan Perwakilan Rakyat:
 
-MEMUTUSKAN:
-
 Menetapkan : Undang-undang tentang penetapan "Undang-undang Darurat No.6 tahun 1957 tentang perubahan Undang-undang tentang pokok-pokok pemerintahan daerah 1956" (Lembaran-Negara tahun 1957 No.9), sebagai Undang-undang
 
 ##### Pasal I.

@@ -23,10 +23,6 @@ retrieved: 2026-10-12
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2013 tentang Perubahan Kedua Atas Undang-Undang Nomor 24 Tahun 2003 Tentang Mahkamah Konstitusi
 
-SATINAN
-
-PR E SIDE N
-
 PERATURAN PEMERINTAH
 
 PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA
@@ -47,10 +43,6 @@ Menimbang a. bahwa berdasarkan Pasal 24C ayat (5) Undang-Undang Dasar Negara Rep
 
 b. bahwa untuk menyelamatkan demokrasi dan negara hukum Indonesia serta untuk mengembalikan kewibawaan dan kepercayaan masyarakat terhadap Mahkamah Konstitusi sebagai lembaga negara yang menjalankan fungsi menegakkan Undang-Undang Dasar, perlu dilakukan perubahan terhadap Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 20ll tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi, terutama terhadap ketentuan mengenai syarat dan tata cara seleksi, pemilihan, dan pengajuan calon hakim konstitusi serta pembentukan majelis kehormatan hakim konstitusi;
 
-c. bahwa
-
-PR ESIDE N
-
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan pemerintah pengganti Undang-undang tentang perubahan Kedua Atas Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi;
 
 Mengingat 1. Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun l94S;
@@ -69,9 +61,7 @@ MAHKAMAH KONSTITUSI.
 
 ##### Pasal I
 
-Beberapa ketentuan dalam undang-undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2OOg Nomor 9g, Tambahan Lembaran Negara Republik Indonesia Nomor 4316), sebagaimana telah diubah dengan Undang_ undang Nomor 8 Tahun 2orl tentang perubahan Atas Undang-Undang Nomor 24 Tahun 2OO3 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2oLl Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor s226), diubah sebagai berikut:
-
-1 Ketentuan Pasal 1 angka 4 diubah dan ditambah 1
+Beberapa ketentuan dalam undang-undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2OOg Nomor 9g, Tambahan Lembaran Negara Republik Indonesia Nomor 4316), sebagaimana telah diubah dengan Undang_ undang Nomor 8 Tahun 2orl tentang perubahan Atas Undang-Undang Nomor 24 Tahun 2OO3 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2oLl Nomor 70, Tambahan Lembaran Negara Republik Indonesia Nomor s226), diubah sebagai berikut: 1 Ketentuan Pasal 1 angka 4 diubah dan ditambah 1
 
 (satu) angka, yakni angka S, sehingga pasal 1 berbunyi sebagai berikut:
 
@@ -89,8 +79,6 @@ c. pembubaran partai politik;
 
 d. perselisihan tentang hasil pemilihan umum; atau
 
-PR ESI DE N
-
 e. pendapat DPR bahwa presiden dan/atau Wakil Presiden diduga telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, pen5ruapan, tindak pidana berat lainnya, atau perbuatan tercela, dan/atau tidak lagi memenuhi syarat sebagai presiden dan/atau Wakil Presiden sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 194S. 4 Majelis Kehormatan Hakim Konstitusi adalah perangkat yang dibentuk oleh Mahkamah Konstitusi dan Komisi yudisial untuk menjaga kehormatan dan perilaku hakim konstitusi. 5 Panel Ahli adalah perangkat yang dibentr,rk oleh Komisi Yudisial untuk menguji kelayakan dan kepatutan calon hakim konstitusi yang diusulkan oleh Mahkamah Agung, DpR, dan Presiden.
 
 2 Ketentuan Pasal 15 ayat (2) huruf b dan huruf h diubah dan ditambah 1 (satu) huruf, yakni huruf i serta ayat (3) ditambah 1 (satu) huruf, yakni huruf f, sehingga Pasal 15 berbunyi sebagai berikut:
@@ -104,10 +92,6 @@ a. memiliki integritas dan kepribadian yang tidak tercela;
 b. adil; dan
 
 c. negarawan yang menguasai konstitusi dan ketatanegaraan.
-
-PR ESIDE N
-
-R EPUBLIK INDONESIA
 
 (2) Untuk dapat diangkat menjadi hakim konstitusi, selain harus memenuhi syarat sebagaimana dimaksud pada ayat (1), seorang calon hakim konstitusi harus memenuhi syarat:
 
@@ -135,8 +119,6 @@ a. surat pernyataan kesediaan untuk menjadi hakim konstitusi;
 
 b. daftar riwayat hidup;
 
-PR ESI DE N
-
 c. menyerahkan fotokopi ljazah yang telah dilegalisasi dengan menunjukkan ijazah asli;
 
 d. laporan daftar harta kekayaan serta sumber penghasilan calon yang disertai dengan dokumen pendukung yang sah dan telah mendapat pengesahan dari lembaga yang berwenang; dan
@@ -153,9 +135,7 @@ f. surat pernyataan tidak menjadi anggota partai politik.
 
 (2) Mahkamah Agung, DPR, dan/atau Presiden mengajukan calon hakim konstitusi kepada Panel Ahli masing-masing paling banyak 3 (tiga) kali dari jumlah hakim konstitusi yang dibutuhkan untuk dilakukan uji kelayakan dan kepatutan.
 
-(3) Panel Ahli menyampaikan calon hakim konstitusi yang dinyatakan lolos uji kelayakan dan kepatutan sebagaimana dimaksud pada ayat (21 sesuai dengan jumlah hakim konstitusi yang dibutuhkan ditambah 1 (satu) orang kepada Mahkamah Agung, DPR, dan/atau Presiden.
-
-(41 Dalam hal calon hakim konstitusi yang dinyatakan lolos uji kelayakan dan kepatutan kurang dari jumlah hakim konstitusi yang dibutuhkan, Mahkamah Agung, DpR, dan/atau Presiden mengajukan kembali calon hakim konstitusi lainnya paling banyak 3 (tiga) kali dari jumlah hakim konstitusi yang masih dibutuhkan.
+(3) Panel Ahli menyampaikan calon hakim konstitusi yang dinyatakan lolos uji kelayakan dan kepatutan sebagaimana dimaksud pada ayat (21 sesuai dengan jumlah hakim konstitusi yang dibutuhkan ditambah 1 (satu) orang kepada Mahkamah Agung, DPR, dan/atau Presiden. (41 Dalam hal calon hakim konstitusi yang dinyatakan lolos uji kelayakan dan kepatutan kurang dari jumlah hakim konstitusi yang dibutuhkan, Mahkamah Agung, DpR, dan/atau Presiden mengajukan kembali calon hakim konstitusi lainnya paling banyak 3 (tiga) kali dari jumlah hakim konstitusi yang masih dibutuhkan.
 
 (s) Dalam hal calon hakim konstitusi yang dinyatakan lolos uji kelayakan dan kepatutan sama dengan jumlah hakim konstitusi yang dibutuhkan, Mahkamah Agung, DpR, dan/atau Presiden dapat langsung mengajukannya kepada Presiden untuk ditetapkan, atau mengajukan tambahan paling banyak 3 (tiga) calon hakim konstitusi lainnya untuk diuji kelayakan dan kepatutan oleh Panel Ahli.
 
@@ -193,11 +173,7 @@ f. tidak menjadi anggota partai politik dalam jangka waktu paling singkat 5 (lim
 
 (4) Anggota Panel Ahli dilarang mencalonkan diri sebagai calon hakim konstitusi.
 
-(5) Ketentuan lebih lanjut mengenai tata cara pemilihan Panel Ahli sebagaimana dimaksud pada ayat (21 huruf d diatur dengan peraturan Komisi Yudisial.
-
-PR ESIDE N
-
-4 Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut:
+(5) Ketentuan lebih lanjut mengenai tata cara pemilihan Panel Ahli sebagaimana dimaksud pada ayat (21 huruf d diatur dengan peraturan Komisi Yudisial. 4 Ketentuan Pasal 20 diubah sehingga berbunyi sebagai berikut:
 
 **Pasal 20**
 
@@ -219,8 +195,6 @@ a. memasuki usia sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf c; atau
 
 b. berakhir masa jabatan sebagaimana dimaksud dalam Pasal 23 ayat (1) huruf d.
 
-PR ESIDE N
-
 (2) Dalam jangka waktu pating lama 14 (empat belas) hari kerja sejak Mahkamah Konstitusi menerima Keputusan presiden sebagaimana dimaksud dalam pasal 23 ayat (4), Mahkamah Konstitusi memberitahukan kepada lembaga yang berwenang sebagaimana dimaksud dalam Pasal 18 ayat (1) mengenai hakim konstitusi yang diberhentikan berdasarkan ketentuan sebagaimana dimaksud dalam pasal 23 ayat (1) huruf a, huruf b, huruf e, atau ayat (2).
 
 (3) Lembaga yang berwenang sebagaimana dimaksud pada ayat (1) dan ayat (2) mengajukan pengganti hakim konstitusi kepada Presiden sesuai dengan tata cara sebagaimana dimaksud dalam Pasal 18A.
@@ -238,8 +212,6 @@ PR ESIDE N
 **Pasal 27A**
 
 (1) Mahkamah Konstitusi bersama-sarna dengan Komisi Yudisial men5rusun dan menetapkan Kode Etik dan Pedoman perilaku Hakim Konstitusi yang berisi norma yang harus dipatuhi oleh setiap hakim konstitusi dalam menjalankan tugasnya untuk menjaga kehormatan dan perilaku hakim konstitusi.
-
-(2) Dalam
 
 (2) Dalam men5rusun Kode Etik dan pedoman Perilaku Hakim Konstitusi sebagaimana dimaksud pada ayat (1), Mahkamah Konstitusi dan Komisi Yudisial dapat mengikutsertakan pihak lain yang berkompeten.
 
@@ -261,11 +233,7 @@ d. 1 (satu) orang tokoh masyarakat.
 
 a. memiliki integritas dan kepribadian yang tidak tercela;
 
-b. adil;
-
-PR ESIDE N
-
--t2-
+b. adil; -t2-
 
 c. bemsia paling rendah 50 (lima puluh) tahun; dan
 
@@ -283,8 +251,6 @@ c. memberikan sanksi kepada hakim konstitusi yang terbukti melanggar kode etik.
 
 (9) Majelis Kehormatan Hakim Konstitusi bersidang secara terbuka untuk melakukan pemeriksaan dugaan adanya pelanggaran kode etik yang dilakukan oleh hakim konstitusi.
 
-(10) Ketentuan . .
-
 _13_
 
 (10) Ketentuan bersidang secara terbuka sebagaimana dimaksud pada ayat (9) tidak berlaku terhadap pemeriksaan yang terkait dengan perbuatan asusila dan pemeriksaan yang dapat mengganggu proses penegakkan hukum yang sedang bedalan.
@@ -298,10 +264,6 @@ _13_
 (14) Untuk mendukung pelaksanaan tugas Majelis Kehormatan Hakim Konstitusi dibentuk sekretariat yang berkedudukan di Komisi Yudisial dan dipimpin oleh Sekretaris Jenderal Komisi Yudisial.
 
 8 Bab VII Ketentuan Peralihan ditambah 1 (satu) pasal, yakni Pasal 87A sehingga berbunyi sebagai berikut:
-
-Pasal 87A. . ;
-
-R EPUBLIK INDONESIA
 
 **Pasal 87A**
 
@@ -320,8 +282,6 @@ Majelis Kehormatan Mahkamah Konstitusi tetap melaksanakan tugas sampai dengan te
 ##### Pasal II
 
 Peraturan Pemerintah pengganti Undang-Undang ini mulai berlaku pada tanggal diundangkan.
-
-Agar
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah Pengganti Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
@@ -350,8 +310,6 @@ Salinan sesuai dengan aslinya
 KEMENTE RIAN SEKRETARIAT NEGARA RI
 
 Bidang Perundang-undangan, hammad Sapta Murti
-
-PR ESIDEN
 
 ## PENJELASAN
 
@@ -429,10 +387,6 @@ Huruf g
 
 Cukup jelas.
 
-PR ESIDEN
-
-REPUBLIK INDONESlA
-
 Huruf h
 
 Cukup jelas
@@ -480,8 +434,6 @@ Cukup jelas.
 #### Pasal 18C
 
 Cukup jelas.
-
-PR ESI DE N
 
 Angka 4
 

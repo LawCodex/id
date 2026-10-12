@@ -241,8 +241,6 @@ b. Bahwa pada akhir waktu yang dimaksud dalam sub a, masing-masing yang bersangk
 
 Bagi anggota Angkatan Perang yang sebelum berlakunya undang-undang ini sudah diberhentikan dari dinas tentara dengan hormat, berlaku ketentuan-ketentuan dalam pasal 17, 18 dan 1 9.
 
-## BAB IX
-
 ## BAB IX — KETENTUAN PENUTUP
 
 **Pasal 22.**

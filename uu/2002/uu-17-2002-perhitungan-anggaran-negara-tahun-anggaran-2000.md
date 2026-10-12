@@ -442,10 +442,6 @@ Rp Rp 621.629. 727.512,00
 
 • 06 1 5 Ongkos perkara Rp 991.040. 729,00 061 9 Penerimaan kejaksaan da n Rp 11.220. 703.925,00 peradilan lainnya 0710 Pendapatan pendidikan Rp 7.971.369.764,00 071 1 Uang pendidikan Rp 3.683.969.372,00 0712 Uang ujian masuk, kenaikan Rp 3. 706.365.559,00 tingkat, dan akhir pendidikan 0713 Uang ujian untuk menjalankan Rp 57.493.000,00 praktek 071 9 Pendapatan pendidikan lainnya Rp 523. 54 1.833,00 0780 Pendapatan pendidikan swadana Rp 604. 755.627.475,00 0 78 1 Pendapatan pendidikan swadana Rp 604. 755.627.475,00 0810 Pendapatan kcmbali belanja tahun · Rp 179.757.894.291,00 anggaran berjalan 08 1 1 Pcnerimaan kembali belanja Rp 85.644.933. 166,00 pegawai pusat
 
-PRESIDEN
-
-REPUBLIK INDONESIA
-
 0812 Penerimaan kembali belanja Rp 21. 756.648. 972,00 daerah otonom 0813 Penerimaan kcmbali belanja Rp 50.585. 706. 785,00 pensiun 0814 Penerimaan kcmbali belanja rutin Rp 10.651.133.219,00 lainnya 0815 Penerimaan kernbali belanja Rp 1 1.119.4 72. 149,00 pembangunan rupiah murni
 
 • 0820 Pendapatan dari penerimaan kembali Rp 599.335.922.711,00 belanja tahun anggaran yang lalu 0821 Penerimaan kembali belanja Rp 67.334.191. 753,00 pegawai pusat 0822 Penerimaan kcmbali belanja Rp 3.014.469.225,00 pegawai otonom 0823 Penerimaan kernbali belanja Rp 5. 952. 669.4 76,00 pensiun 0824 Penerimaan kembali belanja rutin Rp 236.559.273.414,00 lainnya 0825 Pencrimaan kembali belanja Rp 286.4 75.318.843,00 pembangunan rupiah murni 0840 Pendapatan pelunasan piutang Rp 4.989.842.187.810,00 0841 Pendapatan pelunasan piutang Rp 4.989.842.187.810,00 0880 Pcndapatan lain-lain swadana Rp

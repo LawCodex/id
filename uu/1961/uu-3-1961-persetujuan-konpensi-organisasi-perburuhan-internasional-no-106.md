@@ -71,8 +71,6 @@ Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan undang-
 
 Disahkan di Jakarta pada tanggal 25 Pebruari 1961
 
-PRESIDEN REPUBLIK INDONESIA
-
 TTD
 
 SUKARNO

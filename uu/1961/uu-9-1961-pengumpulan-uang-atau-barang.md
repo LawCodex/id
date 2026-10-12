@@ -59,8 +59,6 @@ BARANG.
 
 Yang diartikan dengan pengumpulan uang atau barang dalam undang-undang ini ialah setiap usaha mendapatkan uang atau barang untuk pembangunan dalam bidang kesejahteraan sosial, mental/ agama/kerokhanian, kejasmanian dan bidang kebudayaan.
 
-##### Pasal 2.
-
 (1) Untuk menyelenggarakan pengumpulan uang atau barang sebagaimana dimaksud dalam pasal 1 diperlukan izin lebih dahulu dari pejabat yang berwenang.
 
 (2) Pengumpulan uang atau barang yang diwajibkan oleh hukum agama, hukum adat dan adat-sitiadat, atau yang diselenggarakan dalam, lingkungan terbatas, tidak memerlukan izin tersebut diatas.

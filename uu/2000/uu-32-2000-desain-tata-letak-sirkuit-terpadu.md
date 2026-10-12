@@ -234,8 +234,6 @@ c. membayar biaya Permohonan sebagaimana dimaksud dalam Pasal 10 ayat (1).
 
 ### Bagian Ketiga — Penarikan Kembali Permohonan
 
-##### Pasal 17
-
 Permintaan penarikan kembali Permohonan dapat diajukan secara tertulis kepada Direktorat Jenderal oleh Pemohon atau Kuasanya selama Permohonan tersebut belum mendapat keputusan.
 
 ### Bagian Keempat — Kewajiban Menjaga Kerahasiaan
@@ -293,8 +291,6 @@ e. sebab-sebab lain yang dibenarkan oleh peraturan perundang-undangan.
 (4) Pengalihan Hak Desain Tata Letak Sirkuit Terpadu yang tidak dicatatkan dalam Daftar Umum Desain Tata Letak Sirkuit Terpadu tidak berakibat hukum pada pihak ketiga.
 
 (5) Pengalihan Hak Desain Tata Letak Sirkuit Terpadu sebagaimana dimaksud dalam ayat (3) diumumkan dalam Berita Resmi Desain Tata Letak Sirkuit Terpadu.
-
-##### Pasal 24
 
 Pengalihan Hak Desain Tata Letak Sirkuit Terpadu tidak menghilangkan hak Pendesain untuk tetap dicantumkan nama dan identitasnya, baik dalam sertifikat Desain Tata Letak Sirkuit Terpadu, Berita Resmi Desain Tata Letak Sirkuit Terpadu maupun dalam Daftar Umum Desain Tata Letak Sirkuit Terpadu.
 

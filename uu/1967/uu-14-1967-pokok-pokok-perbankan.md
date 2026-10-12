@@ -598,7 +598,7 @@ e. Cakap/ahli;
 
 f. Adil;
 
-g. Tidak terlibat, baik langsung maupun tidak langsung dalam gerakan kontra Revolusi G-30S/PKI atau organisasi-organisasi terlarang lainnya. Dalam….
+g. Tidak terlibat, baik langsung maupun tidak langsung dalam gerakan kontra Revolusi G-30S/PKI atau organisasi-organisasi terlarang lainnya.
 
 Dalam mengangkat seseorang menjadi Direktur, harus diperhatikan pula, agar jangan sampai ia mempunyai kepentingan-kepentingan lain di luar bank yang dapat berlawanan dengan atau merugikan kepentingan bank.
 

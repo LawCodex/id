@@ -379,7 +379,7 @@ def process_item(item, max_files=12):
             cand = {"source": src, "parts": parts, "skipped": skipped, "garbage": round(g, 4)}
             if best is None or g < best["garbage"]:
                 best = cand
-            if g < 0.005:
+            if g < 0.01:
                 break  # good enough; otherwise also try the next source and keep the cleaner text
     res = {"key": key, "tried": tried, "compared": len(cands) > 1}
     if best:
@@ -439,7 +439,7 @@ def step_text(args):
             if not r.get("parts") and any("scanned" not in t.get("error", "") for t in r.get("tried", [])):
                 return False
             # poor OCR text and an untried alternative source
-            if r.get("parts") and r.get("garbage", 1) >= 0.005 and len(candidates(it)) > 1 \
+            if r.get("parts") and r.get("garbage", 1) >= 0.01 and len(candidates(it)) > 1 \
                     and len(r.get("tried", [])) + 1 < len(candidates(it)) and not r.get("compared"):
                 return False
             # retry if a source that was not tried is now available

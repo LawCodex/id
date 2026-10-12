@@ -179,8 +179,6 @@ MENYETOR DAN MELAPORKAN PAJAK YANG TERUTANG"
 
 5. Judul Bab III diubah, sehingga berbunyi sebagai berikut :
 
-"BAB III
-
 OBJEK PAJAK"
 
 6. Ketentuan Pasal 4 diubah, sehingga keseluruhan Pasal 4 berbunyi sebagai berikut :

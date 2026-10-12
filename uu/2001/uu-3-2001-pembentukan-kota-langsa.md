@@ -154,8 +154,6 @@ b. pengangkatan anggota Tentara Nasional Indonesia dan Kepolisian Republik Indon
 
 (3) Jumlah dan tata cara pengisian keanggotaan Dewan Perwakilan Rakyat Daerah Kota Langsa, sebagaimana dimaksud pada ayat (1), ditetapkan sesuai dengan peraturan perundang-undangan.
 
-##### Pasal 10
-
 (1) dengan terbentuknya kota Langsa, jumlah anggota Dewan Perwakilan Rakyat Daerah Kabupaten Langsa tidak berubah sampai dengan terbentuknya Dewan Perwakilan Rakyat Daerah sebagai hasil pemilihan umum berikutnya.
 
 (2) Anggota Dewan Perwakilan Rakyat Daerah Kabupaten Aceh Timur, yang keanggotaannya mewakili kecamatan yang termasuk dalam wilayah Kota Langsa dengan sendirinya menjadi anggota Dewan Perwakilan rakyat daerah Kota Langsa.
@@ -203,8 +201,6 @@ e. dokumen dan arsip yang karena sifatnya diperlukan oleh Kota Langsa.
 (2) Pelaksanaan penyerahan sebagaimana dimaksud pada ayat (1) selambat-lambatnya diselesaikan dalam waktu satu tahun, terhitung sejak pelantikan Penjabat Walikota Langsa.
 
 (3) Tata cara inventarisasi dan penyerahan sebagaimana dimaksud pada ayat (1), diatur oleh Menteri Dalam Negeri dan Otonomi Daerah sesuai dengan peraturan perundang-undangan.
-
-##### Pasal 15
 
 (1) pembiayaan yang diperlukan untuk pembentukan Kota Langsa, sebagaimana dimaksud dalam Pasal 2, dibebankan kepada Anggaran Pendapatan dan Belanja daerah Kabupaten Aceh Timur.
 

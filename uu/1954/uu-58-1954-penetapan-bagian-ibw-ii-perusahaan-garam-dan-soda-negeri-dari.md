@@ -51,8 +51,6 @@ Bagian IBW. II (Perusahaan Garam dan Soda Negeri) dari anggaran Republik Indones
 
 Undang-undang ini mulai berlaku pada hari diundangkan dan berlaku surut sampai pada tanggal 1 Januari 1952.
 
-Agar..
-
 Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan undang-undang ini dengan penempatan dalam Lembaran Negara Republik Indonesia.
 
 Disahkan di Jakarta pada tanggal 29 Nopember 1954.

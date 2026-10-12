@@ -51,8 +51,6 @@ Ekonomi No. 2/Ko. T.O.E. tertanggal 18 Mei 1962;
 
 5. Undang-undang Pengendalian Harga 1948 (Lembaran-Negara tahun 1948 No. 295);
 
-Memutuskan :
-
 Pertama : Mencabut "Undang-undang Pengendalian Harga 1948" (Lembaran-Negara tahun 1948 No. 295);
 
 Kedua : Menetapkan : "Peraturan Pemerintah Pengganti Undang-undang tentang Pengendalian Harga".

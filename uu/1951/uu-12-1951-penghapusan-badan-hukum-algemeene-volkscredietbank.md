@@ -57,8 +57,6 @@ b. Dewan Ekonomi Keuangan dalam sidangnya ke-II tahun 1951 tanggal 11 Januari 19
 
 Dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia.
 
-Memutuskan :
-
 Menetapkan : UNDANG-UNDANG TENTANG PENGHAPUSAN BADAN HUKUM
 
 "ALGEMEENE VOLKSCREDIETBANK".

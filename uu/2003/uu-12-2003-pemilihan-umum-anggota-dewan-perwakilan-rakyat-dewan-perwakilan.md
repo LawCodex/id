@@ -136,8 +136,6 @@ Pemilu dilaksanakan setiap 5 (lima) tahun sekali pada hari libur atau hari yang 
 
 (2) Pemilu untuk memilih anggota DPD dilaksanakan dengan sistem distrik berwakil banyak.
 
-(2) BAB II
-
 ## BAB II — PESERTA PEMILIHAN UMUM
 
 ### Bagian Pertama — Peserta Pemilihan Umum dari Partai Politik
@@ -1664,9 +1662,9 @@ d. KPU Kabupaten/Kota atas usul PPK apabila penundaan pelaksanaan Pemilu meliput
 
 ## BAB XIV — PENGAWASAN, PENEGAKAN HUKUM, DAN PEMANTAUAN PEMILIHAN UMUM
 
-### Bagian Pertama — Pengawasan
+### Bagian Pertama — Paragraf Pertama
 
-Paragraf Pertama Pengawas Pemilihan Umum
+Pengawas Pemilihan Umum
 
 ##### Pasal 120
 

@@ -67,8 +67,6 @@ SIPIL.
 
 Pada huruf c dari pasal 1 ayat 1 Undang-undang Nomor 21 tahun 1952 (Lembaran Negara tahun 1952 Nomor 78 jo. Lembaran Negara tahun 1957 Nomor 100), ditambah kata "Ketua" di muka kata-kata "Dewan Perwakilan Rakyat".
 
-##### Pasal 2.
-
 Huruf g dari pasal 1 ayat 1 Undang-undang Nomor 21 tahun 1961 (Lembaran Negara tahun 1952 Nomor 78 jo. Lembaran Negara tahun 1957 Nomor 100) dicabut dan diganti dengan huruf g baru yang berbunyi sebagai berikut:
 
 g. "Ketua/Pejabat Ketua Majelis Permusyawaratan Rakyat Sementara: yang mengenai pegawai yang dipekerjakan pada Majelis itu, kecuali yang tersebut dalam huruf a di atas".

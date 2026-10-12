@@ -473,8 +473,6 @@ PRESIDEN REPUBLIK INDONESIA
 
 ttd
 
-SOEHARTO
-
 Diundangkan di Jakarta pada tanggal 13 Oktober 1992
 
 MENTERI/SEKRETARIS NEGARA

@@ -56,8 +56,6 @@ Mengingat : 1. Pasal 5 ayat (1), Pasal 18, dan Pasal 20 ayat (1) Undang-Undang D
 
 5. Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Tahun 1969 Nomor 59, Tambahan Lembaran Negara Nomor 2915) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 5 Tahun 1995 (Lembaraan Negara Tahun 1995 Nomor 36, Tambahan Lembaran Negara Nomor 3600);
 
-Dengan persetujuan
-
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
 MEMUTUSKAN:

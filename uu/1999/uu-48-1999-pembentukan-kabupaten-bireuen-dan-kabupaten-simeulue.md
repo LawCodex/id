@@ -82,7 +82,7 @@ b. Kabupaten Aceh Utara adalah Daerah Otonom sebagaimana dimaksud dalam Undang-u
 
 c. Propinsi Daerah Istimewa Aceh adalah Daerah Otonom sebagaimana dimaksud dalam Undang-undang Nomor 24 Tahun 1956 tentang Pembentukan Daerah Otonom Propinsi Aceh dan Perubahan Peraturan Pembentukan Propinsi Sumatera Utara.
 
-## BAB II — PEMBENTUKAN, BATAS WILAYAH, DAN IBUKOTA
+PEMBENTUKAN, BATAS WILAYAH, DAN IBUKOTA
 
 ##### Pasal 2
 

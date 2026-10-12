@@ -47,8 +47,6 @@ Mengingat : 1. Instruksi Presiden Republik Indonesia No. Instr. 2/ko. T.O.E tahu
 
 4. Pasal 22 ayat (1) Undang-undang dasar.
 
-Memutuskan :
-
 Menetapkan : "Peraturan Pemerintah Pengganti Undang-undang tentang Penggunaan dan Pengawasan atas Penggunaan Dana-dana Investasi".
 
 ##### Pasal 1.

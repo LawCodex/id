@@ -180,7 +180,7 @@ Untuk memimpin jalannya pemerintahan di Kota Padang Sidempuan, dipilih dan disah
 
 (2) Walikota Administratif Padang Sidempuan diangkat sebagai penjabat Walikota Padang Sidempuan.
 
-### Bagian Ketiga — Perangkat Pemerintahan Daerah
+### Bagian Ketiga
 
 ##### Pasal 13
 
@@ -232,11 +232,7 @@ Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 21 Juni 2001
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd.
+Disahkan di Jakarta pada tanggal 21 Juni 2001 ttd.
 
 ABDURRAHMAN WAHID
 

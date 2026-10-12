@@ -55,8 +55,6 @@ Dengan Persetujuan
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA,
 
-MEMUTUSKAN :
-
 Menetapkan : UNDANG-UNDANG TENTANG PERUBAHAN KETIGA ATAS
 
 UNDANG-UNDANG NOMOR 7 TAHUN 1983 TENTANG PAJAK
@@ -1457,7 +1455,7 @@ Huruf b
 
 Contoh penghitungan pajak terutang untuk Wajib Pajak badan dalam negeri dan bentuk usaha tetap:
 
-Jumlah Penghasilan Kena Pajak Rp 250.000.000,00 Pajak Penghasilan terutang : 10% x Rp 50.000.000,00 = Rp 5.000.000,00 15% x Rp 50.000.000,00 = Rp 7.500.000,00 30% x Rp150.000.000,00 = Rp 45.500.000,00 _________________(+)
+Jumlah Penghasilan Kena Pajak Rp 250.000.000,00 Pajak Penghasilan terutang : 10% x Rp 50.000.000,00 = Rp 5.000.000,00 15% x Rp 50.000.000,00 = Rp 7.500.000,00 30% x Rp150.000.000,00 = Rp 45.500.000,00
 
 Rp 57.500.000,00 ------------------
 
@@ -1571,7 +1569,7 @@ Bendaharawan pemerintah termasuk bendaharawan pada Pemerintah Pusat, Pemerintah 
 
 Huruf c
 
-Dana pensiun atau badan lain seperti badan penyelenggara jaminan sosial tenaga kerja yang membayarkan uang pensiun, tunjangan hari tua, tabungan hari tua, dan pembayaran lain yang sejenis dengan nama apapun.
+penyelenggara jaminan sosial tenaga kerja yang membayarkan uang pensiun, tunjangan hari tua, tabungan hari tua, dan pembayaran lain yang sejenis dengan nama apapun.
 
 Dalam pengertian uang pensiun atau pembayaran lain termasuk tunjangan-tunjangan baik yang dibayarkan secara berkala ataupun tidak, yang dibayarkan kepada penerima pensiun, penerima tunjangan hari tua, penerima tabungan hari tua.
 

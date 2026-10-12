@@ -63,7 +63,7 @@ d. hasil tanah, ialah hasil usaha pertanian yang diselenggarakan oleh penggarap 
 
 e. petani, ialah orang, baik yang mempunyai maupun tidak mempunyai tanah yang mata pencaharian pokoknya adalah mengusahakan tanah untuk pertanian.
 
-## BAB II — PENGGARAP
+## BAB II
 
 ##### Pasal 2.
 

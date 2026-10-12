@@ -165,7 +165,7 @@ RUKAN
 
 8A.8. HOTEL DAN TOURISME.
 
-8A.8.1. Hotel dan Tourisrme. 8A.8.1.14.Eksploitasi tempat istirahat Pemerintah ............ 72.000,- 22.000,- - 8A.8A….
+8A.8.1. Hotel dan Tourisrme. 8A.8.1.14.Eksploitasi tempat istirahat Pemerintah ............ 72.000,- 22.000,- -
 
 8A.8A. PENERANGAN DAN HUBUNGAN UMUM.
 

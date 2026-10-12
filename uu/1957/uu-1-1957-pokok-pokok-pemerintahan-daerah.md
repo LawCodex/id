@@ -987,8 +987,6 @@ c. Gaji dan segala emolumenten dari Kepala Daerah,
 
 d. Kepala Daerah Istimewa.
 
-Ad. a….
-
 Ad. a.
 
 Sebagaimana telah dimaklumi, maka Undang-undang Republik Indonesia No.22 tahun 1948 itu pada dasarnya menghendaki suatu Pemerintahan Daerah yang bersifat collegiaal dan tidak menghendaki adanya "dualisme" dalam penyelenggaraan pemerintahan Daerah. Artinya ialah bahwa penyelenggaraan pemerintahan Daerah itu haruslah sepenuhnya dijalankan oleh Pemerintah Daerah sebagai badan pemerintahan yaitu DPRD. dan DPD. Kepala Daerah tidak merupakan suatu organ yang berdiri sendiri terlepas dari pada DPRD. dan DPD. dan tidak diperkenankan menjalankan pemerintahan sendiri.
@@ -1010,8 +1008,6 @@ Ad. c.
 Dari semua uraian tersebut di atas jelaslah, bahwa Kepala Daerah adalah alat dari Daerah yang bersangkutan. Berhubung dengan itu, maka berlainan daripada waktu yang telah lampau, maka penghasilan dan segala "emolumenten" yang melekat kepada jabatan Kepala Daerah tersebut akan ditetapkan oleh Daerah itu sendiri dengan peraturan daerah.
 
 Pengawasan preventief atas peraturan daerah yang mengatur hal tersebut di atas masih diperlukan, agar supaya dapat mencegah timbulnya discriminatie yang tidak sehat antara Daerah-daerah.
-
-Ad. d….
 
 Ad. d.
 

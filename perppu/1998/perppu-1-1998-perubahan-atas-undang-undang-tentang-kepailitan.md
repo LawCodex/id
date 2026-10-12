@@ -1248,7 +1248,7 @@ No. 3761
 
 UTANG-PIUTANG KEPAILITAN PERUSAHAAN
 
-Kreditur Debitur Kurator Balai Harta Peninggalan (Penjelasan atas Lembaran Negara Republik Indonesia Tahun 1998 Nomor 87).
+Kreditur Debitur Kurator Balai Harta Peninggalan (Penjelasan atas Lembaran Negara
 
 ## PENJELASAN
 

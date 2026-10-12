@@ -69,8 +69,6 @@ NEGARA TAHUN ANGGARAN 1991/92.
 
 (4) Perincian Perhitungan Pendapatan Negara, Belanja Negara, dan Sisa Anggaran Lebih sebagaimana dimaksud dalam ayat (1), ayat (2), dan ayat (3) adalah seperti tersebut pada Lampiran Undang-undang ini.
 
-##### Pasal 2
-
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.

@@ -75,8 +75,6 @@ KEDUA : UNDANG-UNDANG TENTANG KEDUDUKAN MPRS DAN DPR-
 
 GR MENJELANG PEMILIHAN UMUM.
 
-BAB I….
-
 ## BAB I — KETETAPAN UMUM.
 
 ##### Pasal 1.
@@ -92,8 +90,6 @@ BAB I….
 (1) MPRS terdiri dari anggota-anggota DPR-GR ditambah dengan utusan-utusan dari Daerah-daerah dan Golongan-golongan.
 
 (2) DPR-GR terdiri dari Golongan Politik dan Golongan Karya.
-
-BAB III….
 
 ## BAB III — KEANGGOTAAN MPRS DAN DPR-GR.
 
@@ -141,8 +137,6 @@ f. Menganjurkan seseorang jika ditentukan oleh sesuatu perundang-undangan.
 
 (2) Hak tersebut dalam ayat (1) huruf c diatur dengan Undang-undang.
 
-BAB V….
-
 ## BAB V — PIMPINAN MPRS DAN DPR-GR.
 
 ##### Pasal 7.
@@ -174,8 +168,6 @@ Bunyi sumpah/janji, dimaksud dalam pasal 9 adalah sebagai berikut:
 Saya bersumpah (berjanji) bahwa saya, untuk melakukan atau tidak melakukan sesuatu dalam jabatan ini, tiada sekali-kali akan menerima langsung atau tidak langsung dari siapapun juga sesuatu janji atau pemberian.
 
 Saya bersumpah (berjanji) bahwa saya, senantiasa akan menjunjung tinggi Amanat Penderitaan Rakyat, bahwa saya akan taat dan akan mempertahankan Pancasila sebagai dasar dan ideologi negara, Undang-Undang Dasar 1945, dan segala Undang-undang serta peraturan-peraturan lain yang berlaku bagi Negara Republik Indonesia, bahwa saya akan berusaha sekuat tenaga memajukan kesejahteraan Rakyat Indonesia dan bahwa saya akan setia pada Nusa, Bangsa dan Negara Republik Indonesia."
-
-Pasal 11….
 
 ##### Pasal 11.
 
@@ -243,8 +235,6 @@ e. Tidak memenuhi lagi syarat syarat menurut ketentuan dalam pasal 12 berdasarka
 
 f. Terkena larangan perangkapan jabatan menurut pasal 19.
 
-Pasal 17….
-
 ##### Pasal 17.
 
 Pemberhentian anggota karena tidak memenuhi lagi syarat pasal 12 ayat
@@ -263,8 +253,6 @@ Untuk penggantian anggota MPRS/DPR-GR yang berhenti antar-waktu menurut pasal 16
 
 (2) Pimpinan MPRS tidak dapat dirangkap dengan jabatan- jabatan tersebut dalam ayat (1).
 
-BAB X….
-
 ## BAB X — KEKEBALAN ANGGOTA-ANGGOTA MPRS/DPR-GR.
 
 ##### Pasal 20.
@@ -282,8 +270,6 @@ Bagi anggota MPRS/DPR-GR diadakan peraturan khuusus mengenai penangkapan, penaha
 ##### Pasal 22.
 
 Kedudukan protokoler dan Keuangan Pimpinan, Anggota-anggota MPRS/DPR-GR diatur oleh MPRS/DPR-GR bersama dengan Pemerintah.
-
-Pasal 23….
 
 ##### Pasal 23.
 
@@ -308,8 +294,6 @@ Peraturan tata-tertib MPRS/DPR-GR diatur sendiri oleh MPRS/DPR-GR.
 ##### Pasal 26.
 
 Segala peraturan perundang-undangan yang bertentangan dengan Undang-undang ini dinyatakan tidak berlaku.
-
-Pasal 27….
 
 ##### Pasal 27.
 
@@ -423,8 +407,6 @@ Yang dimaksud dengan "Golongan" ialah: Golongan Karya yang sekarang ada di MPRS.
 
 Ayat (2): Sesuai dengan ketentuan MPRS No. XI/MPRS/ 1966 tentang "Pemilihan Umum", maka DPR-GR terdiri dari golongan Politik dan Golongan Karya.
 
-BAB III….
-
 ## BAB III — KEANGGOTAAN MPRS DAN DPR-GR.
 
 ##### Pasal 3.
@@ -485,8 +467,6 @@ Cukup jelas
 
 Cukup jelas.
 
-Pasal 10….
-
 ##### Pasal 10.
 
 Pada waktu pengambilan sumpah/janji Pimpinan/Anggota MPRS/DPR-GR lazimnya dipakai kata-kata tertentu, sesuai dengan agama masing-masing. Untuk penganut agama Islam didahului dengan kata ,Demi Allah" dan untuk penganut agama Kristen/ Katholik dengan kata-kata "Semoga Tuhan menolong saya".
@@ -512,8 +492,6 @@ Yang dimaksud dengan terlibat secara tidak langsung dalam G-30-S/PKI ialah :
 Yang dimaksud dengan organisasi yang terlarang/terbubar dalam pasal ini ialah :
 
 Organisasi-organisasi yang tegas-tegas dinyatakan organisasi terlarang/terbubar dengan suatu peraturan perundang-undangan yang sah. Ketentuan-ketentuan ini tidak berlaku bagi mereka yang berdasarkan suatu peraturan perundang-undangan yang sah telah mendapat amnesti atau abolisi atau grasi.
-
-BAB VlII….
 
 BAB VlII.
 
@@ -543,8 +521,6 @@ Cukup jelas.
 
 Perlu dijelaskan, bahwa ketentuan-ketentuan mengenai penggantian anggota-anggota menurut pasal 15 ini dengan sendirinya harus didahului oleh pemberitahuan Pimpinan MPRS DPR-GR sehingga bila ada selisih pendapat antara anggota yang akan diganti dengan partai/organisasi massa yang bersangkutan, Pimpinan MPRS/DPR-GR dapat memberikan jasa-jasa baiknya. Namun demikian dalam taraf terakhir partai/organisasi massa-lah yang menentukan, dengan menghindarkan adanya tindakan yang sewenang-wenang.
 
-Pasal 16….
-
 ##### Pasal 16.
 
 Cukup jelas.
@@ -573,8 +549,6 @@ Pasal ini mengatur kebebasan mengeluarkan pendapat yang memang sayogyanya harus 
 
 Pasal ini menginginkan agar supaya anggota-anggota MPRS/ DPR-GR dapat leluasa melakukan tugasnya sebagai anggota MPRS/ DPR-GR dengan sebaik-baiknya, dan mendapat jaminan hukum sebagaimana mestinya.
 
-BAB XI….
-
 ## BAB XI — KEDUDUKAN DAN KEDUDUKAN KEUANGAN PIMPINAN/ANGGOTA MPRS/DPR-GR.
 
 ##### Pasal 22.
@@ -590,8 +564,6 @@ Mengingat kedudukan dan fungsinya sebagai MPR/DPR seperti dimaksudkan dalam Unda
 ##### Pasal 24.
 
 Cukup jelas.
-
-BAB XIII….
 
 ## BAB XIII — PERATURAN TATA-TERTIB.
 

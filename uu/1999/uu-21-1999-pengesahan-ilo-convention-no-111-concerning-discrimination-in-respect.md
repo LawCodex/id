@@ -80,8 +80,6 @@ Mengesahkan ILO Convention No. 111 concerning Discrimination in Respect of Emplo
 
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
-Agar ..
-
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
 Disahkan di Jakarta pada tanggal 7 Mei 1999

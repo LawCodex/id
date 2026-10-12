@@ -536,7 +536,7 @@ Cukup jelas
 
 Ayat (4)
 
-Penerimaan perpajakan sebesar Rp416.313.160.000.000,00 (empat ratus enam belas triliun tiga ratus tiga belas miliar seratus enam puluh juta rupiah) terdiri atas: (dalam rupiah)
+Penerimaan perpajakan sebesar Rp416.313.160.000.000,00 (empat ratus enam belas triliun tiga ratus tiga belas miliar seratus enam puluh juta rupiah) terdiri atas:
 
 #### Pasal 4
 

@@ -182,8 +182,6 @@ b. yang nilainya kurang dari Rp 10.000.000,00 (sepuluh juta rupiah), pembuktian 
 
 (2) Pidana bagi pegawai negeri atau penyelenggara negara sebagaimana dimaksud dalam ayat (1) adalah pidana penjara seumur hidup atau pidana penjara paling singkat 4 (empat) tahun dan paling lama 20 (dua puluh) tahun, dan pidana denda paling sedikit Rp 200.000.000,00 (dua ratus juta rupiah) dan paling banyak Rp 1.000.000.000,00 (satu miliar rupiah).
 
-Pasal 12 C
-
 (1) Ketentuan sebagaimana dimaksud dalam Pasal 12 B ayat (1) tidak berlaku, jika penerima melaporkan gratifikasi yang diterimanya kepada Komisi Pemberantasan Tindak Pidana Korupsi.
 
 (2) Penyampaian laporan sebagaimana dimaksud dalam ayat (1) wajib dilakukan oleh penerima gratifikasi paling lambat 30 (tiga puluh) hari kerja terhitung sejak tanggal gratifikasi tersebut diterima.
@@ -280,8 +278,6 @@ Disahkan di Jakarta pada tanggal 21 Nopember 2001
 
 PRESIDEN REPUBLIK INDONESIA,
 
-ttd
-
 MEGAWATI SOEKARNOPUTRI
 
 Diundangkan di Jakarta pada tanggal 21 Nopember 2001
@@ -354,7 +350,7 @@ Yang dimaksud dengan "penyelenggara negara" dalam Pasal ini adalah penyelenggara
 
 #### Pasal 6
 
-Cukup jelas Pasal 7 Cukup jelas Pasal 8 Cukup jelas Pasal 9 Cukup jelas
+Cukup jelas Pasal 7 Cukup jelas Pasal 8 Cukup jelas Pasal 9
 
 #### Pasal 10
 

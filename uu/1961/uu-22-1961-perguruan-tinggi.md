@@ -57,8 +57,6 @@ II. Menetapkan : UNDANG-UNDANG TENTANG PERGURUAN TINGGI.
 
 ## BAB I — KETENTUAN UMUM.
 
-##### Pasal 1.
-
 Perguruan Tinggi adalah lembaga ilmiah yang mempunyai tugas menyelenggarakan pendidikan dan pengajaran di atas perguruan tingkat menengah, dan yang memberikan pendidikan dan pengajaran berdasarkan kebudayaan kebangsaan Indonesia dan dengan cara ilmiah.
 
 ##### Pasal 2.
@@ -88,8 +86,6 @@ Kebebasan ilmiah dan kebebasan mimbar pada Perguruan Tinggi diakui dan dijamin s
 Hak berorganisasi bagi mahasiswa, pegawai dan pengajar dalam lingkungan Perguruan Tinggi diakui dan pelaksanaannya dapat diatur dengan Peraturan Pemerintah.
 
 ## BAB II — BENTUK, SUSUNAN DAN TUGAS.
-
-##### Pasal 6.
 
 Perguruan Tinggi dapat berbentuk :
 
@@ -186,8 +182,6 @@ b. Pada Perguruan Tinggi Negeri diberikan pendidikan agama sebagai mata pelajara
 (4) Susunan mata pelajaran, penyelenggaraan studium henerale dan ujian pada Perguruan Tinggi diatur dengan Peraturan Menteri.
 
 (5) Perguruan Tinggi mengusahakan terselenggaranya studi terpimpin.
-
-##### Pasal 10.
 
 (1) Kepada lulusan ujian Perguruan Tinggi diberikan gelar perguruan tinggi menurut tingkat kebulatan pelajarannya.
 
@@ -286,8 +280,6 @@ Setiap kali dianggap perlu, Menteri dapat mengadakan pertemuan dengan para Pimpi
 (2) Penyelenggaraan tehnis Perguruan Tinggi yang dimaksud dalam Ayat (1) dilakukan oleh Departemen yang bersangkutan, sedangkan mengenai segi-segi pendidikan umum serta kelengkapan dalam tenaga-tenaga pengajar Perguruan Tinggi tersebut dipimpin dan diawasi oleh Menteri.
 
 (3) Pelaksanaan penelitian sebagai dimaksud dalam Ayat (1) diselenggarakan sesuai dengan Ketetapan Majelis Permusyawaratan Rakyat Sementara Nomor II/MPRS/1960 BAB II, Pasal 2 Ayat (8) Lampiran A BAB I angka 32 dan 33.
-
-##### Pasal 20.
 
 (1) Pengangkatan, pemindahan dan pemberhentian pengajar Perguruan Tinggi Negeri diatur dengan Peraturan Pemerintah.
 
@@ -419,7 +411,7 @@ Undang-undang ini mulai berlaku pada hari diundangkan.
 
 Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatan dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 4 Desember 1961. Presiden Republik Indonesia,
+pada tanggal 4 Desember 1961. Presiden Republik Indonesia,
 
 SOEKARNO.
 

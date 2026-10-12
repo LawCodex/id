@@ -48,8 +48,6 @@ Mengingat : Pasal 5 ayat 1 dan pasal 20 ayat 1 Undang-undang Dasar;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong Royong;
 
-MEMUTUSKAN :..
-
 MEMUTUSKAN :
 
 Mencabut : 1. Undang-undang No. 36 tahun 1953 tentang Bank Tabungan Pos (Lembaran-Negara Tahun 1953 No. 86);

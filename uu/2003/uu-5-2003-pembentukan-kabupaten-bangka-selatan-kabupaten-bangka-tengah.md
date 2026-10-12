@@ -565,8 +565,6 @@ KETERANGAN :
 
 PRESIDEN REPUBLIK INDONESIA,
 
-ttd
-
 MEGAWATI SOEKARNOPUTRI
 
 LAMPIRAN 2
@@ -581,11 +579,7 @@ PETA KABUPATEN BANGKA TENGAH
 
 KETERANGAN :
 
-+-+-+-+-+-+- : Batas Kabupaten/Kota -.-.-.-.-.-.-.-.- : Batas Kecamatan
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd
++-+-+-+-+-+- : Batas Kabupaten/Kota -.-.-.-.-.-.-.-.- : Batas Kecamatan ttd
 
 MEGAWATI SOEKARNOPUTRI
 

@@ -101,8 +101,6 @@ Jikalau pada hari sidang yang ditentukan menurut pasal 7 terdakwa tidak hadir, m
 
 Dalam perkara tentang kejahatan yang diancam dengan hukuman mati, hukuman penjara seumur hidup dan setinggitingginya 20 tahun tidak dapat diadakan pemeriksaan diluar hadir terdakwa.
 
-##### Pasal 11.
-
 Untuk daerah diluar Jawa dan Madura perkataan:
 
 1. pasal 253 ayat 2 Herzein Inlandsch Reglement pada pasal 2 (1) Undang-undang ini harus dibaca : pasal 556 ayat 2 Rechtsreglement Buitengewesten.

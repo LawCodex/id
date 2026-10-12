@@ -1001,8 +1001,6 @@ Setiap orang yang mengoperasikan kapal perikanan di wilayah pengelolaan perikana
 
 (1) Nakhoda yang mengoperasikan kapal penangkap ikan berbendera asing yang tidak memiliki izin penangkapan ikan, yang selama berada di wilayah pengelolaan perikanan Republik Indonesia tidak menyimpan alat penangkapan ikan di dalam palka sebagaimana dimaksud dalam Pasal 38 ayat (1), dipidana dengan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
 
-(2) Nakhoda ..
-
 (2) Nakhoda yang mengoperasikan kapal penangkap ikan berbendera asing yang telah memiliki izin penangkapan ikan dengan 1 (satu) jenis alat penangkapan ikan tertentu pada bagian tertentu di ZEEI yang membawa alat penangkapan ikan lainnya sebagaimana dimaksud dalam Pasal 38 ayat (2), dipidana dengan pidana denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
 
 (3) Nakhoda yang mengoperasikan kapal penangkap ikan berbendera asing yang telah memiliki izin penangkapan ikan, yang tidak menyimpan alat penangkapan ikan di dalam palka selama berada di luar daerah penangkapan ikan yang diizinkan di wilayah pengelolaan perikanan Republik Indonesia sebagaimana dimaksud dalam Pasal 38 ayat (3), dipidana dengan pidana denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).

@@ -473,8 +473,6 @@ Penguasa Perang Daerah berhak mengadakan militerisasi terhadap suatu jawatan/per
 
 (2) Terhadap kehendak terakhir dimaksud dalam ayat (1) pasal ini dipergunakan sebagai pedoman ketentuan-ketentuan dalam pasal-pasal 949, 950, ayat kedua dan 953 Kitab Undang-undang Hukum Perdata.
 
-(3) Di tempat-tempat ..
-
 (3) Di tempat-tempat yang dimaksud ayat (1) pasal ini dapat juga dibuat kehendak terakhir dengan surat akte di bawah tangan, asal saja surat ini seluruhnya ditulis, diberi tanggal dan ditandatangani oleh yang meninggalkan waris.
 
 (4) Terhadap kehendak terakhir dimaksud dalam ayat (3) pasal ini dipergunakan sebagai pedoman ketentuan-ketentuan dalam pasal-pasal 952 dan 953 Kitab Undang-undang Hukum Perdata.

@@ -48,8 +48,6 @@ b. Pasal 97 dan pasal 89 Undang-undang Dasar Sementara Republik Indonesia;
 
 Dengan persetujuan Dewan Perwakilan Rakyat
 
-MEMUTUSKAN :
-
 Menetapkan : UNDANG-UNDANG TENTANG PENETAPAN "UNDANG-
 
 UNDANG DARURAT NO.17 TAHUN 1957 TENTANG

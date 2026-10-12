@@ -25,8 +25,6 @@ retrieved: 2026-10-12
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2008 tentang Jaring Pengaman Sistem Keuangan
 
-PRESIOE N
-
 PERATURAN PEMERINTAH
 
 PENGGANTI UNDANG.UNDANG REPUBLIK INDONESIA
@@ -70,8 +68,6 @@ REPUBLIK INOONESIA
 10. Undang-Undang Nomor 24 Tahun 2OO4 tentang Lembaga Penjamin Simpanan (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 96, Tambahan Lembaran Negara Republik Indonesia Nomor 4420), sebagaimana telah diubah dengan peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2008 tentang Perubahan Atas Undang-Undang Nomor 24 Tatrun 2004 tentang Lembaga penjamin Simpanan (l.embaran Negara Republik Indonesia Tahun 2OOg Nomor 143, Tambahan Lembaran Negara Republik Indonesia Nomor a9021;
 
 11. Undang-Undang Nomor 2L Tahun 2008 tentang Perbankan Syariah (Lembaran Negara Republik Indonesia Tahun 2OOB Nomor 94, Tambahan Lemba,ran Negara Republik Indonesia Nomor ag67);
-
-L2. Undang-Undang
 
 L2. Undang-undang Nomor 19 Tahun 2oog tentang Surat Berharga Syariah Negara (Lembaran Negara REpublik Indonesia Tahun 2008 Nomor TO, Tambahan Lembaran Negara Republik Indonesia Nomor ag12);
 
@@ -155,8 +151,6 @@ Dalam rangka melaksanakan fungsi penetapan kebijakan pencegahan dan penanganan K
 
 a. mengevaluasi skala dan dimensi permasalahan likuiditas dan/atau solvabilitas bank/LKBB yang ditengarai Berdampak Sistemik;
 
-b. menetapkan
-
 b. menetapkan permasalahan likuiditas dan/atau masalatr solvabilitas bank/LKBB Berdampak Sistemik atau Udak Berdampak Sistemik; dan c menetapkan langkah-langkah penanganan masalah bank/LKBB yang dipandang perlu dalam rangka pencegahan dan penanganan Krisis.
 
 **Pasal 8**
@@ -185,8 +179,6 @@ menetapkan keputusan.
 
 (4) Ketentuan lebih lanjut mengenai mekanisme rapat KSSK ditetapkan dengan keputusan KSSK.
 
-## BAB IV
-
 ## BAB IV — PENCEGAHAN KRISIS
 
 ### Bagian Kesatu — Penanganan Kesulitan Likuiditas Bank
@@ -214,8 +206,6 @@ Dengan diberikannya FPD kepada bank sebagaimana dimaksud dalam Pasal 11 ayat (2]
 a. mengambil atih hak dan wewenang Rapat Umum Pemegang Saham (RUPS) untuk mengganti sebagian atau seluruh direksi dan komisaris bank;
 
 b. menempatkan pihak yang mewakili Bank Indonesia sebagai direksi dan/atau komisaris bank; dan
-
-c. menempatkan
 
 c. menempatkan bank dimaksud. dalam status pengawasan khusus.
 
@@ -253,8 +243,6 @@ Apabila bank tidak dapat melunasi FPD dalam jangka waktu yang ditetapkan KSSK, B
 
 **Pasal 17**
 
-**Pasal 17**
-
 (1) Dalam hal bank penerima FPD dinyatakan sebagai Bank Gagal, berdasarkan keputusan KSSK:
 
 a. Pemerintah mengganti dana FPD yang belum dilunasi oleh bank penerima FPD kepada Bank Indonesia;
@@ -274,8 +262,6 @@ Yang Berdampak Sistemik
 LPS.
 
 (3) Dalam hal kondisi keuangan LPS tidak mencukupi untuk penanganan Bank Gagal sebagaimana dimaksud pada ayat (2), Pemerintah dapat memberikan pinjaman kepada LpS.
-
-Bagian Ketiga .
 
 ### Bagian Ketiga — Penanganan Kesulitan Likuiditas dan/atau
 
@@ -305,8 +291,6 @@ d. penambahan modal berupa penyertaan modal sementara kepada bank/LKBB yang meng
 
 (2) Pendanaan untuk pelaksanaan penanganan Krisis sebagaimana dimaksud pada ayat (1) huruf d menjadi beban Pemerintah.
 
-**Pasal 21 .**
-
 **Pasal 21**
 
 (1) Pemberian FPD kepada bank Berdampak Sistemik dalam kondisi Krisis dituangkan dalam perjanjian antara bank dan Bank Indonesia yang bertindak untuk dan atas narna Pemerintah, yang dilengkapi dengan:
@@ -329,8 +313,6 @@ Apabila bank tidak dapat melunasi FPD sebagaimana dimaksud dalam Pasal 20 ayat (
 
 (1) Dalam hal menurut penilaian KSSK kondisi Krisis dapat membahayakan perekonomian nasional, apabila diperlukan, KSSK berdasarkan rekomendasi Gubernur Bank Indonesia mengusulkan kepada presiden membentuk badan khusus sebagaimana dimaksud dalam Pasal 37A Undang-Undang tentang perbankan.
 
-(2) Pelaksanaan
-
 (2) Pelaksanaan penambahan modal berupa penyertaan modal sementara kepada bank/LKBB yang mengalami masalatr solvabilitas sebagaimana dimaksud dalam Pasal 20 ayat (1) huruf d dapat dilakukan oleh badan khusus berdasarkan penunjukan KSSK.
 
 **Pasal 25**
@@ -349,8 +331,6 @@ Pemerintatr dan Bank Indonesia dapat memberikan insentif dan/atau fasilitas dala
 
 (l) Sumber pendanaan Pemerintah untuk pencegahan dan penanganan Krisis berasal dari Anggaran Pendapatan dan Belanja Negara melalui penerbitan SBN atau tunai.
 
-(2) Menteri
-
 (2) Menteri Keuangan menetapkan . ketentuan dan persyaratan penerbitan SBN sebagaimana dimaksud pada ayat (1) berdasarkan hasil rapat antara Menteri Keuangan dan Gubernur Bank Indonesia dengan mempertimbangkan sustainabilitas Anggaran Pendapatan dan Belanja Negara, tingkat kesehatan neraca Bank Indonesia, dan efektivitas kebijakan moneter.
 
 dapat melakukan penerbitan SBN
@@ -364,8 +344,6 @@ dapat melakukan penerbitan SBN
 (6) Penggunaan dana Anggaran Pendapatan dan Belanja Negara untuk pencegahan dan penanganan Krisis sebagaimana dimaksud pada ayat (1) harus terlebih dahulu mendapat persetujuan dari Dewan perwakilan Ralryat.
 
 (7) Menteri Keuangan melaporkan penerbitan SBN sebagaimana dimaksud pada ayat (1) kepacla Dewan Perwakilan Ralryat paling lambat 30 hari kalender sejak penerbitan SBN.
-
-## BAB VIII
 
 ## BAB VIII — KETENTUAN LAIN.LAIN
 
@@ -386,10 +364,6 @@ Pada saat Peraturan Pemerintah pengganti Undang-undang ini mulai berlaku, semua 
 **Pasal 31**
 
 Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku pada tanggal diundangkan.
-
-Agar
-
-REPUBLTK INDONESIA
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah pengganti Undang-undang ini dengan penempatannya dalim Lembaran Negara Republik Indonesia.
 
@@ -473,8 +447,6 @@ Namun demikian, mengingat pengaturan dan pengawasan lembaga keuangan dan sistem 
 
 Pencegahan dan penanganan Krisis meliputi penanganan kesulitan likuiditas dan masalatr solvabilitas bank aan Lrgg y"rrg Berdampak Sistemik.
 
-**Pasal 4**
-
 -J-
 
 **Pasal 4**
@@ -517,8 +489,6 @@ Laporan oleh KSSK antara lain meliputi kondisi stabilitas sistem keuangan dan ti
 
 **Pasal 10**
 
-**Pasal 10**
-
 Ayat (1)
 
 Rapat KSSK diselenggarakan secara rutin untuk melakukan pembahasan perkembingan kondisi stabilitas sistem keuangan.
@@ -554,8 +524,6 @@ Cukup jelas.
 Ayat (5)
 
 Cukup jelas.
-
-**Pasal 12**
 
 **Pasal 12**
 
@@ -613,8 +581,6 @@ Cukup jelas.
 
 **Pasal 19**
 
-**Pasal 19**
-
 Cukup jelas.
 
 **Pasal 20**
@@ -662,8 +628,6 @@ Insentif yang dimalcsud pada ayat ini antara lain insentif fiskal dan fasilitas 
 Ayat (1)
 
 Cukup jelas.
-
-Ayat (2)
 
 Ayat (2)
 

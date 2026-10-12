@@ -1511,7 +1511,7 @@ l. pengaturan protokoler dan kode etik serta alat kelengkapan lembaga.
 
 ## BAB IX — KEKEBALAN, LARANGAN, DAN PENYIDIKAN TERHADAP ANGGOTA MPR, DPR, DPD, DPRD PROVINSI, DAN DPRD KABUPATEN/KOTA
 
-### Bagian Pertama — Kekebalan
+### Bagian Pertama
 
 ##### Pasal 103
 

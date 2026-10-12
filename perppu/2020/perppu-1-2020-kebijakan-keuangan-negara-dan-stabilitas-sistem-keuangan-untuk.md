@@ -40,8 +40,6 @@ retrieved: 2026-10-12
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan
 
-SATINAN
-
 PERATURAN PEMERINTAH
 
 PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA
@@ -250,9 +248,7 @@ b. pengenaan Pajak Penghasilan atau pajak transaksi elektronik atas kegiatan Per
 
 (2) Pengenaan.
 
-SK No 025235 A
-
-(21 Pengenaan Pajak Pertambahan Nilai atas pemanfaatan Barang Kena Pajak Tidak Berwujud danf atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean melalui Perdagangan Melalui Sistem Elektronik (PMSE) sebagaimana dimaksud pada ayat (1) huruf a mengikuti ketentuan sebagaimana dimaksud dalam Undang-Undang mengenai Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.
+SK No 025235 A (21 Pengenaan Pajak Pertambahan Nilai atas pemanfaatan Barang Kena Pajak Tidak Berwujud danf atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean melalui Perdagangan Melalui Sistem Elektronik (PMSE) sebagaimana dimaksud pada ayat (1) huruf a mengikuti ketentuan sebagaimana dimaksud dalam Undang-Undang mengenai Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah.
 
 (3) Pajak Pertambahan Nilai yang dikenakan atas pemanfaatan Barang Kena Pajak Tidak Berwujud dan/atau Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean sebagaimana dimaksud pada ayat l2l dipungut, disetorkan, dan dilaporkan oleh pedagang luar negeri, penyedia jasa luar negeri, Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) luar negeri, danf atau Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) dalam negeri, yang ditunjuk oleh Menteri Keuangan. (41 Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE) sebagaimana dimaksud pada ayat (3) merupakan pelaku usaha penyedia sarana komunikasi elektronik yang digunakan untuk transaksi perdagangan.
 
@@ -262,9 +258,7 @@ SK No 025235 A
 
 (7) Ketentuan
 
-SK No 025236 A
-
-(71 Ketentuan kehadiran ekonomi signifikan sebagaimana dimaksud pada ayat (6) berupa:
+SK No 025236 A (71 Ketentuan kehadiran ekonomi signifikan sebagaimana dimaksud pada ayat (6) berupa:
 
 a. peredaran bruto konsolidasi grup usaha sampai dengan jumlah tertentu;
 
@@ -330,13 +324,7 @@ a. atas pengajuan keberatan Wajib Pajak yang jatuh tempo pengajuan keberatan seb
 
 b. atas
 
-SK No 025240 A
-
-PRES IDEN
-
-REPUELIK INDONESIA
-
--t4-
+SK No 025240 A -t4-
 
 b. atas pengembalian kelebihan pembayaran pajak sebagaimana dimaksud dalam Pasal 11 ayat (2) Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 16 Tahun 2OO9 yang jatuh tempo pengembalian berakhir dalam periode keadaan kahar akibat pandemi Corona Vints Disease 2019 (COVID-19), jatuh tempo pengembalian tersebut diperpanjang paling lama 1 (satu) bulan;
 
@@ -416,13 +404,7 @@ Dalam rangka menjaga stabilitas sistem keuangan di tengah-tengah kondisi terjadi
 
 ##### Pasal 15
 
-SK No 025244 A
-
-PRES IDEN
-
-REPUBUK INDONESIA
-
-##### Pasal 15
+SK No 025244 A Pasal 15
 
 (1) Dalam rangka pelaksanaan kebijakan stabilitas sistem keuangan sebagaimana dimaksud dalam Pasal 14, Komite Stabilitas Sistem Keuangan yang selanjutnya disebut KSSK, diberikan kewenangan untuk:
 
@@ -504,8 +486,6 @@ b. rekomendasi Bank Indonesia dengan memperhatikan hasil penilaian yang dilakuka
 
 SK No 025248 A
 
-REPUELIK INDONESIA
-
 (3) Ketentuan lebih lanjut mengenai skema dan mekanisme pembelian Surat Utang Negara dan/atau Surat Berharga Syariah Negara di pasar perdana pada ayat (1) diatur bersama antara Menteri Keuangan dan Gubernur Bank Indonesia dengan mempertimbangkan:
 
 a. kondisi pasar Surat Utang Negara dan/atau Surat Berharga Syariah Negara;
@@ -546,11 +526,7 @@ d. merumuskan dan melaksanakan kebijakan penjaminan simpanan untuk kelompok nasa
 
 ##### Pasal 22
 
-SK No 023782 A
-
-REPUEUK INDONESIA
-
-##### Pasal 22
+SK No 023782 A Pasal 22
 
 (1) Untuk mencegah krisis sistem keuangan yang membahayakan perekonomian nasional, Pemerintah dapat menyelenggarakan program penjaminan di luar program penjaminan simpanan sebagaimana yang diatur dalam Undang-Undang mengenai lembaga penjamin simpanan.
 
@@ -568,13 +544,7 @@ b. menetapkan pengecualian bagi pihak tertentu dari kewajiban melakukan prinsip 
 
 c. menetapkan ketentuan mengenai pemanfaatan teknologi informasi dalam penyelenggaraan Rapat Umum Pemegang Saham atau rapat lain yang berdasarkan ketentuan peraturan perundang-undangan wajib dilakukan oleh pelaku industri jasa keuangan.
 
-SK No 025251 A
-
-PRES IDEN
-
-REPUBUK INDONESIA
-
-(21 Ketentuan lebih lanjut mengenai pelaksanaan kewenangan Otoritas Jasa Keuangan dalam rangka melaksanakan kebijakan stabilitas sistem keuangan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Otoritas Jasa Keuangan.
+SK No 025251 A (21 Ketentuan lebih lanjut mengenai pelaksanaan kewenangan Otoritas Jasa Keuangan dalam rangka melaksanakan kebijakan stabilitas sistem keuangan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Otoritas Jasa Keuangan.
 
 ### Bagian Kelima — Kewenangan dan Pelaksanaan Kebijakan oleh Pemerintah
 
@@ -590,11 +560,9 @@ Pemberian pinjaman oleh Pemerintah kepada Lembaga Penjamin Simpanan sebagaimana 
 
 SK No 025252 A
 
-PRES IDEN
+BAB IV
 
-REPUBUK INDONESIA
-
-## BAB IV — KETENTUAN SANKSI
+KETENTUAN SANKSI
 
 ##### Pasal 26
 
@@ -690,8 +658,6 @@ Salinan sesuai dengan aslinya KEMENTEzuAN SEKRETARIAT NEGARA ti Bidang Hukum dan
 
 SK No 023783 A
 
-REPUEUK INDONESIA
-
 ## PENJELASAN
 
 ATAS
@@ -726,11 +692,7 @@ Perkembangan pandemi Corona Vints Disease 2019 (COVID-19) juga berpotensi mengga
 
 Terganggunya
 
-SK No 023781 A
-
-PRES IDEN
-
-REPUtsLIK INDONESIA Terganggunya aktivitas ekonomi akan berimplikasi kepada perubahan dalam postur Anggaran Pendapatan dan Belanja Negara (APBN) Tahun Anggaran 2O2O baik sisi Pendapatan Negara, sisi Belanja Negara, maupun sisi Pembiayaan. Potensi perubahan APBN Tahun Anggaran 2O2O berasal dari terganggunya aktivitas ekonomi atau pun sebaliknya. Gangguan aktivitas ekonomi akan banyak berpotensi mengganggu APBN Tahun Anggaran 2O2O dari sisi Pendapatan Negara.
+SK No 023781 A Terganggunya aktivitas ekonomi akan berimplikasi kepada perubahan dalam postur Anggaran Pendapatan dan Belanja Negara (APBN) Tahun Anggaran 2O2O baik sisi Pendapatan Negara, sisi Belanja Negara, maupun sisi Pembiayaan. Potensi perubahan APBN Tahun Anggaran 2O2O berasal dari terganggunya aktivitas ekonomi atau pun sebaliknya. Gangguan aktivitas ekonomi akan banyak berpotensi mengganggu APBN Tahun Anggaran 2O2O dari sisi Pendapatan Negara.
 
 Respon kebijakan keuangan negara dan fiskal dibutuhkan untuk menghadapi risiko pandemi Corona Virus Disease 2019 (COVID-19), antara lain berupa peningkatan belanja untuk mitigasi risiko kesehatan, melindungi masyarakat dan menjaga aktivitas usaha. Tekanan pada sektor keuangan akan mempengaruhi APBN Tahun Anggaran 2O2O terutama sisi Pembiayaan.
 
@@ -890,11 +852,7 @@ Ayat (1)
 
 Yang dimaksud dengan "pengutamaan penggunaan alokasi anggaran untuk kegiatan tertentu (refoarcing)" termasuk kewenangan Pemerintah Daerah untuk melakukan perubahan alokasi antarprogram.
 
-SK No 025265 A
-
-PRES IDEN
-
-Ayat (21 Cukup jelas.
+SK No 025265 A Ayat (21 Cukup jelas.
 
 #### Pasal 4
 
@@ -977,8 +935,6 @@ Cukup jelas.
 Ayat (10) . .
 
 SK No 025267 A
-
-REPUELIK INDONESIA
 
 Ayat (10)
 
@@ -1142,13 +1098,7 @@ Huruf d
 
 Kelompok nasabah penyimpan berdasarkan kepemilikannya antara lain nasabah individu, Pemerintah Pusat/Daerah, dan Badanllembaga yang dibentuk oleh Undang-Undang untuk melakukan pengelolaan dana masyarakat.
 
-SK No 025271 A
-
-PRES IDEN
-
-REPUEUK INDONESIA
-
-Ayat (21 Cukup jelas.
+SK No 025271 A Ayat (21 Cukup jelas.
 
 Pasal 2 1 Cukup jelas
 

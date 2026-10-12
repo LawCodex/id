@@ -227,8 +227,6 @@ c. waktu dalam menjalani hukuman yang dijatuhkan oleh Pengadilan Tentara atau Pe
 
 Jika pada perhitungan masa kerja untuk penetapan tahun masa kerja ternyata terdapat kelebihan jumlah 6 (enam) bulan, maka hal ini dibulatkan ke atas menjadi 1 (satu) tahun; dan apabila kelebihan itu ternyata kurang dari 6 (enam) bulan, maka hal ini dihapuskan.
 
-BAB VII….
-
 ## BAB VII — MACAM PEMBAYARAN DAN BERAKHIRNYA PENSIUN, TUNJANGAN BERSIFAT PENSIUN DAN TUNJANGAN.
 
 ##### Pasal 9.
@@ -268,8 +266,6 @@ c. setelah diberhentikan dengan hak pensiun, tunjangan bersifat pensiun dan tunj
 (1) Hak pensiun, tunjangan bersifat pensiun atau tunjangan yang ditetapkan dalam Undang-undang ini tidak dapat dipindahtangankan dan/atau digadaikan.
 
 (2) Apabila penerima pensiun, tunjangan bersifat pensiun atau tunjangan memberi kuasa kepada orang lain untuk menerima pensiun, tunjangan bersifat pensiun atau tunjangannya, maka surat kuasa yang diserahkan kepada orang lain itu harus disertai surat keterangan hidup (attestasi de vita) yang disahkan oleh yang berwajib.
-
-BAB X….
 
 ## BAB X — ATURAN PERALIHAN
 
@@ -424,8 +420,6 @@ Cukup jelas,
 #### Pasal 9.
 
 Pensiun warakawuri dan tunjangan anak yatim/piatu akan diatur tersendiri dengan peraturan Pemerintah.
-
-Pasal 10….
 
 #### Pasal 10.
 

@@ -79,8 +79,6 @@ Pasal 1 1
 
 Peraturan Pemerintah pengg Undang_undang lnl mulai berlaku pada tanggal diundangkan. e
 
-Agar
-
 Agar setiap orang mengetahuinya memerintatrka, pengudangan Perahrran pemerintatr- pengganti undang-Lrdarrg ini denga, penempatannya dal;m Lembaran Negara Republik Indonesia.
 
 Ditetapkan di Jakarta pada tanggal 13 Okrober 200g
@@ -178,8 +176,6 @@ b. jangka waktu, tingkat suku bunga atau nisbah bagi hasil dan biaya lainnya;
 c. jenis agunan berupa surat berharga dan/atau tagihan yang mempunyai peringkat tinggi; dan
 
 d. tata cara pengikatan agunan.
-
-Ayat (a) ..
 
 Ayat (a)
 

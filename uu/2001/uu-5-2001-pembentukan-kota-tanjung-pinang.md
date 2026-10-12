@@ -186,8 +186,6 @@ Untuk memimpin jalannya pemerintahan di Kota Tanjung Pinang, dipilih dan disahka
 
 ### Bagian Ketiga — Perangkat Pemerintahan Daerah
 
-##### Pasal 13
-
 Untuk kelengkapan perangkat pemerintahan Kota Tanjung Pinang, dibentuk Sekretariat Dewan Perwakilan Rakyat Daerah Kota, Sekretariat Kota, Dinas Kota, dan Lembaga Teknis Kota Sesuai dengan peraturan perundang-undangan.
 
 ## BAB V — KETENTUAN PERALIHAN
@@ -241,8 +239,6 @@ Disahkan di Jakarta pada tanggal 21 Juni 2001
 PRESIDEN REPUBLIK INDONESIA
 
 ttd
-
-ABDURRAHMAN WAHID
 
 Diundangkan di Jakarta pada tanggal 21 Juni 2001
 

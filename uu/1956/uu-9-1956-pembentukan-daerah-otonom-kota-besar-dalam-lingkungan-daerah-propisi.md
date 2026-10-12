@@ -188,8 +188,6 @@ Semua pegawai Daerah yang diangkat oleh Pemerintah Daerah Kota-Bukittinggi, Pada
 
 Segala milik berupa barang bergerak, barang tidak bergerak, perusahaan-perusahaan dan, utang-piutang yang ada dari Kota-kota Bukittinggi, Padang dan Jambi pada waktu mulai berlakunya Undang-undang ini menjadi milik dan tanggungan Kota-Besar Bukittinggi, Padang dan Jambi.
 
-##### Pasal 15.
-
 (1) Dewan Perwakilan Rakyat Daerah dan Dewan Pemerintah Daerah Kota-Besar Bukittinggi, Padang dan Jambi yang ada pada waktu mulai berlakunya Undang-undang ini untuk sementara waktu menjalankan segala hak, wewenang tugas dan kewajiban dari Dewan Perwakilan Rakyat Daerah dan Dewan Pemerintah Daerah dimaksud dalam Undang-undang ini sampai dibentuk. Dewan Perwakilan Rakyat Daerah Kota-Besar menurut peraturan pemilihan yang sah.
 
 (2) Anggota-anggota Dewan-dewan yang dimaksud dalam ayat (1) di atas meletakkan keanggotaannya serentak pada waktu Dewan Perwakilan Rakyat Daerah Kota-Besar Bukittinggi, Padang dan Jambi yang pertama, yang disusun menurut peraturan pemilihan yang dimaksud itu mulai menjalankan hak, kewenangan tugas dan kewajibannya.

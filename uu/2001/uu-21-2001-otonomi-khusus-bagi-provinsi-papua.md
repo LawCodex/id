@@ -211,8 +211,6 @@ u. Penduduk Provinsi Papua, yang selanjutnya disebut Penduduk, adalah semua oran
 
 ### Bagian Kedua — Badan Legislatif
 
-##### Pasal 6
-
 (1) Kekuasaan legislatif Provinsi Papua dilaksanakan oleh DPRP.
 
 (2) DPRP terdiri atas anggota yang dipilih dan diangkat berdasarkan peraturan perundang-undangan.
@@ -328,8 +326,6 @@ e. memperhatikan dan menyalurkan aspirasi, menerima keluhan dan pengaduan masyar
 (2) Gubernur dibantu oleh Wakil Kepala Daerah yang disebut Wakil Gubernur.
 
 (3) Tata cara pemilihan Gubernur dan Wakil Gubernur ditetapkan dengan Perdasus sesuai dengan peraturan perundang-undangan.
-
-##### Pasal 12
 
 Yang dapat dipilih menjadi Gubernur dan Wakil Gubernur adalah Warga Negara Republik Indonesia dengan syarat-syarat:
 
@@ -561,7 +557,7 @@ e. mendorong pemberdayaan perempuan.
 
 (4) Partai politik wajib meminta pertimbangan kepada MRP dalam hal seleksi dan rekrutmen politik partainya masing-masing.
 
-## BAB VIII — PERATURAN DAERAH KHUSUS,PERATURAN DAERAH PROVINSI, DAN KEPUTUSAN GUBERNUR
+## BAB VIII — PERATURAN DAERAH KHUSUS,PERATURAN DAERAH PROVINSI, DAN
 
 ##### Pasal 29
 
@@ -593,7 +589,7 @@ e. mendorong pemberdayaan perempuan.
 
 (2) Komisi Hukum Ad Hoc sebagaimana dimaksud pada ayat (1) yang fungsi, tugas, wewenang, bentuk dan susunan keanggotaannya diatur dengan Perdasi.
 
-## BAB IX — KEUANGAN
+KEUANGAN
 
 ##### Pasal 33
 
@@ -766,8 +762,6 @@ b. merumuskan dan menetapkan langkah-langkah rekonsiliasi.
 Untuk menegakkan Hak Asasi Manusia kaum perempuan, Pemerintah Provinsi berkewajiban membina, melindungi hak-hak dan memberdayakan perempuan secara bermartabat dan melakukan semua upaya untuk memposisikannya sebagai mitra sejajar kaum laki-laki.
 
 ## BAB XIII — KEPOLISIAN DAERAH PROVINSI PAPUA
-
-##### Pasal 48
 
 (1) Tugas Kepolisian di Provinsi Papua dilaksanakan oleh Kepolisian Daerah Provinsi Papua sebagai bagian dari Kepolisian Negara Republik Indonesia.
 
@@ -965,7 +959,7 @@ Pembangunan di Provinsi Papua dilakukan dengan berpedoman pada prinsip-prinsip p
 
 (2) Ketentuan sebagaimana dimaksud pada pada ayat (1) diatur lebih lanjut dengan Perdasus.
 
-## BAB XXI — PENGAWASAN
+## BAB XXI
 
 ##### Pasal 67
 
@@ -990,8 +984,6 @@ Pembangunan di Provinsi Papua dilakukan dengan berpedoman pada prinsip-prinsip p
 (1) Provinsi Papua dapat mengadakan perjanjian kerja sama dalam bidang ekonomi, sosial, dan budaya dengan Provinsi lain di Indonesia sesuai dengan kebutuhan.
 
 (2) Perselisihan diantara para pihak yang mengadakan perjanjian sebagaimana dimaksud pada ayat (1), diselesaikan sesuai dengan pilihan hukum yang diperjanjikan.
-
-##### Pasal 70
 
 (1) Perselisihan antara Kabupaten/Kota di dalam Provinsi Papua, diselesaikan secara musyawarah yang difasilitasi Pemerintah Provinsi.
 

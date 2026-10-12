@@ -45,10 +45,6 @@ b. bahwa pemberlakuan Otonomi Khusus bagi Provinsi Papua Barat memerlukan kepast
 
 C bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan peraturan pemerintah Pengganti Undang-undang tentang perubahan Atas undang-undang Nomor 21 Tahun 20ol tentang otonomi Khusus Bagi Provinsi Papua;
 
-Mengingat:
-
-PRESIDE N
-
 Mengingat 1. Pasal 22 Undang-undang Dasar Negara Republik Indonesia Tahun L945;
 
 2. unda;rg-Undang Nomor 2l rahun 2oo1 tentang otonomi Khusus Bagi Provinsi Papua (Lembaran Negara Republik Indortesia Tahun 2001 Nomor 135, Tambahan Lembaran Negara Republik Indonesia Nomor a151);
@@ -69,10 +65,6 @@ BAGI PROVINSI PAPUA.
 
 Beberapa ketentuan dalam Undang-undang Nomor 2r Tahun 2001 tentang otonomi Khusus Bagi provinsi papua (Lembaran Negara Republik Indonesia Tahun 2oor
 
-Nomor . .
-
-PRESIDE N
-
 Nomor 135, Tambahan Lembaran Negara Republik Indonesia lromor 4151) diubah sebagai berikut: l.. Ketentuan Pasal t huruf a diubah, sehingga pasal 1 berbunyi sebagai berikut:
 
 **Pasal 1**
@@ -89,8 +81,6 @@ d. Pemerintah Daerah provinsi papua adarah Gubernur beserta perangkat lain sebag
 
 e. Gubernur Provinsi papua, seranjutnya disebut Gubernur, adalah Kepaia Daerah dan Kepala Pemerintahan yang bertanggung jawab penuh menyelenggarakan pemerintahan di provinsi papua dan sebagai wakil pemerintah di provinsi papua.
 
-f. Dewan
-
 f. Dewan Perwakilan Rakyat Papua, yang selanjutnya disebut DPRP, adalah Dewan Perwakilan Ralryat Daerah Provinsi Papua sebagai badan legislatif Daerah Provinsi Papua.
 
 g. Majelis Ralryat Papua, yang selanjutnya disebut MRp, adalah representasi kultural orang asli papua, yang memiliki wewenang tertentu dalam rangka perlindungan hak-hak orang asli papua dengan berlandaskan pada penghormatan terhadap adat dan budaya, pemberdayaan perempuan, dan pemantapan kerukunan hidup beragama sebagaimana diatur dalam Undang-undang ini.
@@ -99,9 +89,7 @@ h. Lambang Daerah adalah panji kebesaran dan simbol kultural bagi kemegahan jati
 
 k. Distrik, yang dahuru dikenal dengan Kecamatan, adalah wilayah kerja Kepala Distrik sebagai perangkat daerah Kabupaten/ I(ota.
 
-l. Kampung atau yang disebut dengan nama lain adarah kesatuan masyarakat hukum yang memiliki kewenangan untuk mengatur dan mengurus kepentingan .
-
-kepentingan masyarakat setempat berdasarkan asal-usul dan adat istiadat setempat yang diakui dalam sistem pemerintahan nasional dan berada di daerah Kabupaten/ Kota.
+l. Kampung atau yang disebut dengan nama lain adarah kesatuan masyarakat hukum yang memiliki kewenangan untuk mengatur dan mengurus kepentingan masyarakat setempat berdasarkan asal-usul dan adat istiadat setempat yang diakui dalam sistem pemerintahan nasional dan berada di daerah Kabupaten/ Kota.
 
 m. Badan Musyawarah Kampung atau yang disebut dengan nama lain adalah sekumpulan orang yang membentuk satu kesatuan yang terdiri atas berbagai unsur di dalam kampung tersebut serta dipilih dan diakui oleh warga setempat untuk memberikan saran dan pertimbangan kepada Pemerintah Kampung,
 
@@ -109,9 +97,7 @@ n. Hak Asasi Manusia, yang selanjutnya disebut HAM, adalah seperangkat hak yang 
 
 o. Adat adalah kebiasaan yang diakui, dipatuhi dan dilembagakan, serta dipertahankan oleh masyarakat adat setempat secara turun-temurun. p' Masyarakat Adat adalah warga masyarakat asli Papua yang hidup daram wilayah dan terikat serta tunduk kepada adat tertentu dengan rasa solidaritas yang tinggi di antara para anggotanya.
 
-q. Hukum Adat adalah aturan atau norma Lidak tertulis yang hidup dalam masyarakat hukum adat, mengatur, mengikat dan dipertahankan, serta mempunyai sanksi,
-
-r. Masyarakat r, Masyarakat Hukum Adat adalah warga masyarakat asli Papua yang sejak kelahirannya hidup dalam wilayah tertentu dan terikat serta tunduk kepada hukum adat tertentu dengan rasa solidaritas yang tinggi di antara para anggotanya.
+q. Hukum Adat adalah aturan atau norma Lidak tertulis yang hidup dalam masyarakat hukum adat, mengatur, mengikat dan dipertahankan, serta mempunyai sanksi, r, Masyarakat Hukum Adat adalah warga masyarakat asli Papua yang sejak kelahirannya hidup dalam wilayah tertentu dan terikat serta tunduk kepada hukum adat tertentu dengan rasa solidaritas yang tinggi di antara para anggotanya.
 
 s. Hak Ulayat adalah hak persekutuan yang dipunyai oleh masyarakat hukum adat tertentu atas suatu wilayah tertentu yang merupakan lingkungan hidup para warganya, yang meliputi hak untuk memanfaatkan tanah, hutan, dan air serta isinya sesuai dengan peraturan perundang-undangan.
 
@@ -128,10 +114,6 @@ u. Penduduk Provinsi Papua, ymg selanjutnya disebut Penduduk, adalah semua orang
 a. dihapus;
 
 b. mengusulkan pengangkatan Gubernur dan
-
-Wakil .
-
-PRESlDEN
 
 Wakil Gubernur terpilih kepada Presiden Republik Indonesia;
 
@@ -153,10 +135,6 @@ j. melaksanakan pengawasan terhadap:
 
 1) pelaksanaan perdasus, perdasi, Keputusan Gubernur dan kebijakan pemerintah Daerah lainnya;
 
-2) pelaksanaan
-
-PRESlDEN
-
 2) pelaksanaan pengurusan urusan pemerintahan yang menjadi kewenangan Daerah Provinsi Papua;
 
 3) pelaksanaan Anggaran Pendapatan dan Belanja Daerah;
@@ -172,8 +150,6 @@ l. dihapus
 ##### Pasal II
 
 Peraturan Pemerintah pengganti undang-undang ini mulai berlaku pada tanggal diundangkan.
-
-Agar
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah Pengganti Undang-Undang ini dengan penempatannya dalam l,embaran Negara Republik Indonesia.
 
@@ -230,8 +206,6 @@ Keberadaan Provinsi Irian Jaya Barat yang kemudian berubah menjadi Provinsi Papu
 Pemberlakuan Otonomi Khusus bagi Provinsi Papua Barat memerlukan kepastian huku:n yang sifatnya mendesak d; segera agar tidak menimbulkan hambatan percepatan pembangunan khususiya bidlng sosial, ekonomi, dan politik serta infrastruktur di pr&insi papua Barat.
 
 Wilayah Prc"'insi Papua pada saat ini meliputi Kabupaten Jayapura, Kabupaten Merau.ke, Kabupaten Biak Numior, rautifaten Mimika, Kabupaten Jayawijaya, Kabupaten puncak Jaya, Kablfaten paniai, Kabupaten Nabire, Kabupaten Vapen waropen, Kota-Jayapura, Kabupaten waropen, Kabupaten supiori, Kabupaten p"gurrrrrrgrn nirr't rrg, Kabupaten Yahukimo, Kabupaten Boven Digul,- Kabupatei toutL", xauuf.ten Keerom, Kabupaten Asnnat, Mappi, Kabupaten sarmi, Memberamo Raya, _xabupaten Kabupaten Kabupaten MemLlramo Tengah, Kabupaten yarimo, Kabupaten Lanny Jaya, Kabupaten Nduga, Kabupaten puncak, Kabupaten Dogiyai. dan
-
-Wilayah
 
 Wilayah Provinsi Papua Barat pada saat ini meliputi Kabupaten Manokwari, Kabupaten Teluk wondama, Kabupaten Teluk Bintuni, Kabupaten Fak-Fak, Kabupaten Kaimana, Kabupaien Sorong, Kabupaten Raja Ampat, Kabupaten Sorong Selatan, dan Kota Sorong.
 

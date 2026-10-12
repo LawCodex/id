@@ -259,8 +259,6 @@ Bupati dan Wakil Bupati Dharmasraya, Bupati dan Wakil Bupati Solok Selatan, Bupa
 
 (1) Dengan diresmikannya Kabupaten Dharmasraya, Kabupaten Solok Selatan, dan Kabupaten Pasaman Barat dan dilantiknya Penjabat Bupati Dharmasraya, Penjabat Bupati Solok Selatan, dan Penjabat Bupati Pasaman Barat dibentuk perangkat daerah yang meliputi Sekretariat Daerah, Dinas Daerah dan Lembaga Teknis Daerah, dan unsur perangkat daerah yang lain dengan mempertimbangkan kebutuhan dan kemampuan keuangan daerah sesuai dengan peraturan perundang-undangan.
 
-(2) Pemerintah
-
 (2) Pemerintah Kabupaten Dharmasraya, Pemerintah Kabupaten Solok Selatan, dan Pemerintah Kabupaten Pasaman Barat memfasilitasi pembentukan instansi vertikal.
 
 ## BAB VI — KETENTUAN PERALIHAN

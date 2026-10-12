@@ -158,8 +158,6 @@ Surat-surat tanda pembayaran yang dikenakan pajak ini, dibebaskan dari bea meter
 
 ## BAB VII
 
-Aturan penutup.
-
 ##### Pasal 15.
 
 (1) Undang-undang ini mulai berlaku pada tanggal 1 Juni 1947.

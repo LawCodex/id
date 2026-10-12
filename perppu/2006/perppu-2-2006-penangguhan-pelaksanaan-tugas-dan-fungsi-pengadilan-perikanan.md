@@ -45,8 +45,6 @@ b. bahwa pelaksanaan tugas dan fungsi pengadilan perikanan tersebut, memerlukan 
 
 C bahwa memperhatikan hal-hal sebagaimana dimaksud pada huruf a dan b diperlukan waktu yang cukup untuk koordinasi antar instansi dan harmonisasi peraturan perundang-undangan terutama hukum acara pengadilan perikanan guna penjamin pencapaian tujuan sebagimana dimaksud dalam Pasal 7l Undang-Undang Nomor 31 Tahun 2OO4 tentang Perikanan;
 
-d. bahwa
-
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, b dan c, perlu menangguhkan pelaksanaan tugas dan fungsi Pengadilan Perikanan sebagaimana dimaksud dalam Undang-Undang Nomor 31 Tahun 2OO4 tentang Perikanan dengan Peraturan Pemerintah Pengganti Undang-Undanp!;
 
 Mengingat l. Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
@@ -72,8 +70,6 @@ Menangguhkan pelaksanaan tugas dan fungsi Pengadilan Perikanan pada Pengadilan N
 **Pasal 2**
 
 Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku pada tanggal diundangkan.
-
-Agar
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah Pengganti Undang-Undang ini dengan penempatannya dalam Lembaga Negara Republik Indonesia.
 
@@ -128,8 +124,6 @@ Dalam Pasal 7l ayat (2) Undang-Undang Nomor 31 Tahun 2OO4 diatur tentang Pengadi
 Penegakan hukum terhadap tindak pidana di bidang perikanan yang terjadi selama ini terbukti mengalami berbagai hambatan. Untuk itu diperlukan metode penegakan hukum yang bersifat spesifik yang menyangkut hukum materil dan hukum formil pada Pengadilan Perikanan. Guna meningkatkan efisiensi dan efektifitas penegakan hukum terhadap tindak pidana di bidang perikanan, maka diperlukan persiapan dan pemahaman tentang kewenangan antar Pengadilan Negeri, serta memerlukan kesiapan sumber daya manusia, sarana, prasarana, dan perangkat penunjang pelaksanaan lainnya baik di lingkungan Pemerintah maupun lembaga peradilan.
 
 Apabila Pasal 71 Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan diberlakukan pada waktu yang telah ditentukan, sementara belum ada kesiapan dari institusi yang menangani Pengadilan Perikanan, maka akan berdampak terganggunya penegakan hukum di bidang perikanan. Hal ini dapat terjadi karena Pengadilan Perikanan harus menjalankan tugas dan fungsinya dalam jangka waktu 2 (dua) tahun terhitung mulai sejak diundangkannya Undang-Undang Nomor 31 Tahun 2OO4 tentang Perikanan.
-
-Ketentuan .
 
 Ketentuan hukum yang menyangkut masalah kewenangan Pengadilan Perikanan yang daerah hukumnya sesuai dengan daerah hukum Pengadilan Negeri berwenang memeriksa, mengadili, dan memutus perkara tindak pidana di bidang perikanan sesuai dengan daerah hukumnya dengan mempergunakan hukum acara yang berlaku pada Pengadilan Perikanan.
 

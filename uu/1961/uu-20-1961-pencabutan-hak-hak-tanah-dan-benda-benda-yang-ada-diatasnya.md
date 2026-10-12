@@ -107,8 +107,6 @@ Dengan tidak mengurangi ketentuan dalam pasal 6 dan 8 ayat 3, maka penguasaan ta
 
 (2) Biaya pengumuman tersebut pada ayat 1 pasal ini ditanggung oleh yang berkepentingan.
 
-##### Pasal 8.
-
 (1) Jika yang berhak atas tanah dan/atau benda-benda yang haknya dicabut itu tidak bersedia menerima ganti-kerugian sebagai yang, ditetapkan dalam surat-keputusan Presiden tersebut pada pasal 5 dan 6, karena dianggapnya jumlahnya kurang layak, maka ia dapat minta banding kepada Pengadilan Tinggi, yang daerah kekuasaannya meliputi tempat letak tanah dan/ benda tersebut, agar pengadilan itulah yang menetapkan jumlah ganti-kerugiannya. Pengadilan Tinggi memutus soal tersebut dalam tingkat pertama dan terakhir.
 
 (2) Acara tentang penetapan ganti-kerugian oleh Pengadilan Tinggi sebagai yang dimaksud dalam ayat (1) pasal ini diatur dengan Peraturan Pemerintah.
@@ -128,8 +126,6 @@ Jika di dalam penyelesaian persoalan tersebut diatas dapat dicapai persetujuan j
 ##### Pasal 11
 
 Jika telah terjadi pencabutan hak sebagai yang dimaksudkan dalam pasal 5 dan 6, tetapi kemudian ternyata, bahwa tanah dan/ atau benda yang bersangkutan tidak dipergunakan sesuai dengan rencana peruntukannya, yang mengharuskan dilakukannya pencabutan hak itu, maka orang-orang yang semula berhak atasnya diberi prioritet pertama untuk mendapatkan kembali tanah dan/ atau benda tersebut.
-
-##### Pasal 12.
 
 Dengan berlakunya undang-undang ini, maka Onteigeningsordonnantie (Staatsblad 1920 Nomor 574), sebagai yang telah beberapa kali diubah dan ditambah dicabut kembali.
 

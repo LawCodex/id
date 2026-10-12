@@ -265,8 +265,6 @@ Demi ketertiban, keamanan dan perikemanusiaan, petugas jang tersebut dalam pasal
 
 (1) sub d berkewadjiban dan bertanggung jawab atas terlaksananya perawatan dan pengobatan penderita.
 
-Pasal 7….
-
 ##### Pasal 7.
 
 Mengingat ketentuan dalam pasal 1, dokter jang dimaksud dalam pasal 6 menyatakan, bahwa seseorang adalah penderita penjakit djiwa dan oleh karenanya ia perlu dirawat disuatu tempat perawatan.

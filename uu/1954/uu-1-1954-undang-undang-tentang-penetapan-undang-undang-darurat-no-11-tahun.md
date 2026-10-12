@@ -99,8 +99,6 @@ II. Pasal 1 a huruf e dibaca seperti berikut:
 
 "c. dari badan-badan koperasi yang berkedudukan di Indo-nesia, yang disusun menurut peraturan dalam Lembaran Negara 1927 No. 91 dan dalam Lembaran Negara 1949 No. 179, sepanjang didirikan sebelum 1 Januari 1950 untuk tahun-tahun yang berakhir sebelum 1 Januari 1955, dan sepanjang didirikan sesudah 31 Desember 1949 untuk lima tahun sesudahnya dirikan; pembebasan ini berlaku pula untuk masa sebelum badan koperasi didirikan, dimulai pada pengiriman akte yang dimaksud dalam pasal 7 dari peraturan yang disebut terakhir."
 
-III….
-
 III. Pasal 3 ayat 2a dihapuskan.
 
 IV. Ke 1. Pasal 4 diubah seperti berikut:
@@ -114,8 +112,6 @@ Ayat-ayat 2, 3, 4 dan 5 yang ada dihapuskan dan diganti dengan empat ayat baru, 
 (4) Terhadap penghapusan atas pengeluaran-pengeluaran un-tuk penanaman-penanaman yang cocok dengan program Pemerintah mengenai kemakmuran Indonesia, Menteri Keuangan dapat mengadakan peraturan-peraturan yang menyimpang dari apa, yang dimaksud dalam ayat di muka.
 
 (5) Pula dipotongkan apa yang menurut adat kebiasaan dagang yang benar harus dihapuskan dari pengeluaran-pengeluaran untuk sara-sara (deelnemingen) disebabkan kurangnya manfaat yang bersifat kekal, demikian pula atas piutang-piutang yang berkenaan dengan perusahaan dari sebab tidak dapat ditagih lagi.";
-
-ke 2….
 
 ke 2. Pada Pasal 7 kata "twee" diganti kata "vier".
 
@@ -152,8 +148,6 @@ ke 4. Pasal 23 ayat 1 diubah seperti berikut: kata-kata "verplichting om desgevr
 ke 5. Pasal 30 diubah seperti berikut:
 
 kata-kata "verplichting ingevolge art. 13 tot het voeren van een boekhouding of het bewaren van de boekhouding en de daaraan ten grondslag liggende bescheinden, of aan een aanvraag overeenkomstig artikel 14 tot het verlenen van inzage van de boekhouding en de daaraan ten grondslag liggende bescheiden" diganti dengan "uit de artikelen 13 en 14 voortvloeiende verplichtingen".
-
-VI….
 
 VI. ke 1. Pasal 15 diubah seperti berikut:
 

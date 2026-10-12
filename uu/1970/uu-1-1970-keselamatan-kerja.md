@@ -51,8 +51,6 @@ Mengingat : 1. Pasal-pasal 5, 20 dan 27 Undang-Undang Dasar 1945;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong-Royong.
 
-MEMUTUSKAN :
-
 1. Mencabut :
 
 Veiligheidsreglement Tahun 1910 (Stbl. No. 406),

@@ -407,8 +407,6 @@ RINCIAN PENERIMAAN PEMBANGUNAN
 
 TAHUN ANGGARAN 1994/1995
 
-(dalam rupiah)
-
 0910 Bantuan Program --
 
 0920 Bantuan Proyek 9.837.795.158.086

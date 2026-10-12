@@ -55,10 +55,6 @@ Mengingat 1. Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tah
 
 SK No 145334A
 
-PRES IDEN
-
-REPIJ BLIK INDONESIA
-
 4. Undang-Undang Nomor 14 Tahun 2022 tentang Pembentukan Provinsi Papua Selatan (Lembaran Negara Republik Indonesia lahun 2022 Nomor 157, Tambahan Lembaran Negara Republik Indonesia Nomor 6803);
 
 5. Undang-Undang Nomor 15 Tahun 2022 tentang Pembentukan Provinsi Papua Tengah (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 158, Tambahan Lembaran Negara Republik Indonesia Nomor 6804);
@@ -99,9 +95,7 @@ SK No 145327A
 
 (1) Bawaslu membentuk Bawaslu Provinsi di Provinsi Papua Selatan, Provinsi Papua Tengah, Provinsi Papua Pegunungan, dan Provinsi Papua Barat Daya.
 
-SK No 145324A
-
-(21 Ketentuan mengenai pembentukan Bawaslu Provinsi di Provinsi Papua Selatan, Provinsi Papua Tengah, Provinsi Papua Pegunungan, dan Provinsi Papua Barat Daya sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bawaslu.
+SK No 145324A (21 Ketentuan mengenai pembentukan Bawaslu Provinsi di Provinsi Papua Selatan, Provinsi Papua Tengah, Provinsi Papua Pegunungan, dan Provinsi Papua Barat Daya sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bawaslu.
 
 (3) Dalam hal Bawaslu belum membentuk Bawaslu Provinsi di Provinsi Papua Selatan, Provinsi Papua Tengah, Provinsi Papua Pegunungan, dan Provinsi Papua Barat Daya sebagaimana dimaksud pada ayat (1) dan ayat (2), penyelenggaraan fungsi, tugas, wewenang, dan kewajiban dilaksanakan oleh Bawaslu sampai dengan terbentuknya Bawaslu Provinsi di Provinsi Papua Selatan, Provinsi Papua Tengah, Provinsi Papua Pegunungan, dan Provinsi Papua Barat Daya.
 
@@ -223,8 +217,6 @@ Jumlah kursi anggota DPR ditetapkan sebanyak 58O (lima ratus delapan puluh).
 
 SK No 145298 A
 
-PRES IDEN
-
 8. Ketentuan ayat (1) Pasal 276 diubah sehingga Pasal 276 berbunyi sebagai berikut:
 
 **Pasal 276**
@@ -237,9 +229,7 @@ PRES IDEN
 
 Pelaksanaan Pemilu Presiden dan Wakil Presiden, Pemilu anggota DPR, anggota DPD, anggota DPRD provinsi, dan anggota DPRD kabupaten/kota pada tahun 2024 diwtlayah Provinsi Kalimantan Timur yang masuk dalam wilayah Ibu Kota Nusantara sebagaimana dimaksud dalam Undang-Undang Nomor 3 Tahun 2022 tentang Ibu Kota Negara, tetap berpedoman pada ketentuan dalam Undang-Undang Nomor 7 Tahun 2Ol7 tenlang Pemilihan Umum.
 
-SK No 145288 A
-
--t2-
+SK No 145288 A -t2-
 
 10. Ketentuan baris 33 dan baris 34 tabel Jumlah Anggota Komisi Pemilihan Umum Provinsi dan ketentuan tabel Jumlah Anggota Komisi Pemilihan Umum Kabupaten/ Kota Papua serta ketentuan tabel Jumlah Anggota Komisi Pemilihan Umum Kabupaten/Kota Papua Barat sebagaimana tercantum dalam Lampiran I Undang-Undang Nomor 7 Tahun 2Ol7 tentang Pemilihan Umum diubah, dan setelah baris 34 tabel Jumlah Anggota Komisi Pemilihan Umum Provinsi ditambahkan 4 (empat) baris ketentuan, yakni baris 35, baris 36, baris 37, dan baris 38, dan tabel Jumlah Anggota Komisi Pemilihan Umum Kabupaten/Kota Papua diubah, setelah tabel Jumlah Anggota Komisi Pemilihan Umum Kabupaten/ Kota Papua disisipkan 3 (tiga) tabel, yakni tabel Papua Selatan, tabel Papua Tengah, dan tabel Papua Pegunungan, dan tabel Jumlah Anggota Komisi Pemilihan Umum Kabupaten/Kota Papua Barat diubah, setelah tabel Jumlah Anggota Komisi Pemilihan Umum Kabupaten/ Kota Papua Barat ditambahkan 1 (satu) tabel, yakni tabel Papua Barat Daya, sehingga menjadi sebagaimana tercantum dalam Lampiran I yang merupakan bagran tidak terpisahkan dari Peraturan Pemerintah Pengganti Undang-Undang ini.
 
@@ -260,8 +250,6 @@ Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku pada tanggal diun
 Agar
 
 SK No 145282 A
-
-PRE S IDE N
 
 Agar setiap orang mengetahuinya, memerintahkan peng.rndangan Peraturan Pemerintah Penggalti Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
@@ -297,8 +285,6 @@ N c a Djaman
 
 SK No 145170 A
 
-REPIJBLIK INDONESIA
-
 ## PENJELASAN
 
 ATAS
@@ -322,8 +308,6 @@ Dalam rangka memperhatikan aspirasi masyarakat Papua untuk mempercepat pemerataa
 Selanjutnya untuk mewujudkan kelancaran penyelenggaraan tahapan Pemilu tah:un 2024 juga dilakukan beberapa penyesuaian, antara lain penyesuaian syarat usia Panwaslu Kecamatan, Panwaslu Kelurahan/ Desa, dan Pengawas TPS, mekanisme penetapan nomor urut Partai Politik Peserta Pemilu, jadwal dimulainya Kampanye Pemilu anggota Dewan Perwakilan Rakyat, anggota Dewan Perwakilan Daerah, anggota Dewan Perwakilan Ralqyat Daerah, dan Kampanye Pemilu Presiden dan Wakil Presiden serta pelaksanaan Pemilu di wilayah Ibu Kota Nusantara.
 
 SK No 145268 A
-
-PRE S ID EN
 
 Selain berdasarkan alasan tersebut di atas, terdapat pertimbangan mengenai kegentingan yang memaksa sesuai dengan Putusan Mahkamah Konstitusi Nomor 138/PUU-V[/2009 yang di dalamnya memuat tentang persyaratan perlunya Peraturan Pemerintah Pengganti Undang-Undang apabila:
 
@@ -362,8 +346,6 @@ Huruf a
 Cukup jelas.
 
 SK No 145269 A
-
-PRES IDEN
 
 Huruf b
 
@@ -624,9 +606,7 @@ No.               Kabupaten/Kota                 Jumlah Anggota KPU
  9      Kota Jayapura                                    5
 ```
 
-SK No 145059 A
-
-Papua Selatan
+SK No 145059 A Papua Selatan
 
 No. Kabupaten/Kota Jumlah Anggota KPU 1 Merauke 5 2 Boven Digoel 5 3 Mappi 5 4 Asmat 5
 
@@ -720,9 +700,7 @@ No. Kabupaten/ Kota Jumlah Anggota Bawaslu 1 Nabire 3 2 Puncak Jaya 3 3 Paniai 3
 
 Papua Pegunungan No. Kabupaten/ Kota Jumlah Anggota Bawaslu I Jayawijaya 5 , Pegunungan Bintang 5 3 Yahukimo 5 4 Tolikara 5 5 Mamberamo Tengah 3 6 Yalimo 3 7 Lanny Jaya 3 8 Nduga 3
 
-SK No 145073 A
-
-Papua Barat
+SK No 145073 A Papua Barat
 
 ```
 No.              Kabupaten/ Kota                  Jumlah Anggota Bawaslu
@@ -826,10 +804,6 @@ Wilayah Dapil Provinsi Jumlah Kursi Per No. Dapil (Kabupaten/Kota/ Kursi Dapil K
 8. Deiyai
 
 SK No 145071 A
-
-PRE S I OEN
-
-REPIJBLIK INDONESIA
 
 36 Papua e Papua 3 1. Jayawijaya Pegunungan Pegunungan 2. Pegunungan Bintang
 
@@ -1107,8 +1081,6 @@ I. Distrik Jayapura Utara
 
 SK No 145037 A
 
-REPIIBLIK INDONESIA
-
 10. Distrik Ngguti 1 1. Distrik Kinaam
 
 12. Distrik Tubang
@@ -1128,8 +1100,6 @@ REPIIBLIK INDONESIA
 35. Papua 45 PapuaTengah 1 6 Nabire Tengah Papua Tengah 2 5 Intan Jaya Papua Tengah 3 6 Puncak Papua Tengah 4 7 Puncak Jaya Papua Tengah 5 10 Mimika Papua Tengah 6 4 Dogiyai Papua Tengah 7 4 Paniai Papua Tengah 8 3 Deiyai 36 Papua 45 Papua 8 Jayawiiaya Pegunungan Pegunungan 1 Papua 6 l.anny Jaya Pegunungan 2 Papua 4 Nduga Pegunungan 3 Papua 8 Tolikara Pegunungan 4 Papua 5 1. Mamberamo Tengah Pegunungan 5 2. Yalimo Papua 10 Yahukimo Pegunungan 6 Papua 4 Pegunungan Bintang Pegunungan 7
 
 SK No 145069 A
-
-PRES IDEN
 
 37. Papua Barat 35 Papua Barat 1 t2 Manokwari Papua Barat 2 5 l. Pegunungan Arfak
 

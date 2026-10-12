@@ -318,8 +318,6 @@ g. memiliki pengetahuan dan kepedulian di bidang hak asasi manusia.
 
 ### Bagian Keenam — Penuntutan
 
-##### Pasal 23
-
 (1) Penuntutan perkara pelanggaran hak asasi manusia yang berat dilakukan oleh Jaksa Agung.
 
 (2) Dalam pelaksanaan tugas sebagaimana dimaksud dalam ayat (1) Jaksa Agung dapat mengangkat penuntut umum ad hoc yang terdiri atas unsur pemerintah dan atau masyarakat.
@@ -410,8 +408,6 @@ Hakim ad hoc yang diangkat sebagaimana dimaksud dalam Pasal 28 ayat (1) sebelum 
 
 Perkara pelanggaran hak asasi manusia yang berat, diperiksa dan diputus oleh Pengadilan HAM dalam waktu paling lama 180 (seratus delapan puluh) hari terhitung sejak perkara dilimpahkan ke Pengadilan HAM.
 
-##### Pasal 32
-
 (1) Dalam hal perkara pelanggaran hak asasi manusia yang berat dimohonkan banding ke Pengadilan Tinggi, maka perkara tersebut diperiksa dan diputus dalam waktu paling lama 90 (sembilan puluh) hari terhitung sejak perkara dilimpahkan ke Pengadilan Negeri.
 
 (2) Pemeriksaan perkara sebagaimana dimaksud dalam ayat (1) dilakukan oleh majelis hakim berjumlah 5 (lima) orang yang terdiri atas 2 (dua) orang hakim Pengadilan Tinggi yang bersangkutan dan 3 (tiga) orang hakim ad hoc.
@@ -451,8 +447,6 @@ g. setia kepada Pancasila dan Undang-Undang Dasar 1945; dan
 h. memiliki pengetahuan dan kepedulian di bidang hak asasi manusia.
 
 ## BAB V — PERLINDUNGAN KORBAN DAN SAKSI
-
-##### Pasal 34
 
 (1) Setiap korban dan saksi dalam pelanggaran hak asasi manusia yang berat berhak atas perlindungan fisik dan mental dari ancaman, gangguan, teror, dan kekerasan dari pihak manapun.
 

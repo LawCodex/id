@@ -151,8 +151,6 @@ PRESIDEN REPUBLIK INDONESIA
 
 ttd
 
-SOEHARTO
-
 Diundangkan di Jakarta pada tanggal 7 Maret 1986
 
 MENTERI/SEKRETARIS NEGARA

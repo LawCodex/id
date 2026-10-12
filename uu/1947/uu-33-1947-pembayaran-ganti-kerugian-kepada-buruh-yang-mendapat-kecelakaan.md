@@ -125,8 +125,6 @@ b. buruh yang dilindungi oleh Undang-undang kecelakaan yang berlaku di luar daer
 
 c. buruh yang bekerja di rumahnya sendiri, untuk perusahaan yang diwajibkan memberi tunjangan dan dalam menjalankan pekerjaan itu tidak dipergunakan gas-gas yang dicairkan, dikompa atau gas-gas dalam keadaan cair karena tekanan, zat-zat baik yang padat, maupun yang cair atau yang berupa gas yang derajat panasnya tinggi, mudah terbakar atau memakan barang-barang yang keras, misalnya airkeras, mudah meletus, mengandung racun, menimbulkan penyakit atau karena cara lain berbahaya atau merusak kesehatan.
 
-##### Pasal 7.
-
 (1) Yang dimaksudkan dengan kata upah dalam Undang-undang ini ialah:
 
 a. tiap-tiap pembayaran berupa wang yang diterima oleh buruh sebagai ganti pekerjaannya;

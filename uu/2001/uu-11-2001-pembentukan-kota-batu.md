@@ -214,8 +214,6 @@ Semua perundang-undangan yang saat ini berlaku bagi Kabupaten Malang tetap berla
 
 ## BAB VI — KETENTUAN PENUTUP
 
-##### Pasal 17
-
 Pada saat berlakunya undang-undang ini, semua peraturan perundang-undangan yang bertentangan dengan undang-undang ini dinyatakan tidak berlaku.
 
 ##### Pasal 18

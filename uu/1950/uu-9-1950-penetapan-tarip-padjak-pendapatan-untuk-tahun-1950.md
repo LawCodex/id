@@ -95,8 +95,6 @@ Diundangkan pada tanggal 4 Djuli 1950.
 
 MENTERI KEHAKIMAN,
 
-A. G. PRINGGODIGDO.
-
 PENDJELASAN
 
 1. Sedjak tahun 1942 sampai dengan tahun 1949 berlaku tarip menurut Stbl. 1942 No. 53 jang merupakan gabungan dari pokok padjak menurut tarip dalam Undang-Undang Padjak Pendapatan 1932 dan tambahan pokok padjak untuk Negara! Selama itu, berlakunja ditetapkan tiap-tiap tahun untuk satu tahun dengan Undang-Undang.

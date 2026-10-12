@@ -575,7 +575,7 @@ BANK INDONESIA 1953".
 
 Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatan dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 19 Mei 1953
+pada tanggal 19 Mei 1953
 
 PRESIDEN REPUBLIK INDONESIA,
 

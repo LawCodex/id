@@ -59,8 +59,6 @@ Diantara ayat (1) dan (2) dari pasal 5 Undang-undang Cukai Tembakau (Staatsblad 
 
 517) disisipkan ayat yang bunyinya sebagai berikut : 1 a. Harga eceran yang dimaksudkan pada ayat (1) ditetapkan oleh pegawai yang ditunjuk oleh Kepala Pejabatan Bea dan Cukai menurut aturan-aturan yang dikeluarkan oleh pembesar tersebut. 1 b. Untuk penetapan tersebut pengusaha paberik harus memasukkan keterangan tentang angka-angka yang diperlukan. 1 c. Dalam hal-hal yang ditetapkan oleh Kepala Pejabatan Bea dan Cukai pegawai yang tersebut pada ayat (1a) harus memperhatikan nasehat dari satu panitya ahli-ahli yang ditetapkan oleh Kepala Pejabatan tersebut.
 
-##### Pasal 3.
-
 Undang-undang ini mulai berlaku untuk Jawa dan Madura pada hari diumumkannya, dan untuk daerah lain pada hari yang akan ditetapkan oleh Menteri Keuangan.
 
 Ditetapkan di Yogyakarta pada tanggal 9 Nopember 1946.

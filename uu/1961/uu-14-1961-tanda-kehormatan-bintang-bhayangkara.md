@@ -123,8 +123,6 @@ b. tata-cara penyerahan Bintang Bhayangkara dengan upacara Kepolisian ; dan
 
 c. tata-cara pemakaian Bintang Bhayangkara.
 
-##### Pasal 10.
-
 (1) Dalam hal-hal istimewa atas usul Menteri dan pertimbangan Dewan Tanda-tanda Kehortaman, Bintang Bhayangkara dapat diberikan dengan Keputusan Presiden kepada warga-negara Indonesia maupun asing yang memenuhi syarat-syarat untuk mendapat bintang sebagai penghargaan atas jasa-jasa luar biasa, yang disumbangkan khusus untuk kemajuan dan pembangunan Kepolisian Negara.
 
 (2) Dalam hal Bintang Bhayangkara dianugerahkan kepada warga-negara asing menurut ayat (1) di atas, maka pasal 8 angka 2 dan pasal 11 huruf c tidak berlaku.

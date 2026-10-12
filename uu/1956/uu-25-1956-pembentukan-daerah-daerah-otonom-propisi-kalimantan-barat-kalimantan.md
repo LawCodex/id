@@ -308,8 +308,6 @@ h. mengadakan sedapat mungkin perhubungan yang rapat dengan instansi-instansi la
 
 Dewan Pemerintahan Daerah Propinsi dengan bantuan Dewan- dewan Pemerintah Daerah dari daerah otonom bawahan, membantu Pemerintah Pusat dalam mengumpulkan catatan-catatan dan angka-angka dari pertanian dan dari percobaan-percobaan pemotong padi (proefsnitten) untuk kepentingan statistik pertanian atau politik penetapan harga-harga pasar dari hasil pertanian.
 
-II. Tentang..
-
 II. Tentang hal penyelidikan dan percobaan pertanian.
 
 ##### Pasal 25.

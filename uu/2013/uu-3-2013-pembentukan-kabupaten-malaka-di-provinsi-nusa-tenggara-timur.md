@@ -1,0 +1,731 @@
+---
+title: "Undang-Undang Nomor 3 Tahun 2013 tentang Pembentukan Kabupaten Malaka di Provinsi Nusa Tenggara Timur"
+identifier: "UU No. 3 Tahun 2013"
+type: act
+jurisdiction: id
+language: id
+number: "3"
+year: 2013
+date: 2013-01-11
+promulgated: 2013-01-11
+in_force_from: 2013-01-11
+status: in_force
+status_basis: "BPK: Berlaku; Setneg: berlaku"
+gazette: "LN.2013/No. 18, TLN No. 5396, LL SETNEG: 15 HLM"
+subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
+source: "https://peraturan.bpk.go.id/Download/28172/UU%20Nomor%203%20Tahun%202013.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/38828"
+bpk_page: "https://peraturan.bpk.go.id/Details/38828"
+bpk_metadata_archived: "http://web.archive.org/web/20240410071346/https://peraturan.bpk.go.id/Details/38828/uu-no-"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2013"
+consolidated: false
+retrieved: 2026-10-12
+---
+
+# Undang-Undang Nomor 3 Tahun 2013 tentang Pembentukan Kabupaten Malaka di Provinsi Nusa Tenggara Timur
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 3 TAHUN 2013
+
+TENTANG
+
+PEMBENTUKAN KABUPATEN MALAKA
+
+DI PROVINSI NUSA TENGGARA TIMUR
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa untuk mendorong perkembangan dan kemajuan di Provinsi Nusa Tenggara Timur, khususnya di Kabupaten Belu, serta adanya aspirasi yang berkembang dalam masyarakat di wilayah perbatasan, dipandang perlu meningkatkan penyelenggaraan pemerintahan, pembangunan dan pelayanan publik guna mempercepat terwujudnya kesejahteraan masyarakat;
+
+b. bahwa dengan memperhatikan kemampuan ekonomi, potensi daerah, sosial budaya, politik, jumlah penduduk, luas daerah, kemampuan keuangan, tingkat kesejahteraan masyarakat, rentang kendali penyelenggaraan pemerintahan, dan meningkatnya beban tugas dan volume kerja di bidang pemerintahan, pembangunan, dan kemasyarakatan di Kabupaten Belu, perlu dilakukan pembentukan Kabupaten Malaka di Provinsi Nusa Tenggara Timur;
+
+c. bahwa pembentukan Kabupaten Malaka dimaksudkan untuk mendorong peningkatan pelayanan di bidang pemerintahan, pembangunan, dan kemasyarakatan, serta kemampuan dalam pemanfaatan potensi daerah untuk penyelenggaraan otonomi daerah;
+
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Pembentukan Kabupaten Malaka di Provinsi Nusa Tenggara Timur;
+
+Mengingat : 1. Pasal 18, Pasal 18A, Pasal 18B, Pasal 20 dan Pasal 21 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+2. Undang-Undang Nomor 64 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 115, Tambahan Lembaran Negara Republik Indonesia Nomor 1649);
+
+3. Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);
+
+4. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);
+
+5. Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 4438);
+
+6. Undang-Undang Nomor 27 Tahun 2009 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 123, Tambahan Lembaran Negara Republik Indonesia Nomor 5043);
+
+7. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);
+
+8. Undang-Undang Nomor 15 Tahun 2011 tentang Penyelenggara Pemilihan Umum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 101, Tambahan Lembaran Negara Republik Indonesia Nomor 5246);
+
+9. Undang-Undang Nomor 8 Tahun 2012 tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 117, Tambahan Lembaran Negara Republik Indonesia Nomor 5316);
+
+Dengan Persetujuan Bersama
+
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+
+dan
+
+PRESIDEN REPUBLIK INDONESIA
+
+MEMUTUSKAN:
+
+Menetapkan : UNDANG-UNDANG TENTANG PEMBENTUKAN KABUPATEN
+
+MALAKA DI PROVINSI NUSA TENGGARA TIMUR.
+
+## BAB I — KETENTUAN UMUM
+
+##### Pasal 1
+
+Dalam Undang-Undang ini yang dimaksud dengan:
+
+1. Pemerintah pusat, selanjutnya disebut Pemerintah, adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+
+2. Daerah otonom, selanjutnya disebut daerah, adalah kesatuan masyarakat hukum yang mempunyai batas-batas wilayah yang berwenang mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam sistem Negara Kesatuan Republik Indonesia.
+
+3. Provinsi Nusa Tenggara Timur adalah provinsi sebagaimana dimaksud dalam Undang-Undang Nomor 64 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur.
+
+4. Kabupaten Belu adalah kabupaten sebagaimana dimaksud dalam Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur, yang merupakan kabupaten asal Kabupaten Malaka.
+
+## BAB II — PEMBENTUKAN, CAKUPAN WILAYAH, BATAS WILAYAH, DAN IBU KOTA
+
+### Bagian Kesatu — Pembentukan
+
+##### Pasal 2
+
+Dengan Undang-Undang ini dibentuk Kabupaten Malaka di wilayah Provinsi Nusa Tenggara Timur dalam Negara Kesatuan Republik Indonesia.
+
+### Bagian Kedua — Cakupan Wilayah
+
+##### Pasal 3
+
+(1) Kabupaten Malaka berasal dari sebagian wilayah Kabupaten Belu yang terdiri atas cakupan wilayah:
+
+a. Kecamatan Malaka Tengah;
+
+b. Kecamatan Malaka Barat;
+
+c. Kecamatan Wewiku;
+
+d. Kecamatan Weliman;
+
+e. Kecamatan Rinhat;
+
+f. Kecamatan Io Kufeu;
+
+g. Kecamatan Sasitamean;
+
+h. Kecamatan Laenmanen;
+
+i. Kecamatan Malaka Timur;
+
+j. Kecamatan Kobalima Timur;
+
+k. Kecamatan Kobalima; dan
+
+l. Kecamatan Botin Leobele.
+
+(2) Cakupan wilayah sebagaimana dimaksud pada ayat (1) digambarkan dalam peta wilayah yang tercantum dalam lampiran dan merupakan bagian yang tidak terpisahkan dari Undang-Undang ini.
+
+##### Pasal 4
+
+Dengan terbentuknya Kabupaten Malaka sebagaimana dimaksud dalam Pasal 2, wilayah Kabupaten Belu dikurangi dengan wilayah Kabupaten Malaka sebagaimana dimaksud dalam Pasal 3.
+
+### Bagian Ketiga — Batas Wilayah
+
+##### Pasal 5
+
+(1) Kabupaten Malaka mempunyai batas-batas wilayah:
+
+a. sebelah utara berbatasan dengan Desa Lawalutolus dan Desa Nanaenoe Kecamatan Nanaet Duabesi, Desa Faturika, Desa Renrua, Desa Teun, Desa Mandeu Raimanus, dan Desa Tasain Kecamatan Raimanuk Kabupaten Belu;
+
+b. sebelah timur berbatasan dengan Negara Republik Demokratik Timor Leste;
+
+c. sebelah selatan berbatasan dengan Laut Timor; dan
+
+d. sebelah barat berbatasan dengan Desa Teba Timur, Desa Oerinbesi, Desa Oekopa, dan Desa Teba, Kecamatan Biboki Tan Pah, Desa Nansean, Desa Susulaku B, Desa Loeram, Desa Oenbit, dan Kelurahan Ainiut Kecamatan Insana, Desa Maurisu Selatan Kecamatan Bikomi Selatan Kabupaten Timor Tengah Utara, Desa Koloto, Desa Lotas, Desa Benahe, Desa Obaki, Desa Sapnala, dan Desa Niti Kecamatan Kokbaun, Desa Besnam dan Desa Nunfutu Kecamatan Fatukopa, Desa Bokong, Desa Tuataun, Desa Toianas, Desa Skinu, dan Desa Lobus Kecamatan Toianas, Desa Meusin Kecamatan Boking Kabupaten Timor Tengah Selatan.
+
+(2) Batas wilayah sebagaimana dimaksud pada ayat (1) digambarkan dalam peta wilayah lengkap dengan titik-titik koordinat dan telah mendapatkan persetujuan dari pihak-pihak terkait yang tercantum dalam lampiran dan merupakan bagian yang tidak terpisahkan dari undang-undang ini.
+
+(3) Penetapan batas wilayah Kabupaten Malaka secara pasti di lapangan sebagaimana dimaksud pada ayat (1) dan ayat (2), ditetapkan oleh Menteri Dalam Negeri paling lambat 5 (lima) tahun sejak peresmian Kabupaten Malaka.
+
+##### Pasal 6
+
+(1) Dengan terbentuknya Kabupaten Malaka sebagaimana dimaksud dalam Pasal 2, Pemerintah Kabupaten Malaka menetapkan Rencana Tata Ruang Wilayah Kabupaten Malaka sesuai dengan peraturan perundang-undangan.
+
+(2) Penetapan Rencana Tata Ruang Wilayah Kabupaten Malaka sebagaimana dimaksud pada ayat (1) dilakukan sesuai dengan Rencana Tata Ruang Wilayah Nasional dan Rencana Tata Ruang Wilayah Provinsi Nusa Tenggara Timur serta memperhatikan Rencana Tata Ruang Wilayah kabupaten/kota di sekitarnya.
+
+### Bagian Keempat — Ibu Kota
+
+##### Pasal 7
+
+Ibu Kota Kabupaten Malaka berkedudukan di Betun Kecamatan Malaka Tengah.
+
+## BAB III — URUSAN PEMERINTAHAN DAERAH
+
+##### Pasal 8
+
+Urusan pemerintahan daerah yang menjadi kewenangan Kabupaten Malaka mencakup urusan sebagaimana diatur dalam peraturan perundang-undangan.
+
+## BAB IV — PEMERINTAHAN DAERAH
+
+### Bagian Kesatu — Peresmian Daerah Otonom Baru dan Pelantikan Penjabat Kepala Daerah
+
+##### Pasal 9
+
+Peresmian Kabupaten Malaka dan pelantikan Penjabat Bupati Malaka dilakukan oleh Menteri Dalam Negeri atas nama Presiden paling lambat 9 (sembilan) bulan sejak Undang-Undang ini diundangkan.
+
+### Bagian Kedua — Pemerintah Daerah
+
+##### Pasal 10
+
+(1) Untuk memimpin penyelenggaraan pemerintahan di Kabupaten Malaka, dipilih dan disahkan Bupati dan/atau Wakil Bupati sesuai dengan peraturan perundang-undangan yang dilaksanakan paling cepat 2 (dua) tahun sejak diresmikan Kabupaten Malaka.
+
+(2) Sebelum Bupati dan Wakil Bupati definitif sebagaimana dimaksud pada ayat (1) terpilih sebagai pimpinan penyelenggaraan pemerintahan daerah, Menteri Dalam Negeri atas nama Presiden mengangkat penjabat Bupati dari pegawai negeri sipil berdasarkan usul Gubernur Nusa Tenggara Timur dengan masa jabatan paling lama 1 (satu) tahun.
+
+(3) Pegawai negeri sipil sebagaimana dimaksud pada ayat (2) adalah pegawai yang memiliki kemampuan dan pengalaman jabatan dalam bidang pemerintahan serta memenuhi persyaratan untuk menduduki jabatan itu sesuai dengan peraturan perundang-undangan.
+
+(4) Menteri Dalam Negeri dapat menunjuk Gubernur Nusa Tenggara Timur untuk melantik Penjabat Bupati Malaka sebagaimana dimaksud pada ayat (2).
+
+(5) Menteri Dalam Negeri atas nama Presiden dapat mengangkat kembali Penjabat Bupati untuk 1 (satu) kali masa jabatan berikutnya paling lama 1 (satu) tahun atau menggantinya dengan penjabat lain sesuai dengan peraturan perundang-undangan.
+
+(6) Gubernur Nusa Tenggara Timur melakukan pembinaan, pengawasan, evaluasi, dan fasilitasi terhadap kinerja Penjabat Bupati Malaka dalam penyelenggaraan pemerintahan daerah, pembentukan struktur organisasi dan pengisian perangkat daerah, pengisian keanggotaan Dewan Perwakilan Rakyat Daerah Kabupaten, dan fasilitasi pemilihan Bupati dan/atau Wakil Bupati sesuai ketentuan peraturan perundang-undangan.
+
+##### Pasal 11
+
+Pembiayaan pertama kali pelaksanaan pemilihan Bupati dan/atau Wakil Bupati Malaka sebagaimana dimaksud dalam Pasal 10 ayat (1) dibebankan kepada Anggaran Pendapatan dan Belanja Daerah Kabupaten Belu dan Anggaran Pendapatan dan Belanja Daerah Provinsi Nusa Tenggara Timur.
+
+##### Pasal 12
+
+(1) Untuk menyelenggarakan pemerintahan di Kabupaten Malaka dibentuk perangkat daerah yang meliputi sekretariat daerah, sekretariat dewan perwakilan rakyat daerah, dinas daerah, lembaga teknis daerah, serta unsur perangkat daerah lainnya dengan mempertimbangkan kebutuhan dan kemampuan keuangan daerah sesuai dengan peraturan perundang-undangan.
+
+(2) Perangkat daerah sebagaimana dimaksud pada ayat (1) telah dibentuk oleh Penjabat Bupati Malaka paling lama 6 (enam) bulan sejak tanggal pelantikan.
+
+### Bagian Ketiga — Dewan Perwakilan Rakyat Daerah
+
+##### Pasal 13
+
+(1) Dewan Perwakilan Rakyat Daerah Kabupaten Malaka dibentuk melalui hasil Pemilihan Umum Tahun 2014.
+
+(2) Jumlah dan tata cara pengisian keanggotaan Dewan Perwakilan Rakyat Daerah Kabupaten Malaka sebagaimana dimaksud pada ayat (1), ditetapkan sesuai dengan peraturan perundang-undangan.
+
+(3) Penetapan keanggotaan Dewan Perwakilan Rakyat Daerah Kabupaten Malaka sebagaimana dimaksud pada ayat (1) dan ayat (2) dilakukan oleh Komisi Pemilihan Umum Kabupaten Belu sesuai dengan peraturan perundang-undangan.
+
+(4) Pengambilan sumpah/janji anggota Dewan Perwakilan Rakyat Daerah Kabupaten Malaka dilaksanakan paling lambat 4 (empat) bulan setelah pengambilan sumpah/janji anggota Dewan Perwakilan Rakyat Daerah Kabupaten Belu.
+
+## BAB V — PERSONEL, ASET, DAN DOKUMEN
+
+##### Pasal 14
+
+(1) Bupati Belu bersama Penjabat Bupati Malaka mengatur dan melaksanakan pemindahan personel, penyerahan aset, serta dokumen kepada Pemerintah Kabupaten Malaka sesuai dengan persetujuan Dewan Perwakilan Rakyat Daerah Kabupaten Belu dan Bupati Belu.
+
+(2) Pemindahan personel sebagaimana dimaksud pada ayat (1) dilakukan paling lambat 6 (enam) bulan sejak pelantikan Penjabat Bupati Malaka.
+
+(3) Penyerahan aset dan dokumen sebagaimana dimaksud pada ayat (1) dilakukan paling lambat 3 (tiga) tahun sejak pelantikan Penjabat Bupati Malaka.
+
+(4) Personel sebagaimana dimaksud pada ayat (1) dan ayat (2) meliputi pegawai negeri sipil yang karena tugas dan kemampuannya diperlukan oleh Kabupaten Malaka.
+
+(5) Gubernur Nusa Tenggara Timur mengkoordinasikan dan memfasilitasi pemindahan personel, penyerahan aset, dan dokumen kepada Kabupaten Malaka.
+
+(6) Gaji dan tunjangan pegawai negeri sipil sebagaimana dimaksud pada ayat (4), selama belum ditetapkannya Anggaran Pendapatan dan Belanja Daerah Kabupaten Malaka, dibebankan pada anggaran pendapatan dan belanja dari asal satuan kerja personel yang bersangkutan sesuai dengan peraturan perundang-undangan.
+
+(7) Aset dan dokumen sebagaimana dimaksud pada ayat (1) dan ayat (3) meliputi:
+
+a. barang milik Kabupaten Belu yang bergerak dan tidak bergerak dan/atau yang dikuasai atau dimanfaatkan oleh Pemerintah Kabupaten Malaka yang berada dalam wilayah Kabupaten Malaka;
+
+b. Badan Usaha Milik Daerah Kabupaten Belu yang kedudukan, kegiatan, dan lokasinya berada di Kabupaten Malaka;
+
+c. utang piutang Kabupaten Belu yang kegunaannya untuk Kabupaten Malaka menjadi tanggung jawab Kabupaten Malaka; dan
+
+d. dokumen dan arsip yang karena sifatnya diperlukan oleh Kabupaten Malaka.
+
+(8) Dalam hal ketentuan sebagaimana dimaksud pada ayat (3) dan ayat (7) tidak dilaksanakan atau belum selesai dilaksanakan oleh Bupati Belu, Gubernur Nusa Tenggara Timur selaku wakil Pemerintah wajib menyelesaikannya dalam waktu paling lambat 1 (satu) tahun.
+
+(9) Pelaksanaan pemindahan personel dan penyerahan aset serta dokumen sebagaimana dimaksud pada ayat (1) dilaporkan oleh Gubernur Nusa Tenggara Timur kepada Menteri Dalam Negeri.
+
+## BAB VI — PENDAPATAN, ALOKASI DANA PERIMBANGAN, HIBAH, DAN BANTUAN KEUANGAN
+
+##### Pasal 15
+
+(1) Kabupaten Malaka berhak mendapatkan alokasi dana perimbangan dan dana transfer lainnya sesuai dengan peraturan perundang-undangan.
+
+(2) Dalam dana perimbangan sebagaimana dimaksud pada ayat (1), Pemerintah mengalokasikan dana alokasi khusus prasarana pemerintahan sesuai dengan peraturan perundang-undangan.
+
+(3) Dana perimbangan sebagaimana dimaksud pada ayat (1) yang berupa dana transfer ke daerah dialokasikan sesuai dengan kemampuan keuangan negara sesuai dengan peraturan perundang-undangan.
+
+##### Pasal 16
+
+(1) Pemerintah Kabupaten Belu sesuai kesanggupannya memberikan hibah berupa uang untuk menunjang kegiatan penyelenggaraan pemerintahan Kabupaten Malaka sebesar Rp3.000.000.000,00 (tiga miliar rupiah) setiap tahun selama 2 (dua) tahun berturut-turut serta untuk pelaksanaan pemilihan Bupati dan/atau Wakil Bupati Malaka pertama kali sebesar Rp8.000.000.000,00 (delapan miliar rupiah) untuk 2 (dua) kali putaran.
+
+(2) Pemerintah Provinsi Nusa Tenggara Timur memberikan bantuan dana untuk menunjang kegiatan penyelenggaraan pemerintahan Kabupaten Malaka sebesar Rp6.000.000.000,00 (enam miliar rupiah) dengan rincian tahun pertama sebesar Rp3.000.000.000,00 (tiga miliar rupiah) dan tahun kedua sebesar Rp3.000.000.000,00 (tiga miliar rupiah) serta untuk pelaksanaan pemilihan Bupati dan/atau Wakil Bupati Malaka pertama kali sebesar Rp2.000.000.000,00 (dua miliar rupiah).
+
+(3) Pemberian hibah sebagaimana dimaksud pada ayat (1) dan pemberian bantuan dana sebagaimana dimaksud pada ayat (2) dimulai sejak pelantikan Penjabat Bupati Malaka.
+
+(4) Apabila Kabupaten Belu tidak memenuhi kesanggupannya memberikan hibah sesuai ketentuan sebagaimana dimaksud pada ayat (1), Pemerintah mengurangi penerimaan dana perimbangan dari Kabupaten Belu untuk diberikan kepada Pemerintah Kabupaten Malaka.
+
+(5) Apabila Provinsi Nusa Tenggara Timur tidak memenuhi kesanggupannya memberikan bantuan dana sesuai ketentuan sebagaimana dimaksud pada ayat (2), Pemerintah mengurangi penerimaan dana perimbangan dari Provinsi Nusa Tenggara Timur untuk diberikan kepada Pemerintah Kabupaten Malaka.
+
+(6) Penjabat Bupati Malaka menyampaikan laporan pertanggungjawaban realisasi penggunaan hibah sebagaimana dimaksud pada ayat (1) kepada Bupati Belu.
+
+(7) Penjabat Bupati Malaka menyampaikan laporan pertanggungjawaban realisasi penggunaan dana hibah dan dana bantuan sebagaimana dimaksud pada ayat (1) dan ayat (2) kepada Gubernur Nusa Tenggara Timur.
+
+##### Pasal 17
+
+Pemerintah mengalokasikan Anggaran Pendapatan dan Belanja Negara untuk pengembangan daerah perbatasan dan daerah yang mempunyai karakteristik khusus sesuai dengan kemampuan keuangan negara, sejak terbentuknya Kabupaten Malaka, sesuai dengan peraturan perundang-undangan.
+
+##### Pasal 18
+
+Penjabat Bupati Malaka berkewajiban melakukan penatausahaan keuangan daerah sesuai dengan peraturan perundang-undangan.
+
+## BAB VII — PEMBINAAN
+
+##### Pasal 19
+
+(1) Untuk mengefektifkan penyelenggaraan pemerintahan daerah, Pemerintah dan Pemerintah Provinsi Nusa Tenggara Timur melakukan pembinaan dan fasilitasi secara khusus terhadap Kabupaten Malaka dalam waktu 3 (tiga) tahun sejak diresmikan.
+
+(2) Pemerintah bersama Gubernur Nusa Tenggara Timur melakukan evaluasi terhadap penyelenggaraan Pemerintahan Kabupaten Malaka sesuai peraturan perundang-undangan.
+
+(3) Hasil evaluasi sebagaimana dimaksud pada ayat (2) dijadikan acuan kebijakan lebih lanjut oleh Pemerintah dan/atau Gubernur Provinsi Nusa Tenggara Timur sesuai dengan peraturan perundang-undangan.
+
+## BAB VIII — KETENTUAN PERALIHAN
+
+##### Pasal 20
+
+(1) Sebelum terbentuknya Dewan Perwakilan Rakyat Daerah Kabupaten Malaka berdasarkan hasil Pemilihan Umum Tahun 2014, Penjabat Bupati Malaka menyusun Rancangan Peraturan Bupati tentang Anggaran Pendapatan dan Belanja Daerah Kabupaten Malaka untuk tahun anggaran berikutnya.
+
+(2) Rancangan Peraturan Bupati Malaka sebagaimana dimaksud pada ayat (1) dilaksanakan setelah disahkan oleh Gubernur Nusa Tenggara Timur.
+
+(3) Proses pengesahan dan penetapan Peraturan Bupati Malaka sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai dengan peraturan perundang-undangan.
+
+##### Pasal 21
+
+Sebelum Bupati Malaka bersama Dewan Perwakilan Rakyat Daerah Kabupaten Malaka menetapkan peraturan daerah, dan Bupati Malaka menetapkan peraturan bupati sebagai pelaksanaan Undang-Undang ini, semua peraturan daerah dan Peraturan Bupati Belu sepanjang tidak bertentangan dengan Undang-Undang ini tetap berlaku di Kabupaten Malaka.
+
+## BAB IX — KETENTUAN PENUTUP
+
+##### Pasal 22
+
+Pada saat Undang-Undang ini mulai berlaku, semua ketentuan dalam peraturan perundang-undangan yang berkaitan dengan Kabupaten Malaka harus disesuaikan dengan Undang-Undang ini.
+
+##### Pasal 23
+
+Undang-Undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Disahkan di Jakarta pada tanggal 11 Januari 2013
+
+PRESIDEN REPUBLIK INDONESIA,
+
+DR. H. SUSILO BAMBANG YUDHOYONO
+
+Diundangkan di Jakarta pada tanggal 11 Januari 2013
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+
+REPUBLIK INDONESIA,
+
+AMIR SYAMSUDIN
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2013 NOMOR 18
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 3 TAHUN 2013
+
+TENTANG
+
+PEMBENTUKAN KABUPATEN MALAKA
+
+DI PROVINSI NUSA TENGGARA TIMUR
+
+### I. UMUM
+
+Provinsi Nusa Tenggara Timur yang memiliki luas wilayah ±48.718,10 km2 dengan jumlah penduduk pada tahun 2011 berjumlah ±5.018.599 jiwa terdiri atas 20 (dua puluh) kabupaten dan 1 (satu) kota, perlu memacu peningkatan penyelenggaraan pemerintahan dalam rangka memperkukuh Negara Kesatuan Republik Indonesia.
+
+Kabupaten Belu yang mempunyai luas wilayah ±2.445,60 km2 dengan jumlah penduduk pada tahun 2012 berjumlah ±402.825 jiwa terdiri atas 24 (dua puluh empat) kecamatan dan 208 (dua ratus delapan) desa/kelurahan. Kabupaten ini memiliki potensi yang dapat dikembangkan untuk mendukung peningkatan penyelenggaraan pemerintahan.
+
+Secara geopolitik, Kabupaten Malaka memiliki wilayah yang berbatasan darat langsung dengan Republik Demokratik Timor Leste, sehingga diperlukan perhatian khusus dalam rangka menjadikan wilayah ini sebagai salah satu beranda depan dari Negara Kesatuan Republik Indonesia. Sebagai wilayah perbatasan, Kabupaten Malaka memiliki fungsi strategis dalam rangka mengembangkan kekuatan nasional untuk mengatasi segala gangguan yang membahayakan integritas, identitas, dan kelangsungan hidup bangsa dan negara, serta perjuangan mencapai tujuan nasional untuk mensejahterakan seluruh lapisan masyarakat, khususnya di wilayah perbatasan.
+
+Kabupaten Malaka memiliki berbagai potensi ekonomi yang besar untuk dikembangkan sebagai salah satu daerah penyumbang devisa. Potensi tersebut berasal dari sektor pertanian, perkebunan, peternakan, pertambangan, dan kepariwisataan.
+
+Wilayah Betun yang nantinya menjadi Ibu Kota Kabupaten Malaka telah diberikan status sebagai salah satu daerah Kawasan Pengembangan Agropolitan, sehingga menjadikan daerah ini sebagai lokasi pengembangan kegiatan pertanian yang intensif berbasiskan sistem agribisnis guna meningkatkan kualitas komoditas unggulan, sehingga nantinya akan memberikan nilai tambah bagi petani dan masyarakat yang ada di wilayah Kabupaten Malaka dan sekitarnya.
+
+Dengan luas wilayah dan besarnya jumlah penduduk, pelaksanaan pembangunan dan pelayanan kepada masyarakat belum sepenuhnya terjangkau. Kondisi demikian perlu diatasi dengan memperpendek rentang kendali pemerintahan melalui pembentukan daerah otonom baru sehingga pelayanan publik dapat ditingkatkan guna mempercepat terwujudnya kesejahteraan masyarakat.
+
+Selanjutnya dengan memperhatikan aspirasi masyarakat yang dituangkan dalam:
+
+a. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.135.5/34/IV/2009 tanggal 4 April 2009 tentang Persetujuan Pembentukan Calon Kabupaten Malaka;
+
+b. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.135.4/35/IV/2009 tanggal 4 April 2009 tentang Persetujuan Cakupan Wilayah Calon Kabupaten Malaka;
+
+c. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.135.7/36/IV/2009 tanggal 4 April 2009 tentang Lokasi Ibukota Calon Kabupaten Malaka;
+
+d. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.137/37/IV/2009 tanggal 4 April 2009 tentang Persetujuan Penyerahan Kekayaan Daerah Yang Dimiliki atau Dikuasai Kabupaten Belu;
+
+e. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.011/38/IV/2009 tanggal 4 April 2009 tentang Persetujuan Penyerahan Sarana dan Prasarana Perkantoran;
+
+f. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.904/40/IV/2009 tanggal 6 April 2009 tentang Persetujuan Dukungan Dana Kepada Calon Kabupaten Malaka;
+
+g. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.170/2/III/2011 tanggal 26 Maret 2011 tentang Perubahan atas Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.135.7/36/IV/2009 tentang Persetujuan Lokasi Ibukota Calon Kabupaten Malaka;
+
+h. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.170/3/III/2011 tanggal 26 Maret 2011 tentang Perubahan atas Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.135.4/35/IV/2009 tentang Persetujuan Cakupan Wilayah Calon Kabupaten Malaka;
+
+i. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.170/4/III/2011 tanggal 26 Maret 2011 tentang Perubahan atas Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.904/40/IV/2009 tentang Persetujuan Dukungan Dana Kepada Calon Kabupaten Malaka;
+
+j. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.170/5/III/2011 tanggal 26 Maret 2011 tentang Perubahan atas Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.137/37/IV/2009 tentang Persetujuan Penyerahan Kekayaan Daerah Yang Dimiliki atau Dikuasai Kabupaten Belu;
+
+k. Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.170/6/III/2011 tanggal 26 Maret 2011 tentang Perubahan atas Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor DPRD.011/38/IV/2009 tentang Persetujuan Penyerahan Sarana dan Prasarana Perkantoran Calon Kabupaten Malaka;
+
+l. Keputusan Bupati Belu Nomor 46/HK/2009 tanggal 8 April 2009 tentang Persetujuan Pembentukan Calon Kabupaten Malaka;,
+
+m. Keputusan Bupati Belu Nomor 47/HK/2009 tanggal 8 April 2009 tentang Persetujuan Cakupan Wilayah Calon Kabupaten Malaka;
+
+n. Keputusan Bupati Belu Nomor 48/HK/2009 tanggal 8 April 2009 tentang Persetujuan Lokasi Calon Ibukota Kabupaten Malaka;
+
+o. Keputusan Bupati Belu Nomor 49/HK/2009 tanggal 8 April 2009 tentang Persetujuan Penyerahan Kekayaan Daerah Yang Dimiliki atau Dikuasai Kabupaten Belu Kepada Calon Kabupaten Malaka;
+
+p. Keputusan Bupati Belu Nomor 50/HK/2009 tanggal 8 April 2009 tentang Persetujuan Pemberian Hibah Bagi Calon Kabupaten Malaka;
+
+q. Keputusan Bupati Belu Nomor 51/HK/2009 tanggal 8 April 2009 tentang Persetujuan Pemberian Dukungan Dana Pemilihan Kepala Daerah Kepada Calon Kabupaten Malaka;
+
+r. Keputusan Bupati Belu Nomor 52/HK/2009 tanggal 13 April 2009 tentang Persetujuan Penyerahan Sarana dan Prasarana Perkantoran Kepada Calon Kabupaten Malaka;
+
+s. Keputusan Bupati Belu Nomor 46/HK/2011 tanggal 6 April 2011 tentang Perubahan Atas Keputusan Bupati Belu Nomor 47/HK/2009 tentang Persetujuan Cakupan Wilayah Calon Kabupaten Malaka;
+
+t. Keputusan Bupati Belu Nomor 47/HK/2011 tanggal 6 April 2011 tentang Perubahan Atas Keputusan Bupati Belu Nomor 51/HK/2009 tentang Persetujuan Dukungan Dana Pemilihan Kepala Daerah Di Calon Kabupaten Malaka;
+
+u. Keputusan Bupati Belu Nomor 48/HK/2011 tanggal 6 April 2011 tentang Perubahan Atas Keputusan Bupati Belu Nomor 49/HK/2009 tentang Persetujuan Penyerahan Kekayaan Daerah Yang Dimiliki atau Dikuasai Kabupaten Belu Kepada Calon Kabupaten Malaka;
+
+v. Keputusan Bupati Belu Nomor 49/HK/2011 tanggal 6 April 2011 tentang Perubahan Atas Keputusan Bupati Belu Nomor 52/HK/2009 tentang Persetujuan Penyerahan Sarana dan Prasarana Perkantoran Kepada Calon Kabupaten Malaka;
+
+w. Keputusan Bupati Belu Nomor 50/HK/2011 tanggal 6 April 2011 tentang Perubahan Atas Keputusan Bupati Belu Nomor 48/HK/2009 tentang Persetujuan Lokasi Calon Ibukota Kabupaten Malaka;
+
+x. Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor 14/DPRD/2009 tanggal 31 Agustus 2009 tentang Persetujuan Pembentukan Calon Kabupaten Malaka Di Provinsi Nusa Tenggara Timur;
+
+y. Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor 15/DPRD/2009 tanggal 31 Agustus 2009 tentang Dukungan Dana Untuk Calon Daerah Otonom Kabupaten Malaka Di Provinsi Nusa Tenggara Timur;
+
+z. Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor 16/DPRD/2009 tanggal 31 Agustus 2009 tentang Persetujuan Nama Calon Kabupaten Malaka, Cakupan Wilayah Calon Kabupaten Malaka, dan Calon Ibukota Kabupaten Malaka Di Provinsi Nusa Tenggara Timur;
+
+aa. Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor 1/DPRD/2011 tanggal 28 Juni 2011 tentang Perubahan Atas Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor 15/DPRD/2009 tentang Dukungan Dana Untuk Calon Daerah Otonom Kabupaten Malaka Di Provinsi Nusa Tenggara Timur;
+
+bb. Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor 2/DPRD/2011 tanggal 28 Juni 2011 tentang Dukungan Dana Untuk Pemilihan Kepala Daerah dan Wakil Kepala Daerah Pertama Di Kabupaten Malaka Provinsi Nusa Tenggara Timur;
+
+cc. Keputusan Gubernur Nusa Tenggara Timur Nomor PEM. 135/660/2009 tanggal 11 September 2009 tentang Persetujuan Nama Calon Kabupaten Malaka, Cakupan Wilayah Calon Kabupaten Malaka, dan Calon Ibukota Kabupaten Malaka Di Provinsi Nusa Tenggara Timur;
+
+dd. Keputusan Gubernur Nusa Tenggara Timur Nomor PEM. 135/661/2009 tanggal 11 September 2009 tentang Persetujuan Pemberian Bantuan Dana Untuk Mendukung Penyelenggaraan Pemerintahan dan Pemberian Dukungan Dana Untuk Membiayai Penyelenggaraan Pemilihan Umum Kepala Daerah dan Wakil Kepala Daerah Untuk Pertama Kali Di Kabupaten Malaka Provinsi Nusa Tenggara Timur;
+
+ee. Keputusan Gubernur Nusa Tenggara Timur Nomor PEM. 100/178/2011 tanggal 1 Juli 2011 tentang Perubahan Atas Keputusan Gubernur Nusa Tenggara Timur Nomor PEM. 135/661/2009 tentang Persetujuan Pemberian Bantuan Dana Untuk Mendukung Pemerintahan dan Pemberian Dukungan Dana Untuk Membiayai Penyelenggaraan Pemilihan Umum Kepala Daerah dan Wakil Kepala Daerah Untuk Pertama Kali Di Kabupaten Malaka Provinsi Nusa Tenggara Timur;
+
+ff. Keputusan Gubernur Nusa Tenggara Timur Nomor PEM. 100/179/2011 tanggal 1 Juli 2011 tentang Perubahan Atas Keputusan Gubernur Nusa Tenggara Timur Nomor PEM. 135/661/2009 tentang Persetujuan Pemberian Bantuan Dana Untuk Mendukung Penyelenggaraan Pemerintahan dan Pemberian Dukungan Dana Untuk Membiayai Penyelenggaraan Pemilihan Umum Kepala Daerah dan Wakil Kepala Daerah Untuk Pertama Kali Di Kabupaten Malaka, Provinsi Nusa Tenggara Timur; dan
+
+gg. Keputusan Gubernur Nusa Tenggara Timur Nomor 128/KEP/HK/2011 tanggal 1 Juli 2011 tentang Pernyataan Persetujuan Pemindahan Personil/Pegawani Negeri Sipil (PNS) Lingkup Pemerintah Provinsi Nusa Tenggara Tiimur ke Kabupaten Malaka Yang Merupakan Pemekaran Dari Kabupaten Belu Di Provinsi Nusa Tenggara Timur.
+
+Berdasarkan hal tersebut, telah dilakukan kajian secara mendalam dan menyeluruh mengenai kelayakan pembentukan daerah dan berkesimpulan bahwa perlu dibentuk Kabupaten Malaka.
+
+Pembentukan Kabupaten Malaka yang merupakan pemekaran dari Kabupaten Belu terdiri atas 12 (dua belas) kecamatan, yaitu Kecamatan Malaka Tengah, Kecamatan Malaka Barat, Kecamatan Wewiku, Kecamatan Weliman, Kecamatan Rinhat, Kecamatan Io Kufeu, Kecamatan Sasitamean, Kecamatan Laenmanen, Kecamatan Malaka Timur, Kecamatan Kobalima Timur, Kecamatan Kobalima, dan Kecamatan Botin Leobele. Kabupaten Malaka memiliki luas wilayah keseluruhan ±1.160,63 km2 dengan jumlah penduduk ±186.622 jiwa pada tahun 2012 dan terdiri atas 127 (seratus dua puluh tujuh) desa/kelurahan.
+
+Dengan terbentuknya Kabupaten Malaka sebagai daerah otonom, Pemerintah Provinsi Nusa Tenggara Timur berkewajiban membantu dan memfasilitasi terbentuknya kelembagaan Dewan Perwakilan Rakyat Daerah dan Perangkat Daerah yang efisien dan efektif sesuai dengan kebutuhan dan kemampuan, serta membantu dan memfasilitasi pemindahan personel, pengalihan aset dan dokumen untuk kepentingan penyelenggaraan pemerintahan daerah dalam rangka meningkatkan pelayanan publik dan mempercepat terwujudnya kesejahteraan masyarakat di Kabupaten Malaka.
+
+Dalam melaksanakan otonomi daerah, Kabupaten Malaka perlu melakukan berbagai upaya peningkatan kemampuan ekonomi, penyiapan sarana dan prasarana pemerintahan, pemberdayaan, dan peningkatan sumber daya manusia, serta pengelolaan sumber daya alam sesuai dengan peraturan perundang-undangan.
+
+### II. PASAL DEMI PASAL
+
+#### Pasal 1
+
+Cukup jelas.
+
+#### Pasal 2
+
+Cukup jelas.
+
+#### Pasal 3
+
+Ayat (1)
+
+Huruf a
+
+Desa yang masuk dalam cakupan Kecamatan Malaka Tengah adalah Desa Barene, Desa Kakaniuk, Desa Kateri, Desa Bakiruk, Desa Kamanasa, Desa Wehali, Desa Umakatahan, Desa Umanen Lawalu, Desa Kletek, Desa Naimana, Desa Fahiluka, Desa Lawalu, Desa Harekakae, Desa Barada, Desa Bereliku, Desa Railor Tahak, dan Desa Suai.
+
+Huruf b
+
+Desa yang masuk dalam cakupan Kecamatan Malaka Barat adalah Desa Motaulun, Desa Sikun, Desa Fafoe, Desa Lasaen, Desa Umatoos, Desa Rabasahain, Desa Umalor, Desa Besikama, Desa Maktihan, Desa Loofoun, Desa Rabasa, Desa Rabasa Haerain, Desa Motaain, Desa Oan Mane, Desa Raimataus, dan Desa Naas.
+
+Huruf c
+
+Desa yang masuk dalam cakupan Kecamatan Wewiku adalah Desa Halibasar, Desa Weulun, Desa Webriamata, Desa Badarai, Desa Weoe, Desa Lorotolus, Desa Seserai, Desa Alkani, Desa Lamea, Desa Rabasa Biris, Desa Biris, dan Desa Weseben.
+
+Huruf d
+
+Desa yang masuk dalam cakupan Kecamatan Weliman adalah Desa Wesey, Desa Haitimuk, Desa Laleten, Desa Kleseleon, Desa Angkaes, Desa Wederok, Desa Lamudur, Desa Forekmodok, Desa Umalawain, Desa Lakulo, Desa Leunklot, Desa Haliklaran, Desa Bonetasea, dan Desa Taaba.
+
+Huruf e
+
+Desa yang masuk dalam cakupan Kecamatan Rinhat adalah Desa Saenama, Desa Wekmidar, Desa Lotas, Desa Nanin, Desa Alala, Desa Oekmurak, Desa Webetun, Desa Naet, Desa Biudukfoho, Desa Niti, Desa Tafuli, Desa Boen, Desa Wekeke, Desa Raisamane, Desa Weain, Desa Nabutaek, Desa Tafuli I, Desa Nanebot, Desa Muke, dan Desa Naiusu.
+
+Huruf f
+
+Desa yang masuk dalam cakupan Kecamatan Io Kufeu adalah Desa Biau, Desa Kufeu, Desa Tunmat, Desa Tunabesi, Desa Bani-Bani, Desa Fatoin, dan Desa Ikan Tuanbeis.
+
+Huruf g
+
+Desa yang masuk dalam cakupan Kecamatan Sasitamean adalah Desa As Manulea, Desa Manulea, Desa Naibone, Desa Fatuaruin, Desa Builaran, Desa Manumutin Silole, Desa Umutnana, Desa Beaneno, dan Desa Naisau.
+
+Huruf h
+
+Desa yang masuk dalam cakupan Kecamatan Laenmanen adalah Desa Meotroi, Desa Tesa, Desa Kapitan Meo, Desa Tniumanu, Desa Uabau, Desa Boni Bais, Desa Nauke Kusa, Desa Bisesmus, dan Desa Oenaek.
+
+Huruf i
+
+Desa yang masuk dalam cakupan Kecamatan Malaka Timur adalah Desa Raiulun, Desa Wemeda, Desa Kusa, Desa Numponi, Desa Dirma, dan Desa Sanleo.
+
+Huruf j
+
+Desa yang masuk dalam cakupan Kecamatan Kobalima Timur adalah Desa Alas Utara, Desa Kotabiru, Desa Alas, dan Desa Alas Selatan.
+
+Huruf k
+
+Desa yang masuk dalam cakupan Kecamatan Kobalima adalah Desa Babulu, Desa Babulu Selatan, Desa Sisi, Desa Rainawe, Desa Litamali, Desa Lakekun Utara, Desa Lakekun, dan Desa Lakekun Barat.
+
+Huruf l
+
+Desa yang masuk dalam cakupan Kecamatan Botin Leobele adalah Desa Babotin, Desa Kereana, Desa Babotin Maemina, Desa Babotin Selatan, dan Desa Takarai.
+
+Ayat (2)
+
+Cukup jelas.
+
+#### Pasal 4
+
+Yang dimaksud wilayah Kabupaten Belu setelah terbentuknya Kabupaten Malaka adalah mencakup wilayah Kecamatan Lamaknen, Kecamatan Tasifeto Timur, Kecamatan Raihat, Kecamatan Tasifeto Barat, Kecamatan Kakuluk Mesak, Kecamatan Kota Atambua, Kecamatan Raimanuk, Kecamatan Lasiolat, Kecamatan Lamaknen Selatan, Kecamatan Atambua Barat, Kecamatan Atambua Selatan, dan Kecamatan Nanaet Duabesi.
+
+#### Pasal 5
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Lampiran peta cakupan wilayah yang digambarkan dengan skala 1:100.000.
+
+Yang dimaksud dengan persetujuan pihak-pihak terkait adalah persetujuan berupa tanda tangan Bupati Belu, Pimpinan Dewan Perwakilan Rakyat Daerah Kabupaten Belu, Bupati Timor Tengah Utara, Pimpinan Dewan Perwakilan Rakyat Daerah Kabupaten Timor Tengah Utara, Bupati Timor Tengah Selatan, Pimpinan Dewan Perwakilan Rakyat Daerah Kabupaten Timor Tengah Selatan, Gubernur Nusa Tenggara Timur, dan Pimpinan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur yang wilayah cakupannya berbatasan dengan daerah otonom baru pada peta yang diterbitkan Badan Informasi Geospasial (BIG).
+
+Ayat (3)
+
+Cukup jelas.
+
+#### Pasal 6
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Dalam rangka pengembangan Kabupaten Malaka khususnya guna perencanaan dan penyelenggaraan pemerintahan, pelaksanaan pembangunan dan pelayanan masyarakat pada masa yang akan datang, serta pengembangan sarana dan prasarana pemerintahan, pembangunan dan kemasyarakatan, diperlukan adanya kesatuan perencanaan pembangunan. Untuk itu Rencana Tata Ruang Wilayah Kabupaten Malaka harus disusun secara serasi dan terpadu dengan Rencana Tata Ruang Wilayah Nasional, Provinsi, dan Kabupaten/Kota.
+
+#### Pasal 7
+
+Cukup jelas.
+
+#### Pasal 8
+
+Cukup jelas.
+
+#### Pasal 9
+
+Peresmian kabupaten dan pelantikan Penjabat Bupati dapat dilakukan secara bersamaan dan pelaksanaannya dapat dilakukan di ibu kota negara, ibu kota provinsi, atau ibu kota kabupaten.
+
+#### Pasal 10
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Penjabat Bupati Malaka diusulkan oleh Gubernur Nusa Tenggara Timur dengan pertimbangan Bupati Belu.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Ayat (5)
+
+Cukup jelas.
+
+Ayat (6)
+
+Cukup jelas.
+
+#### Pasal 11
+
+Biaya pelaksanaan pemilihan Bupati dan/atau Wakil Bupati Malaka untuk pertama kali berasal dari hibah Anggaran Pendapatan dan Belanja Daerah Pemerintah Kabupaten Belu dan bantuan dana Anggaran Pendapatan dan Belanja Daerah Provinsi Nusa Tenggara Timur.
+
+#### Pasal 12
+
+Cukup jelas.
+
+#### Pasal 13
+
+Cukup jelas.
+
+#### Pasal 14
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Cukup jelas.
+
+Ayat (5)
+
+Untuk mencapai daya guna dan hasil guna penyelenggaraan pemerintahan, pelaksanaan pembangunan dan pelayanan kemasyarakatan, digunakan pegawai, tanah, gedung perkantoran dan perlengkapannya, serta fasilitas pelayanan umum yang telah ada selama ini dalam pelaksanaan tugas Pemerintah Kabupaten Belu dalam wilayah Kabupaten Malaka.
+
+Dalam rangka tertib administrasi, diperlukan tindakan hukum berupa penyerahan personel, aset, dan dokumen dari Pemerintah Kabupaten Belu kepada Pemerintah Kabupaten Malaka.
+
+Badan Usaha Milik Daerah (BUMD) Kabupaten Belu yang berkedudukan, kegiatan, dan lokasinya berada di Kabupaten Malaka diserahkan oleh Pemerintah Kabupaten Belu kepada Pemerintah Kabupaten Malaka.
+
+Dalam hal Badan Usaha Milik Daerah (BUMD) yang pelayanan/kegiatan operasionalnya mencakup kabupaten induk dan kabupaten baru, pemerintah daerah yang bersangkutan melakukan kerja sama.
+
+Utang piutang yang penggunaannya dimanfaatkan untuk Kabupaten Malaka diserahkan oleh Pemerintah Kabupaten Belu kepada Pemerintah Kabupaten Malaka.
+
+Berkenaan dengan pengaturan penyerahan tersebut, dibuatkan daftar inventaris.
+
+Ayat (6)
+
+Cukup jelas.
+
+Ayat (7)
+
+Penyerahan aset dan dokumen dilakukan sesuai dengan peraturan perundang-undangan.
+
+Ayat (8)
+
+Cukup jelas.
+
+Ayat (9)
+
+Cukup jelas.
+
+#### Pasal 15
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Cukup jelas.
+
+Ayat (3)
+
+Dana transfer ke daerah dilakukan untuk meningkatkan kesejahteraan rakyat dan mengoptimalkan pelayanan publik serta tidak digunakan hanya untuk pembangunan dan/atau pengadaan sarana prasarana di antaranya kantor pemerintahan, rumah dinas, dan kendaraan dinas.
+
+#### Pasal 16
+
+Ayat (1)
+
+Yang dimaksud dengan hibah dalam ketentuan ini adalah pemberian sejumlah uang yang besarnya didasarkan pada Keputusan Dewan Perwakilan Rakyat Daerah Kabupaten Belu Nomor : DPRD.170/04/III/2011 tanggal 26 Maret 2011 dan Keputusan Bupati Belu Nomor : 50/HK/2009 tanggal 8 April 2009 serta Keputusan Bupati Belu Nomor : 47/HK/2011 tanggal 6 April 2011.
+
+Ayat (2)
+
+Yang dimaksud dengan memberikan bantuan dana dalam ketentuan ini adalah pemberian sejumlah dana yang didasarkan pada Keputusan Gubernur Nusa Tenggara Timur Nomor : PEM.100/178/2011 tanggal 1 Juli 2011 dan Keputusan Gubernur Nusa Tenggara Timur Nomor : PEM.100/179/2011 tanggal 1 Juli 2011 serta Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor : 1/DPRD/2011 tanggal 28 Juni 2011 dan Keputusan Dewan Perwakilan Rakyat Daerah Provinsi Nusa Tenggara Timur Nomor : 2/DPRD/2011 tanggal 28 Juni 2011.
+
+Ayat (3)
+
+Cukup jelas.
+
+Ayat (4)
+
+Pengurangan penerimaan dana perimbangan sesuai mekanisme yang diatur dalam Peraturan Menteri Keuangan mengenai tata cara pemotongan dana alokasi umum dan dana bagi hasil daerah induk/provinsi yang tidak memenuhi kewajiban hibah/bantuan pendanaan kepada daerah otonom baru.
+
+Ayat (5)
+
+Pengurangan penerimaan dana perimbangan sesuai mekanisme yang diatur dalam Peraturan Menteri Keuangan mengenai tata cara pemotongan dana alokasi umum dan dana bagi hasil daerah induk/provinsi yang tidak memenuhi kewajiban hibah/bantuan pendanaan kepada daerah otonom baru.
+
+Ayat (6)
+
+Cukup jelas.
+
+Ayat (7)
+
+Cukup jelas.
+
+#### Pasal 17
+
+Cukup jelas.
+
+#### Pasal 18
+
+Cukup jelas.
+
+#### Pasal 19
+
+Cukup jelas.
+
+#### Pasal 20
+
+Cukup jelas.
+
+#### Pasal 21
+
+Cukup jelas.
+
+#### Pasal 22
+
+Cukup jelas.
+
+#### Pasal 23
+
+Cukup jelas.
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5396
+
+## LAMPIRAN
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 3 TAHUN 2013
+
+TENTANG
+
+PEMBENTUKAN KABUPATEN MALAKA
+
+DI PROVINSI NUSA TENGGARA TIMUR
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+Salinan sesuai dengan aslinya
+
+KEMENTERIAN SEKRETARIAT NEGARA RI DR. H. SUSILO BAMBANG YUDHOYONO
+
+Asisten Deputi Perundang-undangan Bidang Politik dan Kesejahteraan Rakyat,
+
+Wisnu Setiawan

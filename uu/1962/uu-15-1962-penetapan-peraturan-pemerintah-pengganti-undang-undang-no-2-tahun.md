@@ -51,8 +51,6 @@ Mengingat : 1. Pasal-pasal 5, 20 dan 22 Undang-undang Dasar ;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong-Royong;
 
-Memutuskan :
-
 Menetapkan : Undang-undang tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang No. 2 tahun 1962 tentang Kewajiban Perusahaan Minyak Memenuhi Kebutuhan Dalam Negeri (Lembaran-Negara tahun 1962 No. 18), menjadi Undang-undang.
 
 ##### Pasal 1.

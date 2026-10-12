@@ -57,8 +57,6 @@ Dengan persetujuan
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN :
-
 Dengan mencabut :
 
 1. Ordonansi Pajak Rumah Tangga 1908 (Personeele Belasting Ordonnantie 1908, Staatsblad Tahun 1908 Nomor 13) sebagaimana telah beberapa kah diubah, terakhir dengan Peraturan Pemerintah Pengganti Undang-undang Nomor 19 Tahun 1959 (Lembaran Negara Tahun 1959 Nomor 112, Tambahan Lembaran Negara Nomor 1868) yang dengan Undang-undang Nomor 1 Tahun 1961 (Lembaran Negara Tahun 1961 Nomor 3, Tambahan Lembaran Negara Nomor 2124) telah ditetapkan menjadi Undang-undang;

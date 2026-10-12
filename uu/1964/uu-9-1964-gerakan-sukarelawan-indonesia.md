@@ -217,8 +217,6 @@ Tugas pengganyangan proyek-neo Kolonialisme "Malaysia" dan mengatasi kesukaran e
 
 Cukup jelas.
 
-Pasal 3….
-
 ##### Pasal 3.
 
 Ayat 1 : Cukup Jelas

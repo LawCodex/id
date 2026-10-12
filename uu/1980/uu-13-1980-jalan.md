@@ -211,7 +211,7 @@ j. Pembinaan jalan adalah kegiatan penanganan jaringan jalan yang meliputi penen
 
 ## BAB VI — PENYELENGGARAAN JALAN TOL
 
-### Bagian Pertama — Jalan Tol
+### Bagian Pertama
 
 ##### Pasal 13
 

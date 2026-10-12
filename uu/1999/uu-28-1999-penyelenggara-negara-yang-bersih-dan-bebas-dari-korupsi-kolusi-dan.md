@@ -58,8 +58,6 @@ Dengan persetujuan
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN :
-
 Menetapkan : UNDANG-UNDANG TENTANG PENYELENGGARA NEGARA
 
 YANG BERSIH DAN BEBAS DARI KORUPSI, KOLUSI DAN
@@ -87,8 +85,6 @@ Dalam Undang-undang ini yang dimaksud dengan :
 7. Komisi Pemeriksa Kekayaan Penyelenggara Negara yang selanjutnya disebut Komisi Pemeriksa adalah lembaga independen yang bertugas untuk memeriksa kekayaan Penyelenggara Negara dan mantan Penyelenggara Negara untuk mencegah praktek korupsi, kolusi dan nepotisme.
 
 ## BAB II — PENYELENGGARA NEGARA
-
-##### Pasal 2
 
 Penyelenggara Negara meliputi :
 

@@ -203,8 +203,6 @@ d. sebelah barat berbatasan dengan Teluk Bone.
 
 (3) Ibu kota Kabupaten Kolaka Utara berkedudukan di Lasusua.
 
-## BAB III
-
 ## BAB III — KEWENANGAN DAERAH
 
 ##### Pasal 10
@@ -220,8 +218,6 @@ Kewenangan Kabupaten Bombana, Kabupaten Wakatobi, dan Kabupaten Kolaka Utara men
 (2) Setelah 3 (tiga) tahun sejak diresmikan, Pemerintah bersama dengan Pemerintah Provinsi Sulawesi Tenggara melakukan evaluasi terhadap penyelenggaraan Pemerintahan Kabupaten Bombana, Kabupaten Wakatobi, dan Kabupaten Kolaka Utara.
 
 (3) Hasil evaluasi sebagaimana dimaksud pada ayat (2) direkomendasikan sebagai bahan pembinaan lebih lanjut sesuai dengan peraturan perundang-undangan.
-
-## BAB V
 
 ## BAB V — PEMERINTAHAN DAERAH
 
@@ -278,8 +274,6 @@ c. Badan Usaha Milik Daerah Kabupaten Buton yang kedudukan, kegiatan, dan lokasi
 d. utang piutang Kabupaten Buton yang kegunaannya untuk Kabupaten Bombana dan Kabupaten Wakatobi; dan utang piutang Kabupaten Kolaka yang kegunaannya untuk Kabupaten Kolaka Utara; serta
 
 e. dokumen dan arsip yang karena sifatnya diperlukan oleh Kabupaten Bombana, Kabupaten Wakatobi, dan Kabupaten Kolaka Utara.
-
-(2) Pelaksanaan
 
 (2) Pelaksanaan penyerahan, sebagaimana dimaksud pada ayat (1), difasilitasi oleh Gubernur Sulawesi Tenggara dan diselesaikan dalam waktu 1 (satu) tahun terhitung sejak pelantikan Penjabat Bupati Bombana, Penjabat Bupati Wakatobi, dan Penjabat Bupati Kolaka Utara.
 

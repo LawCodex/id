@@ -45,7 +45,7 @@ Menimbang a. bahwa globalisasi ekonomi yang menuntut dikuranginya berbagai hamba
 
 b. bahwa kebijakan nasional pembentukan kawasan perdagangan bebas dan pelabuhan bebas berdasarkan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Pedagangan Bebas dan Pelabuhan Bebas yang telah ditetapkan menjadi Undang-Undang berdasarkan Undang-Undang Nomor 36 Tahun 2OOO, yang merupakan salah satu bentuk kawasan ekonomi khusus untuk mengatasi dampak negatif globalisasi ekonomi sebagaimana dimaksud pada huruf a, belum dapat diwujudkan karena kawasan perdagangan bebas dan pelabuhan bebas tersebut hanya dapat dibentuk dengan undang-undang;
 
-c. bahwa hh. /
+c. bahwa hh.
 
 c. bahwa penundaan pembentukan kawasan perdagangan bebas dan pelabuhan bebas telah menciptakan kondisi darurat ekonomi dan hal ihwal kegentingan lainnya yang mendorong Pemerintah menempuh kebijakan strategis untuk mengatasinya;
 
@@ -89,8 +89,6 @@ DAN PELABUHAN BEBAS MENJADI UNDANG-UNDANG.
 
 ##### Pasal I
 
-/L
-
 ##### Pasal I
 
 Beberapa ketentuan dalam Lampiran Undang-Undang Nomor 36 Tahun 2O0O tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 4053), diubah sebagai berikut:
@@ -115,8 +113,6 @@ Kawasan Perdagangan Bebas dan Pelabuhan Bebas merupakan wilayah hukum Negara Kes
 
 4. Di antara
 
-/ /t(-
-
 4. Di antara BAB VIII dan BAB IX disisipkan 1 (satu) bab, yakni BAB VIIIA KETENTUAN PERALIHAN dan 1 (satu) Pasal yakni Pasal l7A, yang berbunyi sebagai berikut:
 
 ## BAB VIIIA — KETENTUAN PERALIHAN
@@ -134,8 +130,6 @@ b. Undang-Undang Nomor 37 Tahun 2000 tentang Penetapan Peraturan Pemerintah Peng
 Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar
-
-/ L
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah Pengganti Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
@@ -195,7 +189,7 @@ Peraturan Pemerintah Pengganti Undang-Undang ini hanya memuat perubahan tata car
 
 ### II. PASAL DEMI PASAL
 
-lr,L /
+lr,L
 
 ### II.   PASAL DEMI PASAL
 

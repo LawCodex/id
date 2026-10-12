@@ -477,8 +477,6 @@ PRESIDEN REPUBLIK INDONESIA,
 
 ttd
 
-MEGAWATI SOEKARNOPUTRI
-
 LAMPIRAN 2
 
 UNDANG-UNDANG REPUBLIK INDONESIA
@@ -491,10 +489,6 @@ PETA KOTA TOMOHON
 
 KETERANGAN :
 
-+-+-+-+-+-+- : Batas Kota -.-.-.-.-.-.-.-.- : Batas Kecamatan
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd
++-+-+-+-+-+- : Batas Kota -.-.-.-.-.-.-.-.- : Batas Kecamatan ttd
 
 MEGAWATI SOEKARNOPUTRI

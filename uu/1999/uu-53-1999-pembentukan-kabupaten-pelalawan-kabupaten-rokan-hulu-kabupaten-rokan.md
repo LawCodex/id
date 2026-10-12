@@ -508,11 +508,7 @@ Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 4 Oktober 1999
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd.
+Disahkan di Jakarta pada tanggal 4 Oktober 1999 ttd.
 
 BACHARUDDIN JUSUF HABIBIE
 

@@ -72,8 +72,6 @@ Pemerintahan Haminte-Kota terdiri dari :
 
 3. Wali Kota.
 
-##### Pasal 3.
-
 Dewan Kota terdiri dari:
 
 1. Wali Kota sebagai Ketua,

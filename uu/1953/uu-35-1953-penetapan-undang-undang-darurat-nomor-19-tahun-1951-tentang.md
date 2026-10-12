@@ -567,7 +567,7 @@ Undang-undang ini mulai berlaku pada hari diundangkan.
 
 Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatan dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 18 Desember 1953
+pada tanggal 18 Desember 1953
 
 PRESIDEN REPUBLIK INDONESIA,
 
@@ -1139,8 +1139,6 @@ DJODY GONDOKUSUMO.
 
 --------------------------------
 
-CATATAN
-
 ## LAMPIRAN
 
 UNDANG-UNDANG NO. 35 TAHUN 1953
@@ -1570,8 +1568,6 @@ Pada pos daftar ini ditunjuk juga kepada pos daftar 22. Keadaan bahwa pena-isian
 Pos 27
 
 Jumlah barang yang disebut dalam pos daftar ini adalah terbatas (limitatief) oleh karena itu tidak dikenakan pajak kemewahan antara lain raket tennis dan badminton, juga pengapit (persen) dan pembungkus (hoezen) untuk itu, papan tennis-meja (tafeltennisbats) dan sarung tangan untuk boksen. Dengan nama "biljarten" tidak dimaksud main bola di meja (tafelbiljarten).
-
-Pos 28
 
 Dengan nama "binocles" dimaksud: teropong saku (zakkijkers) dengan corong untuk kedua belah mata, yang biasanya dibawa dalam bepergian, berjalan-jalan dan perjalanan di pegunungan dan lain-lain.
 

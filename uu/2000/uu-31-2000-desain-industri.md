@@ -520,8 +520,6 @@ Direktorat Jenderal mencatat putusan atas gugatan pembatalan yang telah memperol
 
 Pembatalan pendaftaran Desain Industri menghapuskan segala akibat hukum yang berkaitan dengan Hak Desain Industri dan hak-hak lain yang berasal dari Desain Industri tersebut.
 
-##### Pasal 44
-
 (1) Dalam hal pendaftaran Desain Industri dibatalkan berdasarkan gugatan sebagaimana dimaksud dalam Pasal 38, penerima Lisensi tetap berhak melaksanakan Lisensinya sampai dengan berakhirnya jangka waktu yang ditetapkan dalam perjanjian Lisensi.
 
 (2) Penerima Lisensi sebagaimana dimaksud dalam ayat (1) tidak wajib meneruskan pembayaran royalti yang seharusnya masih wajib dilakukannya kepada pemegang Hak Desain Industri yang haknya dibatalkan, tetapi wajib mengalihkan pembayaran royalti untuk sisa jangka waktu Lisensi yang dimilikinya kepada pemagang Hak Desain Industri yang sebenarnya.
@@ -576,8 +574,6 @@ Dalam surat penetapan sementara sebagaimana dimaksud dalam Pasal 49 telah dilaks
 
 Dalam hak hakim Pengadilan Niaga telah menerbitkan surat penetapan sementara, hakim Pengadilan Niaga yang memeriksa sengketa tersebut harus memutuskan untuk mengubah, membatalkan, atau menguatkan penetapan sebagaimana dimaksud dalam Pasal 49 dalam waktu paling lama 30 (tiga puluh) hari sejak dikeluarkannya surat penetapan sementara pengadilan tersebut.
 
-##### Pasal 52
-
 Dalam hal penetapan sementara Pengadilan Niaga dibatalkan pihak yang merasa dirugikan dapat menuntut ganti rugi kepada pihak yang meminta penetapan sementara pengadilan atas segala kerugian yang ditimbulkan oleh penetapan sementara pengadilan tersebut.
 
 ## BAB X — PENYIDIKAN
@@ -608,7 +604,7 @@ g. meminta bantuan ahli dalam rangka pelaksanaan tugas penyidikan tindak pidana 
 
 (4) Dalam hal penyidikan sudah selesai, Penyidik Pejabat Pegawai Negeri Sipil sebagaimana dimaksud dalam ayat (10 menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia dengan mengingat ketentuan Pasal 107 Undang-undang Hukum Acara Pidana.
 
-## BAB XI — KETENTUAN PIDANA
+## BAB XI
 
 ##### Pasal 54
 

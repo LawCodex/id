@@ -209,8 +209,6 @@ Ketua, Wakil Ketua, Anggauta-anggauta, Jaksa serta Panitera Pengadilan Tentara y
 
 Jika perlu berhubung dengan keadaan, Presiden berhak membentuk pengadilan tentara luar biasa yang susunannya menyimpang dari peraturan dalam Undang-undang ini.
 
-##### Pasal 23.
-
 Kecuali apa yang telah ditetapkan di atas, maka segala penyelenggaraan Undang-undang ini dikerjakan dengan penetapan Menteri Pertahanan dengan persetujuan Menteri Kehakiman.
 
 ##### Pasal 24.

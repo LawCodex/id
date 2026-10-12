@@ -95,7 +95,7 @@ c. Sebagaimana untuk persekot-persekot diberikan kepada Negara berdasarkan pasal
 
 d. Sebagai jaminan untuk persekot-persekot diberikan kepada Negara c.q. kepada Dana Alat-alat Pembayaran Luar Negeri atas dasar pasal 18 Ordonansi Alat-alat Pembayaran Luar Negeri......................... nihil
 
-e. Sebagai jaminan terhadap kredit yang akan dibuka di Bank Indonesia untuk kepentingan pihak ketiga.......................... Rp. 4.000.000.000 -------------------------Rp. 43.200.000.000
+e. Sebagai jaminan terhadap kredit yang akan dibuka di Bank Indonesia untuk kepentingan pihak ketiga.......................... Rp. 4.000.000.000 -------------------------
 
 ##### Pasal 4.
 

@@ -246,8 +246,6 @@ b. telah dimintakan izin untuk memperbanyak ciptaan tersebut, tetapi izin itu ti
 
 (2) Perbanyakan sebagaimana dimaksud dalam ayat (1) huruf b tersebut di atas, tidak dianggap sebagai pelanggaran hak cipta.
 
-(3) Untuk ….
-
 (3) Untuk memperbanyak ciptaan sebagaimana dimaksud dalam ayat (1) diperlukan izin dari Menteri Kehakiman.
 
 (4) Menteri Kehakiman menetapkan imbalan kepada pemegang hak cipta dan dalam memberi izin perbanyakan itu, mendengar pertimbangan Dewan Hak Cipta sebagaimana dimaksud dalam Pasal 39.

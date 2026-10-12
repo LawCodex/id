@@ -218,8 +218,6 @@ Semua perundang-undangan yang saat ini berlaku bagi Kabupaten Muara Enim tetap b
 
 Pada saat berlakunya undang-undang ini, semua peraturan perundang-undangan yang bertentangan dengan undang-undang ini dinyatakan tidak berlaku.
 
-##### Pasal 18
-
 Ketentuan lebih lanjut yang diperlukan sebagai pelaksanaan undang-undang ini diatur sesuai dengan peraturan perundang-undangan.
 
 ##### Pasal 19

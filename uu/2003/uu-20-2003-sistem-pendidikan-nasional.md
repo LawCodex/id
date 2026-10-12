@@ -250,8 +250,6 @@ b. ikut menanggung biaya penyelenggaraan pendidikan, kecuali bagi peserta didik 
 
 Jenjang pendidikan formal terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi.
 
-##### Pasal 15
-
 Jenis pendidikan mencakup pendidikan umum, kejuruan, akademik, profesi, vokasi, keagamaan, dan khusus.
 
 ##### Pasal 16
@@ -1565,8 +1563,6 @@ Peraturan Pemerintah yang dimaksud dalam ayat ini, antara lain, mengatur tata ca
 #### Pasal 67
 
 Cukup jelas Pasal 68 Cukup jelas
-
-Pasal 69 ….
 
 #### Pasal 69
 

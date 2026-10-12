@@ -237,8 +237,6 @@ Selanjutnya antara Pemerintah Daerah Tingkat II Surabaya dan Pemerintah Daerah K
 
 Untuk menjaga agar tidak timbul kesulitan-kesulitan sebagai akibat perobahan status suatu wilayah, perlu diatur bahwa ketentuan-ketentuan berdasarkan peraturan dan keputusan Pemerintah Daerah Tingkat II masih tetap berlaku atas bekas sebagian wilayahnya yang telah dipisahkan hingga saat Kotapraja Surabaya merasa perlu mengubah dan mengaturnya kembali.
 
-Pasal 3 dan 4
-
 Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA NOMOR 2730

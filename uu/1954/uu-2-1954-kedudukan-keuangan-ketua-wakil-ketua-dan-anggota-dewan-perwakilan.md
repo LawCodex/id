@@ -367,7 +367,7 @@ Ketentuan-ketentuan itu berturut-turut ditambahkan pada ayat 4 (sebagai kalimat 
 
 ##### Pasal 2
 
-Ketentuan-ketentuan baru mengenai kedudukan Wakil Ketua terdapat pada ayat-ayat 1, 3 dan 6. Ayat 1….
+Ketentuan-ketentuan baru mengenai kedudukan Wakil Ketua terdapat pada ayat-ayat 1, 3 dan 6.
 
 Ayat 1. Untuk menegaskan kedudukan Wakil Ketua maka dalam ayat ini dinyatakan, bahwa Wakil Ketua bertempat tinggal di Jakarta, seperti ditentukan juga bagi Ketua Dewan Perwakilan Rakyat dalam pasal 1 ayat 1.
 
@@ -416,8 +416,6 @@ Cukup jelas.
 Ayat 2. Sebagaimana dijelaskan pada ayat 1, menghadiri rapat-rapat panitia, dapat dianggap melebihi tugas kewajiban biasa dari pada Anggota-anggota Dewan Perwakilan Rakyat. Maka untuk menghadiri rapat-rapat panitia, Anggota-anggota yang bersangkutan mendapat uang duduk.
 
 Ayat 3. Ketentuan ini adalah sesuai dengan keadaan sekarang dan merumuskan secara lebih tepat ketentuan-ketentuan yang termaktub dalam pasal 3 ayat 3 dan ayat 11 Undang-undang No.10 tahun 1953.
-
-Ayat 4….
 
 Ayat 4. Memuat ketentuan-ketentuan yang sama dengan ketentuan- s/d 8. ketentuan dalam pasal 3 ayat-ayat 4 s/d 8 Undang-undang No. 10 tahun 1953, hanyalah dengan beberapa perbaikan redaksi di sana sini.
 

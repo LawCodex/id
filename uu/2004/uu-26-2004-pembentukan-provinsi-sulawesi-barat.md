@@ -129,8 +129,6 @@ d. sebelah barat berbatasan dengan Selat Makassar dan Kabupaten Pasir Provinsi K
 
 (3) Penentuan batas wilayah Provinsi Sulawesi Barat sebagaimana dimaksud pada ayat (1) secara pasti di lapangan, ditetapkan oleh Menteri Dalam Negeri.
 
-Pasal 6 ..
-
 ##### Pasal 6
 
 (1) Dengan terbentuknya Provinsi Sulawesi Barat, yang wilayahnya sebagaimana dimaksud dalam Pasal 3, Pemerintah Provinsi Sulawesi Barat wajib menetapkan Rencana Tata Ruang Wilayah Provinsi Sulawesi Barat sesuai dengan peraturan perundang-undangan.

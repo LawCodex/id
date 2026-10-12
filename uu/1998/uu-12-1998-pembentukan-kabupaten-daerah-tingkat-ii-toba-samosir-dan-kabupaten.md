@@ -168,8 +168,6 @@ d. Sebelah barat berbatasan dengan Samudera Hindia.
 
 Untuk memimpin jalannya pemerintahan di Kabupaten Daerah Tingkat II Toba Samosir dan Kabupaten Daerah Tingkat II Mandailing Natal, dipilih dan diangkat seorang Bupati Kepala Daerah Tingkat II di masing-masing Wilayah/Daerah tersebut sesuai dengan peraturan perundang-undangan yang berlaku.
 
-asal 8
-
 Dengan terbentuknya Kabupaten Daerah Tingkat II Toba Samosir dan Kabupaten Daerah Tingkat II Mandailing Natal, dibentuk Dewan Perwakilan Rakyat Daerah Kabupaten Daerah Tingkat II Toba Samosir dan Dewan Perwakilan Rakyat Daerah Kabupaten Daerah Tingkat II Mandailing Natal sesuai dengan peraturan perundang-undangan yang berlaku.
 
 ##### Pasal 9

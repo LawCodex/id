@@ -582,8 +582,6 @@ Cukup jelas
 
 Huruf b
 
-Cukup jelas
-
 Huruf c
 
 Operasi militer pada dasarnya, terdiri atas operasi militer untuk perang dan operasi militer selain perang. Operasi militer meliputi kegiatan terencana yang dilaksanakan oleh satuan militer dengan sasaran, waktu, tempat, dan dukungan logistik yang telah ditetapkan sebelumnya melalui perencanaan terinci.

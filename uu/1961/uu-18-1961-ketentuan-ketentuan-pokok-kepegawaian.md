@@ -57,8 +57,6 @@ POKOK KEPEGAWAIAN.
 
 (2) Syarat-syarat pegawai Negeri termaksud dalam ayat 1 diatas meliputi segi kepribadian, kesetiaan, kesehatan badan, kecerdasan, kemampuan dan ketangkasan dan syarat-syarat lain yang khusus diperlukan bagi sesuatu jabatan Negeri yang ditetapkan dengan peraturan Pemerintah.
 
-##### Pasal 2.
-
 (1) Ketentuan-ketentuan kepegawaian dalam undang-undang ini ditetapkan dengan tujuan membentuk dan memelihara aparatur Negara yang memiliki sifat-sifat:
 
 a. setia terhadap Negara dan haluan Negara Kesatuan Republik Indonesia yang berdasarkan Panca Sila;
@@ -147,8 +145,6 @@ e. penelitian keadaan jasmaniah.
 
 (2) Kepada calon pegawai (siswa) yang berhasil menamatkan pendidikannya diberikan surat keterangan lulus dan dengan demikian lengkaplah syarat baginya untuk diangkat sebagai pegawai Negeri.
 
-##### Pasal 6.
-
 (1) Pengangkatan seorang sebagai pegawai Negeri dan penempatannya dalam jabatan dinyatakan dengan suatu surat keputusan.
 
 (2) Ketentuan-ketentuan tentang pengangkatan dan penempatan dalam jabatan diatur dengan undang-undang atau peraturan Pemerintah.
@@ -223,8 +219,6 @@ f. keputusan Pemerintah berhubung, dengan penyelewengan
 
 ## BAB IV — HAK-HAK PEGAWAI NEGERI.
 
-##### Pasal 13.
-
 (1) Setiap pegawai Negeri berhak mendapat penghasilan yang terdiri atas gaji pokok menurut golongan-golongan gaji yang ditentukan berbanding dengan luas tanggung jawab dan martabat jabatan yang bersangkutan dan ditambah dengan tunjangan-tunjangan sehingga penghasilan seluruhnya sesuai dengan tingkat kehidupan pegawai beserta keluarganya dalam masyarakat Indonesia. Ketentuan-ketentuan mengenai hal ini diatur dengan peraturan Pemerintah.
 
 (2) Pegawai Negeri Indonesia diluar Negeri berhak mendapat penghasilan yang diatur dengan peraturan Pemerintah dengan mengingat keadaan dinegeri yang bersangkutan.
@@ -254,8 +248,6 @@ Untuk mempertinggi mutu kepegawaian kepada pegawai Negeri selama bertugas dalam 
 (2) Setiap pegawai Negeri, apabila mendapat kecelakaan dan/atau cacat ataupun meninggal dunia mendapat bantuan.
 
 (3) Ketentuan-ketentuan mengenai bantuan tersebut diatas ditetapkan dengan peraturan Pemerintah.
-
-##### Pasal 18.
 
 Setiap pegawai Negeri berhak atas cuti biasa, cuti luarbiasa, cuti sakit, cuti bersalin, cuti diluar tanggungan Negara dan cuti lainnya yang ketentuan-ketentuannya ditetapkan dengan peraturan Pemerintah.
 
@@ -325,7 +317,7 @@ Undang-undang ini dapat disebut Undang-undang Pokok Kepegawaian dan mulai berlak
 
 Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan undang-undang ini dengan penempatan dalam Lembaran-Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 21 Juli 1961, Presiden Republik Indonesia,
+Disahkan di Jakarta pada tanggal 21 Juli 1961,
 
 SOEKARNO.
 

@@ -89,10 +89,6 @@ REPUBL,IK INDONESIA
 
 (6) Ketua dan wakil ketua Komisi pemberantasan Korupsi ditetapkan dengan Keputusan presiden.
 
-(7) Sebelum
-
-PR E SIDE N
-
 (7) Sebelum memangku jabatan, Ketua dan wakil ketua Komisi Pemberantasan Korupsi yang baru wajib mengucapkan sumpah/janji sebagaimana dimaksud dalam Pasal 35."
 
 "Pasal 338
@@ -149,10 +145,6 @@ Kepala Perundang-undangan B Kesejahteraan Rakyat,
 
 Setiawan
 
-,
-
-PR ESIDE N
-
 ## PENJELASAN
 
 ATAS
@@ -177,10 +169,6 @@ Komisi Pemberantasan Korupsi merupakan lembaga negara yang mempunyai tugas dan w
 
 Pemilihan dan penetapan pimpinan Komisi pemberantasan Korupsi sesuai dengan Undang-Undang Nomor 30 Tahun 2oo2 tentang
 
-Komisi
-
-REPUBL IK INDONESIA
-
 Komisi Pemberantasan Tindak Pidana Korupsi dilakukan melalui seleksi dan penilaian oleh Dewan Perwakilan Rakyat Republik Indonesia dan hasilnya disampaikan kepada Presiden untuk ditetapkan. Mekanisme tersebut membutuhkan waktu yang cukup lama, sementara terjadinya kekosongan keanggotaan Pimpinan Komisi Pemberantasan Korupsi saat ini telah mengganggu kinerja serta berpotensi menimbulkan ketidakpastian hukum dalam upaya pencegahan dan pemberantasan tindak pidana korupsi. Apabila hal ini tidak segera dilakukan tindakan yang cepat untuk mengisi kekosongan keanggotaan Pimpinan Komisi Pemberantasan Korupsi pada gilirannya akan berdampak menurunnya kapasitas Indonesia dalam pemberantasan tindak pidana korupsi. OIeh karena itu, untuk menjaga komitmen dan konsistensi dalam pemberantasan korupsi sesuai dengan semangat dan tuntutan reformasi serta memperhatikan aspirasi masyarakat yang berkembang, presiden sesuai dengan kewenangannya sebagaimana diatur dalam Pasal 22 ayat
 
 (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, perlu menerbitkan Peraturan Pemerintah pengganti Undang-Undang tentang Perubahan atas Undang-Undang Nomor 30 Tahun 2OO2 tentang Komisi Pemberantasan Tindak Pidana Korupsi.
@@ -199,11 +187,7 @@ Kekosongan tetap jika pimpinan Komisi pemberantasan
 
 Korupsi
 
-A t =
-
-PR E SIDE N
-
-Korupsi berhenti atau diberhentikan karena meninggal dunia, menjadi terdakwa karena melakukan tindak pidana kejahatan, berhalangan tetap atau secara terus menerus selama lebih dari 3 (tiga) bulan tidak dapat melaksanakan tugasnya, mengundurkan diri, atau dikenai sanksi berdasarkan Undang-Undang Nomor 30 Tahun 2OO2 tentang Komisi Pemberantasan Tindak Pidana Korupsi.
+A t Korupsi berhenti atau diberhentikan karena meninggal dunia, menjadi terdakwa karena melakukan tindak pidana kejahatan, berhalangan tetap atau secara terus menerus selama lebih dari 3 (tiga) bulan tidak dapat melaksanakan tugasnya, mengundurkan diri, atau dikenai sanksi berdasarkan Undang-Undang Nomor 30 Tahun 2OO2 tentang Komisi Pemberantasan Tindak Pidana Korupsi.
 
 Ayat (2)
 

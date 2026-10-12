@@ -49,8 +49,6 @@ b. Undang-undang No.29 tahun 1957 (Lembaran Negara tahun 1957 No. 101).
 
 Dengan persetujuan Dewan Perwakilan Rakyat
 
-MEMUTUSKAN:
-
 Menetapkan : Undang-undang tentang penetapan Undang-undang Darurat No.9 tahun 1954 tentang pengubahan nama Propinsi Sunda-Kecil menjadi Propinsi Nusa Tenggara (Lembaran Negara tahun 1954 No. 66). sebagai undang-undang.
 
 ##### Pasal I.

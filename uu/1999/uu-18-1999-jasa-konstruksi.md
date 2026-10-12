@@ -576,7 +576,7 @@ Undang-undang ini mulai berlaku 1 (satu) tahun terhitung sejak diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini, dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di jakarta pada tanggal 7 Mei 1999
+Disahkan di jakarta
 
 PRESIDEN REPUBLIK INDONESIA
 

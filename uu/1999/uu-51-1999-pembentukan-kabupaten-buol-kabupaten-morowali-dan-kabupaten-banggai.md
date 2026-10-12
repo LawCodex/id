@@ -304,8 +304,6 @@ Pembiayaan akibat perubahan nama Kabupaten Buol Toli-toli sebagaimana dimaksud d
 
 ## BAB VI — KETENTUAN PENUTUP
 
-##### Pasal 23
-
 Pada saat berlakunya Undang-undang ini, semua peraturan perundang-undangan yang tidak sesuai dengan Undang-undang ini dinyatakan tidak berlaku.
 
 ##### Pasal 24

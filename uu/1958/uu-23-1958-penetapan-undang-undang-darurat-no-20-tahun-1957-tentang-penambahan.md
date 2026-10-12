@@ -51,8 +51,6 @@ b. Undang-undang No. I tahun 1957 tentang pokok-pokok pemerintahan daerah (Lemba
 
 Dengan persetujuan Dewan Perwakilan Rakyat
 
-MEMUTUSKAN:
-
 Menetapkan : UNDANG-UNDANG TENTANG PENETAPAN UNDANG-
 
 UNDANG DARURAT NO.20 TAHUN 1957 TENTANG

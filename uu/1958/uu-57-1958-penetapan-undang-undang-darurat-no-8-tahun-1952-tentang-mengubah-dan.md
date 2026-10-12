@@ -49,8 +49,6 @@ Mengingat : Pasal-pasal 97 dan 89 Undang-undang Dasar Sementara Republik Indones
 
 Dengan persetujuan Dewan Perwakilan Rakyat;
 
-MEMUTUSKAN:
-
 Menetapkan : UNDANG-UNDANG TENTANG PENETAPAN "UNDANG-
 
 UNDANG DARURAT No. 8 TAHUN 1952 TENTANG
@@ -146,8 +144,6 @@ Di dalam tahun 1951 penghasilan yang sebenarnya dari uang berat barang didasarka
 Tahun 1951.
 
 Tanjung Priuk ............................ 2.315.070,55 Semarang ................................. 469.278,10 Surabaya .. .............................. 1.243.014,23 Makasar .................................. 708.322,56 Belawan .................................. 1.626.555,95 Teluk Bayur .............................. 147.228,93 Palembang ................................ - Pelabuhan-pelabuhan kecil ................ 1.447.048,39 Pelabuhan-pelabuhan kecil bukan perusahaan 672.418,89
-
-8.628.937,60
 
 Penghasilan dari bea berat-barang mengenai tahun 1952, didasarkan atas pemungutan sebanyak Rp. 9,- tiap-tiap 1000 kg. berat kotor adalah sebagai berikut:
 

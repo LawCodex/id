@@ -324,8 +324,6 @@ b. ahli waris disertai dokumen bukti ahli waris.
 
 (5) Ketentuan mengenai permohonan hak PVT diatur lebih lanjut oleh Pemerintah.
 
-##### Pasal 12
-
 (1) Setiap permohonan hak PVT hanya dapat diajukan untuk satu varietas.
 
 (2) Permohonan hak PVT dapat diajukan oleh :
@@ -364,9 +362,7 @@ d. dilengkapi salinan penolakan hak PVT, bila hak PVT tersebut pernah ditolak.
 
 (2) Ketentuan mengenai permohonan hak PVT dengan menggunakan hak prioritas diatur lebih lanjut oleh Pemerintah.
 
-### Bagian Kedua — Penerimaan Permohonan Hak Perlindungan
-
-Varietas Tanaman
+Penerimaan Permohonan Hak Perlindungan Varietas Tanaman
 
 ##### Pasal 15
 
@@ -389,8 +385,6 @@ Dalam hal terdapat kelengkapan sebagaimana dimaksud dalam Pasal 16 ayat (1), mak
 ##### Pasal 18
 
 apabila kekurangan kelengkapan tidak dipenuhi dalam jangka waktu sebagaimana dimaksud dalam Pasal 16 ayat (1) dan ayat (2), Kantor PVT memberitahukan secara tertulis kepada pemohon hak PVT bahwa permohonan hak PVT dianggap ditarik kembali.
-
-##### Pasal 19
 
 (1) apabila untuk satu varietas dengan sifat-sifat yang sama ternyata diajukan lebih dari satu permohonan hak PVT, hanya permohonan yang telah diajukan lengkap terlebih dahulu yang dapat diterima.
 
@@ -415,8 +409,6 @@ Varietas Tanaman
 ### Bagian Keempat — Penarikan Kembali Permohonan Hak Perlindungan
 
 Varietas Tanaman
-
-##### Pasal 21
 
 (1) Surat permohonan hak PVT dapat ditarik kembali dengan mengajukan permohonan secara tertulis kepada kantor PVT.
 
@@ -520,8 +512,6 @@ PVT.
 
 (2) Kepada Pemeriksa PVT diberikan jenjang dan tunjangan fungsional di samping hak lainnya sesuai dengan peraturan perundang-undangan yang berlaku.
 
-##### Pasal 32
-
 (1) atas hasil laporan pemeriksaan PVT, apabila varietas yang dimohonkan hak PVT ternyata mengandung ketidakjelasan atau kekurangan kelengkapan yang dinilai penting, Kantor PVT memberitahukan secara tertulis hasil pemeriksaan tersebut kepada pemohon hak PVT.
 
 (2) Pemberitahuan hasil pemeriksaan harus secara jelas dan rinci mencantumkan hal-hal yang dinilai tidak jelas atau kekurangan kelengkapan yang dinilai penting berikut jangka waktu untuk melakukan perbaikan dan perubahan.
@@ -616,8 +606,6 @@ e. sebab lain yang dibenarkan oleh undang-undang.
 
 (4) Syarat dan tata cara pengalihan hak PVT diatur lebih lanjut oleh Pemerintah.
 
-##### Pasal 41
-
 Pengalihan hak PVT tidak menghapus hak pemulia untuk tetap dicantumkan nama dan identitas lainnya dalam Sertifikat hak PVT yang bersangkutan serta hak memperoleh imbalan.
 
 ### Bagian Kedua — Lisensi
@@ -669,8 +657,6 @@ b. Pengadilan Negeri menilai bahwa hak PVT tersebut dapat dilaksanakan di Indone
 ##### Pasal 47
 
 Apabila berdasarkan bukti serta pendapat sebagaimana dimaksud dalam Pasal 46 ayat (1) dan ayat (2) Pengadilan Negeri memperoleh keyakinan bahwa belum cukup jangka waktu bagi pemegang hak PVT untuk menggunakannya secara komersial di Indonesia, Pengadilan Negeri dapat menetapkan penundaan untuk sementara waktu proses persidangan tersebut atau menolaknya.
-
-##### Pasal 48
 
 (1) Pelaksanaan Lisensi Wajib disertai dengan pembayaran royalti oleh pemegang Lisensi Wajib kepada pemegang hak PVT.
 

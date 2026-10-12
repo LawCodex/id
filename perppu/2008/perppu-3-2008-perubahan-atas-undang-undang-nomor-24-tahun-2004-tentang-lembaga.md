@@ -49,10 +49,6 @@ c bahwa berdasarkan perLimbangan sebagaimana dimaksud dalam huruf a dan huruf b,
 
 Mengingat 1 Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
-2. Undang-Undang ..
-
-PR ESID E N
-
 2 Undang-Undang Nomor 7 Tahun L992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun L992 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 3472) sebagaimana telah diubah dengan Undang-Undang Nomor 10 Tahun 1998 tentang Perubahan Atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 3790);
 
 3. Undang-Undang Nomor 24 Tahun 2OO4 tentang Lembaga Penjamin Simpanan (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 96, Tambahan Lembaran Negara Republik [ndonesia Nomor aa2O\
@@ -142,8 +138,6 @@ Pasal 1 1
 Ayat (1)
 
 Nilai yang dijamin diharapkan dapat melindungi seluruh simpanan yang dimiliki oleh nasabah kecil yang merupakan sebagian besar nasabah bank di Indonesia.
-
-Ayat (2)
 
 Ayat (2)
 

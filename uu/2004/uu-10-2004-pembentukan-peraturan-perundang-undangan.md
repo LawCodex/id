@@ -1123,7 +1123,7 @@ Cukup jelas.
 
 TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 4389
 
-## LAMPIRAN
+LAMPIRAN
 
 UNDANG–UNDANG REPUBLIK INDONESIA
 
@@ -1213,7 +1213,7 @@ UNDANG
 
 H. BENTUK RANCANGAN PERATURAN PEMERINTAH
 
-I. BENTUK RANCANGAN PERATURAN PRESIDEN
+### I. BENTUK RANCANGAN PERATURAN PRESIDEN
 
 J. BENTUK RANCANGAN PERATURAN DAERAH
 
@@ -1425,7 +1425,7 @@ Menimbang : a. bahwa …;
 
 b. bahwa …;
 
-c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan Peraturan Pemerintah (Peraturan Presiden);
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan
 
 23. Konsiderans Peraturan Pemerintah pada dasarnya cukup memuat satu pertimbangan yang berisi uraian ringkas mengenai perlunya melaksanakan ketentuan pasal atau beberapa pasal dari Undang–Undang yang memerintahkan pembuatan Peraturan Pemerintah tersebut. Lihat juga Nomor 19.
 
@@ -1611,7 +1611,11 @@ Contoh: Paragraf 1 Ketua, Wakil Ketua, dan Hakim
 
 61. Huruf awal kata pasal yang digunakan sebagai acuan ditulis dengan huruf kapital.
 
-Contoh: Pasal 34 Ketentuan sebagaimana dimaksud dalam Pasal 20 dan Pasal 26 tidak meniadakan kewajiban membayar ganti kerugian sebagaimana dimaksud dalam Pasal 33.
+Contoh:
+
+#### Pasal 34
+
+Ketentuan sebagaimana dimaksud dalam Pasal 20 dan Pasal 26 tidak meniadakan kewajiban membayar ganti kerugian sebagaimana dimaksud dalam Pasal 33.
 
 62. Pasal dapat dirinci ke dalam beberapa ayat.
 
@@ -1621,7 +1625,9 @@ Contoh: Pasal 34 Ketentuan sebagaimana dimaksud dalam Pasal 20 dan Pasal 26 tida
 
 65. Huruf awal kata ayat yang digunakan sebagai acuan ditulis dengan huruf kecil.
 
-a. Contoh: Pasal 8
+a. Contoh:
+
+#### Pasal 8
 
 (1) Satu permintaan pendaftaran merek hanya dapat diajukan untuk 1 (satu) kelas barang.
 
@@ -1631,13 +1637,19 @@ a. Contoh: Pasal 8
 
 66. Jika satu pasal atau ayat memuat rincian unsur, maka di samping dirumuskan dalam bentuk kalimat dengan rincian, dapat pula dipertimbangkan penggunaan rumusan dalam bentuk tabulasi.
 
-Contoh: Pasal 17 Yang dapat diberi hak pilih ialah warga negara Indonesia yang telah berusia 17 (tujuh belas) tahun atau telah kawin dan telah terdaftar pada daftar pemilih.
+Contoh:
+
+#### Pasal 17
+
+Yang dapat diberi hak pilih ialah warga negara Indonesia yang telah berusia 17 (tujuh belas) tahun atau telah kawin dan telah terdaftar pada daftar pemilih.
 
 Isi pasal tersebut dapat lebih mudah dipahami jika dirumuskan sebagai berikut:
 
 Contoh rumusan tabulasi :
 
-Pasal 17 Yang dapat diberi hak pilih ialah warga negara Indonesia yang:
+#### Pasal 17
+
+Yang dapat diberi hak pilih ialah warga negara Indonesia yang:
 
 a. telah berusia 17 (tujuh belas) tahun atau telah kawin; dan
 
@@ -1673,7 +1685,9 @@ Contoh:
 
 a. Tiap-tiap rincian ditandai dengan huruf a, huruf b, dan seterusnya.
 
-Contoh: Pasal 9
+Contoh:
+
+#### Pasal 9
 
 (2) ... :
 
@@ -1685,7 +1699,9 @@ c. … .
 
 b. Jika suatu rincian memerlukan lebih lanjut, rincian itu ditandai dengan angka Arab 1, 2, dan seterusnya.
 
-Contoh: Pasal 12
+Contoh:
+
+#### Pasal 12
 
 (1) … .
 
@@ -1701,11 +1717,11 @@ c. … :
 
 2. … ; (dan, atau, dan/atau)
 
-3. … .
-
 c. Jika suatu rincian lebih lanjut memerlukan rincian yang mendetail, rincian itu ditandai dengan huruf a), b), dan seterusnya.
 
-Contoh: Pasal 20
+Contoh:
+
+#### Pasal 20
 
 (1) ….
 
@@ -1733,7 +1749,9 @@ c) … .
 
 d. Jika suatu rincian lebih lanjut memerlukan rincian yang mendetail, rincian itu ditandai dengan angka 1), 2), dan seterusnya.
 
-Contoh: Pasal 22
+Contoh:
+
+#### Pasal 22
 
 (2) …:
 
@@ -1845,11 +1863,19 @@ c. penyusunan rumusan sendiri yang berbeda atau tidak terdapat di dalam norma-no
 
 92. Jika ketentuan pidana berlaku bagi siapapun, subyek dari ketentuan pidana dirumuskan dengan frase setiap orang.
 
-Contoh: Pasal 81 Setiap orang yang dengan sengaja dan tanpa hak menggunakan merek yang sama pada keseluruhannya dengan merek terdaftar milik orang lain atau badan hukum lain untuk barang atau jasa sejenis yang diproduksi dan atau diperdagangkan, sebagaimana dimaksud dalam Pasal 20, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun dan denda paling banyak Rp 100.000,00 (seratus ribu rupiah).
+Contoh:
+
+#### Pasal 81
+
+Setiap orang yang dengan sengaja dan tanpa hak menggunakan merek yang sama pada keseluruhannya dengan merek terdaftar milik orang lain atau badan hukum lain untuk barang atau jasa sejenis yang diproduksi dan atau diperdagangkan, sebagaimana dimaksud dalam Pasal 20, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun dan denda paling banyak Rp 100.000,00 (seratus ribu rupiah).
 
 93. Jika ketentuan pidana hanya berlaku bagi subyek tertentu, subyek itu dirumuskan secara tegas, misalnya, orang asing, pegawai negeri, saksi.
 
-Contoh: Pasal 95 Saksi yang memberi keterangan tidak benar dalam pemeriksaan perkara tindak pidana narkotika di muka sidang pengadilan, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan denda paling banyak Rp 300.000.000, 00 (tiga ratus juta rupiah).
+Contoh:
+
+#### Pasal 95
+
+Saksi yang memberi keterangan tidak benar dalam pemeriksaan perkara tindak pidana narkotika di muka sidang pengadilan, dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan denda paling banyak Rp 300.000.000, 00 (tiga ratus juta rupiah).
 
 94. Sehubungan adanya pembedaan antara tindak pidana kejahatan dan tindak pidana pelanggaran di dalam Kitab Undang-Undang Hukum Pidana, rumusan ketentuan pidana harus menyatakan secara tegas apakah perbuatan yang diancam dengan pidana itu dikualifikasikan sebagai pelanggaran atau kejahatan.
 
@@ -1859,7 +1885,7 @@ BAB V
 
 KETENTUAN PIDANA
 
-Pasal 33
+#### Pasal 33
 
 (1) Setiap orang yang melanggar ketentuan Pasal ….., dipidana dengan pidana kurungan paling lama …….. atau denda paling banyak Rp ………….,00
 
@@ -1933,7 +1959,9 @@ Izin ekspor rotan setengah jadi yang telah dikeluarkan berdasarkan Peraturan Pem
 
 109. Hindari rumusan dalam ketentuan peralihan yang isinya memuat perubahan terselubung atas ketentuan Peraturan Perundang-undangan lain. Perubahan ini hendaknya dilakukan dengan membuat batasan pengertian baru di dalam ketentuan umum Peraturan Perundang-undangan atau dilakukan dengan membuat Peraturan Perundang-undangan perubahan.
 
-Contoh: Pasal 35
+Contoh:
+
+#### Pasal 35
 
 (1) Desa atau yang disebut dengan nama lainnya yang setingkat dengan desa yang sudah ada pada saat mulai berlakunya Undang-Undang ini dinyatakan sebagai desa menurut Pasal 1 huruf a.
 
@@ -2003,7 +2031,11 @@ Pada saat Undang-Undang ini mulai berlaku:
 
 122. Pencabutan Peraturan Perundang-undangan harus disertai dengan keterangan mengenai status hukum dari peraturan pelaksanaan, peraturan lebih rendah, atau keputusan yang telah dikeluarkan berdasarkan Peraturan Perundang-undangan yang dicabut.
 
-Contoh: Pasal 102 Pada saat Undang-Undang ini mulai berlaku, semua Peraturan Perundang-undangan yang merupakan peraturan pelaksanaan dari Undang-Undang Nomor 9 Tahun 1976 tentang Narkotika (Lembaran Negara Republik Indonesia Tahun 1976 Nomor 36, Tambahan Lembaran Negara Republik Indonesia Nomor 3086) dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Undang-Undang ini.
+Contoh:
+
+#### Pasal 102
+
+Pada saat Undang-Undang ini mulai berlaku, semua Peraturan Perundang-undangan yang merupakan peraturan pelaksanaan dari Undang-Undang Nomor 9 Tahun 1976 tentang Narkotika (Lembaran Negara Republik Indonesia Tahun 1976 Nomor 36, Tambahan Lembaran Negara Republik Indonesia Nomor 3086) dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Undang-Undang ini.
 
 123. Untuk mencabut Peraturan Perundang-undangan yang telah diundangkan tetapi belum mulai berlaku, gunakan frase ditarik kembali dan dinyatakan tidak berlaku.
 
@@ -2043,13 +2075,17 @@ Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
 a. menetapkan bagian-bagian mana dalam Peraturan Perundang-undangan itu yang berbeda saat mulai berlakunya;
 
-Contoh : Pasal 45
+Contoh :
+
+#### Pasal 45
 
 (1) Ketentuan sebagaimana dimaksud dalam Pasal 8 ayat (1), ayat (2), ayat (3), dan ayat (4) mulai berlaku pada tanggal … .
 
 b. menetapkan saat mulai berlaku yang berbeda bagi wilayah negara tertentu.
 
-Contoh : Pasal 40
+Contoh :
+
+#### Pasal 40
 
 (1) Ketentuan sebagaimana dimaksud dalam Pasal 15 ayat (1) mulai berlaku untuk
 
@@ -2519,9 +2555,7 @@ Pasal 128 A Dalam hal terbukti adanya pelanggaran paten, hakim dapat memerintahk
 
 Contoh :
 
-10. Di antara ayat (1) dan ayat (2) Pasal 18 disisipkan 2 (dua) ayat, yakni ayat (1a) dan ayat (1b) sehingga Pasal 18 berbunyi sebagai berikut :
-
-#### Pasal 18
+10. Di antara ayat (1) dan ayat (2) Pasal 18 disisipkan 2 (dua) ayat, yakni ayat (1a) Pasal 18
 
 (1) ….
 
@@ -2579,7 +2613,7 @@ PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang : bahwa untuk mempermudah pemahaman materi yang diatur dalam Undang-Undang Nomor ... Tahun … tentang ... sebagaimana telah tentang ... perlu menyusun kembali naskah Undang-Undang tersebut dengan memperhatikan segala perubahan yang telah diadakan;
 
-Mengingat : Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+Mengingat : Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia
 
 MEMUTUSKAN:
 
@@ -3027,8 +3061,6 @@ Menetapkan : UNDANG–UNDANG TENTANG … (nama undang–undang).
 
 BAB I
 
-#### Pasal 1
-
 BAB II
 
 BAB … (dan seterusnya)
@@ -3180,8 +3212,6 @@ Disahkan di Jakarta
 PRESIDEN REPUBLIK INDONESIA,
 
 (tanda tangan)
-
-(NAMA)
 
 Diundangkan di Jakarta pada tanggal …
 
@@ -3339,8 +3369,6 @@ PENGGANTI UNDANG-UNDANG NOMOR … TAHUN … TENTANG …
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-PRESIDEN REPUBLIK INDONESIA,
-
 Menimbang : a. bahwa …;
 
 b. bahwa …;
@@ -3382,8 +3410,6 @@ Disahkan di Jakarta
 PRESIDEN REPUBLIK INDONESIA,
 
 (tanda tangan)
-
-(NAMA)
 
 Diundangkan di Jakarta pada tanggal …
 
@@ -3432,8 +3458,6 @@ Menetapkan : PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG TENTANG ….
 BAB I
 
 #### Pasal 1
-
-BAB II
 
 BAB
 
@@ -3485,8 +3509,6 @@ Mengingat : 1. …;
 
 3. dan seterusnya … ;
 
-MEMUTUSKAN:
-
 Menetapkan : PERATURAN PEMERINTAH TENTANG …. (nama Peraturan Pemerintah).
 
 BAB I
@@ -3526,8 +3548,6 @@ TENTANG
 (nama Peraturan Presiden)
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang : a. bahwa …;
 
@@ -3662,8 +3682,6 @@ MEMUTUSKAN:
 Menetapkan : PERATURAN DAERAH TENTANG … .................(nama Peraturan Daerah Kabupaten/Kota).
 
 BAB I
-
-KETENTUAN UMUM
 
 #### Pasal 1
 

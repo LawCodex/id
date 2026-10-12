@@ -273,8 +273,6 @@ Ayat (1), (2) dan (3) Pemeriksaan yang dilakukan terhadap pertanggungan-jawab ke
 
 Tugas dibidang pemeriksaan meliputi pula pengujian apakah pengeluaran uang Negara terjadi menurut ketentuan Anggaran Pendapatan dan Belanja Negara dan ketentuan-ketentuan mengenai penguasaan dan pengurusan keuangan Negara serta penilaian apakah penggunaan keuangan Negara telah dilakukan dengan cara-cara yang dapat dipertanggung-jawabkan sesuai dengan tujuan yang telah ditetapkan.
 
-Ayat (4) ….
-
 Ayat (4)
 
 Sesuai dengan bunyi Pasal 23 ayat (5) Undang-Undang Dasar 1945 Badan Pemeriksa Keuangan memberitahukan hasil pemeriksaannya kepada Dewan Perwakilan Rakyat. Dalam pada itu, sebagai lazimnya cara bekerja suatu pemeriksa dimana laporan hasil pemeriksaannya diberitahukan pula kepada yang diperiksanya, maka Badan Pemeriksa Keuangan memberitahukan pula hasil pemeriksaannya kepada Pemerintah.

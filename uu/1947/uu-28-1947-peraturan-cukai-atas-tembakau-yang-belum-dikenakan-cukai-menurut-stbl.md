@@ -121,8 +121,6 @@ e. selanjutnya hal-hal yang perlu untuk pengawasan menurut pemandangan Kepala Ja
 
 (2) Pita pengawasan serta kertas etiket itu harus direkatkan pada bungkusan atau pada tempat-tempat pembungkus lain yang berisi tembakau yang dikenakan cukai itu di dalam perusahaan.
 
-##### Pasal 9.
-
 (1) Menurut aturan yang diadakan oleh Menteri Keuangan untuk menjalankan aturan yang dimaksud dalam pasal 8 ditetapkan :
 
 a. tentang bangun dan rupa serta warna pita-pita pengawasan itu.
@@ -291,8 +289,6 @@ Tembakau tidak boleh dijual, ditawarkan atau diserahkan pada orang dengan harga 
 
 Kepala Jawatan Bea dan Cukai boleh menuntut dalam hal yang perlu supaya sebuah perusahaan dipisahkan dari ruangan dan pekarangan lain dengan ongkos pengusaha, pun boleh menuntut supaya pintu, jendela dan lobang-lobang lain yang ada pada perusahaan itu ditutup, sekaliannya menurut aturan yang akan diadakannya.
 
-##### Pasal 29.
-
 Sesudah Undang-undang ini berlaku, kedai atau tempat apapun, bila disitu hendak dijual barang tembakau cara eceran, tidak boleh didirikan di dalam lingkungan atas di atas pekarangan yang berhubungan atau berbatas dengan sebuah perusahaan.
 
 ##### Pasal 30.
@@ -399,8 +395,6 @@ Barang siapa yang termasuk dalam salah satu golongan yang tersebut di bawah ini 
 
 Barang siapa merekatkan pita pengawasan yang dimaksud dalam pasal 8 pada tembakau yang bukan dari perusahaan sendiri dengan tidak mendapat izin dari pengusaha yang empunya tembakau itu dihukum dengan hukuman penjara selamalamanya satu tahun empat bulan atau hukuman denda sebanyakbanyaknya Rp. 900,- (sembilan ratus supiah), jikalau karena perbuatannya itu merugikan kepada yang empunya tembakau itu.
 
-##### Pasal 48.
-
 (1) Barang siapa menjalankan perusahaan dengan tidak mempunyai izin perusahaan seperti yang dimaksud dipasal 14, dihukum dengan hukuman denda sekurang-kurangnya Rp. 100,- (seratus rupiah) dan sebanyak-banyaknya Rp. 10.000,-(sepuluh ribu rupiah).
 
 (2) Jikalau terbukti, dalam hal yang tersebut dalam ayat (1) pasal ini, olehnya telah digelapkan cukai maka hukuman denda itu boleh diganti dengan hukuman penjara selama-lamanya satu tahun.
@@ -477,8 +471,6 @@ Menteri Keuangan, untuk menyingkirkan tuntutan kehakiman boleh mengadakan perund
 
 ATURAN TAMBAHAN.
 
-##### Pasal 63.
-
 Orang yang sedang menjalankan perusahaan yang harus mempunyai izin perusahaan menurut pasal 14, pada waktu Undang-undang ini berlaku, harus memajukan permohonan yang dimaksud dalam pasal 15, selambat-lambatnya 1 bulan sesudah Undang-undang ini mulai berlaku.
 
 ##### Pasal 64.
@@ -508,8 +500,6 @@ Selama satu waktu yang ditetapkan oleh Kepala Jawatan Bea dan Cukai sesudah Unda
 1. Tembakau boleh dibawa dari perusahaan ke dalam peredaran umum serta pengangkutan sebagai yang dimaksud dalam pasal 24 boleh dilakukan dengan menyimpang dari aturan dalam pasal 21.
 
 2. Tembakau boleh dijual, ditawarkan, diserahkan kepada orang atau disediakan untuk dijual dengan menyimpang dari aturan dan syarat-syarat yang dimaksud dalam pasal 23.
-
-##### Pasal 69.
 
 Undang-undang ini mulai berlaku pada hari diumumkan.
 

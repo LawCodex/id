@@ -219,8 +219,6 @@ Badan-badan Kehakiman, para hakim dan para jaksa berwajib saling memberi segala 
 
 (4) Apabila kemudian ternyata, bahwa yang bersangkutan harus tetap memegang jabatannya, sisa gaji yang belum diterima, harus dibayar.
 
-##### Pasal 24.
-
 (1) Ketua Mahkamah dan Pengadilan dapat memberi peringatan tentang hal menjalankan kewajiban dalam jabatannya kepada para hakim dan panitera dari Mahkamah dan Pengadilan masing-masing.
 
 (2) Kepala Kejaksaan dapat memberi peringatan tentang hal menjalankan kewajiban dalam jabatannya kepada para jaksa dari kejaksaan masing-masing.
@@ -270,8 +268,6 @@ Segala upah yang menurut Undang-undang harus dibayar berhubung dengan pemeriksaa
 BAGIAN II.
 
 Pengadilan dan Kejaksaan Negeri.
-
-##### Pasal 31.
 
 (1) Dalam tiap-tiap daerah Kabupaten diadakan satu Pengadilan Negeri atau lebih; jika ada satu Pengadilan Negeri, maka kedudukannya ialah di ibu kota Kabupaten; jika lebih maka selebihnya berkedudukan di lain kota yang ditetapkan oleh Menteri Kehakiman.
 
@@ -528,8 +524,6 @@ Badan-badan Kehakiman dalam peradilan Tata-Usaha Pemerintahan yang dimaksudkan d
 Peradilan Ketentaraan diatur dalam Undang-undang khusus.
 
 ## BAB V — ATURAN PERALIHAN.
-
-##### Pasal 69.
 
 Dengan berlakunya Undang-undang ini tidak berlaku lagi segala peraturan tentang susunan dan kekuasaan badan-badan Kehakiman yang tidak dipertahankan oleh Undang-undang ini.
 

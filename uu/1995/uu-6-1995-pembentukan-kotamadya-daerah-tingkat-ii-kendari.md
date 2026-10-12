@@ -353,7 +353,7 @@ Ayat (1)
 
 Huruf a
 
-Yang dimaksud dengan memperhatikan perimbangan suara hasil Pemilihan Umum Tahun 1992 ialah pada prinsipnya dalam menetapkan anggota-anggota Dewan Perwakilan Rakyat Daerah Tingkat II tersebut, berpedoman kepada perimbangan suara hasil Pemilihan Umum dan dijiwai oleh semangat kebersamaan serta kekeluargaan dalam rangka demokrasi Pancasila.
+Yang dimaksud dengan memperhatikan perimbangan suara hasil Pemilihan Umum Tahun 1992 ialah pada prinsipnya dalam menetapkan anggota-anggota Dewan Perwakilan Rakyat Daerah Tingkat II tersebut, berpedoman kepada perimbangan suara hasil Pemilihan Umum dan dijiwai oleh semangat kebersamaan serta kekeluargaan dalam
 
 Huruf b
 

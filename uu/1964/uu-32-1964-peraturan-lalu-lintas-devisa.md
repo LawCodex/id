@@ -151,8 +151,6 @@ b. memerintahkan diadakannya penyelidikan oleh satu atau beberapa orang ahli ata
 
 ## BAB V — EKSPOR BARANG DAN PEMBERIAN JASA.
 
-##### Pasal 7.
-
 (1) Ekspor barang yang berada di dalam wilayah Indonesia keluar negeri atau penjualan barang yang berada di luar Indonesia dan berasal dari Indonesia yang belum dijual harus dilakukan dengan menuntut pembayaran dalam devisa menurut harga dan syarat yang ditentukan dan diumumkan oleh Pimpinan Biro.
 
 (2) Penyerahan devisa kepada Dana Devisa yang caranya ditentukan di bawah ini berdasarkan atas harga termaksud dalam ayat (1).

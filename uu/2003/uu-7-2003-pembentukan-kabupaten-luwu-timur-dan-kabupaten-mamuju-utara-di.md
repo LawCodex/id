@@ -477,8 +477,6 @@ KETERANGAN :
 
 PRESIDEN REPUBLIK INDONESIA,
 
-ttd
-
 MEGAWATI SOEKARNOPUTRI
 
 LAMPIRAN 2
@@ -493,10 +491,6 @@ PETA KABUPATEN MAMUJU UTARA
 
 KETERANGAN :
 
-++++++++ : Batas Provinsi +-+-+-+-+-+- : Batas Kabupaten -.-.-.-.-.-.-.-.- : Batas Kecamatan
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd
+++++++++ : Batas Provinsi +-+-+-+-+-+- : Batas Kabupaten -.-.-.-.-.-.-.-.- : Batas Kecamatan ttd
 
 MEGAWATI SOEKARNOPUTRI

@@ -45,8 +45,6 @@ d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam hunrf a, huruf b, d
 
 Mengingat Pasal 5 ayat (1), Pasal 20, Pasal 21, dan Pasal 33 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
-Dengan. .
-
 Dengan Persetujuan Bersama
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
@@ -77,8 +75,6 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 6. Sumber energi terbarukan adalah sumber energi yang dihasilkan dari sumber daya energi yang berkelanjutan jika dikelola dengan baik, antara lain panas bumi, angin, bioenergi, sinar matahari, aliran dan terjunan air, serta gerakan dan perbedaan suhu lapisan laut.
 
-7. Energi
-
 7. Energi terbarukan adalah energi yang berasal dari sumber energi terbarukan.
 
 8. Sumber energi tak terbarukan adalah sumber energi yang dihasilkan dari sumber daya energi yang akan habis jika dieksploitasi secara terus-menerus, antara lain minyak bumi, gas bumi, batu bara, gambut, dan serpih bitumen.
@@ -98,8 +94,6 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 16. Pemanfaatan energi adalah kegiatan menggunakan energi, baik langsung maupun tidak langsung, dari sumber energi.
 
 L7. Pengelolaan energi adalah penyelenggaraan kegiatan penyediaan, pengusahaan, dan pemanfaatan energi serta penyediaan cadangan strategis dan konservasi sumber daya energi.
-
-18. Pengusahaan
 
 18. Pengusahaan energi adalah kegiatan menyelenggarakan usaha penyediaan dan/atau pemanfaatan energi.
 
@@ -124,8 +118,6 @@ L7. Pengelolaan energi adalah penyelenggaraan kegiatan penyediaan, pengusahaan, 
 29. Pemerintah daerah adalah gubernur, bupati, atau walikota dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah.
 
 30. Menteri adalah menteri yang bidang tugasnya bertanggung jawab di bidang energi.
-
-## BAB II
 
 ## BAB II — ASAS DAN TUJUAN
 
@@ -159,7 +151,7 @@ f. tercapainya peningkatan akses masyarakat yang tidak mampu dan/atau yang tingg
 
 2. membangun infrastruktur energi untuk daerah belum berkembang sehingga dapat mengurangi disparitas antardaerah;
 
-g. tercapainya g tercapainya pengembangan kemampuan industri energi dan jasa energi dalam negeri agar mandiri dan meningkatkan profesionalisme sumber daya manusia; h terciptanya lapangan kerja; dan terjaganya kelestarian fungsi lingkungan hidup.
+g tercapainya pengembangan kemampuan industri energi dan jasa energi dalam negeri agar mandiri dan meningkatkan profesionalisme sumber daya manusia; h terciptanya lapangan kerja; dan terjaganya kelestarian fungsi lingkungan hidup.
 
 ## BAB III — PENGATURAN ENERGI
 
@@ -180,8 +172,6 @@ g. tercapainya g tercapainya pengembangan kemampuan industri energi dan jasa ene
 (1) Untuk menjamin ketahanan energi nasional, Pemerintah wajib menyediakan cadangan penyangga energi.
 
 (2) Ketentuan mengenai jenis, jumlah, waktu, dan lokasi cadangan penyangga energi, sebagaimana dimaksud pada ayat (1) diatur lebih lanjut oleh Dewan Energi Nasional.
-
-Bagian
 
 ### Bagian Ketiga — Keadaan Krisis dan Darurat Energi
 
@@ -233,8 +223,6 @@ c. meningkatkan perekonomian nasional. (21 Kerja sama internasional, sebagaimana
 
 (3) Dalam hal Pemerintah membuat perjanjian internasional dalam bidang energi yang menimbulkan akibat yang luas dan mendasar bagi kehidupan ralryat yang terkait dengan beban keuangan negara dan/atau mengharuskan perubahan atau pembentukan undang-undang, harus mendapat persetujuan Dewan Perwakilan Rakyat.
 
-## BAB IV
-
 ## BAB IV — KEBIJAKAN ENERGI DAN DEWAN ENERGI NASIONAL
 
 ### Bagian Kesatu — Kebijakan Energi Nasional
@@ -279,8 +267,6 @@ b. Wakil Ketua: Wakil Presiden.
 
 c. Ketua Harian: Menteri yang membidangi energi.
 
-(5) Anggota
-
 (5) Anggota Dewan Energi Nasional terdiri atas: a.tujuhorang,baikMenterimaupunpejabatpemerintah lainnya yang secara langsung bertanggung jawab atas p.ttyiai""t , tt.t tportasi, penyaluran, dan pemanfaatan energi; dan
 
 b. delapan orang dari pemangku kepentingan'
@@ -311,8 +297,6 @@ e. 2 (dua) orang dari kalangan konsumen.
 
 (7) Ketentuan lebih lanjut mengenai tata cara penyaringan calon anggota Dewan Energi Nasional, sebagaimana dimaksud puau ayat (2) diatur dengan Peraturan Presiden.
 
-##### Pasal 14 .
-
 ##### Pasal 14
 
 (1) Masa jabatan Anggota Dewan Energi Nasional yang berasal dari Menteri dan pejabat Pemerintah lainnya berakhir setelah tidak menjabat lagi dalam jabatan sebagaimana dimaksud dalam Pasal 12 ayat (5) huruf a.
@@ -338,8 +322,6 @@ Anggaran biaya Dewan Energi Nasional dibebankan pada Anggaran Pendapatan dan Bel
 (1) Pemerintah men1rusun rancangan rencana umum energi nasional berdasarkan kebijakan energi nasional.
 
 (2) Dalam men)rusun rencana umum energi nasional sebagaimana dimaksud pada ayat (1), Pemerintah mengikutsertakan pemerintah daerah serta memperhatikan pendapat dan masukan dari masyarakat.
-
-(3) Ketentuan
 
 -t2-
 
@@ -373,8 +355,6 @@ a. inventarisasi sumber daya energi;
 
 b. peningkatan cadangan energi;
 
-c. penyusunan.
-
 c. penyusunan neraca energi;
 
 d. diversifikasi, konservasi, dan intensifikasi sumber energi dan energi; dan
@@ -400,8 +380,6 @@ c. memprioritaskan pemenuhan kebutuhan masyarakat dan peningkatan kegiatan ekono
 (2) Pemanfaatan energi baru dan energi terbarukan wajib ditingkatkan oleh Pemerintah dan pemerintah daerah.
 
 (3) Pemanfaatan energi dari sumber energi baru dan sumber energi terbarukan yang dilakukan oleh badan usaha, bentuk usaha tetap, dan perseorangan dapat memperoleh kemudahan dan/atau insentif dari Pemerintah dan/atau pemerintah daerah sesuai dengan kewenangannya untuk jangka waktu tertentu hingga tercapai nilai keekonomiannya.
-
-##### Pasal 22
 
 -t4-
 
@@ -431,8 +409,6 @@ c. memprioritaskan pemenuhan kebutuhan masyarakat dan peningkatan kegiatan ekono
 
 ##### Pasal 24
 
-##### Pasal 24
-
 (1) Badan usaha yang melakukan kegiatan usaha energi, sebagaimana dimaksud dalam Pasal 23 berkewajiban, antara lain:
 
 a. memberdayakan masyarakat setempat;
@@ -458,8 +434,6 @@ d. memfasilitasi pendidikan dan pelatihan bidang energi.
 (4) Pengguna sumber energi dan pengguna energi yang tidak melaksanakan konservasi energi diberi disinsentif oleh Pemerintah dan/ atau pemerintah daerah.
 
 (5) Ketentuan lebih lanjut mengenai pelaksanaan konservasi energi serta pemberian kemudahan, insentif, dan disinsentif, sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4) diatur dengan Peraturan Pemerintah dan/ atau Peraturan Daerah.
-
-## BAB VI
 
 -i6-
 
@@ -501,8 +475,6 @@ c. penetapan kebijakan pengelolaan di kabupaten/kota.
 
 Pembinaan kegiatan pengelolaan sumber daya energi, sumber energi, dan energi dilakukan oleh Pemerintah dan pemerintah daerah.
 
-### Bagian Kedua
-
 ### Bagian Kedua — Pengawasan
 
 ##### Pasal 28
@@ -522,8 +494,6 @@ Pengawasan kegiatan pengelolaan sumber daya energi, sumber energi dan energi dil
 (1) Pendanaan kegiatan penelitian dan pengembangan sebagaimana dimaksud dalam Pasal 29 difasilitasi oleh Pemerintah dan pemerintah daerah sesuai dengan kewenangannya. (21 Pendanaan kegiatan penelitian dan pengembangan ilmu pengetahuan dan teknologi energi, sebagaimana dimaksud pada ayat (1) antara lain bersumber dari Anggaran Pendapatan dan Belanja Negara, Anggaran Pendapatan dan Belanja Daerah, dan dana dari swasta.
 
 (3) Pengembangan dan pemanfaatan hasil penelitian tentang energi baru dan energi terbarukan dibiayai dari pendapatan negara yang berasal dari energi tak terbarukan.
-
-(4) Ketentuan
 
 (4) Ketentuan mengenai pendanaan, sebagaimana dimaksud pada ayat (3) diatur lebih lanjut dengan Peraturan Pemerintah.
 
@@ -550,8 +520,6 @@ Peraturan pelaksanaan Undang-Undang ini harus telah ditetapkan paling lambat 1 (
 ##### Pasal 34
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
-
-Agar
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
@@ -615,8 +583,6 @@ b. cadangan penyangga energi guna menjamin ketahanan energi nasional;
 
 c. keadaan krisis dan darurat energi serta harga energi;
 
-d. kewenangan. . .
-
 d,. kewenangan Pemerintah dan pemerintah daerah dalam pengaturan di bidang energi;
 
 e. kebijakan energi nasional, rencana umum energi nasional, dan pembentukan dewan energi nasional;
@@ -650,8 +616,6 @@ Yang dimaksud dengan asas pelestarian fungsi lingkungan hidup adalah asas dalam 
 Yang dimaksud dengan asas ketahanan nasional adalah asas dalam pengelolaan energi yang harus mencapai kemampuan nasional dalam pengelolaan energi.
 
 Yang dimaksud dengan asas keterpaduan adalah asas dalam pengelolaan energi yang harus mencapai pengelolaan energi secara terpadu antarsektor.
-
-#### Pasal 3   .
 
 #### Pasal 3
 
@@ -716,8 +680,6 @@ Cukup jelas.
 Ayat (3)
 
 Cukup jelas.
-
-#### Pasal 8 .
 
 #### Pasal 8
 
@@ -787,8 +749,6 @@ Cukup jelas.
 
 #### Pasal 14
 
-#### Pasal 14
-
 Cukup jelas.
 
 #### Pasal 15
@@ -852,8 +812,6 @@ Cukup jelas.
 Ayat (a)
 
 Cukup jelas.
-
-Ayat (s)
 
 Ayat (5)
 
@@ -984,8 +942,6 @@ Cukup jelas.
 #### Pasal 30
 
 Cukup jelas.
-
-#### Pasal 31
 
 #### Pasal 31
 

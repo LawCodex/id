@@ -183,8 +183,6 @@ MENTERI PERTAHANAN,
 
 a.n.b
 
-(...................)
-
 LAMPIRAN. 2
 
 TANDA CIRI (signalement) dari orang yang membuat ikatan dinas

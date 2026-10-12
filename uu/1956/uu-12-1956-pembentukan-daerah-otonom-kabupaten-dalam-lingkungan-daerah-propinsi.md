@@ -95,8 +95,6 @@ Daerah-daerah seperti tersebut di bawah ini No. 1 sampai dengan 14 masing-masing
 
 1. Kabupaten Agam berkedudukan di
 
-Bukittinggi,
-
 2. Kabupaten Padang/Pariaman berkedudukan di
 
 Pariaman,

@@ -431,8 +431,6 @@ Pasal ini bermaksud menyesuaikan tarip-tarip bea meterai dengan keadaan sekarang
 
 Dengan menggunakan perobahan beberapa tarip sebagai dimaksud pada ayat 1, 2 dan 3 sebagai ancer-ancer, maka dalam ayat 4 Menteri Iuran Negara dapat menyesuaikan tarip-tarip dan denda-denda lain yang terdapat dalam Aturan Bea Meterai menurut keadaan.
 
-Pasal 11….
-
 ##### Pasal 11.
 
 Menteri Iuran Negara diberi wewenang untuk merubah pungutan sumbangan barang mewah dan barang setengah mewah sesuai dengan kebutuhan stabilisasi perekonomian dengan pengertian bahwa jumlahnya tidak boleh melampaui 60% untuk barang mewah dan 40% untuk barang setengah mewah. Dilain pihak jika suatu jenis barang tertentu yang semula dianggap mewah namun yang kemudian karena perkembangan perekonomian sifat kemewahan barang termaksud tidak lagi menonjol, maka Menteri Iuran Negara dapat menurunkan taripnya ataupun membebaskan dari pengenaan sumbangan tersebut.

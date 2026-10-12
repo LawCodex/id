@@ -53,8 +53,6 @@ b. Undang-undang No.29 tahun 1957 (Lembaran-Negara tahun 1957 No.101).
 
 Dengan persetujuan Dewan Perwakilan Rakyat.
 
-MEMUTUSKAN:
-
 Menetapkan : Undang-undang tentang penetapan "Undang-undang Darurat No. 7 tahun 1953 tentang ancaman hukuman terhadap pembelian, penerimaan, penyerahan, penguasaan, kepunyaan persediaan atau dalam milik, penyimpanan, pengangkutan atau pembawaan kawat-tembaga dengan tidak mempunyai idzin" (Lembaran-Negara tahun 1953 No.51) sebagai Undang-undang
 
 ##### Pasal I.

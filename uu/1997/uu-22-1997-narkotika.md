@@ -420,8 +420,6 @@ c. balai pengobatan pemerintah tertentu.
 
 Narkotika Golongan I hanya dapat disalurkan oleh pabrik obat tertentu dan/atau pedagang besar farmasi tertentu kepada lembaga ilmu pengetahuan tertentu untuk kepentingan pengembangan ilmu pengetahuan.
 
-##### Pasal 38
-
 Ketentuan lebih lanjut mengenai persyaratan dan tata cara penyaluran narkotika diatur dengan Keputusan Menteri Kesehatan.
 
 ### Bagian Ketiga — Penyerahan

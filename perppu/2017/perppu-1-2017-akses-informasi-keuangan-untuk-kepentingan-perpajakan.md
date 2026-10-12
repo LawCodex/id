@@ -23,10 +23,6 @@ retrieved: 2026-10-12
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2017 tentang Akses Informasi Keuangan Untuk Kepentingan Perpajakan
 
-SATINAN
-
-REPLIBLIK INDONESIA
-
 PEMTURAN PEMERINTAH
 
 PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA
@@ -115,8 +111,6 @@ b. transaksi baru terkait rekening keuangan bag nasabah lama, yang menolak untuk
 
 a. mekanisme elektronik melalui Otoritas Jasa Keuangan bagi lembaga jasa keuangan sebagaimana dimaksud dalam Pasal 2 ayal (1), untuk laporan sebagaimana dimaksud dalam Pasal 2 ayat (21 huruf a;
 
-b. mekanisme . .
-
 b. mekadsme non-elektronik sepanjang mekanisme elektronik belum tersedia, kepada Direktur Jenderal Pajak, bagi lembaga jasa keuangan lainnya dan entitas lain sebagaimana dimaksud dalam Pasal 2 ayat (1), untuk laporan sebagaimana dimaksud dalam Pasal 2 ayat (21 huruf a; dan
 
 c. mekanisme non-elektronik sepanjang mekanisme elektronik belum tersedia, kepada Direktur Jenderal Pajak, untuk laporan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf b. (21 Dalam hal terdapat perubahan mekanisme sebagaimana dimaksud pada ayat (1), Menteri Keuangan dapat menentukan mekanisme lain setelah mendapat pertimbangan Ketua Dewan Komisioner Otoritas Jasa Keuangan.
@@ -126,8 +120,6 @@ c. mekanisme non-elektronik sepanjang mekanisme elektronik belum tersedia, kepad
 a. lembaga jasa keuangan sebagaimana dimaksud dalam Pasal 2 ayat (1) wajib menyampaikan kepada Otoritas Jasa Keuangan paling lama 60 (enam puluh) hari sebelum batas waktu berakhirnya periode pertukaran informasi keuangan antara Indonesia dengan negara atau yurisdiksi lain berdasarkan perjanjian intemasiohal di bidang perpajakan; dan
 
 b. Otoritas Jasa Keuangan menyampaikan kepada Direktorat Jenderal Pajak paling lama 30 (tiga puluh) hari sebelum batas waktu berakhimya periode pertukaran informasi keuangan antara Indonesia dengan negara atau yurisdiksi lain berdasarkan perjanjian internasional di bidang perpajakan. (41 Penyampaian laporan melalui mekanisme sebagaimana dimaksud pada ayat (l) huruf b dan huruf c dilakukan oleh lembaga jasa keuangan, lembaga jasa keuangan lainnya, dan/atau entitas lain sebagaimana dimaksud dalam Pasal 2 ayat (1) kepada Direktur Jenderal pajak paling lama 4 (empat) bulan setelah akhir tahun kalender.
-
-**Pasal 4.**
 
 **Pasal 4**
 
@@ -342,10 +334,6 @@ Yang dimaksud dengan "hari, adalah hari kalender.
 Contoh:
 
 Apabila batas waktu pertukaran informasi kepada negara atau yurisdiksi rain berdesarkan internasionJ ti uia."e perpajakan jatuh pada tanegal,perl'anjian 3O September 2O l g maka:
-
-a. penyampaian
-
-REPUELIK INDONESIA
 
 a. penyampaian laporan dari lembaga jasa keuangan sebagaimana dimaksud pa{a ayat (1} kepada Otoritas Jasa Keuangan wajib dilakukan paling lama tanggal 1 Agustus 2018; dan
 

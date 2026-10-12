@@ -51,8 +51,6 @@ MEMUTUSKAN :
 
 Menetapkan : UNDANG-UNDANG TENTANG HYGIENE.
 
-BAB I….
-
 ## BAB I — MAKSUD DAN TUJUAN.
 
 ##### Pasal 1.
@@ -64,8 +62,6 @@ Maksud dan tujuan Undang-undang ini ialah untuk menetapkan ketentuan-ketentuan d
 PASAL 2.
 
 Yang dimaksud dalam Undang-undang ini dengan hygiene ialah kesehatan masyarakat yang khusus meliputi segala usaha untuk melindungi, memelihara dan mempertinggi derajat kesehatan badan dan jiwa, baik untuk umum, maupun untuk perseorangan, dengan tujuan memberi dasar-dasar kelanjutan hidup yang sehat serta mempertinggi kesejahteraan dan dayaguna peri kehidupan manusia.
-
-BAB III….
 
 ## BAB III — USAHA-USAHA.
 

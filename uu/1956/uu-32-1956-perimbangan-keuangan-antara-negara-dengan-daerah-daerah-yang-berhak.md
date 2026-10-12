@@ -56,8 +56,6 @@ Mengingat : Pasal 131 juncto 89 dan 142 Undang-undang Dasar Sementara Republik I
 
 Dengan persetujuan Dewan Perwakilan Rakyat;
 
-Memutuskan :
-
 Pertama : Menarik kembali:
 
 a. "Ordonnantie Financieele Verhouding Java en Madura" (Staatsblad 1938 No. 170);

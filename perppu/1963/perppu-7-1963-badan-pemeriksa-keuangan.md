@@ -374,8 +374,6 @@ Disamping itu Ekonomi Terpimpin mewajibkan penyusunan progress report dari pada 
 
 Semuanya ini menyebabkan perlunya ada Badan Pemeriksa Keuangan diberi wewenang pengawasan dan pemeriksaan secara menyeluruh, sehingga Badan Pemeriksa Keuangan dapat pula menjadi alat untuk menyempurnakan social control yang effektif guna mencapai social support yang maximal.
 
-Keinginan- ….
-
 Keinginan-keinginan untuk menyempurnakan Badan Pemeriksan Keuangan ini antara lain tercermin didalam Amanat-amanat Presiden Deklarasi Ekonomi dan Ambeg Parama Arta, serta didalam Ketetapan Majelis Permusyawaratan Rakyat Sementara No.
 
 II/MPRS/1960 dan Resolusi Majelis Permusyawaratan Rakyat Sementara No.

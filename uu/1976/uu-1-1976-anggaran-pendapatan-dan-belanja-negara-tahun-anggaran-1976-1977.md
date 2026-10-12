@@ -61,8 +61,6 @@ X/MPR/1973;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia,
 
-MEMUTUSKAN :
-
 Menetapkan : UNDANG-UNDANG TENTANG ANGGARAN PENDAPATAN DAN BELANJA
 
 NEGARA TAHUN ANGGARAN 1976/1977.

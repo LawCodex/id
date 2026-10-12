@@ -3109,11 +3109,7 @@ Cukup jelas Pasal 45 Cukup jelas
 
 #### Pasal 46
 
-Cukup jelas
-
-#### Pasal 47
-
-Cukup jelas
+Cukup jelas Pasal 47 Cukup jelas
 
 #### Pasal 48
 

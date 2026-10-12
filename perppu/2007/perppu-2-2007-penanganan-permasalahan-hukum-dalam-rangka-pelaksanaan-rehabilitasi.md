@@ -47,8 +47,6 @@ b. bahwa bencana alam tersebut selain mengakibatkan korban jiwa, harta benda, da
 
 c. bahwa permasalahan hukum sebagaimana dimaksud pada huruf b, sangat mendesak untuk segera ditangani, gr-rna rnengernbalikan kondisi psikologis penduduk, kehidupan sosial ekonomi dan normalisasi pemerintahan melalui usaha rehabilitasi dan rekonstruksi;
 
-d. bahwa
-
 d. bahwa dalam penanganan permasalahan hukum sebagaimana dimaksud pada huruf c perlu dilakukan dengan melibatkan masyarakat dan memperhatikan aspirasi masyarakat di Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara;
 
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, huruf c, dan huruf d, perlu menetapkan Peraturan Pemerintah Pengganti Undang-Undang tentang Penanganan Permasalahan Hukum dalam Rangka Pelaksanaan Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat di Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara;
@@ -58,8 +56,6 @@ Mengingat : 1. Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia T
 2 Undang-Undang Nomor 44 Tahun 1999 tentang Penyelenggaraan Keistimewaan Provinsi Daerah Istimewa Aceh (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 172, Tambahan Lembaran Negara Republik Indonesia Nomor 3893);
 
 3 Undang-Undang Nomor 10 Tahun 2005 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2005 tentang Badan Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2005
-
-Nomor
 
 Nomor 111, Tambahan Lembaran Negara Republik Indonesia Nomor a550);
 
@@ -89,8 +85,6 @@ Dalam Peraturan Pemerintah Pengganti Undang-Undang ini yang dimaksud dengan:
 
 2. Tanah Musnah adalah tanah yang sudah berubah dari bentuk asalnya karena peristiwa alam dan tidak dapat diidentifikasi lagi sehingga tidak dapat difungsikan, digunakan, dan dimanfaatkan sebagaimana mestinya.
 
-3. Bank
-
 3. Bank adalah Bank Umum dan Bank Perkreditan Ralryat sebagaimana dimaksud dalam Undang-Undang tentang Perbankan.
 
 4. Simpanan adalah dana yang dipercayakan oleh masyarakat kepada bank berdasarkan perjanjian penyimpanan dana dalam bentuk giro, deposito, sertifikat deposito, tabungan dan/atau bentuk lainnya yang dipersamakan dengan itu.
@@ -102,8 +96,6 @@ Dalam Peraturan Pemerintah Pengganti Undang-Undang ini yang dimaksud dengan:
 7. Balai Harta Peninggalan adalah lembaga yang berada di dalam lingkungan Departemen Hukum dan Hak Asasi Manusia, yang mengurus per-walian, pengampuan, ketidakhadiran, harta peninggalan tidak terums, pendaftaran akta wasiat, surat keterangan waris, dan kepailitan bagi penduduk yang bukan beragama Islam di Provinsi Nanggroe Aceh Darussalam atau penduduk, baik yang beragama Islam maupun yang tidak beragama Islam di Kepulauan Nias Provinsi Sumatera Utara.
 
 8. Pengadilan adalah Mahkamah Syar'iyah Kabupaten/Kota di Provinsi Nanggroe Aceh Darussalam, Pengadilan Agama di Kepulauan Nias Provinsi Sumatera Utara bagi yang beragama Islam atau pengadilan negeri bagi yang tidak beragama Islam.
-
-## BAB II
 
 ## BAB II — TUJUAN
 
@@ -127,7 +119,7 @@ Peraturan Pemerintah Pengganti Undang-Undang ini bertujuan untuk mempercepat pel
 
 (1) Hak atas tanah musnah dan hak yang membebani tanah musnah menjadi hapus.
 
-(2) Buku tanah, tanda bukti hak atas tanah, dan dokumen yang berkaitan dengan tanah atau bukti kepemilikan lain atas atas tanah musnah sebagaimana dimaksud pada ayat (1) termasuk tanah yang belum terdaftar, dinyatakan tidak berlaku lagi sebagai tanda bukti hak yang sah.
+(2) Buku tanah, tanda bukti hak atas tanah, dan dokumen yang berkaitan dengan tanah atau bukti kepemilikan lain atas tanah musnah sebagaimana dimaksud pada ayat (1) termasuk tanah yang belum terdaftar, dinyatakan tidak berlaku lagi sebagai tanda bukti hak yang sah.
 
 ##### Pasal 5
 
@@ -147,7 +139,7 @@ d. Rencana Umum Tata Ruang;
 
 ##### Pasal 6
 
-Tanah yang masih ada baik terdaftar maupun tidak terdaftar, yang dapat diidentifikasi maupun tidak, dilakukan pengukuran kembali dan penetapan batas berdasarkan penunjukkan batas oleh pemegang hak atas tanah atau ahli waris bersama masyarakat, pejabat kelurahan, gampong, atau atau desa setempat, dan Kepala Kantor Pertanahan, untuk kemudian dibuatkan sertifikat hak atas tanah.
+Tanah yang masih ada baik terdaftar maupun tidak terdaftar, yang dapat diidentifikasi maupun tidak, dilakukan pengukuran kembali dan penetapan batas berdasarkan penunjukkan batas oleh pemegang hak atas tanah atau ahli waris bersama masyarakat, pejabat kelurahan, gampong, atau desa setempat, dan Kepala Kantor Pertanahan, untuk kemudian dibuatkan sertifikat hak atas tanah.
 
 ##### Pasal 7
 
@@ -167,7 +159,7 @@ Tanah yang masih ada baik terdaftar maupun tidak terdaftar, yang dapat diidentif
 
 (1) Tanah yang tidak ada lagi pemilik dan ahli warisnya yang beragama Islam menjadi harta agama dan dikelola oleh Baitul Mal.
 
-(2) Penetapan mengenai ada atau tidaknya pemilik dan ahli waris serta pengelolaan tanah oleh Baitul Mal sebagaimana sebagaimana dimaksud pada ayat (1) dilakukan oleh Pengadilan.
+(2) Penetapan mengenai ada atau tidaknya pemilik dan ahli waris serta pengelolaan tanah oleh Baitul Mal sebagaimana dimaksud pada ayat (1) dilakukan oleh Pengadilan.
 
 (3) Permohonan penetapan sebagaimana dimaksud pada ayat (21 dapat diajukan oleh keluarga, masyarakat, atau pengurus Baitul Mal.
 
@@ -185,8 +177,6 @@ Tanah yang masih ada baik terdaftar maupun tidak terdaftar, yang dapat diidentif
 
 Pasal 1 1
 
-Pasal 1 1
-
 (1) Baitul Mal selaku pengelola sebagaimana dimaksud dalam Pasal 8 ayat (1), merupakan lembaga yang berada di bawah koordinasi Pemerintah Provinsi atau KabupatenlKota dan bertanggung jawab kepada Gubernur, atau Bupati/Walikota, dan Dewan Perwakilan Rakyat Daerah Provinsi atau Dewan Perwakilan Ralryat Daerah Kabupaten/ Kota.
 
 (2) Ketentuan lebih lanjut mengenai tugas pokok, fungsi, hak, dan kewajiban Baitul Mal diatur dengan Qanun.
@@ -199,7 +189,7 @@ Pasal L2
 
 ##### Pasal 13
 
-(1) Pejabat Pembuat Akta Tanah (PPAT) atau Notaris dilarang membuat akta peralihan penguasaan, pemilikan, atau pembebanan terhadap tanah di wilayah yang terkena bencana bencana gempa bumi dan tsunami sebelum diketahui secara jelas data yuridis dan data fisiknya.
+(1) Pejabat Pembuat Akta Tanah (PPAT) atau Notaris dilarang membuat akta peralihan penguasaan, pemilikan, atau pembebanan terhadap tanah di wilayah yang terkena bencana gempa bumi dan tsunami sebelum diketahui secara jelas data yuridis dan data fisiknya.
 
 (2) Akta yang dibuat oleh dan di hadapan Pejabat Pembuat Akta Tanah (PPAT) dan/atau Notaris sebagaimana dimaksud pada ayat (1) batal demi hukum.
 
@@ -219,8 +209,6 @@ Pasal L2
 
 (5) Setiap hasil pencetakan dokumen elektronik sebagaimana dimaksud pada ayat (3) wajib dilegalisasi, yang dilakukan oleh Kepala Kantor Pertanahan KabupatenlKota atau pejabat yang ditunjuk dengan dibuatkan Berita Acara.
 
-Bagian
-
 ### Bagian Keempat — Biaya, Bea, dan Pajak
 
 ##### Pasal 15
@@ -239,7 +227,7 @@ a. meminta nasabah atau ahli waris/wali nasabah mengisi formulir identif,rkasi n
 
 b. meminta bukti keterangan ahli waris/wali nasabah yang dikeluarkan oleh pengadilan apabila yang mengajukan adalah ahli waris lwali nasabah.
 
-(3) Cara sebagaimana dimaksud pada ayat (21 berlaku pula untuk penarikan dana yang dilakukan oleh nasabah atau ahli
+(3) Cara sebagaimana dimaksud pada ayat (21 berlaku pula untuk penarikan dana yang dilakukan oleh nasabah atau
 
 -t2-ahli waris/wali nasabah yang tidak didukung dengan dokumen yang lengkap.
 
@@ -257,7 +245,7 @@ Dalam melayani penarikan dana nasabah yang tidak didukung dengan dokumen yang le
 
 a. melakukan penelitian terhadap rekening simpanan yang diduga tidak ada lagi pemilik atau ahli waris/wali nasabah;
 
-b. mengumumkan nama dan alamat nasabah sebagaimana dimaksud pada huruf a paling sedikit 3 (tiga) kali dalam kurun waktu 2 (dua) tahun sejak berlakunya berlakunya Peraturan Pemerintah Pengganti Undang-Undang ini; dan
+b. mengumumkan nama dan alamat nasabah sebagaimana dimaksud pada huruf a paling sedikit 3 (tiga) kali dalam kurun waktu 2 (dua) tahun sejak berlakunya Peraturan Pemerintah Pengganti Undang-Undang ini; dan
 
 c. mengajukan permohonan penetapan kepada pengadilan yang berwenang mengenai penyerahan simpanan nasabah sebagaimana dimaksud pada ayat (1).
 
@@ -274,8 +262,6 @@ Pengumuman mengenai nama dan alamat nasabah penyimpan oleh bank sebagaimana dima
 Pasal 2 1
 
 Bank yang gedung kantornya mengalami kerusakan sehingga untuk sementara tidak dapat digunakan, pengurtls bank dapat memindahkan lokasi kegiatan operasionalnya ke tempat yang lebih aman dalam satu wilayah kota/kabupaten dan melaporkan kepindahan tersebut kepada Bank Indonesia.
-
-##### Pasal 22
 
 ##### Pasal 22
 
@@ -299,7 +285,7 @@ Pasal24
 
 ##### Pasal 25
 
-(1) Dalam hal pemilik hak keperdataan meninggal, maka hak atas harta kekayaannya beralih kepada ahli waris yang sah sah berdasarkan ketentuan peraturan perundang-undangan. (2\Bagi ahli waris yang masih di bawah umur atau tidak cakap bertindak menurut hukum, pengelolaan atas harta kekayaan sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh orang perorangan dari keluarga terdekat.
+(1) Dalam hal pemilik hak keperdataan meninggal, maka hak atas harta kekayaannya beralih kepada ahli waris yang sah berdasarkan ketentuan peraturan perundang-undangan. (2\Bagi ahli waris yang masih di bawah umur atau tidak cakap bertindak menurut hukum, pengelolaan atas harta kekayaan sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh orang perorangan dari keluarga terdekat.
 
 (3) Dalam hal orang perorangan dari keluarga terdekat sebagaimana dimaksud pada ayat l2l tidak ada, maka pengelolaan atas harta kekayaan dapat dilakukan oleh masyarakat setempat atau lembaga adat.
 
@@ -360,8 +346,6 @@ REPUBL!K INDONESIA
 ##### Pasal 33
 
 PPAT atau Notaris yang membuat akta peralihan penguasaan, pemilikan, atau pembebanan terhadap tanah di wilayah yang terkena gempa bumi dan tsunami sebelum diketahui secara jelas data yuridis dan data fisiknya sebagaimana dimaksud dalam Pasal 13 ayat (1), dipidana dengan pidana penjara paling lama 5 (lima tahun) dan denda paling banyak Rp500.000.OO0,0O (lima ratus juta rupiah).
-
-## BAB VII
 
 _ 18_
 
@@ -447,15 +431,13 @@ Peraturan perundang-undangan yang berlaku saat ini tidak cukup untuk dijadikan d
 
 Dalam rangka pelaksanaan rehabilitasi dan rekonstruksi wilayah dan kehidupan masyarakat di Provinsi Nanggroe Aceh Darussalam dan
 
-Kepulauan
-
 Kepulauan Nias Provinsi Sumatera Utara yang terkena bencana alam gempa bumi dan tsunami telah ditetapkan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2005 tentang Badan Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat di Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara dengan membentuk 3 (tiga) kelembagaan yaitu Dewan Pengarah, Dewan Pengawas, dan Badan Pelaksana. Untuk melaksanakan berbagai langkah rehabilitasi dan rekonstruksi tersebut dalam pelaksanaannya cukup sulit untuk menerapkan berbagai peraturan perundang-undangan yang dibuat dalam situasi dan kondisi yang normal ke dalam situasi dan kondisi yang tidak normal pada wilayah bencana.
 
 Berdasarkan kondisi di atas, diperlukan penanganan khusus dan mendesak untuk mengatasi berbagai masalah yang timbul terutama di bidang pertanahan, perbankan, keperdataan, dan administrasi kependudukan dengan menetapkan Peraturan Pemerintah Pengganti Undang-Undang sebagaimana dimaksud dalam Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
 Peraturan Pemerintah Pengganti Undang-Undang yang akan ditetapkan untuk melaksanakan rehabilitasi dan rekonstruksi pada wilayah bencana tersebut perlu dilakukan dengan mendasarkan pada Undang-Undang Nomor 44 Tahun 1999 tentang Penyelenggaraan Keistimewaan Provinsi Daerah Istimewa Aceh dan Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh. Kebutuhan peraturan perundang-undangan yang mendesak untuk segera diselesaikan dalam rangka rehabilitasi dan rekonstruksi di wilayah bencana terfokus pada masalah di bidang pertanahan, perbankan, keperdataan, dan administrasi kependudukan.
 
-Beberapa ketentuan yang perlu dimuat untuk mengatasi penyelesaian di bidang hukum antara lain untuk mengatasi akibat hukum bagi tanah musnah akibat gempa dan tsunami yang tidak dapat lagi lagi difungsikan, digunakan, dan dimanfaatkan oleh pemiliknya, dimana Pemerintah melaksanakan program penggantian tanah. Konsekuensi penggantian tersebut adalah bahwa semua buku tanah, sertifikat hak atas tanah, dan dokumen yang berkaitan dengan tanah yang bersangkutan atas bukti-bukti kepemilikan lainnya tidak berlaku.
+Beberapa ketentuan yang perlu dimuat untuk mengatasi penyelesaian di bidang hukum antara lain untuk mengatasi akibat hukum bagi tanah musnah akibat gempa dan tsunami yang tidak dapat lagi difungsikan, digunakan, dan dimanfaatkan oleh pemiliknya, dimana Pemerintah melaksanakan program penggantian tanah. Konsekuensi penggantian tersebut adalah bahwa semua buku tanah, sertifikat hak atas tanah, dan dokumen yang berkaitan dengan tanah yang bersangkutan atas bukti-bukti kepemilikan lainnya tidak berlaku.
 
 Selanjutnya untuk tanah yang musnah akan dilakukan penataan kembali dengan memperhatikan tata ruang yang akan ditetapkan kemudian. Di samping itu banyak nasabah bank yang mempunyai simpanan atau hutangnya di bank telah meninggal atau hilang akibat bencana tersebut harus diumumkan oleh bank untuk dapat diketahui ahli warisnya agar bank dapat menyelesaikan aktiva dan pasiva nasabah tersebut secara baik dan adil.
 
@@ -474,8 +456,6 @@ Cukup jelas.
 Ayat (1)
 
 Terjadinya gempa bumi dan gelombang tsunami di Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara menyebabkan kondisi tanah yang semula sangat jelas batas-batasnya menjadi sangat sulit untuk diidentifikasi. Misalnya semula tanah daratan kemudian menjadi laut, atau semula dapat ditanami namun dengan terjadinya gelombang tsunami mengakibatkan tanahnya tidak dapat ditanami, karena telah teracuni oleh kandungan lumpur yang dibawa oleh gelombang tsunami.
-
-Ayat (2)
 
 Ayat l2l
 
@@ -536,8 +516,6 @@ Cukup jelas.
 Ayat (1)
 
 Yang dimaksud dengan "tanda bukti hak" adalah sertifikat hak atas tanah.
-
-Ayat (2)
 
 Ayat (2)
 
@@ -627,8 +605,6 @@ Pengenaan sanksi administratif bagi notaris dilaksanakan sesuai dengan Undang-Un
 
 #### Pasal 14
 
-#### Pasal 14
-
 Ayat (1)
 
 Yang dimaksud dengan "dokumen elektronik" adalah setiap informasi elektronik yang dibuat, diteruskan, dikirimkan, diterima, atau disimpan dalam bentuk analog, digital, elektromagnetik, optikal, atau sejenisnya.
@@ -660,8 +636,6 @@ Ayat (1)
 Apabila diperlukan, bank dapat melakukan identifrkasi lebih Ianjut terhadap nasabah dengan cara melakukan wawancara terhadap nasabah, mengambil sidik jari nasabah, dan/atau membuat dokumentasi atau foto nasabah.
 
 Ayat (21 Cukup jelas.
-
-Ayat (3)
 
 Ayat (3)
 
@@ -738,8 +712,6 @@ Ayat (1)
 Cukup jelas.
 
 Ayat (21 Cukup jelas.
-
-Ayat (3)
 
 Ayat (3)
 

@@ -47,8 +47,6 @@ Mengingat : Pasal 97 dan pasal 89 Undang-undang Dasar Sementara Republik Indones
 
 Dengan persetujuan Dewan Perwakilan Rakyat.
 
-MEMUTUSKAN:
-
 Menetapkan : UNDANG-UNDANG TENTANG PENETAPAN "UNDANG-
 
 UNDANG DARURAT NO.10 TAHUN 1955 TENTANG

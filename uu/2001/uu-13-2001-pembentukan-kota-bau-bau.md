@@ -152,8 +152,6 @@ b. pengangkatan anggota Tentara Nasional Indonesia dan Kepolisian Republik Indon
 
 (3) Jumlah dan tata cara pengisian keanggotaan Dewan Perwakilan Rakyat Daerah Kota Bau-Bau, sebagaimana dimaksud pada ayat (1), ditetapkan sesuai dengan peraturan perundang-undangan.
 
-##### Pasal 10
-
 (1) Dengan terbentuknya Kota Bau-Bau, jumlah anggota Dewan Perwakilan Rakyat Daerah Kabupaten Buton tidak berubah sampai dengan terbentuknya Dewan Perwakilan Rakyat Daerah sebagai hasil pemilihan umum berikutnya.
 
 (2) Anggota Dewan Perwakilan Rakyat Daerah Kabupaten Buton, yang keanggotaannya mewakili kecamatan yang termasuk dalam wilayah Kota Bau-Bau dengan sendirinya menjadi anggota Dewan Perwakilan Rakyat Daerah Kota Bau-Bau.
@@ -228,11 +226,7 @@ Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 21 Juni 2001
-
-PRESIDEN REPUBLIK INDONESIA
-
-ttd
+Disahkan di Jakarta pada tanggal 21 Juni 2001 ttd
 
 ABDURRAHMAN WAHID
 

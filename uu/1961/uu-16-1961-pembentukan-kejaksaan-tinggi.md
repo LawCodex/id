@@ -101,8 +101,6 @@ b. semua orang tahanan didalam rumah-rumah penjara dari lain-lain tempat dalam d
 
 Jaksa Tinggi/Jaksa Tinggi Pengganti menyampaikan laporannya dan mengajukan tuntutan kepada Pengadilan Tinggi mengenai perkara perlawanan (requisitoir verzet) terhadap penetapan Pengadilan Negeri, yang diajukan oleh Jaksa.
 
-##### Pasal 8.
-
 Jaksa Tinggi/Jaksa Tinggi Pengganti melakukan pengawasan dan pencegahan terhadap penyalahgunaan wewenang para Jaksa di dalam daerah-hukumnya.
 
 ## BAB III — PERATURAN PERALIHAN.

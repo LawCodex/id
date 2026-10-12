@@ -217,7 +217,7 @@ Sibau.
 
 Marabahan.
 
-14. ,, ,, ,, Hulusungai Selatan berkedudukan di Kandangan.
+14. ,, ,, ,, Hulusungai Selatan berkedudukan di
 
 15. ,, ,, ,, Hulusungai Tengah berkedudukan di Barabai.
 

@@ -59,8 +59,6 @@ POKOK KEPOLISIAN NEGARA.
 
 (2) Kepolisian Negara dalam menjalankan tugasnya selalu menjunjung tinggi hak-hak azasi rakyat dan hukum Negara.
 
-##### Pasal 2.
-
 Dalam melaksanakan ketentuan-ketentuan dalam pasal 1 maka Kepolisian Negara mempunyai tugas :
 
 (1) a. memelihara ketertiban dan menjamin keamanan umum;

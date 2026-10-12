@@ -53,8 +53,6 @@ Dengan persetujuan
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN:
-
 Menetapkan : UNDANG-UNDANG TENTANG PERUBAHAN KEDUA ATAS
 
 UNDANG-UNDANG NOMOR 6 TAHUN 1983 TENTANG
@@ -151,8 +149,6 @@ PEMBAYARAN PAJAK"
 
 3. Ketentuan Pasal 2 ayat (2), ayat (3), ayat (4), dan ayat (5) diubah, sehingga keseluruhan Pasal 2 berbunyi sebagai berikut:
 
-"Pasal 2
-
 (1) Setiap Wajib Pajak wajib mendaftarkan diri pada kantor Direktorat Jenderal Pajak yang wilayah kerjanya meliputi tempat tinggal atau tempat kedudukan Wajib Pajak dan kepadanya diberikan Nomor Pokok Wajib Pajak.
 
 (2) Setiap Wajib Pajak sebagai Pengusaha yang dikenakan pajak berdasarkan Undang-undang Pajak Pertambahan Nilai 1984 dan perubahannya, wajib melaporkan usahanya pada kantor Direktorat Jenderal Pajak yang wilayah kerjanya meliputi tempat tinggal atau tempat kedudukan Pengusaha, dan tempat kegiatan usaha dilakukan untuk dikukuhkan menjadi Pengusaha Kena Pajak.
@@ -170,8 +166,6 @@ b. tempat pendaftaran pada kantor Direktorat Jenderal Pajak yang wilayah kerjany
 (5) Jangka waktu pendaftaran dan pelaporan serta tata cara pendaftaran dan pengukuhan sebagaimana dimaksud dalam ayat (1), ayat (2), ayat (3), dan ayat (4) termasuk penghapusan Nomor Pokok Wajib Pajak dan atau pencabutan Pengukuhan Pengusaha Kena Pajak diatur dengan Keputusan Direktur Jenderal Pajak."
 
 4. Ketentuan Pasal 3 diubah, dan di antara ayat (1) dan ayat (2) disisipkan 1 (satu) ayat yaitu ayat (1a), serta di antara ayat (5) dan ayat (6) disisipkan 1 (satu) ayat yaitu ayat (5a), sehingga keseluruhan Pasal 3 berbunyi sebagai berikut:
-
-“Pasal 3
 
 (1) Setiap Wajib Pajak wajib mengisi Surat Pemberitahuan dalam bahasa Indonesia dengan menggunakan huruf Latin, angka Arab, satuan mata uang Rupiah, dan menandatangani serta menyampaikannya ke kantor Direktorat Jenderal Pajak tempat Wajib Pajak terdaftar atau dikukuhkan.
 
@@ -751,7 +745,7 @@ Undang-undang ini mulai berlaku pada tanggal 1 Januari 2001.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 2 Agustus 2000
+Disahkan di Jakarta
 
 PRESIDEN REPUBLIK INDONESIA
 
@@ -1355,7 +1349,7 @@ Berdasarkan hasil pemeriksaan tersebut diterbitkan Surat Ketetapan Pajak Kurang 
 
 \- Pajak Penghasilan yang terutang sebesar Rp100.000.000,00
 
-Kredit Pajak: - Pajak Penghasilan Pasal 22 Rp20.000.000,00 - Pajak Penghasilan Pasal 23 Rp40.000.000,00 - Pajak Penghasilan Pasal 25 Rp90.000.000,00 ---------------(+) Rp150.000.000,00
+Kredit Pajak: - Pajak Penghasilan Pasal 22 Rp20.000.000,00 - Pajak Penghasilan Pasal 23 Rp40.000.000,00 - Pajak Penghasilan Pasal 25 Rp90.000.000,00 ---------------(+)
 
 \- Jumlah Pengembalian Pendahuluan Kelebihan Pajak Rp80.000.000,00 ---------------(-) Jumlah pajak yang dapat dikreditkan Rp70.000.000,00 ---------------Pajak yang tidak/kurang dibayar Rp30.000.000,00 Sanksi administrasi berupa kenaikan sebesar 100% Rp30.000.000,00 ---------------(+) Jumlah yang masih harus dibayar Rp60.000.000,00 ===============
 
@@ -1371,7 +1365,7 @@ b. Kredit Pajak, yaitu:
 
 \- Pajak Keluaran Rp100.000.000,00
 
-\- Kredit Pajak: - Pajak Masukan Rp150.000.000,00 - Jumlah Pengembalian Pendahuluan Kelebihan Pajak Rp60.000.000,00 ---------------(-) Jumlah pajak yang dapat dikreditkanRp90.000.000,00 ---------------Pajak yang tidak/kurang dibayar Rp10.000.000,00 - Sanksi administrasi berupa kenaikan sebesar 100% Rp10.000.000,00 ---------------(+) Jumlah yang masih harus dibayar Rp20.000.000,00 ===============
+\- Kredit Pajak: - Pajak Masukan Rp150.000.000,00 - Jumlah Pengembalian Pendahuluan Kelebihan Pajak Rp60.000.000,00 ---------------(-) Jumlah pajak yang dapat dikreditkanRp90.000.000,00 ---------------Pajak yang tidak/kurang dibayar Rp10.000.000,00 - Sanksi administrasi berupa kenaikan sebesar 100% Rp10.000.000,00 ---------------(+) Jumlah yang masih harus dibayar Rp20.000.000,00
 
 Angka 18
 

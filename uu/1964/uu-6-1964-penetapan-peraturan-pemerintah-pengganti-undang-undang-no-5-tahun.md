@@ -49,8 +49,6 @@ Mengingat : 1. Pasal-pasal 5, 20 dan 33 ayat 2 Undang-undang Dasar;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong Royong;
 
-MEMUTUSKAN :..
-
 MEMUTUSKAN :
 
 Menetapkan : UNDANG-UNDANG TENTANG PENETAPAN PERATURAN

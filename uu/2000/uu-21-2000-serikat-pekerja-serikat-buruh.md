@@ -184,8 +184,6 @@ Serikat pekerja/serikat buruh, federasi dan konfederasi serikat pekerja/serikat 
 
 Keanggotaan serikat pekerja/serikat buruh federasi dan konfederasi serikat pekerja/buruh diatur dalam anggaran dasar dan anggaran rumah tangganya.
 
-##### Pasal 14
-
 (1) Seorang pekerja/buruh tidak boleh menjadi anggota lebih dari satu serikat pekerja/serikat buruh di satu perusahaan.
 
 (2) Dalam hal seorang pekerja/serikat buruh dalam satu perusahaan ternyata tercatat pada lebih dari satu serikat pekerja/serikat buruh, yang bersangkutan harus menyatakan secara tertulis satu serikat pekerja/serikat buruh yang dipilihnya.
@@ -390,8 +388,6 @@ b. pengurus dan/atau anggota atas nama serikat pekerja/serikat buruh, federasi d
 
 Untuk menjamin hak pekerja/buruh berorganisasi dan hak serikat pekerja/serikat buruh melaksanakan kegiatannya, pegawai pengawas ketenagakerjaan melakukan pengawasan sesuai dengan peraturan perundang-perundangan yang berlaku.
 
-##### Pasal 41
-
 Selain penyidik pejabat Polisi Negara Republik Indonesia, juga kepada pejabat pegawai negeri sipil tertentu di lingkungan instansi pemerintah yang lingkup tugas dan tanggungjawabnya di bidang ketenagakerjaan diberi wewenang khusus sebagai penyidik sesuai dengan peraturan perundang-undangan yang berlaku untuk melakukan penyidikan tindak pidana.
 
 ## BAB XII — SANKSI
@@ -409,8 +405,6 @@ Selain penyidik pejabat Polisi Negara Republik Indonesia, juga kepada pejabat pe
 (2) Tindak pidana sebagaimana dimaksud dalam ayat (1) merupakan tindak pidana kejahatan.
 
 ## BAB XIII — KETENTUAN LAIN-LAIN
-
-##### Pasal 44
 
 (1) Pegawai negeri sipil mempunyai hak dan kebebasan untuk berserikat.
 

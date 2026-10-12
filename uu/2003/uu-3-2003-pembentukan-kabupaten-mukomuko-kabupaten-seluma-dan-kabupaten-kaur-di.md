@@ -523,8 +523,6 @@ PRESIDEN REPUBLIK INDONESIA,
 
 ttd
 
-MEGAWATI SOEKARNOPUTRI
-
 LAMPIRAN 2
 
 UNDANG-UNDANG REPUBLIK INDONESIA
@@ -541,8 +539,6 @@ KETERANGAN :
 
 PRESIDEN REPUBLIK INDONESIA
 
-ttd
-
 MEGAWATI SOEKARNOPUTRI
 
 LAMPIRAN 3
@@ -557,10 +553,6 @@ PETA KABUPATEN KAUR
 
 KETERANGAN :
 
-++++++++ : Batas Provinsi +-+-+-+-+-+- : Batas Kabupaten -.-.-.-.-.-.-.-.- : Batas Kecamatan
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd
+++++++++ : Batas Provinsi +-+-+-+-+-+- : Batas Kabupaten -.-.-.-.-.-.-.-.- : Batas Kecamatan ttd
 
 MEGAWATI SOEKARNOPUTRI

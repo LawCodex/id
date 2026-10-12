@@ -49,7 +49,7 @@ MEMUTUSKAN:
 
 ##### Pasal 1
 
-Bagian VIIIB (Kementerian Perhubungan Jawatan Pelayaran) dari anggaran Republik Indonesia yang mengenai tahun dinas 1953, yang antara lain ditetapkan atas Undang-undang tahun 1954 Nomor 48 (Lembaran Negara Republik Indonesia tahun 1954 Nomor 119), diubah dan ditambah sebagai berikut:
+Bagian VIIIB (Kementerian Perhubungan Jawatan Pelayaran) dari anggaran Republik Indonesia yang mengenai tahun dinas 1953, yang antara lain ditetapkan atas Undang-undang tahun 1954 Nomor 48 (Lembaran Negara Republik Indonesia tahun 1954 Nomor 119), diubah
 
 BAB I (Pengeluaran).
 

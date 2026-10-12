@@ -102,8 +102,6 @@ c. Kecamatan Cempaka.
 
 Dengan dibentuknya Kotamadya Daerah Tingkat II Banjarbaru, sebagaimana dimaksud dalam Pasal 2, wilayah Kabupaten Daerah Tingkat II Banjar dikurangi dengan wilayah Kotamadya Daerah Tingkat II Banjarbaru sebagaimana dimaksud dalam Pasal 3.
 
-##### Pasal 5
-
 Dengan terbentuknya Kotamadya Daerah Tingkat II Banjarbaru, Kota Administratif Banjarbaru dalam wilayah Kabupaten Daerah Tingkat II Banjar dihapus.
 
 ##### Pasal 6

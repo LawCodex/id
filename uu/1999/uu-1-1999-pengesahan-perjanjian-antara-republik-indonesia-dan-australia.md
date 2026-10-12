@@ -362,8 +362,6 @@ PENYAMPAIAN DOKUMEN
 
 4. Negara Diminta harus menyampaikan ke Negara Peminta bukti penyampaian dokumen. Jika penyampaian dokumen tidak dapat dilakukan. Negara Peminta akan diberitahu mengenai hal itu disertai alasannya.
 
-##### Pasal 10
-
 PENGAMBILAN ALAT DAN BARANG BUKTI
 
 1. Dalam hal permintaan diajukan untuk keperluan proses acara yang berkaitan dengan masalah pidana di Negara Peminta, Negara Diminta, atas permintaan, harus mengambil keterangan saksi untuk dikirim ke Negara Peminta.
@@ -493,8 +491,6 @@ Dalam hal ada tuntutan dari pihak ketiga, Negara Diminta harus menahan barang te
 PENGATURAN TAMBAHAN
 
 Kantor Pusat masing-masing Pihak dapat membuat pengaturan tambahan yang sesuai dengan tujuan Perjanjian ini dan dengan hukum kedua belah Pihak dalam Perjanjian.
-
-##### Pasal 20
 
 PERWAKILAN DAN BIAYA
 

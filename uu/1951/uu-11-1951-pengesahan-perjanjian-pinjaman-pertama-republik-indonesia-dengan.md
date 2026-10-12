@@ -305,7 +305,7 @@ The principal amount of such new note or notes shall be equal to the aggregate u
 
 If Eximbank shall so request, any such new note shall be so issued that all or any part of each installments of principal of any note surrendered or all installments of principal of like maturity of any two or more notes surrendered shall be evidenced by a separate new note or notes. The form and text of all new notes issued pursuant hereto shall be substantially the same as Exhibit "B" attached hereto except to the extent that Eximbank shall request changes necessary to accomplish any of the purposes hereof.
 
-Article XII Registration of Notes
+Article XII
 
 Upon the request of Eximbank at any time, Indonesia will register the promissory notes issued to Eximbank pursuant to this agreement under the Securities Act of 1933, as amended, of the United States of America and any laws or regulation of the United States and of any state or political subdivision thereof providing for the registration of securities which are to be offered for sale and, as Eximbank may request, will either file the necessary registration statements in its own name or will furnish to Eximbank or such other party as Eximbank may designate all information in appropriate form and will take such other steps as may be necessary to enable Eximbank or such other party as it may designate to file the registration statements and otherwise comply, with respective registration laws an regulations.
 
@@ -321,7 +321,7 @@ Article XV Ratification
 
 This agreement shall become operative only after being duly ratified by the Parliament of Indonesia.
 
-Article XVI Legal Opinion
+Article XVI
 
 Prior to and a condition precedent to making the first advance under the credit herein established, Indonesia shall deliver to Eximbank :
 

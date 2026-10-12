@@ -138,8 +138,6 @@ Dalam undang-undang ini yang dimaksud dengan:
 
 ## BAB III — KEWENANGAN PROVINSI NANGGROE ACEH DARUSSALAM
 
-##### Pasal 3
-
 (1) Kewenangan Provinsi Nanggroe Aceh Darussalam yang diatur dalam undang-undang ini adalah kewenangan dalam rangka pelaksanaan otonomi khusus.
 
 b. Kewenangan Provinsi Nanggroe Aceh Darussalam selain yang diatur pada ayat (1) tetap berlaku sesuai dengan peraturan perundang-undangan.
@@ -198,8 +196,6 @@ c. Dana Alokasi Khusus yang ditetapkan sesuai dengan peraturan perundang-undanga
 
 (5) Ketentuan mengenai pelaksanaan bantuan sebagaimana dimaksud dalam pasal ini selanjutnya diatur dengan Qanun Provinsi Nanggroe Aceh Darussalam.
 
-##### Pasal 6
-
 (1) Pemerintah Provinsi Nanggroe Aceh Darussalam dapat melakukan penyertaan modal pada badan usaha milik negara (BUMN) yang hanya berdomisili dan beroperasi di wilayah Provinsi Nanggroe Aceh Darussalam yang besarnya ditetapkan bersama dengan Pemerintah.
 
 (2) Tata cara penyertaan modal Pemerintah Provinsi Nanggroe Aceh Darussalam, sebagaimana dimaksud pada ayat (1), diatur lebih lanjut dengan Qanun Provinsi Nanggroe Aceh Darussalam.
@@ -244,7 +240,7 @@ c. Dana Alokasi Khusus yang ditetapkan sesuai dengan peraturan perundang-undanga
 
 (8) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), ayat (4), ayat (5), ayat (6), dan ayat (7) diatur lebih lanjut dengan Qanun Provinsi Nanggroe Aceh Darussalam.
 
-## BAB VII — WALI NANGGROE DAN TUHA NANGGROE SEBAGAI PENYELENGGARA ADAT, BUDAYA, DAN PEMERSATU MASYARAKAT
+## BAB VII — WALI NANGGROE DAN TUHA NANGGROE SEBAGAI PENYELENGGARA ADAT, BUDAYA, DAN
 
 ##### Pasal 10
 

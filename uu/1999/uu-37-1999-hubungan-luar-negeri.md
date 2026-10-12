@@ -154,8 +154,6 @@ Lembaga Negara dan lembaga pemerintah, baik departemen maupun nondepartemen, yan
 
 Pejabat lembaga pemerintah, baik departemen maupun nondepartemen, yang akan menandatangani perjanjian internasional yang dibuat antara Pemerintah Republik Indonesia dengan Pemerintah negara lain, organisasi internasional, atau subyek hukum internasional lainnya, harus mendapat surat kuasa dari menteri.
 
-##### Pasal 15
-
 Ketentuan mengenai pembuatan dan pengesahan perjanjian internasional diatur dengan undang-undang tersendiri.
 
 ## BAB IV — KEKEBALAN, HAK ISTIMEWA, DAN PEMBEBASAN

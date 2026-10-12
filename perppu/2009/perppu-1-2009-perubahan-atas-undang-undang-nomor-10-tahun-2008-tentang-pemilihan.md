@@ -51,8 +51,6 @@ b. bahwa sesuai dengan ketentuan Undang-Undang Nomor 10 Tahun 2008 tentang Pemil
 
 c. bahwa untuk memberikan kepastian tidak terjadinya kehilangan suara pemilih, perlu pengaturan pemberian tanda lebih dari satu kali pada surat suara dinyatakan sebagai suara yang sah; d, bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk mengatasi timbulnya kegentingan yang diakibatkan permasalahan dalam penyelenggaraan pemilihan umum, perlu menetapkan Peraturan Pemerintah Pengganti Undang-Undang tentang Perubahan atas Undang-Undang Nomor 10 Tahun 2008 tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan perwakilan Rakyat Daerah;
 
-Mengingat
-
 -, _
 
 ' t','frTlie
@@ -83,8 +81,6 @@ Beberapa ketentuan da 2008 tentans pemiri^ar rm"ir;;," Undang-undang Nomor 10 Ta
 
 (4) Daram hal masih tel$aRat, pem,ih dalam daftar pemilih'-Ltup yang sudah terdaftar tetapi daram rekapituia' dafta; pemirih uetum tercantum dan/atau terda r..r.1,i."';;;,.# tetap spemilih nasionar rekapitulasi daft .r_ifin ".".ru dalam melakukar. perb. tetap KpU .et apitufasi"..r...,nasional, daftar pemilih secara nasional . y;k 1 (satu) kali. tetap
 
-2. Ketentuan
-
 2 Ketentuan Pasal 176 diubah, di antara ayat (1) dan ayat (2) disisipkan 1 (satu) ayat yakni ayat (1a), di antara ayat (2) dan ayat (3) disisipkan 1 (satu) ayat yakni ayat (2a), dan ayat (3) diubah, sehingga pasal lT6 berbunyi sebagai berikut:
 
 ##### Pasal 176
@@ -108,8 +104,6 @@ b. pemberian tanda satu kali pada kolom foto salah satu calon anggota DpD.
 ##### Pasal II
 
 Peraturan Pemerinrah. pengganti Undang_Undang ini mulai berlaku pada tanggal diundanlkan.
-
-Agar
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah pengganti Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 

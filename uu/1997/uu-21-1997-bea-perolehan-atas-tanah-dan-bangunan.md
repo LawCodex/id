@@ -218,8 +218,6 @@ TARIF PAJAK
 
 Tarif pajak ditetapkan sebesar 5 % (lima persen).
 
-REPUBLIX INDONESIA
-
 BABV
 
 DASAR PENGENAAN
@@ -546,8 +544,6 @@ KETENTUAN BAGI PFJABAT
 
 (1) Pejabat Pembuat Akta Tanah/Notaris dan Kepala Kantor Lelang Negara, yang rnelanggar ketentuan sebagaimana dimaksud dalam
 
-REPUBLIK INDONESIA
-
 Pasal 24 ayat (1) dan ayat (2), dikenakan sanksi adrninistrasi berupa denda sebesar Rp5.000.000,OO (lima juta rupiah) untuk setiap pelanggaran.
 
 (2) Pejabat Pembuat Akta Ta.nah/Notaris dan Kepala Kantor Lelang Negara, yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 25 ayat (I), dikenakan sanksi adminis trasi berupa denda
@@ -603,8 +599,6 @@ SEKRETARIAT KABINET RI
 Kepala Biro Hukum dan Perundang-undangan
 
 Lambock V. Nahattands
-
-REPUBLIK INDONESIA
 
 ## PENJELASAN
 
@@ -748,8 +742,6 @@ Ayat (3)
 
 Hurufa Hak milik adalah hak turun ternurun, terkuat, dan terpenuh yang dapat dipunyai orang pribadi atau badan-badan hukum tertentu yang ditetapkan oleh Pemerintah.
 
-REPUBLIK INDONESIA
-
 Hurufb
 
 Hale guna usaha adalah hak untuk mengusahakan tanah yang dikuasai langsung oleh Negara dalam jangka waktu sebagaimana yang ditentukan oleh perundang-undangan yang berlaku.
@@ -825,12 +817,6 @@ Ayat (2)
 Huruf a
 
 Yang dimaksud dengan harga transaksi adalah harga yang terjadi dan telah disepakati oleh pihak-pihak yang bersangkutan.
-
-Hurufh ."
-
-PRESIOEN
-
-REPUBLIK INDONESIA
 
 Hurufb Yang dimaksud dengan nilai pasar adalah harga rata-rata dari transaksi jual-bell secara wajar yang terjadi di sekitar Ietak:tanah dan atau bangunan.
 
@@ -1008,8 +994,6 @@ Kekurangan bayar Rp1.000.000,OO Bunga = 4 x 2% x Rp1.000.000,00 = Rp 80.000.QO (
 
 Wajib Pajak lOB"memperoleh tanah dan bangunan pada tanggal 18 Juni 1998. Berdasarkan pemeriksaan Surat Setoran Bea Perolehan Hak alas
 
-REPUSLIK INDONESIA
-
 Tanah dan Bangunan yang disampaikan Wajib Pajak "B", ternyata terdapat salah hitung yang menyebabkan pajak kurang dibayar sebesar Rpl.500.000,OO. Atas kekurangan pajak tersebut diterbitkan Surat Tagihan Bea Perolehan Hak atas Tanah dan Bangunan pada tanggal 23 September 1998 dengan penghitungan sebagai berikut:
 
 Kekurangan bayar Rpl.500.0oo,00 Bunga = 4 x 2 % x Rpl.500.000,OO = Rp 120,000.00 (+) Jurnlah yang harus dibayar dalam Surat Tagihan Bea Perolehan Hak atas Tanah dan Bangunan Rpl.620.000,OO
@@ -1170,8 +1154,6 @@ Ayat (5)
 
 Cukup jelas
 
-REPUBLIK INDONESIA
-
 Pasal23
 
 Ayat (1)
@@ -1196,7 +1178,7 @@ Ayat (3)
 
 Yang dimaksud dengan pendaftaran hak atas tanah dalam Pasal ini adalah pendaftaran hak atas tanah pada buku tanah sebagai syarat lahirnya hak atas tanah yang berasal dari pemberian hak atas tanah. Pendaftaran peralihan hak atas tanah adalah pendaftaran hak atas tanah pada buku tanah yang terjadi karena pemindahan hak atas tanah.
 
-•• '" .- V~ ~'f"_""_"'~_''''':'' "•• ~ ~ ~~~ .~~~,;..<.:£!'.~ •.••• ,...... ! •.• •• I'-~.•.' ._.,~
+•• '" .- V~ ~'f"_""_"'~_''''':'' "•• ~ ~ ~~~ .~~~,;..<.:£!'.~ •.••• ,...... ! •.•
 
 Pasal25
 

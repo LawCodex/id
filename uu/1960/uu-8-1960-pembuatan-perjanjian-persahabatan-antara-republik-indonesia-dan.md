@@ -71,8 +71,6 @@ Diundangkan di Jakarta pada tanggal 15 Oktober 1960.
 
 Pejabat Sekretaris Negara,
 
-SANTOSO.
-
 ## PENJELASAN
 
 ATAS

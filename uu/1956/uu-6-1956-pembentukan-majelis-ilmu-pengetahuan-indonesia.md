@@ -113,8 +113,6 @@ h. menyelenggarakan usaha-usaha lain dalam lapangan ilmu pengetahuan yang tidak 
 
 0rganisasi
 
-A. Pengurus Majelis.
-
 ##### Pasal 5.
 
 (1) Majelis dipimpin oleh suatu badan Pengurus, yang terdiri atas seorang anggota merangkap Ketua, seorang anggota merangkap Panitera, dengan jumlah semua anggota sebanyak-banyaknya sembilan orang.

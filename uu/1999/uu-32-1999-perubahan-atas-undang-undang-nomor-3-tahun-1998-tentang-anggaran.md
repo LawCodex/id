@@ -185,8 +185,6 @@ b. Pengeluaran Pembangunan.
 
 18. Sektor aparatur negara dan pengawasan sebesar Rp. 946.598.500.000
 
-19 Sektor
-
 19. Sektor politik, hubungan luar negeri, penerangan, komunikasi dan media massa sebesar Rp. 339.570.100.000
 
 20. Sektor pertahanan dan keamanan sebesar Rp. 2.614.830.900.000

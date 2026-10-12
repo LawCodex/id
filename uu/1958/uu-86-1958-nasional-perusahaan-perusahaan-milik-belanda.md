@@ -43,8 +43,6 @@ Mengingat : pasal-pasal 27 jo 38, 89 dan 98 Undang-undang Dasar Sementara Republ
 
 Dengan persetujuan Dewan Perwakilan Rakyat;
 
-Memutuskan :
-
 Menetapkan : UNDANG-UNDANG TENTANG NASIONALISASI
 
 PERUSAHAAN-PERUSAHAAN MILIK BELANDA YANG

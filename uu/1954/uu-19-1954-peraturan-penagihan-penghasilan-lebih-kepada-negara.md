@@ -161,8 +161,6 @@ Jumlah ketetapan Angsuran minimum Rp.25.000.-atau lebih tetapi kurang dari Rp. 1
 
 Angsuran pertama dapat ditagih pada tanggal satu dari bulan berikut dari tanggal surat ketetapan; angsuran berikutnya pada tanggal satu dari bulan berikut dari hari pembayaran sebelumnya.
 
-Pasal 12….
-
 ##### Pasal 12.
 
 Tegoran.
@@ -232,8 +230,6 @@ Lewat waktu.
 (2) Untuk lewat waktu itu tidak terhitung waktu selama penun-daan pembayaran menurut pasal 15 diberikan.
 
 (3) Selanjutnya lewat waktu tundtutan ini dikuasai oleh ketentu-anketentuan Kitab Undang-undang Sipil, terkecuali pasal 1950 Kitab Undang-undang Sipil itu.
-
-Pasal 17….
 
 ##### Pasal 17.
 
@@ -348,8 +344,6 @@ Dengan tidak pandang orang maka terhadap orang-orang yang sedemikian harus diamb
 2. Penagihan secara damai oleh kepala inspeksi keuangan yang bersangkutan (pasal 8 s/d 18);
 
 3. Penagihan secara pengadilan (Staatsblad 1917 No. 171 dengan ubahan dan tambahannya sejak itu).
-
-ad 1….
 
 ad 1. Ada dimaksudkan oleh Pemerintah untuk mengusahakan supaya panitia, baru mengadakan ketetapan jumlah yang terhutang sesudah dicoba mengadakan penyelesaian yang selayaknya dengan yang bersangkutan. Itulah pula gunanya redaksi pasal 2 ayat (1) rancangan ini yang dapat menjadi dasar untuk menetapkan jumlah yang terhutang tersebut; jika telah diadakan ketetapan, maka sesudah itu tidak satupun alasan untuk mengampuni pihak yang bersangkutan. Berhubung dengan hal itu maka tidak pula diberikan kepada mereka itu hak untuk menunda ketetapan semacam itu lebih-lebih lagi tidak karena unsur-unsur yang in casu menentukan ketetapan itu telah nyata benar lain halnya pada ketetapan pajak -, hingga tentang hal itu tidak mungkin ada perselisihan paham. Untuk seluruh Indonesia taraf pertama berlangsung di Jakarta. ad 2. Dengan adanya disentralisasi dalam taraf kedua dapat diharapkan bahwa penagihan terhadap mereka yang berhutang akan lebih banyak hasilnya daripada mereka itu ditagih dari Jakarta; tambahan lagi: dengan memilih kepala inspeksi keuangan yang bersangkutan menjadi pembesar yang bertanggung jawab dalam taraf yang kedua mengenai penagihan ini, maka terjamin pula bahwa kepentingan Negara diselenggarakan secara cepat dan tegas. Suatu faktor lagi yang penting dalam hal ini ialah bahwa inspektur keuangan dapat mengambil keterangan-deterangan dari surat-menyurat fiskal tentang pihak-pihak yang bersangkutan di dalam wilayahnya, sehingga orang yang sedemikian dianggap dapat mengambil tindakan-tindakan yang tepat pada waktunya untuk mengadakan penagihan tersebut secara tegas. ad 3. Penagihan secara pengadilan dalam taraf yang terakhir yakni jika debitur masih tidak mau membayar sesudah diperingatkan, juga berlangsung secara desentralisasi dengan perantaraan ketua pengadilan yang bersangkutan. Yang menjadi dasar ialah "dwangschrift" yang dikeluarkan berdasarkan Staatsblad 1917 No. 171 (diubah dan ditambah sejak itu). Staatsblad ini berlaku berdasar kepada pasal 17 rancangan ini, yakni menurut pasal ini maka mengenai penagihan termaksud ketetapan pajak tentang penghasilan-lebih yang terhutang itu diperlakukan selanjutnya sebagai ketetapan suatu pajak kohir. Sesudahnya surat paksaan itu disampaikan secara resmi kepada orang yang bersangkutan maka akhirnya tinggal lagi penglaksanaannya menurut ketentuan-ketentuan "Herzien Inlands Reglement".
 

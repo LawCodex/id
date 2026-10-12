@@ -77,8 +77,6 @@ Jumlah cukai atas:
 
 A. alkohol sulingan dalam negeri di Jawa dan Madura sebagai ditetapkan dalam pasal 1 Ordonansi tanggal 27 Pebruari 1898 (Staatsblad No. 90) sebagaimana kemudian telah diubah dan ditambah;
 
-B….
-
 B. 1. minyak lampu dan
 
 2. gasolin, bensin dan segala sulingan minyak bumi yang mempunyai sifat sama dengan yang tersebut dahuluan yaitu bahwa barang-barang itu menguap lebih cepat dari pada minyak lampu, ditetapkan.pada pasal 1 ayat 2 dari Ordonansi 27 Desember 1886 (Staatsblad No. 249), sebagaimana kemudian telah diubah dan ditambah;
@@ -92,8 +90,6 @@ D. bir, yang ditatapkan pada pasal 5 dari "Ordonansi Cukai Bir" (Staatsblad 1931
 Ditetapkan menjadi masing-masing :
 
 A. tujuh ratus lima puluh rupiah tiap-tiap hektoliter, yang mengadung lima puluh liter alkohol pada kadar panas lima belas derajat dari pengukur panas yang terbagi dalam seratus bagian;
-
-B….
 
 B. 1. tujuh rupiah tiap-tiap hektoliter;
 

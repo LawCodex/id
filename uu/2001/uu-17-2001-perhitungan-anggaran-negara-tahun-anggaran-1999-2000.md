@@ -228,8 +228,6 @@ PRESIDEN REPUBLIK INDONESIA,
 
 ttd.
 
-MEGAWATI SOEKARNOPUTRI
-
 Diundangkan di Jakarta pada tanggal 6 Agustus 2001
 
 SEKRETARIAT NEGARA REPUBLIK INDONESIA,
@@ -273,8 +271,6 @@ PASAL DEMI PASAL
 Ayat (1)
 
 Huruf a
-
-Cukup jelas
 
 Huruf b
 

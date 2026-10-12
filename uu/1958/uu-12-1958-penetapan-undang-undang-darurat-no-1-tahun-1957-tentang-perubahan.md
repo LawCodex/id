@@ -49,8 +49,6 @@ Mengingat : Pasal-pasal 89 dan 97 Undang-undang Dasar Sementara Republik Indones
 
 Dengan persetujuan Dewan Perwakilan Rakyat.
 
-MEMUTUSKAN:
-
 Menetapkan : NDANG-UNDANG TENTANG PENETAPAN "UNDANG-
 
 UNDANG DARURAT NO.1 TAHUN 1957 TENTANG

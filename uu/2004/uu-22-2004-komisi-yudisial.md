@@ -51,9 +51,7 @@ Mengingat : 1. Pasal 20, Pasal 21, Pasal 24, Pasal 24A, Pasal 24B, Pasal 24C, da
 
 3. Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 98, Tambahan Lembaran Negara Republik Indonesia Nomor 4316);
 
-4. Undang-Undang Nomor 4 Tahun 2004 tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 8, Tambahan Lembaran Negara Republik Indonesia Nomor 4358);
-
--
+4. Undang-Undang Nomor 4 Tahun 2004 tentang Kekuasaan Kehakiman (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 8, Tambahan Lembaran Negara Republik Indonesia Nomor 4358); -
 
 Dengan Persetujuan Bersama
 
@@ -97,9 +95,7 @@ Komisi Yudisial merupakan lembaga negara yang bersifat mandiri dan dalam pelaksa
 
 ##### Pasal 3
 
-Komisi Yudisial berkedudukan di ibukota negara Republik Indonesia.
-
--
+Komisi Yudisial berkedudukan di ibukota negara Republik Indonesia. -
 
 ### Bagian Kedua — Susunan
 
@@ -141,9 +137,7 @@ Anggaran Komisi Yudisial dibebankan pada Anggaran Pendapatan dan Belanja Negara.
 
 a. tertangkap tangan melakukan tindak pidana kejahatan; atau
 
-b. berdasarkan bukti permulaan yang cukup disangka telah melakukan tindak pidana kejahatan yang diancam dengan pidana mati atau tindak pidana kejahatan terhadap keamanan negara.
-
--
+b. berdasarkan bukti permulaan yang cukup disangka telah melakukan tindak pidana kejahatan yang diancam dengan pidana mati atau tindak pidana kejahatan terhadap keamanan negara. -
 
 (2) Pelaksanaan penangkapan atau penahanan sebagaimana dimaksud pada ayat (1) dalam waktu paling lama 2 X 24 (dua kali dua puluh empat) jam harus dilaporkan kepada Jaksa Agung.
 
@@ -185,9 +179,7 @@ d. mengajukan calon Hakim Agung ke DPR.
 
 (2) Dalam hal berakhir masa jabatan Hakim Agung, Mahkamah Agung menyampaikan kepada Komisi Yudisial daftar nama Hakim Agung yang bersangkutan, dalam jangka waktu paling lambat 6 (enam) bulan sebelum berakhirnya jabatan tersebut.
 
-(3) Pelaksanaan tugas sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 6 (enam) bulan, sejak Komisi Yudisial menerima pemberitahuan dari Mahkamah Agung mengenai lowongan Hakim Agung.
-
--
+(3) Pelaksanaan tugas sebagaimana dimaksud pada ayat (1) dilakukan dalam jangka waktu paling lama 6 (enam) bulan, sejak Komisi Yudisial menerima pemberitahuan dari Mahkamah Agung mengenai lowongan Hakim Agung. -
 
 ##### Pasal 15
 
@@ -221,9 +213,7 @@ e. Nomor Pokok Wajib Pajak.
 
 (3) Masyarakat berhak memberikan informasi atau pendapat terhadap calon Hakim Agung dalam jangka waktu 30 (tiga puluh) hari terhitung sejak pengumuman sebagaimana dimaksud pada ayat (2).
 
-(4) Komisi Yudisial melakukan penelitian atas informasi atau pendapat masyarakat sebagaimana dimaksud pada ayat (3) dalam jangka waktu paling lambat 30 (tiga puluh) hari terhitung sejak pemberian informasi atau pendapat berakhir.
-
--
+(4) Komisi Yudisial melakukan penelitian atas informasi atau pendapat masyarakat sebagaimana dimaksud pada ayat (3) dalam jangka waktu paling lambat 30 (tiga puluh) hari terhitung sejak pemberian informasi atau pendapat berakhir. -
 
 ##### Pasal 18
 
@@ -249,9 +239,7 @@ e. Nomor Pokok Wajib Pajak.
 
 ##### Pasal 20
 
-Dalam melaksanakan wewenang sebagaimana dimaksud dalam Pasal 13 huruf b Komisi Yudisial mempunyai tugas melakukan pengawasan terhadap perilaku hakim dalam rangka menegakkan kehormatan dan keluhuran martabat serta menjaga perilaku hakim.
-
--
+Dalam melaksanakan wewenang sebagaimana dimaksud dalam Pasal 13 huruf b Komisi Yudisial mempunyai tugas melakukan pengawasan terhadap perilaku hakim dalam rangka menegakkan kehormatan dan keluhuran martabat serta menjaga perilaku hakim. -
 
 ##### Pasal 21
 
@@ -283,9 +271,7 @@ b. menjaga kerahasiaan keterangan yang karena sifatnya merupakan rahasia Komisi 
 
 (5) Dalam hal badan peradilan atau hakim tidak memenuhi kewajiban sebagaimana dimaksud pada ayat (4), Mahkamah Agung dan/atau Mahkamah Konstitusi wajib memberikan penetapan berupa paksaan kepada badan peradilan atau hakim untuk memberikan keterangan atau data yang diminta.
 
-(6) Dalam hal badan peradilan atau hakim telah diberikan peringatan atau paksaan sebagaimana dimaksud pada ayat (5) tetap tidak melaksanakan kewajibannya, pimpinan badan peradilan atau hakim yang bersangkutan dikenakan sanksi sesuai dengan peraturan perundang-undangan di bidang kepegawaian.
-
--
+(6) Dalam hal badan peradilan atau hakim telah diberikan peringatan atau paksaan sebagaimana dimaksud pada ayat (5) tetap tidak melaksanakan kewajibannya, pimpinan badan peradilan atau hakim yang bersangkutan dikenakan sanksi sesuai dengan peraturan perundang-undangan di bidang kepegawaian. -
 
 (7) Semua keterangan dan data sebagaimana dimaksud pada ayat
 
@@ -323,9 +309,7 @@ c. pemberhentian.
 
 (1) Pengambilan keputusan Komisi Yudisial dilakukan secara musyawarah untuk mencapai mufakat.
 
-(2) Apabila pengambilan keputusan secara musyawarah tidak tercapai, pengambilan keputusan dilakukan dengan suara terbanyak.
-
--
+(2) Apabila pengambilan keputusan secara musyawarah tidak tercapai, pengambilan keputusan dilakukan dengan suara terbanyak. -
 
 (3) Keputusan sebagaimana dimaksud pada ayat (2) adalah sah apabila rapat dihadiri oleh sekurang-kurangnya 5 (lima) orang Anggota Komisi Yudisial, kecuali keputusan mengenai pengusulan calon Hakim Agung ke DPR dan pengusulan pemberhentian Hakim Agung dan/atau Hakim Mahkamah Konstitusi dengan dihadiri seluruh anggota Komisi Yudisial.
 
@@ -361,9 +345,7 @@ h. melaporkan daftar kekayaan.
 
 (2) Persetujuan DPR sebagaimana dimaksud pada ayat (1), disampaikan kepada Presiden dalam jangka waktu paling lambat 45 (empat puluh lima) hari sejak menerima pencalonan Anggota Komisi Yudisial yang diajukan Presiden.
 
-(3) Presiden menetapkan keputusan mengenai pengangkatan Anggota Komisi Yudisial, dalam jangka waktu paling lama 15 (lima belas) hari sejak menerima persetujuan DPR sebagaimana dimaksud pada ayat (2).
-
--
+(3) Presiden menetapkan keputusan mengenai pengangkatan Anggota Komisi Yudisial, dalam jangka waktu paling lama 15 (lima belas) hari sejak menerima persetujuan DPR sebagaimana dimaksud pada ayat (2). -
 
 ##### Pasal 28
 
@@ -401,9 +383,7 @@ Anggota Komisi Yudisial memegang jabatan selama masa 5 (lima) tahun dan sesudahn
 
 ##### Pasal 30
 
-(1) Sebelum memangku jabatannya Anggota Komisi Yudisial wajib mengucapkan sumpah atau janji secara bersama-sama menurut agamanya di hadapan Presiden.
-
--
+(1) Sebelum memangku jabatannya Anggota Komisi Yudisial wajib mengucapkan sumpah atau janji secara bersama-sama menurut agamanya di hadapan Presiden. -
 
 (2) Anggota Komisi Yudisial yang berhalangan mengucapkan sumpah atau janji secara bersama-sama sebagaimana dimaksud pada ayat (1), mengucapkan sumpah atau janji di hadapan Ketua Komisi Yudisial.
 
@@ -427,9 +407,7 @@ e. pengusaha, pengurus atau karyawan badan usaha milik negara atau badan usaha s
 
 f. pegawai negeri; atau
 
-g. pengurus partai politik.
-
--
+g. pengurus partai politik. -
 
 ### Bagian Kedua — Pemberhentian
 
@@ -467,9 +445,7 @@ e. melanggar larangan rangkap jabatan sebagaimana dimaksud dalam Pasal 31.
 
 (1) Ketua, Wakil Ketua, dan Anggota Komisi Yudisial sebelum diberhentikan tidak dengan hormat sebagaimana dimaksud dalam Pasal 33 ayat (1) dapat diberhentikan sementara dari jabatannya oleh Presiden, atas usul Komisi Yudisial.
 
-(2) Terhadap pengusulan pemberhentian sementara sebagaimana dimaksud pada ayat (1) berlaku juga ketentuan sebagaimana dimaksud dalam Pasal 34 ayat (2).
-
--
+(2) Terhadap pengusulan pemberhentian sementara sebagaimana dimaksud pada ayat (1) berlaku juga ketentuan sebagaimana dimaksud dalam Pasal 34 ayat (2). -
 
 ##### Pasal 35
 
@@ -513,9 +489,7 @@ c. data yang berkaitan dengan fungsi rekruitmen Hakim Agung.
 
 (4) Laporan sebagaimana dimaksud pada ayat (2) huruf a disampaikan pula kepada Presiden.
 
-(5) Keuangan Komisi Yudisial diperiksa oleh Badan Pemeriksa Keuangan menurut ketentuan undang-undang.
-
--
+(5) Keuangan Komisi Yudisial diperiksa oleh Badan Pemeriksa Keuangan menurut ketentuan undang-undang. -
 
 ## BAB VI — KETENTUAN PERALIHAN
 
@@ -581,9 +555,7 @@ Undang-Undang ini merupakan pelaksanaan dari Pasal 24B ayat (4) Undang-Undang Da
 
 Dalam Undang-Undang ini diatur secara rinci mengenai wewenang dan tugas Komisi Yudisial. Komisi Yudisial mempunyai tugas mengusulkan pengangkatan Hakim Agung dan wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim, yakni Hakim Agung dan hakim pada badan peradilan di semua lingkungan peradilan yang berada di bawah Mahkamah Agung serta Hakim Mahkamah Konstitusi sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Berkaitan dengan wewenang tersebut, dalam Undang-Undang ini juga diatur mengenai pengangkatan dan pemberhentian Anggota Komisi Yudisial. Syarat-syarat untuk diangkat menjadi Anggota Komisi Yudisial harus mempunyai pengetahuan dan pengalaman di bidang hukum serta memiliki integritas dan kepribadian yang tidak tercela. Anggota Komisi Yudisial ini diangkat dan diberhentikan oleh Presiden dengan persetujuan Dewan Perwakilan Rakyat.
 
-Selain hal-hal yang ditentukan di atas, dalam Undang-Undang ini diatur pula mengenai larangan merangkap jabatan bagi Anggota Komisi Yudisial. Di samping itu diatur pula mengenai panitia seleksi untuk mempersiapkan calon Anggota Komisi Yudisial, beserta syarat dan tata caranya.
-
--
+Selain hal-hal yang ditentukan di atas, dalam Undang-Undang ini diatur pula mengenai larangan merangkap jabatan bagi Anggota Komisi Yudisial. Di samping itu diatur pula mengenai panitia seleksi untuk mempersiapkan calon Anggota Komisi Yudisial, beserta syarat dan tata caranya. -
 
 ### II.   PASAL DEMI PASAL
 
@@ -643,9 +615,7 @@ Ayat (1)
 
 Huruf a
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 Huruf b
 
@@ -711,9 +681,7 @@ Cukup jelas.
 
 #### Pasal 17
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 #### Pasal 18
 
@@ -771,9 +739,7 @@ Yang dimaksud dengan “menaati norma, hukum, dan ketentuan peraturan perundang-
 
 Ayat (3)
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 Ayat (4)
 
@@ -847,9 +813,7 @@ Yang dimaksud dengan “tidak tercela” adalah perbuatan yang tidak merendahkan
 
 Huruf f
 
-Sehat jasmani dan rohani dalam ketentuan ini dibuktikan dengan surat keterangan dari dokter pemerintah.
-
--
+Sehat jasmani dan rohani dalam ketentuan ini dibuktikan dengan surat keterangan dari dokter pemerintah. -
 
 Huruf g
 
@@ -923,9 +887,7 @@ Cukup jelas.
 
 Huruf b
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 Huruf c
 
@@ -995,9 +957,7 @@ Cukup jelas.
 
 Ayat (3)
 
-Cukup jelas.
-
--Pasal 34 Cukup jelas.
+Cukup jelas. - Pasal 34 Cukup jelas.
 
 #### Pasal 35
 
@@ -1039,9 +999,7 @@ Data yang berkaitan dengan fungsi pengawasan antara lain mengenai jumlah laporan
 
 Huruf c
 
-Data yang berkaitan dengan fungsi rekruitmen hakim agung antara lain jumlah usulan bakal calon dari masyarakat, alasan diterima atau ditolaknya seorang bakal calon, jumlah laporan atau pengaduan terhadap bakal calon yang masuk, jumlah laporan yang ditindaklanjuti dan yang tidak beserta alasannya, dan alasan dalam merekomendasikan bakal calon Hakim Agung ke DPR.
-
--
+Data yang berkaitan dengan fungsi rekruitmen hakim agung antara lain jumlah usulan bakal calon dari masyarakat, alasan diterima atau ditolaknya seorang bakal calon, jumlah laporan atau pengaduan terhadap bakal calon yang masuk, jumlah laporan yang ditindaklanjuti dan yang tidak beserta alasannya, dan alasan dalam merekomendasikan bakal calon Hakim Agung ke DPR. -
 
 Ayat (4)
 

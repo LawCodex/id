@@ -233,8 +233,6 @@ PRESIDEN REPUBLIK INDONESIA
 
 ttd
 
-SOEHARTO
-
 Diundangkan di Jakarta pada tanggal 15 Agustus 1990
 
 MENTERI/SEKRETARIS NEGARA

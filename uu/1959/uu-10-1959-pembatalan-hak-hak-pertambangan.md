@@ -49,8 +49,6 @@ b. Pasal-pasal 38 ayat 3 dan 89 Undang-undang Dasar Sementara Republik Indonesia
 
 Dengan persetujuan Dewan Perwakilan Rakyat;
 
-MEMUTUSKAN:
-
 Menetapkan : UNDANG-UNDANG TENTANG "PEMBATALAN HAK-HAK
 
 PERTAMBANGAN".
@@ -152,8 +150,6 @@ Pasal ini mengadakan pengecualian yang tertentu. Pada umumnya tiap-tiap pengusah
 Agar hak-hak pertambangan yang telah dibatalkan itu dapat dipergunakan semanfaat-manfaatnya, maka obyek-obyek pertambangan tersebut yang telah merupakan kosensi-konsesi, kontrak-kontrak 5a Eksplorasi & Eksploitasi dan izin-izin penambangan bahan-bahan galian yang tidak disebut dalam pasal 1 Undang-undang Pertambangan (Indische Mijnwet tahun 1899 No. 214 sebagaimana telah diubah dan ditambah kemudian), dikuasai spenuhnya oleh Pemerintah. Penegasan ini diambil ialah mengingat akan syarat pemberian hak-hak pertambangan tersebut didahului dengan penyelidikan-penyelidikan, sehingga sudah diketahui sedikit banyaknya bahan-bahan galian yang terpendam didalam bidang-bidang pertambangan tersebut. Sesuai dengan azas-azas tersebut diatas maka pemberian hak- hak pertambangan yang dibatalkan hanya dapat dilakukan kepada perusahaan-perusahaan yang dimiliki oleh Negara.
 
 #### Pasal 5
-
-Cukup jelas.
 
 #### Pasal 6
 

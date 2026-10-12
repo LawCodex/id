@@ -131,8 +131,6 @@ BAGIAN II.
 
 TENTANG PEMILIHAN ANGGAUTA DEWAN PERWAKILAN RAKYAT.
 
-## BAB I
-
 Tentang daerah pemilihan, daerah pemungutan suara dan jumlah pemilih Pasal 7.
 
 (1) Tiap-tiap propinsi merupakan suatu daerah pemilihan tersebut dalam pasal 2 ayat 4.
@@ -301,8 +299,6 @@ Jika karena pengeluaran itu sesuatu surat pengemukaan tidak cukup lagi 10 orang 
 
 (2) Demikian pula, jika surat pengemukaan jago diterima, maka Lurah yang menerimanya harus memberikan sehelai surat tanda penerimaan kepada orang tersebut dalam ayat 1.
 
-##### Pasal 24.
-
 (1) Seseorang yang turut mengemukakan jago dapat mengadukan suatu penolakan kepada Kantor Pemungutan Suara yang daerahnya melingkungi kelurahan orang yang mengemukakan jago itu.
 
 (2) Kantor tersebut membatalkan penolakan yang dianggapnya tidak benar.
@@ -338,8 +334,6 @@ Setelah waktu untuk mengemukakan jago buat pemilih lampau, maka Lurah menyampaik
 (2) Suatu penolakan oleh Kantor Pemungutan Suara dapat diadukan oleh seseorang yang turut mengemukakan jago buat pemilih kepada Cabang Kantor Pemilihan yang bersangkutan dalam waktu yang tertentu.
 
 (3) Daftar-daftar jago pemilih sementara diperbaiki, menurut keputusan kantor pemilihan atas keberatan-keberatan termaksud dalam ayat 1 dan menurut keputusan atas pengaduan termaksud dalam ayat 2.
-
-##### Pasal 29.
 
 (1) Setelah waktu untuk memperbaiki daftar-daftar itu lampau maka tiap-tiap Ketua Kantor Pemungutan Suara membuat daftar jago pemilih tetap buat masing-masing kelurahan dalam daerahnya.
 
@@ -577,8 +571,6 @@ Kantor tersebut segera memberi keputusan atas keberatan-keberatan itu.
 
 Tentang pengumuman jago-jago sementara, daftar jago tetap dan pengumumannya.
 
-##### Pasal 48.
-
 (1) Ketua Kantor Pemilihan Pusat membuat daftar jago sementara untuk tiap-tiap daerah pemilihan dari daftardaftar jago sementara yang dianggap betul atau yang telah dibetulkan.
 
 (2) Isi daftar-daftar ini diumumkan oleh ketua tersebut dalam majalah Pemerintah dan masing-masing orang dapat meminta salinannya dengan membayar biayanya.
@@ -618,8 +610,6 @@ Tentang pemilihan anggauta Dewan Perwakilan Rakyat dan Penetapan hasil pemilihan
 (4) Pemilih memilih seorang antara jago-jago yang dikemukakan sebagai orang seorang atau sebagai seorang jago dalam gerombolan dalam satu daftar.
 
 (5) Jika seorang pemilih memilih lebih dari satu orang jago maka surat pemilihan yang diisinya itu tidak berlaku.
-
-##### Pasal 52.
 
 (1) Setelah waktu untuk pemungutan suara lampau maka dengan cara terbuka untuk umum Kantor Pemungutan Suara menetapkan hasil pemungutan suara itu.
 
@@ -756,8 +746,6 @@ b. Untuk daerah luar Jawa, yang dimaksudkan dengan Kabupaten, Kecamatan dan Kelu
 (2) Peraturan-peraturan selanjutnya mengenai penyelenggaraan undang-undang ini ditetapkan dengan Peraturan-Pemerintah.
 
 BAGIAN IV.
-
-PERATURAN PERALIHAN.
 
 ##### Pasal 64.
 

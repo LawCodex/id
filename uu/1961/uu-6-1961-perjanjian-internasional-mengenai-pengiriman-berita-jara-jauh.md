@@ -59,8 +59,6 @@ INTERNASIONAL MENGENAI PENGIRIMAN BERITA JARAK
 
 JAUH DI JENEWA, TERTANGGAL 21 DESEMBER 1959.
 
-##### Pasal 1.
-
 Dengan ini disetujui Perjanjian Internasional mengenai Pengiriman Berita Jarak Jauh di Jenewa tertanggal 21 Desember 1959, yang salinannya dilampirkan pada undang-undang ini.
 
 ##### Pasal 2.

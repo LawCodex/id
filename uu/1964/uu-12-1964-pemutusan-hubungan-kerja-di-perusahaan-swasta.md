@@ -87,8 +87,6 @@ Lamanya masa percobaan tidak boleh melebihi tiga bulan dan adanya masa percobaan
 
 Panitia Darah dan Panitia Pusat menyelesaikan permohonan izin pemutusan hubungan kerja dalam waktu sesingkat-singkatnya, menurut tata-cara yang berlaku untuk penyelesaian perselisihan perburuhan.
 
-Pasal 7….
-
 ##### Pasal 7.
 
 (1) Dalam mengambil keputusan terhadap permohonan izin pemutusan hubungan kerja, Panitia Daerah dan Panitia Pusat disamping ketentuan-ketentuan tentang hal ini yang dimuat dalam Undang-undang No. 22 tahun 1957 tentang Penyelesaian Perselisihan Perburuhan (Lembaran-Negara tahun 1957 No. 42), memperhatikan keadaan dan perkembangan lapangan kerja serta kepentingan buruh dan perusahaan.

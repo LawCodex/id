@@ -75,7 +75,7 @@ Pelaksanaan dari ketentuan-ketentuan Peraturan Pemerintah Pengganti Undang-undan
 
 Peraturan Pemerintah Pengganti Undang-undang ini mulai berlaku pada tanggal 17 April 1964.
 
-... Agar
+...
 
 Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah Pengganti Undang-undang ini dengan penempatannya dalam Lembaran-Negara Republik Indonesia.
 

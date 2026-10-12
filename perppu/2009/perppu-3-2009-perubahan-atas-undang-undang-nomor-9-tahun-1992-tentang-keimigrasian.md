@@ -91,10 +91,6 @@ h. Surat Perjalanan Laksana Paspor Dinas."
 
 Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 
-Agar
-
-PR ESID E N
-
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah Pengganti Undang-Undang ini dengan penempatannya daiam Lembaran Negara Republik Indonesia.
 
 Ditetapkan di Jakarta pada tanggal 17 Juli 2OO9

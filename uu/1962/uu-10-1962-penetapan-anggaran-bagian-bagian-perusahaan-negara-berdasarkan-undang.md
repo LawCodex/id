@@ -47,8 +47,6 @@ c. Undang-undang No. 21 Prp tahun 1960 tentang Bank Pembangunan Indonesia ;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong Royong;
 
-MEMUTUSKAN :
-
 Menetapkan : Undang-undang tentang Penetapan Anggaran Bagian-bagian Perusahaan Negara berdasarkan Undang-undang Perusahaan Indonesia dan Anggaran Negara Republik Indonesia untuk tahun 1962.
 
 ##### Pasal 1.

@@ -63,8 +63,6 @@ BAB I (Pengeluaran)
 
 Jumlah............. 105 326 000 96 892 000
 
-\========= =======
-
 1952: Seratus lima juta tiga ratus dua puluh enam ribu rupiah.
 
 1953: Sembilan puluh enam juta delapan ratus sembilan puluh dua ribu rupiah.

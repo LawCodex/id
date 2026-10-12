@@ -261,8 +261,6 @@ II. PASAL DEMI PASAL.
 
 Dewan Pertimbangan Agung berkedudukan di tempat kedudukan Pemerintah Pusat, karena Dewan ini merupakan Badan Pertimbangan bagi Pemerintah Pusat. Sidang di luar tempat kedudukannya dilakukan jika tidak mungkin diadakan di tempat kedudukan tersebut, misalnya dalam keadaan darurat.
 
-Pasal 2….
-
 #### Pasal 2.
 
 Dewan Pertimbangan Agung memberikan pertimbangan/nasehat/usul mengenai masalah-masalah kenegaraan dan kemasyarakatan terutama masalah-masalah nasional, kepada Pemerintah baik atas permintaan Pemerintah maupun atas inisiatif sendiri.

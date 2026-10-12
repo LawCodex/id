@@ -403,8 +403,6 @@ PRESIDEN REPUBLIK INDONESIA
 
 ttd
 
-SOEHARTO
-
 Diundangkan di Jakarta pada tanggal 11 Mei 1992
 
 MENTERI/SEKRETARIS NEGARA

@@ -1868,7 +1868,7 @@ Ayat (3)
 
 Bagi Wajib Pajak luar negeri yang menjalankan usaha atau melakukan kegiatan melalui suatu bentuk usaha tetap di Indonesia, cara penghitungan Penghasilan Kena Pajaknya pada dasarnya sama dengan cara penghitungan Penghasilan Kena Pajak bagi Wajib Pajak badan dalam negeri. Oleh karena bentuk usaha tetap berkewajiban untuk menyelenggarakan pembukuan, maka Penghasilan Kena Pajaknya dihitung dengan cara penghitungan biasa.
 
-Contoh : - Peredaran bruto Rp 400.000.000,00 - Biaya untuk mendapatkan, menagih dan memelihara penghasilan Rp 275.000.000,00 __________________(-) Rp 125.000.000,00 - Penghasilan bunga Rp 5.000.000,00 - Penjualan langsung barang oleh kantor pusat yang sejenis dengan barang yang dijual bentuk usaha tetap Rp 200.000.000,00 - Biaya untuk mendapatkan, menagih dan memelihara penghasilan Rp 150.000.000,00 ___________________(-) Rp 50.000.000,00 - Dividen yang diterima atau diperoleh kantor pusat yang mempunyai hubungan efektif dengan bentuk usaha tetap Rp 2.000.000,00 _________________ (+) Rp 182.000.000,00 - Biaya-biaya menurut Pasal 5 ayat (3) Rp 7.000.000,00 __________________(-)
+Contoh : - Peredaran bruto Rp 400.000.000,00 - Biaya untuk mendapatkan, menagih dan memelihara penghasilan Rp 275.000.000,00 __________________(-) Rp 125.000.000,00 - Penghasilan bunga Rp 5.000.000,00 - Penjualan langsung barang oleh kantor pusat yang sejenis dengan barang yang dijual bentuk usaha tetap Rp 200.000.000,00 - Biaya untuk mendapatkan, menagih dan memelihara penghasilan Rp 150.000.000,00 ___________________(-) Rp 50.000.000,00 - Dividen yang diterima atau diperoleh kantor pusat yang mempunyai hubungan efektif dengan bentuk usaha tetap Rp 2.000.000,00 _________________ (+) Rp 182.000.000,00 - Biaya-biaya menurut Pasal 5 ayat (3) Rp 7.000.000,00
 
 \- Penghasilan Kena Pajak Rp 175.000.000,00
 
@@ -2368,7 +2368,7 @@ Contoh :
 
 Pajak Penghasilan yang terutang Rp 80.000.000,00 Kredit pajak :
 
-Pemotongan pajak dari pekerjaan (Pasal 21) Rp 5.000.000,00 Pemungutan pajak oleh pihak lain (Pasal 22) Rp 10.000.000,00 Pemotongan pajak dari modal (Pasal 23) Rp 5.000.000,00 Kredit pajak luar negeri (Pasal 24) Rp 15.000.000,00 Dibayar sendiri oleh Wajib Pajak (Pasal 25) Rp 10.000.000,00 _________________ (+)
+Pemotongan pajak dari pekerjaan (Pasal 21) Rp 5.000.000,00 Pemungutan pajak oleh pihak lain (Pasal 22) Rp 10.000.000,00 Pemotongan pajak dari modal (Pasal 23) Rp 5.000.000,00 Kredit pajak luar negeri (Pasal 24) Rp 15.000.000,00 Dibayar sendiri oleh Wajib Pajak (Pasal 25) Rp 10.000.000,00
 
 Jumlah Pajak Penghasilan yang dapat dikreditkan Rp 45.000.000,00 _________________(-) Pajak Penghasilan yang masih harus dibayar Rp 35.000.000,00
 

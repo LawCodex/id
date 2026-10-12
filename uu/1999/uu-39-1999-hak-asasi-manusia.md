@@ -186,8 +186,6 @@ Setiap orang, tanpa diskriminasi, berhak untuk memperoleh keadilan dengan mengaj
 
 (5) Setiap orang tidak dapat dituntut untuk kedua kalinya dalam perkara yang sama atas suatu perbuatan yang telah memperoleh putusan pengadilan yang berkekuatan hukum tetap.
 
-##### Pasal 19
-
 (1) Tiada suatu pelanggaran atau kejahatan apapun diancam dengan hukuman perampasan seluruh harta kekayaan milik yang bersalah.
 
 (2) Tidak seorangpun atas putusan pengadilan boleh dipidana penjara atau kurungan berdasarkan atas alasan ketidakmampuan untuk memenuhi suatu kewajiban dalam perjanjian utang piutang.
@@ -403,8 +401,6 @@ Setiap anak berhak untuk beribadah menurut agamanya, berfikir, berekspresi sesua
 (1) Setiap anak berhak untuk mengetahui siapa orang tuanya, dibesarkan, dan diasuh oleh orang tuanya sendiri.
 
 (2) Dalam hal orang tua anak tidak mampu membesarkan dan memelihara anaknya dengan baik sesuai dengan Undang-undang ini, maka anak tersebut boleh diasuh atau diangkat sebagai anak oleh orang lain sesuai dengan ketentuan peraturan perundang-undangan.
-
-##### Pasal 57
 
 (1) Setiap anak berhak untuk dibesarkan, dipelihara, dirawat, dididik, diarahkan, dan dibimbing kehidupannya oleh orang tua atau walinya sampai dewasa sesuai dengan ketentuan peraturan perundang-undangan.
 

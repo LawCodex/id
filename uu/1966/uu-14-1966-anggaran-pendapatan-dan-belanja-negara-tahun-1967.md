@@ -59,8 +59,6 @@ BELANJA NEGARA UNTUK TAHUN 1967.
 
 (2) Perincian pendapatan dimaksud pada ayat (1) dimuat dalam Lampiran I Undang-undang ini.
 
-Pasal 2….
-
 ##### Pasal 2.
 
 (1) Anggaran Belanja Negara Tahun 1967 terdiri atas:
@@ -104,8 +102,6 @@ b. Untuk mengikuti pelaksanaan Anggaran Pendapatan dan Belanja Negara secara ter
 ##### Pasal 5.
 
 Selambat-lambatnya pada akhir tahun anggaran 1967 oleh Pemerintah harus diajukan Rancangan Undang-undang tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun 1967 berdasarkan kepada perubahan/tambahan sebagai hasil penyesuaian dimaksud dalam pasal 4 untuk mendapatkan pengesahan dari Dewan Perwakilan Rakyat Gotong-Royong.
-
-Pasal 6….
 
 ##### Pasal 6.
 

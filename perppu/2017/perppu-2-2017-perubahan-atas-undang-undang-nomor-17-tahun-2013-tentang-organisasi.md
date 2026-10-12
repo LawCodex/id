@@ -71,8 +71,6 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 
 1. Organisasi Kemasyarakatan yang selanjutnya disebut Ormas adalah organisasi yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tqjuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan Undang-Undang Dasai Negara Republik Indonesia Tahun 1945.
 
-2. Anggaran . .
-
 -o-
 
 2. Anggaran Dasar yang selanjutnya disingkat AD adalah p€raturan dasar Ormas.
@@ -153,8 +151,6 @@ b. pencabutan status badan hukum oleh menteri yang menyelenggarakan urusan pemer
 
 (1) Peringatan tertulis sebagaimala dimaksud dalam Pasal 61 ayat (l) huruf a diberikan hanya 1 (satu) kali dalam jangka waktu 7 (tqjuh) hari kerja sejak tanggal diterbitkan peringatan.
 
-PRES IDEN
-
 (2) Dalam hal Ormas tidak mematuhi peringatan terhrlis dalam jangka waktu sebagaimana dimaksud pada ayat (1), Menteri dan menteri yang menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia sesuai dengan kewenangannya menjatuhkan sanksi penghentian kegiatan.
 
 (3) Dalam hal Ormas tidak memahrhi sanksi penghentian kegiatan sebagaimana dimaksud pada ayat (21, Menteri dan menteri yang menyelenggarakan urusan pemerintahan di bidang hukum dan hak asasi manusia sesuai dengan kewenangannya melakukan pencabutan surat keterangan terdaftar atau pencabutan status badan hukum.
@@ -184,8 +180,6 @@ Ketentuan Pasal 63 dihapus.
 L7. Ketentuan Pasal 74 dihapus.
 
 18. Ketentuan Pasal 75 dihapus.
-
-19. Ketentuan
 
 19. Ketentuan Pasat 76 dihapus.
 
@@ -229,8 +223,6 @@ l2l Setiap orang yang menjadi anggota dan/atau pengurus Ormas yang dengan sengaj
 
 Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlalm pada tanggal diundangkan
 
-PRES IDEN
-
 Agar sctiap orang mcngctahuinya, mcmcrintahkan pcngundangan Pcratura.n Pcmcrintah Pcngganti Undang-Undang ini dcngan pcncmpatannya dalanr Lcrnbar'an Ncgara Rcpublik Indoncsia.
 
 Ditctapkan di .Ja.kerrta pada tanggal 10 Juli 2017
@@ -260,10 +252,6 @@ KEMENTERIAN SEKRETARIAT NEGARA
 REPUB.LIK INDONESIA
 
 Plt. Asistcn Dcputi Bidang Pcmcrintahan Dalam It@Otonomi Dacrah, Dcputi Bidang ihastrrti Sukardi
-
-PRES IDEN
-
-REPU BLIK INDONESIA
 
 ## PENJELASAN
 
@@ -317,8 +305,6 @@ Dalam Putusan Mahkamah Konstitusi Republik Indonesia Nomor 138/PUU-UI/2009, dlje
 
 3. Kekosongan hukum tersebut tidak dapat diatasi dengan cara membuat undang-undang secara prosedur biasa karena akan memerlukan waktu yang cukup lama sedangkan keadaan yang mendesak tersebut perlu kepastian untuk diselesaikan.
 
-PRESIOEN
-
 Ketiga karakteristik "hal ihwal kegentingan yang memaksa" tersebut juga sejalan dengan artikel 4 Intemational Couenant on Ciril and political Rphrs (CCPR), sebagai berikut:
 
 "In tim.e of pu.blic emergenq uhich tlveatens the life of tlle nation and the existene of uthich is olficiatlg prodaimed, tle *,ates parties to tle present Couenant mag talec mea.sunes derogating from their obligatbns under tle present Couenant to the ertent strictlg reEtired bg tlre exigencies of the sihtatbn, provided. that such mea.sures are rwt inansbtent with tlair otter obligatiotts unler intemational law and do not inwlue discrimination solelg on tle ground of ro.@, colour, sex, lnnguage, religion or social ongin,.
@@ -328,10 +314,6 @@ Merujuk pada artikel 4 ICCPR di atas, jelas bahwa yang dimaksud dengan 'hal ihwa
 Keadaan darurat yang dapat mengancam kedaulatan Negara Kesatuan Republik Indonesia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, antara lain kegiatan Ormas tertentu yang telah melakukan tindakan permusuhan antara lain, ucapan, pemyataan, sikap atau aspirasi baik secara lisan maupun tertulis, melalui media elektronik ataupun tidak memakai media elektronik, yang menimbulkan kebencian baik terhadap kelompok tertenhr maupun terhadap mereka yang termasuk ke dalam penyelenggara negara, Tindakan tersebut merupakan tindakan potensial menimbulkan konflik sosial antara anggota Tasyarakat sehingga dapat mengakibatkan keadaan chaos yang sulit untuk dicegah dan diatasi aparat penegak hukum.
 
 Pelanggaran terhadap asas-asas Ormas yang telah menegaskan tidak lelentanrym dengan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, pada hakikatnya merupakan perbuatan yang sangat dicelakan oleh pengurus atau ormas yang bersangkutan ki.ena telah melanggar kesepakatan para pendiri Negara Kesatuan Republik Indonesia, sebagaimana telah diwujudkan dalam pancasila dan undang-undang Dasar Negara Republik Indonesia Tahun 194s. pelanggaran terhadap asaJormas yang telah mengakui Pancasila dan undang-undang Dasar Negara Republik Indonesia Tahun 1945, merupakan wqjud pikiran, niat jahat-yang semula telah ada sejak Ormas tersebut didaftarkan.
-
-PRESIOEN
-
-REPU BLIK INDONESIA
 
 Maksud dan tujuan Peraturan Pemerintah pengganti Undang-Undang ini adalah untuk membedakan dan sekaligus melindungi Ormas yang mematuhi dan konsisten dengan asas dan tujuan Ormis berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan Ormas y€rng asas dan kegiatannya nyata-nyata bertentangan dengan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945. Peraturan Pemerintah Pengganti Undang-Undang ini tetah memisahkan kedua golongan Ormas tersebut dan disertai dengan jenis sanksi dan penerapannya yang bersifat luar biasa.
 
@@ -393,10 +375,6 @@ Huruf b
 
 Yang dimaksud dengan "melakukan kegiatan separatis" adalah kegiatan yang ditqjukan untuk memisahkan bagran dari atau seluruh wilayah Negara Kesatuan Republik Indonesia atau menguasai bagian atau seluruh wilayah Negara Kesatuan Republik Indonesia, baik atas dasar etnis, aganra, maupun ras.
 
-PRESIOEN
-
-REPUELIK INDONESIA
-
 Huruf c
 
 Yang dimaksud dengan "ajaran atau paham yang bertentangan dengan Pancasila' antara lain ajaran ateisme, komunisme/manrisme-leninisme, atau paham lain yang bertujuan mengganti/mengubah Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
@@ -426,10 +404,6 @@ Pencabutan surat keterangan terdaftar atau pencabutan status badan hukum Ormas s
 Ayat (4)
 
 Yang dimaksud dengan "instansi terkait" adalah kementerian/lembaga di bawah koordinasi menteri yang membidangi sinkronisasi dan koordinasi urusan pemerintahan di bidang politik, hukum, dan keamanan.
-
-PRESIOEN
-
-REPIJBLIK INDONESIA
 
 Angka 5
 
@@ -564,8 +538,6 @@ Ayat (1)
 Yang dimaksud "dengan sengaja" adalah adanya niat atau kesengajaan dalam bentuk apapun (kesengajaan dengan kemungkinan, kesengajaan dengan maksud/tujuan, dan kesengajaan dengan kepastian). Untuk itu, kesengajaan telah nyata dari adanya "persiapan perbuatan" luoorbereidingings lwtdelingl sudah dapat dipidana, dan ini sebagai perluasan adanya percobaan, pembantuan, atau permufakatan jahat.
 
 Yang dimaksud dengan nsecara Langsung atau tidak langsung' adalah pernyataan pikiran dan atau kegiatan prmas yang sejak pendaftaran untuk disahkan sebagai badan hukum atau bukan badan hukum, telah memiliki niat jahat (mens-rea) atau itikad tidak baik yang terkandung di balik pernyataan tertulis pengakuan sebagai Ormas yang berasaskan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yang dinyatakan dan tercantum di dalam Anggaran Dasar Ormas, narnun di dalam kegiatannya terkandung pikiran atau perbuatan yang bertentangan dengan Pancasila dan Undang-Undang Dlasar Negara Republik Indonesia Tahun 1945.
-
-PRESIOEN
 
 \- 1l -
 

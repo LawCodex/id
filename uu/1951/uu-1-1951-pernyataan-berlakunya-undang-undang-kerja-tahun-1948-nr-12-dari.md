@@ -61,8 +61,6 @@ Bagian I.
 
 Tentang istilah-istilah dalam undang-undang ini.
 
-##### Pasal 1.
-
 (1) Dalam undang-undang ini yang dimaksudkan :
 
 a. Pekerjaan, ialah pekerjaan yang dijalankan oleh buruh untuk majikan dalam suatu hubungan kerja dengan menerima upah;

@@ -605,7 +605,7 @@ a. Pajak dalam negeri 285.481.430.000.000,00
 411124      PPh Pasal 23                    13.047.800.000.000,00
 ```
 
-411125 PPh Pasal 25/29 orang pribadi 2.822.400.000.000,00 411126 PPh Pasal 25/29 badan 48.342.030.000.000,00 411127 PPh Pasal 26 7.312.900.000.000,00 411128 PPh final dan fiskal luar negeri 16.196.500.000.000,00
+411125 PPh Pasal 25/29 orang pribadi 2.822.400.000.000,00 411126 PPh Pasal 25/29 badan 48.342.030.000.000,00 411127 PPh Pasal 26 7.312.900.000.000,00 411128 PPh final dan
 
 41111 PPh minyak bumi dan gas alam 13.568.600.000.000,00 411111 PPh minyak bumi 3.612.500.000.000,00 411112 PPh gas alam 9.956.100.000.000,00
 
@@ -683,9 +683,7 @@ c. Penerimaan negara bukan pajak lainnya 20.250.297.928.000,00 42311 Penjualan h
 
 42344 Pendapatan pelunasan piutang 6.250.000.000.000,00 423441 Pendapatan pelunasan piutang 6.250.000.000.000,00
 
-42347 Pendapatan lain-lain 191.353.061.000,00 423471 Penerimaan kembali persekot/ uang muka gaji 2.277.000.000,00
-
-423472 Penerimaan denda keterlambatan penyelesaian pekerjaan pemerintah 7.067.390.000,00 423473 Penerimaan kembali/ganti rugi atas kerugian yang diderita oleh negara 6.642.170.000,00 423479 Pendapatan anggaran lain-lain 175.366.501.000,00 Pasal 5
+42347 Pendapatan lain-lain 191.353.061.000,00 423471 Penerimaan kembali persekot/ uang muka gaji 2.277.000.000,00 423472 Penerimaan denda keterlambatan penyelesaian pekerjaan pemerintah 7.067.390.000,00 423473 Penerimaan kembali/ganti rugi atas kerugian yang diderita oleh negara 6.642.170.000,00 423479 Pendapatan anggaran lain-lain 175.366.501.000,00 Pasal 5
 
 Cukup jelas
 

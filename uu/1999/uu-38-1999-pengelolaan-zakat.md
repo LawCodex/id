@@ -90,8 +90,6 @@ Pemerintah berkewajiban memberikan perlindungan, pembinaan, dan pelayanan kepada
 
 ## BAB II — ASAS DAN TUJUAN
 
-##### Pasal 4
-
 Pengelolaan zakat berasaskan iman dan takwa, keterbukaan, dan kepastian hukum sesuai dengan Pancasila dan Undang-Undang Dasar 1945.
 
 ##### Pasal 5

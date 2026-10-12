@@ -130,11 +130,7 @@ d. Kecamatan Lubuk Lingau Barat
 
 (1). Dengan terbentuknya Kota Lubuk Linggau, sebagaimana dimaksud dalam pasal 2, wilayah Kabupaten Musi Rawas dikurangi dengan wilayah Kota Lubuk Linggau sebagaimana dimaksud dalam Pasal 3. (2). Wilayah Kecamatan Muara Beliti di kabupaten Musi Rawas tetap merupakan Wilayah Kecamatan Muara Beliti setelah dikuranggi dengan desa-desa sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b.
 
-(3) Wilayah Kecamatan Batu Kuning Lakitan Ulu Terawas di Kabupaten Musi Rawas tetap merupakan wilayah Kecamatan Batu Kuning Lakitan Ulu Terawas setelah dikurangi dengan desa-desa sebagimana dimaksud dalam pasal 3 ayat (1) huruf c
-
-##### Pasal 5
-
-dengan terbentuknya Kota Lubuk Linggau, Kota Administratif Lubuk Linggau dalam wilayah Kabupaten Musi Rawas dihapus.
+(3) Wilayah Kecamatan Batu Kuning Lakitan Ulu Terawas di Kabupaten Musi Rawas tetap merupakan wilayah Kecamatan Batu Kuning Lakitan Ulu Terawas setelah dikurangi dengan desa-desa sebagimana dimaksud dalam pasal 3 ayat (1) huruf c dengan terbentuknya Kota Lubuk Linggau, Kota Administratif Lubuk Linggau dalam wilayah Kabupaten Musi Rawas dihapus.
 
 ##### Pasal 6
 
@@ -208,8 +204,6 @@ Untuk memimpin jalannya pemerintahan di Kota Lubuk Linggau, dipilih dan disahkan
 
 ### Bagian Ketiga — Perangkat Pemerintahan Daerah
 
-##### Pasal 13
-
 Untuk kelengkapan perangkat pemerintahan Kota Lubuk Linggau, dibentuk Sekretariat Dewan Perwakilan Rakyat Daerah Kota, Sekretariat Kota, Dinas Kota, dan Lembaga Teknis Kota sesuai dengan peraturan perundang-undangan.
 
 ## BAB V — KETENTUAN PERALIHAN
@@ -247,8 +241,6 @@ Semua perundang-undangan yang saat ini berlaku bagi Kabupaten Musi Rawas tetap b
 ##### Pasal 17
 
 Pada saat berlakunya undang-undang ini, semua peraturan perundang-undangan yang bertentangan dengan undang-undang ini dinyatakan tidak berlaku.
-
-##### Pasal 18
 
 Ketentuan lebih lanjut yang diperlukan sebagai pelaksanaan undang-undang ini diatur sesuai dengan peraturan perundang-undangan.
 

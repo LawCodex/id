@@ -67,8 +67,6 @@ e. Undang-undang No.29 tahun 1954 (Lembaran-Negara tahun 1954 No.84 ) tentang Pe
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong Royong;
 
-Memutuskan :
-
 Menetapkan : Undang-undang tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang No.1 tahun 1962 tentang pemanggilan dan pengerahan semua warga-negara dalam rangka mobilisasi umum untuk kepentingan keamanan dan pertahanan negara (Lembaran-Negara tahun 1962 No.8), menjadi Undang-undang.
 
 ## BAB I — TUJUAN DAN KETENTUAN UMUM.

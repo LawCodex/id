@@ -126,8 +126,6 @@ d. sebelah barat dengan Laut Natuna,
 
 (3) Penentuan batas wilayah Kota Singkawang dan Kabupaten Bengkayang secara pasti di lapangan, sebagaimana dimaksud pada ayat (1), ditetapkan oleh Menteri Dalam Negeri dan Otonomi Daerah.
 
-##### Pasal 7
-
 (1). Dengan terbentuknya Kota Singkawang Pemerintah Kota Singkawang menetapkan Rencana Tata Ruang Wilayah Kota Singkawang sesuai dengan peraturan perundang-undangan.
 
 (2) Penetapan Rencana Tata Ruang Wilayah Kota Singkawang sebagaimana dimaksud pada ayat (1) dilakukan secara terpadu dan tidak terpisahkan dari Tata Ruang Wilayah Nasional, Propinsi, dan Kabupaten/Kota di sekitarnya.
@@ -219,8 +217,6 @@ Semua perundang-undangan yang saat ini berlaku bagi Kabupaten Bengkayang tetap b
 ##### Pasal 17
 
 Pada saat berlakunya undang-undang ini, semua peraturan perundang-undangan yang bertentangan dengan undang-undang ini dinyatakan tidak berlaku.
-
-##### Pasal 18
 
 Ketentuan lebih lanjut yang diperlukan sebagai pelaksanaan undang-undang ini diatur sesuai dengan peraturan perundang-undangan.
 
@@ -341,8 +337,6 @@ Huruf a
 Yang dimaksud dengan daerah tersebut adalah Kecamatan Singkawang , Kecamatan Bumiaji, dan kecamatan Junrejo.
 
 Huruf b
-
-Cukup jelas.
 
 Ayat (3)
 

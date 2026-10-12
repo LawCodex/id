@@ -307,8 +307,6 @@ Dalam hal Badan Usaha atau Bentuk Usaha Tetap yang telah mendapatkan persetujuan
 
 Pedoman, tata cara, dan syarat-syarat mengenai Kontrak Kerja Sama, penetapan dan penawaran Wilayah Kerja, perubahan dan perpanjangan Kontrak Kerja Sama, serta pengembalian Wilayah Kerja sebagaimana dimaksud dalam Pasal 11, Pasal 12, Pasal 13, Pasal 14, Pasal 15, Pasal 16, dan Pasal 17 diatur lebih lanjut dalam Peraturan Pemerintah.
 
-##### Pasal 19
-
 (1) Untuk menunjang penyiapan Wilayah Kerja sebagaimana dimaksud dalam Pasal 12 ayat (1), dilakukan Survei Umum yang dilaksanakan oleh atau dengan izin Pemerintah.
 
 (2) Tata cara dan persyaratan pelaksanaan Survei Umum sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah.
@@ -358,8 +356,6 @@ c. Izin Usaha Penyimpanan;
 d. Izin Usaha Niaga.
 
 (3) Setiap Badan Usaha dapat diberi lebih dari 1 (satu) Izin Usaha sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan yang berlaku.
-
-##### Pasal 24
 
 (1) Izin Usaha sebagaimana dimaksud dalam Pasal 23 paling sedikit memuat:
 
@@ -485,8 +481,6 @@ a. sebelum kegiatan dimulai, terlebih dahulu memperlihatkan Kontrak Kerja Sama a
 
 b. dilakukan terlebih dahulu penyelesaian atau jaminan penyelesaian yang disetujui oleh pemegang hak atas tanah atau pemakai tanah di atas tanah negara sebagaimana dimaksud dalam Pasal 34.
 
-##### Pasal 36
-
 (1) Dalam hal Badan Usaha atau Bentuk Usaha Tetap telah diberikan Wilayah Kerja, maka terhadap bidang-bidang tanah yang dipergunakan langsung untuk kegiatan usaha Minyak dan Gas Bumi dan areal pengamanannya, diberikan hak pakai sesuai dengan ketentuan peraturan perundang-undangan yang berlaku dan wajib memelihara serta menjaga bidang tanah tersebut.
 
 (2) Dalam hal pemberian Wilayah Kerja sebagaimana dimaksud dalam ayat (1) meliputi areal yang luas di atas tanah negara, maka bagian-bagian tanah yang tidak digunakan untuk kegiatan usaha Minyak dan Gas Bumi, dapat diberikan kepada pihak lain oleh menteri yang tugas dan tanggung jawabnya meliputi bidang agraria atau pertanahan dengan mengutamakan masyarakat setempat setelah mendapat rekomendasi dari Menteri.
@@ -603,8 +597,6 @@ g. menunjuk penjual Minyak Bumi dan/atau Gas Bumi bagian negara yang dapat membe
 
 (3) Kepala Badan Pelaksana diangkat dan diberhentikan oleh Presiden setelah berkonsultasi dengan Dewan Perwakilan Rakyat Republik Indonesia dan dalam melaksanakan tugasnya bertanggung jawab kepada Presiden.
 
-##### Pasal 46
-
 (1) Pengawasan terhadap pelaksanaan penyediaan dan pendistribusian Bahan Bakar Minyak dan Pengangkutan Gas Bumi melalui pipa dilakukan oleh Badan Pengatur sebagaimana dimaksud dalam Pasal 8 ayat (4).
 
 (2) Fungsi Badan Pengatur sebagaimana dimaksud dalam ayat (1) melakukan pengaturan agar ketersediaan dan distribusi Bahan Bakar Minyak dan Gas Bumi yang ditetapkan Pemerintah dapat terjamin di seluruh wilayah Negara Kesatuan Republik Indonesia serta meningkatkan pemanfaatan Gas Bumi di dalam negeri.
@@ -636,8 +628,6 @@ f. pengusahaan transmisi dan distribusi Gas Bumi.
 (4) Badan Pengatur sebagaimana dimaksud dalam Pasal 8 ayat (4) bertanggung jawab kepada Presiden.
 
 (5) Pembentukan Badan Pengatur sebagaimana dimaksud dalam Pasal 8 ayat (4) ditetapkan dengan Keputusan Presiden.
-
-##### Pasal 48
 
 (1) Anggaran biaya operasional Badan Pelaksana sebagaimana dimaksud dalam Pasal 45 didasarkan pada imbalan (fee) dari Pemerintah sesuai dengan peraturan perundang-undangan yang berlaku.
 
@@ -708,8 +698,6 @@ Setiap orang yang meniru atau memalsukan Bahan Bakar Minyak dan Gas Bumi dan has
 ##### Pasal 55
 
 Setiap orang yang menyalahgunakan Pengangkutan dan/atau Niaga Bahan Bakar Minyak yang disubsidi Pemerintah dipidana dengan pidana penjara paling lama 6 (enam) tahun dan denda paling tinggi Rp60.000.000.000,00 (enam puluh miliar rupiah).
-
-##### Pasal 56
 
 (1) Dalam hal tindak pidana sebagaimana dimaksud dalam Bab ini dilakukan oleh atau atas nama Badan Usaha atau Bentuk Usaha Tetap, tuntutan dan pidana dikenakan terhadap Badan Usaha atau Bentuk Usaha Tetap dan/atau pengurusnya.
 
@@ -791,7 +779,7 @@ d. kontrak atau perjanjian antara badan usaha milik negara sebagaimana dimaksud 
 
 Kegiatan usaha atas minyak atau gas selain yang dimaksud dalam Pasal 1 angka 1 dan angka 2 sepanjang belum atau tidak diatur dalam Undang-undang lain, diberlakukan ketentuan Undang-undang ini.
 
-## BAB XIV — KETENTUAN PENUTUP
+## BAB XIV
 
 ##### Pasal 66
 
@@ -811,11 +799,7 @@ Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 23 Nopember 2001
-
-PRESIDEN REPUBLIK INDONESIA,
-
-ttd
+Disahkan di Jakarta pada tanggal 23 Nopember 2001 ttd
 
 MEGAWATI SOEKARNOPUTRI
 

@@ -65,8 +65,6 @@ EKSTRADISI ANTARA INDONESIA DAN AUSTRALIA
 
 Mengesahkan Perjanjian Ekstradisi antara Republik Indonesia dan Australia yang telah ditandatangani pada tanggal 22 April 1992, yang salinan naskah aslinya dalam bahasa Indonesia dan bahasa Inggeris sebagaimana terlampir dan merupakan bagian yang tak terpisahkan dari Undang-undang ini.
 
-##### Pasal 2
-
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.

@@ -97,8 +97,6 @@ PRESIDEN REPUBLIK INDONESIA
 
 ttd
 
-SOEHARTO
-
 Diundangkan di Jakarta pada tanggal 7 Januari 1991
 
 MENTERI/SEKRETARIS NEGARA

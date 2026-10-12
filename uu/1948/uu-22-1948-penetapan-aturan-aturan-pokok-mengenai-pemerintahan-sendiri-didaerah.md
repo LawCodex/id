@@ -75,8 +75,6 @@ Peraturan umum.
 
 (3) Kepala Daerah menjabat Ketua dan anggauta Dewan Pemerintah Daerah.
 
-BAGIAN II.
-
 Dewan Perwakilan Rakyat Daerah.
 
 ##### Pasal 3.
@@ -446,8 +444,6 @@ Anggaran pendapatan dan belanja.
 ##### Pasal 40.
 
 Tentang cara menyusun anggaran pendapatan dan belanja ditetapkan dalam Peraturan Pemerintah.
-
-BAGIAN IV.
 
 Perhitungan anggaran pendapatan dan belanja.
 

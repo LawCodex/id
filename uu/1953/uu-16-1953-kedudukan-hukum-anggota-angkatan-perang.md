@@ -253,8 +253,6 @@ MOHAMMAD HATTA.
 
 Menteri Pertahanan a.i., ttd
 
-WILOPO
-
 Diundangkan pada tanggal 11 Juni 1953.
 
 Menteri Kehakiman, ttd

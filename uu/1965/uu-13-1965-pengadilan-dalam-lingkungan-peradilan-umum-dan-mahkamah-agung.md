@@ -195,7 +195,7 @@ Kepala Pengadilan mengadakan pengawasan dan penelitian atas pekerjaan dari para 
 
 ##### Pasal 16.
 
-Semua surat-surat atau berkas-berkas yang ditujukan kepada pengadilan, disampaikan kepada Kepala Pengadilan yang membagi- baginya kepada para Hakim untuk diselesaikan. Pasal 17..
+Semua surat-surat atau berkas-berkas yang ditujukan kepada pengadilan, disampaikan kepada Kepala Pengadilan yang membagi- baginya kepada para Hakim untuk diselesaikan.
 
 ##### Pasal 17.
 

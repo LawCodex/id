@@ -187,8 +187,6 @@ Ketentuan Peralihan
 
 Peraturan Pelaksanaan dari "Verpakkings-ordannantie" (Staatsblad 1935 Nomor 161), tetap berlaku dan dianggap sebagai Peraturan- peraturan pelaksanaan dari Undang-undang ini selama peraturan tersebut belum diganti oleh Peraturan-peraturan yang diadakan berdasarkan Undang-undang ini.
 
-##### Pasal 11
-
 Hal-hal yang belum diatur dalam Undang-undang ini dan dianggap perlu untuk memperlancar pelaksanaan Undang-undang ini, akan diatur dengan Peraturan Pemerintah.
 
 ## BAB VII

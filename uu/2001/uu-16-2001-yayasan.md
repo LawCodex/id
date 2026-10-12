@@ -214,8 +214,6 @@ b. bertentangan dengan ketertiban umum dan/atau kesusilaan.
 
 Anggaran Dasar dapat diubah, kecuali mengenai maksud dan tujuan Yayasan.
 
-##### Pasal 18
-
 (1) Perubahan Anggaran Dasar hanya dapat dilaksanakan berdasarkan keputusan rapat Pembina.
 
 (2) Rapat Pembina sebagaimana dimaksud dalam ayat (1) hanya dapat dilakukan, apabila dihadiri oleh paling sedikit 2/3 (dua per tiga) dari jumlah anggota Pembina.
@@ -265,8 +263,6 @@ Perubahan Anggaran Dasar tidak dapat dilakukan pada saat Yayasan dinyatakan dala
 Selama pengumuman sebagaimana dimaksud dalam Pasal 24 belum dilakukan, Pengurus Yayasan bertanggung jawab secara tanggung renteng atas seluruh kerugian Yayasan.
 
 ## BAB V — KEKAYAAN
-
-##### Pasal 26
 
 (1) Kekayaan Yayasan berasal dari sejumlah kekayaan yang dipisahkan dalam bentuk uang atau barang.
 
@@ -337,8 +333,6 @@ Anggota Pembina tidak boleh merangkap sebagai anggota Pengurus dan/atau anggota 
 (2) Yang dapat diangkat menjadi Pengurus adalah orang perseorangan yang mampu melakukan perbuatan hukum.
 
 (3) Pengurus tidak boleh merangkap sebagai Pembina atau Pengawas.
-
-##### Pasal 32
 
 (1) Pengurus Yayasan diangkat oleh Pembina berdasarkan keputusan rapat Pembina untuk jangka waktu selama 5 (lima) tahun dan dapat diangkat kembali untuk 1 (satu) kali masa jabatan.
 

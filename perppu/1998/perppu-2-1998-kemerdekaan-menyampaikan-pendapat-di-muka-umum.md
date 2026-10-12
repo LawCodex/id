@@ -457,8 +457,6 @@ c. 2 (dua) kabupaten/kotamadya atau lebih dalam 1 (satu) propinsi, pemberitahuan
 
 d. 2 (dua) propinsi atau lebih, pemberitahuan ditujukan kepada Markas Besar Kepolisian Negara Republik Indonesia.
 
-Ayat (4) ..
-
 Ayat (4)
 
 Cukup jelas

@@ -743,8 +743,6 @@ Resolusi no. 32.
 
 Mengenai perintah kepada C.C.I.F. dan C.C.I.R. untuk mempelajari dan memberikan saran-saran agar daerah yang terbelakang, antara lain Timur Tengah dan Asia Selatan, dapat dihubungkan dengan saluran telepon dunia.
 
-Resolusi no. 33..
-
 Resolusi no. 33.
 
 Mengenai penetapan tunjangan harian untuk anggota-anggota dari Administrative Council yaitu franc swiss 80,- sehari dan franc swiss 30,- sehari waktu dalam perjalanan laut dan udara.

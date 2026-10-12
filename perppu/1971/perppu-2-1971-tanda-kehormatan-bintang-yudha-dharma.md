@@ -131,8 +131,6 @@ Kelas DUA dan kelas TIGA; sama dengan kelas SATU.
 
 (1) Pita dari BINTANG YUDHA DHARMA dibuat dari kain sutera yang mempunyai warna dasar putih perak.
 
-(2) Pita
-
 (2) Pita dari BINTANG YUDHA DHARMA kelas SATU merupakan pita kalung beroset dan berukuran lebar 35 mm dan 6 (enam) lajur yang mempunyai ukuran warna sebagai berikut:
 
 Dua lajur besar dipinggir (sebelah-menyebelah) berukuran 4 mm dan berwarna hijau.

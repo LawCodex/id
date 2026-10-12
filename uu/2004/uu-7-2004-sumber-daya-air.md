@@ -1181,8 +1181,6 @@ c. setiap orang yang karena kelalaiannya melakukan kegiatan pelaksanaan konstruk
 
 (2) Dalam hal tindak pidana sebagaimana dimaksud pada ayat (1) dikenakan terhadap badan usaha, pidana yang dijatuhkan adalah pidana denda ditambah sepertiga denda yang dijatuhkan.
 
-BAB XVIII ….
-
 ## BAB XVII — KETENTUAN PERALIHAN
 
 ##### Pasal 97

@@ -149,7 +149,7 @@ BAB II (Penerimaan)
 
 7.1.5.1 Upah pengesahan surat-surat di bawah 94.000 tangan ………………………………… .2 Pembayaran kembali persekot-persekot gaji dan pendapatan lain sepanjang tidak menjadi penghasilan Jawatan Kepenjaraan, Pendidikan Paksa dan 1.000.000 Reklasering …………………………...
 
-7 1.094.000 1.373.200
+7 1.094.000
 
 7.2. URUSAN HUKUM
 

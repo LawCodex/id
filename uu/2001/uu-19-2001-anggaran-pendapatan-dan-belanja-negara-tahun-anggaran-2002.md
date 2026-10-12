@@ -246,8 +246,6 @@ b. pembiayaan luar negeri bersih sebesar Rp18.633.700.000.000,00 (delapan belas 
 
 (3) Rincian pembiayaan defisit Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2002 sebagaimana dimaksud dalam ayat (2) dicantumkan dalam penjelasan ayat ini.
 
-##### Pasal 11
-
 (1) Pada pertengahan Tahun Anggaran 2002, Pemerintah menyusun laporan semester I mengenai:
 
 a. realisasi pendapatan negara dan hibah;
@@ -276,8 +274,6 @@ c. realisasi pembiayaan defisit.
 
 Sisa lebih pembiayaan anggaran Tahun Anggaran 2002 ditampung pada pembiayaan dalam negeri dan dapat digunakan untuk membiayai defisit anggaran tahun-tahun anggaran berikutnya.
 
-##### Pasal 14
-
 Pemerintah mengajukan Rancangan Undang-undang tentang Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2002 berdasarkan perubahan sebagaimana dimaksud dalam Pasal 11 ayat (4) untuk mendapatkan persetujuan Dewan Perwakilan Rakyat sebelum Tahun Anggaran 2002 berakhir.
 
 ##### Pasal 15
@@ -296,7 +292,7 @@ Undang-undang ini mulai berlaku pada tanggal 1 Januari 2002.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 14 November 2001
+Disahkan di Jakarta
 
 PRESIDEN REPUBLIK INDONESIA,
 

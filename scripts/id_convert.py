@@ -25,6 +25,8 @@ RE_BAB = re.compile(r"^BAB\s+([IVXLC]+[A-Z]?|[0-9]+[A-Z]?)\s*(?:[-–—:.]\s*)?
 RE_BAGIAN = re.compile(r"^Bagian\s+(Ke[a-z]+(?:\s+[A-Z][a-z]+)?|Pertama|[A-Z][a-z]+)\s*$")
 RE_PARAGRAF = re.compile(r"^Paragraf\s+(\d+[A-Z]?|Ke[a-z]+)\s*$", re.I)
 RE_PASAL = re.compile(r"^Pasa[l1]\s+(\d+[A-Z]?|[IVXLC]+)\s*\.?$")
+RE_HDR1 = re.compile(r"^PRES[A-Z1]{0,3}[DO0]?EN$")
+RE_HDR2 = re.compile(r"^REP[A-Z1]{2,6}IND[O0][A-Z0-9]{2,6}$")
 RE_PAGENUM = re.compile(r"^[-–—]?\s*\d{1,4}\s*[-–—]?$")
 RE_WEB = re.compile(r"^(www\.|https?://)\S+$|^\S+\.go\.id\s*$", re.I)
 RE_CATCH = re.compile(r"(…|\.\s?\.\s?\.)\s*$")
@@ -67,11 +69,16 @@ def clean_lines(text):
             raw = lines[i].rstrip()
             s = raw.strip()
             ind = len(raw) - len(raw.lstrip())
-            if s == "PRESIDEN":
+            if RE_HDR1.match(re.sub(r"\s", "", s).upper()):
                 j = i + 1
                 while j < len(lines) and not lines[j].strip():
                     j += 1
-                if j < len(lines) and lines[j].strip() == "REPUBLIK INDONESIA":
+                if j < len(lines) and RE_HDR2.match(re.sub(r"\s", "", lines[j]).upper()):
+                    # drop a catchword printed just above the running header ("4. Undang-Undang")
+                    while out and not out[-1][1]:
+                        out.pop()
+                    if out and out[-1][0] >= 30 and len(out[-1][1]) <= 60:
+                        out.pop()
                     i = j + 1
                     continue
             if (RE_PAGENUM.match(s) and (s.startswith("-") or ind >= 20 or len(s) <= 4)
@@ -400,6 +407,7 @@ def main():
     plan = id_plan.build_plan()
     missing = []
     written = 0
+    paths = set()
     for it in plan:
         if it["kind"] not in kinds:
             continue
@@ -417,6 +425,17 @@ def main():
         with open(path, "w", encoding="utf-8", newline="\n") as f:
             f.write(render(it, tx, a.retrieved))
         written += 1
+        paths.add(os.path.abspath(path))
+    # remove stale files (renamed or no longer produced) in the directories handled by this run
+    for kind in kinds:
+        if kind == "uud":
+            continue
+        d = os.path.join(C.REPO, C.KIND_DIR[kind])
+        for root, _, files in os.walk(d) if os.path.isdir(d) else []:
+            for fn in files:
+                fp = os.path.abspath(os.path.join(root, fn))
+                if fn.endswith(".md") and fp not in paths:
+                    os.remove(fp)
     # missing list (all kinds handled in this run)
     mp = os.path.join(C.REPO, "missing.tsv")
     old = []
@@ -431,6 +450,49 @@ def main():
         f.write("kind\tnumber\tyear\ttentang\tstatus\treason\tbpk_page\tsetneg_page\tdpr_page\n")
         f.write("\n".join(sorted(rows, key=lambda r: (r.split("\t")[0], r.split("\t")[2]))) + "\n")
     print(f"written {written}, missing {len(missing)}")
+    update_readme_counts()
+
+
+def update_readme_counts():
+    rp = os.path.join(C.REPO, "README.md")
+    if not os.path.exists(rp):
+        return
+    from collections import Counter
+    labels = [("uud", "UUD 1945 (consolidated text, original, 4 amendments)"),
+              ("uu", "Undang-Undang"), ("uudrt", "Undang-Undang Darurat"),
+              ("perppu", "Peraturan Pemerintah Pengganti Undang-Undang"),
+              ("pp", "Peraturan Pemerintah"), ("perpres", "Peraturan Presiden")]
+    miss = Counter()
+    mp = os.path.join(C.REPO, "missing.tsv")
+    if os.path.exists(mp):
+        with open(mp, encoding="utf-8") as f:
+            for line in f.read().splitlines()[1:]:
+                if line.strip():
+                    miss[line.split("\t")[0]] += 1
+    rows = ["| Category | Directory | Files | of which in force | Known but missing (`missing.tsv`) |",
+            "|---|---|---|---|---|"]
+    tot = tot_if = 0
+    for kind, lab in labels:
+        d = os.path.join(C.REPO, C.KIND_DIR[kind])
+        n = nif = 0
+        for root, _, files in os.walk(d) if os.path.isdir(d) else []:
+            for fn in files:
+                if fn.endswith(".md"):
+                    n += 1
+                    with open(os.path.join(root, fn), encoding="utf-8") as fh:
+                        head = fh.read(4000)
+                    if "\nstatus: in_force" in head:
+                        nif += 1
+        tot += n
+        tot_if += nif
+        rows.append(f"| {lab} | `{C.KIND_DIR[kind]}/` | {n} | {nif} | {miss.get(kind, 0) if kind != 'uud' else '-'} |")
+    rows.append(f"| **Total** | | **{tot}** | **{tot_if}** | **{sum(miss.values())}** |")
+    with open(rp, encoding="utf-8") as f:
+        s = f.read()
+    s = re.sub(r"<!-- COUNTS -->.*?<!-- /COUNTS -->",
+               "<!-- COUNTS -->\n" + "\n".join(rows) + "\n<!-- /COUNTS -->", s, flags=re.S)
+    with open(rp, "w", encoding="utf-8", newline="\n") as f:
+        f.write(s)
 
 
 if __name__ == "__main__":

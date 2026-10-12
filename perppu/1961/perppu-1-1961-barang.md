@@ -131,8 +131,6 @@ Penyelidikan/pemeriksaan/pengawasan.
 
 5. Di samping instansi-instansi yang tersebut dalam ayat (5), Jawatan Keselamatan Kerja melakukan pengawasan dalam hal-hal yang akan ditetapkan dengan Peraturan Pemerintah.
 
-Pemungutan.
-
 ##### Pasal 6.
 
 Untuk membiayai pengeluaran-pengeluaran yang dilakukan guna kepentingan pelaksanaan Peraturan Pemerintah Pengganti Undang-undang ini, dapat ditarik pemungutan dari pihak yang ber kepentingan.

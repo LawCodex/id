@@ -400,8 +400,6 @@ Pasal 10 dan 11.
 
 Cukup jelas.
 
-Pasal 12….
-
 #### Pasal 12.
 
 Kecuali memberikan pendidikan dalam bidang teknik, maka perusahaan modal asing diwajibkan menyelenggarakan dan/atau menyediakan fasilitas-fasilitas latihan dan pendidikan dalam bidang pemasaran dalam dan luar negeri.
@@ -449,8 +447,6 @@ Jumlah pajak dalam jangka waktu tersebut akan berupa suatu tarip proporsionil se
 2. Pasal 7 Ordonansi Pajak Perseroan 1925 menentukan bahwa kerugian yang diderita dalam sesuatu tahun hanya dapat diperhitungkan dengan laba dalam 2 tahun berikutnya. Menurut ketentuan dalam angka 2 sub b ini maka kerugian yang diderita selama jangka waktu pembebasan tersebut sub a angka 1, dapat diperhitungkan dengan laba yang diperoleh setelah jangka waktu sehingga kerugian tersebut dapat diperhitungkan penuh.
 
 3. Menteri Keuangan akan mengatur sesuatu tabel penyusutan untuk barang perlengkapan tetap perusahaan baru modal asing dengan memperhatikan bidang-bidang usaha menurut urutan prioritas yang disebut dalam pasal 5 ayat (1).
-
-Pasal 16….
 
 #### Pasal 16.
 
@@ -501,8 +497,6 @@ Maksud ketentuan ini adalah untuk mencegah jangan sampai perusahaan modal asing 
 #### Pasal 27.
 
 Cukup jelas.
-
-Pasal 28….
 
 #### Pasal 28.
 

@@ -60,8 +60,6 @@ Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 27 ayat (1), dan Pasal
 
 4. Undang-undang Nomor 28 Tahun 1999 tentang Penyelenggara Negara Yang Bersih dan Bebas dari Korupsi, Kolusi dan Nepotisme (Lembaran Negara Tahun 1999 Tahun 75, Tambahan Lembaran Negara Nomor 3851);
 
-Dengan persetujuan
-
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
 MEMUTUSKAN :

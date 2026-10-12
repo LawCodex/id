@@ -32,10 +32,6 @@ retrieved: 2026-10-12
 
 ·-
 
-PRESIOEN
-
-REPUBLIK INDONESIA
-
 UNDANG-UNDANG REPUBLIK INDONESIA
 
 NOMOH 4 TAHUN 1975
@@ -104,10 +100,6 @@ a. Badan Permusyaw~ratan/Perwakilan Rakyat ada1ah Maje-lis Pc r mus y awar a t a
 
 D. Badan Perwakilan Rakyat adalah DPR, DPRD I, dan DPRD II.
 
-Pa s.al I l_
-
-REPUBLtK INDONESIA
-
 Pa s aI II Ketentuan-ketentuan dalam Undang-unda~g Nomor IS Ta-· hun tcnta!lg Pcm i Li.han UJ1lu~n.J\n~got~-·a!lggota Ba dan . .
 
 Permusyawaratan/Perwakilan Rakyat, diubaQ senagai berikut
@@ -123,8 +115,6 @@ Permusyawaratan/Perwakilan Rakyat, diubaQ senagai berikut
 5. Pada Pasal 16 hu ruf b , di tambahkan k.etentuan yang ber-· I • .
 
 buny i, "s erta be rpendidikan s er endah-cr end ahnya Seko I ah, Lanj u tan Pertama a tau ya!lg b erpe!lge t afiu an seder aj at dan berpengalaman dalam bidang kemasyarakatan dan atau kenegaraan" .
-
-6. 1?acla
 
 4.
 
@@ -151,10 +141,6 @@ C4'b) a. Seor an g calon d i t ol.ak oI eh. Pan i.t i.a Pemilih.an ya!lg bersa!l
 o. Pengeluaran seorang calon dari daftar cal on oleh Panitia Pemilihan yang . 5ersangkutan . , eli berita.f:w.kan kepaela organisasi ya!lg mengajukan calon dengan . dis ertai ; al as annya,., dan organi-· sasi tersebut dioeri kesempatan untuk memper-b.a i.k i.ny a .
 
 I C4cl Nama
-
-; ",
-
-REPUsLiK INDONESIA
 
 ```
 (4c)      Nama calon               dari        o!ganisasi                ya~g     telah       disah-
@@ -202,8 +188,6 @@ SAAN".
 
 pe r o Leh, t arnb ah an s ua r a'".
 
-18. Pada
-
 18. Pada Pa saI 27 ay a t OQ) an ta ra ka t a vp Ld an a!' de-, i
 
 I
@@ -228,9 +212,7 @@ Und ang -undang ini muIai. be rl aku pada t ang gal diunda!lg--kan.
 
 ~gar .
 
-f I • _\
-
-PRESIOEN
+f I •
 
 Agar supaya s e t i.ap orang dapat merig e t ahu i.nya , meme-. rinta~kan pengunda~gan Undang-unda~g i~i de~gan pe-n empa t anny a clalam Lemba r an Ne ga r a 'Repub Li k Indonesia.
 
@@ -288,8 +270,6 @@ dasarkan pula atas pengalaman  dalam pe1aksanaan                                
 
 pada Pemi1ihan UmumTahun 1971.
 
-o
-
 Diantara pengalan{an t.er se.hut adaIah..meng ena L pr i.ns i.p £j,s.t~mda£-· tar yang dalam Undang-·unda"!lgd i.nya t akan sebagai pengakuan t erh.adap stelsel organisasi atau kedaulatan 0:rganisasi ya!lg ikut serta dalam kefiidupnn ketatanegaraan melalui pemilihan umurn.i Penyele~ggaraan Perni1ihan Umum ya!lg dima~sud dalam Undang-undang I
 
 Ln i mencakup ke g~at an -Regi,atan seb.ag ai, beri.kut '
@@ -345,8 +325,6 @@ bahwa disamping dapat berbahasa Indone~ia dengan baik, cakap me-nulis dan membac
 Adapun merrgenaL syarat keseha , t an j Lwa/Lng at an bag i Calon Ang go t a Badan Perwakilan Rakyat pengujiannya dapat dilakukan oLeh, dok.ter umum Pemerintali ;
 
 d. Perighapusan perka t aan "Nama calon" dalam Pasal 18 ay a t C.S),di-· maksudkan untuk menyesuaikan de~gan ke~entuan Pasal 18 yang meng-atur pengajuan dan pengumuman Tanda Gamba.r dan Nama Organi.sas i .
-
-Menurut
 
 Mc nu r u t Un d an g uridan g Pcmilihan Umum :pencalonan dimulai dengan r pengajuan Tanda Gamb ar 0:rganisasi dan Nama Organi sasi. sedang-kan pengajuan nama calon dilakukan kemudian setelah Tanda Gam-bar dan Nama 0:rganisasiIditetapkan dan diumumkan dalam Berita Negara ;
 

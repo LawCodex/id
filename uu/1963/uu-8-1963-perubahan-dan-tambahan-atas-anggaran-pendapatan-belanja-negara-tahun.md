@@ -49,8 +49,6 @@ MPRS/1960;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong Royong.
 
-Memutuskan:
-
 Menetapkan : Undang-undang tentang Perubahan dan Penambahan atas Anggaran Pendapatan dan Belanja untuk tahun 1962 sebagaimana ditetapkan dengan Undang-undang No. 9 tahun 1962 (Lembaran-Negara tahun 1962 No. 27).
 
 ##### Pasal 1.

@@ -53,8 +53,6 @@ Mengingat : 1. Pasal 5 dan 22 Undang-undang Dasar 1945;
 
 Dengan persetujuan Dewan Perwakilan Rakyat Gotong Royong;
 
-Memutuskan :
-
 Menetapkan : Undang-undang tentang penetapan "Peraturan Pemerintah Pengganti Undang-undang No. 3 tahun 1962 tentang penerimaan dan penggunaan warganegara asing yang dengan sukarela turut serta dalam perjuangan pembebasan Irian Barat" (Lembaran-Negara tahun 1962 No. 21) menjadi Undang-undang, dengan perubahan-perubahan, sehingga berbunyi sebagai berikut:
 
 ## BAB I — KETENTUAN UMUM.

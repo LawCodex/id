@@ -23,10 +23,6 @@ retrieved: 2026-10-12
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat Atas Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum Dan Tata Cara Perpajakan
 
-PRESIDE N
-
-R EPUBLIK INDONESIA
-
 PERATURAN PEMERINTAH
 
 PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA
@@ -99,10 +95,6 @@ Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku pada tanggal I .)
 
 Agar
 
-,
-
-PRE SIDE N
-
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah Pengganti Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
 Ditetapkan di Jakarta pada tanggal 31 Desember 2008
@@ -158,8 +150,6 @@ TENTANG KETENTUAN UMUM DAN TATA CARA PERPAJAKAN
 Undang-Undang Nomor 28 Tahun 2OO7 tentang Perubahan Kctrga at.ls Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Terta Cara Perpajakan merupakan salah satu tonggak perubahan yang mendasar-dari reformasi perpajakan di Indonesia, Undang-Undang ini disusun dengzrn tujuan antara lain untuk lebih memberikan keadilan, meningkatkar-r pelayanan kepada Wajib Pajak, mcningkatkan kepastian dan perlcgakeur hukum, serta meningkatkan keterbukaan administrasi perpajakan clirt'r kepatuhan sukarela Wajib Pajak yang pada akhirnya meningkaLkarr penerimaan ncgara dari sektor perpalakan'
 
 Pasal 37A ayat (1) Undang-Undang Nomor 28 Tahun 2OO7 tentarrg Perubahan Ketiga atas Undang-lJndang Nomor 6 Tahun 1983 tcntr-rng Ketentuan Umum dan Tata Cara Pcrpajakan merupakan ketentuan khusus yang memberikan kesempatan kepada Wajib Pajak untuk lebih terbuka dan jujur dalam memenuhi kewajiban perpajakannya yang telah lalu. Apabrlir Wajib Pajak menyampaikan pembctulan Surat Pemberitahuan Tahunan Pajak Penghasilan sebelum Tahun Pajak 2OO7 yang mengakibatkan pajak yang masih harus dibayar menjadi lebih besar dan dilakukan paling lanra dalam jangka waktu I (satu) tahun setelah berlakunya Undang-Undan5r Nomor 28 Tahun 2OO7 tentang Perubahan Ketiga atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan, Wajib Pajak dapat diberikan pcngurangan atau penghapusar-r sank.si administrasi berupa bunga atas l<eterlambatan pelunasan kekurangal, pembayaran pajaknya.
-
-Dalam
 
 Dalam rangka menghadapi dampak krisis keuangan global, sangat mendesak untuk memperkuat basis perpajakan nasional guna mendukung penerimaan negara dari sektor perpajakan yang lebih stabil. Pelaksanaan Pasa-l 37 A ayat
 

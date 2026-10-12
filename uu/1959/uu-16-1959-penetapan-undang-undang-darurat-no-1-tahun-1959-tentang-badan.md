@@ -255,8 +255,6 @@ Rencana penyelenggaraan perusahaan-perusahaan seperti dijelaskan dalam penjelasa
 
 Untuk pengawasan yang lebih mendalam, dianggap perlu untuk membentuk badan pengawas.
 
-Pasal 7, 8, 9 dan 10.
-
 Paling lama tiap 6 bulan sekali Pemerintah akan memberikan laporan perkembangan secara periodik kepada Dewan perwakilan Rakyat c.q. Seksi-seksi yang bersangkutan.
 
 Diketahui:

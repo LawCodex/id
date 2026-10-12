@@ -233,8 +233,6 @@ Sisa Lebih Pembiayaan Anggaran Tahun Anggaran 2000 ditampung pada pembiayaan dal
 
 Pemerintah mengajukan Rancangan Undang-undang tentang Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2000 berdasarkan perubahan sebagaimana dimaksud dalam Pasal 8 untuk mendapatkan persetujuan Dewan Perwakilan Rakyat sebelum Tahun Anggaran 2000 berakhir.
 
-##### Pasal 12
-
 (1) Setelah Tahun Anggaran 2000 berakhir, Pemerintah membuat perhitungan anggaran negara mengenai pelaksanaan anggaran yang bersangkutan.
 
 (2) Pemerintah mengajukan Rancangan Undang-undang tentang Perhitungan Anggaran Negara setelah perhitungan anggaran negara sebagaimana dimaksud dalam ayat (1) diperiksa oleh Badan Pemeriksa Keuangan, paling lambat 16 (enam belas) bulan setelah Tahun Anggaran 2000 berakhir, untuk mendapatkan persetujuan Dewan Perwakilan Rakyat.

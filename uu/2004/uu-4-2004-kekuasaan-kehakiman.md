@@ -68,9 +68,7 @@ Kekuasaan kehakiman adalah kekuasaan negara yang merdeka untuk menyelenggarakan 
 
 ##### Pasal 2
 
-Penyelenggaraan kekuasaan kehakiman sebagaimana dimaksud dalam Pasal 1 dilakukan oleh sebuah Mahkamah Agung dan badan peradilan
-
--yang berada di bawahnya dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi.
+Penyelenggaraan kekuasaan kehakiman sebagaimana dimaksud dalam Pasal 1 dilakukan oleh sebuah Mahkamah Agung dan badan peradilan - yang berada di bawahnya dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi.
 
 ##### Pasal 3
 
@@ -108,9 +106,7 @@ Tidak seorang pun dapat dikenakan penangkapan, penahanan, penggeledahan, dan pen
 
 ##### Pasal 8
 
-Setiap orang yang disangka, ditangkap, ditahan, dituntut, dan/atau dihadapkan di depan pengadilan wajib dianggap tidak bersalah sebelum
-
--ada putusan pengadilan yang menyatakan kesalahannya dan telah memperoleh kekuatan hukum tetap.
+Setiap orang yang disangka, ditangkap, ditahan, dituntut, dan/atau dihadapkan di depan pengadilan wajib dianggap tidak bersalah sebelum - ada putusan pengadilan yang menyatakan kesalahannya dan telah memperoleh kekuatan hukum tetap.
 
 ##### Pasal 9
 
@@ -146,9 +142,7 @@ c. kewenangan lainnya yang diberikan undang-undang.
 
 ##### Pasal 12
 
-(1) Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk :
-
--
+(1) Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk : -
 
 a. menguji undang-undang terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
@@ -182,9 +176,7 @@ d. memutus perselisihan tentang hasil pemilihan umum.
 
 ##### Pasal 16
 
-(1) Pengadilan tidak boleh menolak untuk memeriksa, mengadili, dan
-
--memutus suatu perkara yang diajukan dengan dalih bahwa hukum tidak ada atau kurang jelas, melainkan wajib untuk memeriksa dan mengadilinya.
+(1) Pengadilan tidak boleh menolak untuk memeriksa, mengadili, dan - memutus suatu perkara yang diajukan dengan dalih bahwa hukum tidak ada atau kurang jelas, melainkan wajib untuk memeriksa dan mengadilinya.
 
 (2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak menutup usaha penyelesaian perkara perdata secara perdamaian.
 
@@ -226,9 +218,7 @@ Semua putusan pengadilan hanya sah dan mempunyai kekuatan hukum apabila diucapka
 
 ##### Pasal 21
 
-(1) Terhadap putusan pengadilan tingkat pertama dapat dimintakan
-
--banding kepada pengadilan tinggi oleh pihak-pihak yang bersangkutan, kecuali undang-undang menentukan lain.
+(1) Terhadap putusan pengadilan tingkat pertama dapat dimintakan - banding kepada pengadilan tinggi oleh pihak-pihak yang bersangkutan, kecuali undang-undang menentukan lain.
 
 (2) Terhadap putusan pengadilan tingkat pertama, yang tidak merupakan pembebasan dari dakwaan atau putusan lepas dari segala tuntutan hukum, dapat dimintakan banding kepada pengadilan tinggi oleh pihak-pihak yang bersangkutan, kecuali undang-undang menentukan lain.
 
@@ -256,9 +246,7 @@ Tindak pidana yang dilakukan bersama-sama oleh mereka yang termasuk lingkungan p
 
 ##### Pasal 26
 
-Untuk kepentingan peradilan semua pengadilan wajib saling memberi bantuan yang diminta.
-
--
+Untuk kepentingan peradilan semua pengadilan wajib saling memberi bantuan yang diminta. -
 
 ## BAB III — HUBUNGAN PENGADILAN DAN LEMBAGA NEGARA LAINNYA
 
@@ -286,9 +274,7 @@ Mahkamah Agung dapat memberi keterangan, pertimbangan, dan nasihat masalah hukum
 
 (5) Seorang hakim atau panitera wajib mengundurkan diri dari persidangan apabila ia mempunyai kepentingan langsung atau tidak langsung dengan perkara yang sedang diperiksa, baik atas kehendaknya sendiri maupun atas permintaan pihak yang berperkara.
 
-(6) Dalam hal terjadi pelanggaran terhadap ketentuan pada ayat (5), putusan dinyatakan tidak sah dan terhadap hakim atau panitera yang bersangkutan dikenakan sanksi administratif atau dipidana berdasarkan peraturan perundang-undangan.
-
--
+(6) Dalam hal terjadi pelanggaran terhadap ketentuan pada ayat (5), putusan dinyatakan tidak sah dan terhadap hakim atau panitera yang bersangkutan dikenakan sanksi administratif atau dipidana berdasarkan peraturan perundang-undangan. -
 
 ##### Pasal 30
 
@@ -316,9 +302,7 @@ Dalam menjalankan tugas dan fungsinya, hakim wajib menjaga kemandirian peradilan
 
 ##### Pasal 34
 
-(1) Ketentuan mengenai syarat dan tata cara pengangkatan hakim agung
-
--dilakukan oleh Komisi Yudisial yang diatur dengan undang-undang.
+(1) Ketentuan mengenai syarat dan tata cara pengangkatan hakim agung - dilakukan oleh Komisi Yudisial yang diatur dengan undang-undang.
 
 (2) Ketentuan mengenai syarat dan tata cara pengangkatan dan pemberhentian hakim diatur dalam undang-undang.
 
@@ -352,9 +336,7 @@ Dalam perkara pidana seorang tersangka sejak saat dilakukan penangkapan dan/atau
 
 ##### Pasal 39
 
-Dalam memberi bantuan hukum sebagaimana dimaksud dalam Pasal 37, advokat wajib membantu penyelesaian perkara dengan menjunjung tinggi hukum dan keadilan.
-
--
+Dalam memberi bantuan hukum sebagaimana dimaksud dalam Pasal 37, advokat wajib membantu penyelesaian perkara dengan menjunjung tinggi hukum dan keadilan. -
 
 ##### Pasal 40
 
@@ -390,9 +372,7 @@ Sejak dialihkannya organisasi, administrasi, dan finansial sebagaimana dimaksud 
 
 a. semua pegawai Direktorat Jenderal Badan Peradilan Umum dan Peradilan Tata Usaha Negara Departemen Kehakiman dan Hak Asasi Manusia, pengadilan negeri, pengadilan tinggi, pengadilan tata usaha negara, dan pengadilan tinggi tata usaha negara, menjadi pegawai pada Mahkamah Agung;
 
-b. semua pegawai yang menduduki jabatan struktural pada Direktorat Jenderal Badan Peradilan Umum dan Peradilan Tata Usaha Negara Departemen Kehakiman dan Hak Asasi Manusia, pengadilan negeri,
-
--pengadilan tinggi, pengadilan tata usaha negara, dan pengadilan tinggi tata usaha negara, tetap menduduki jabatannya dan tetap menerima tunjangan jabatan pada Mahkamah Agung;
+b. semua pegawai yang menduduki jabatan struktural pada Direktorat Jenderal Badan Peradilan Umum dan Peradilan Tata Usaha Negara Departemen Kehakiman dan Hak Asasi Manusia, pengadilan negeri, - pengadilan tinggi, pengadilan tata usaha negara, dan pengadilan tinggi tata usaha negara, tetap menduduki jabatannya dan tetap menerima tunjangan jabatan pada Mahkamah Agung;
 
 c. semua aset milik/barang inventaris di lingkungan pengadilan negeri dan pengadilan tinggi serta pengadilan tata usaha negara dan pengadilan tinggi tata usaha negara beralih ke Mahkamah Agung.
 
@@ -422,9 +402,7 @@ Mahkamah Agung menyusun organisasi dan tata kerja yang baru di lingkungan Mahkam
 
 ##### Pasal 47
 
-Ketentuan dalam peraturan perundang-undangan yang mengatur kekuasaan kehakiman masih tetap berlaku sepanjang tidak bertentangan atau belum dibentuk yang baru berdasarkan Undang-Undang ini.
-
--
+Ketentuan dalam peraturan perundang-undangan yang mengatur kekuasaan kehakiman masih tetap berlaku sepanjang tidak bertentangan atau belum dibentuk yang baru berdasarkan Undang-Undang ini. -
 
 ##### Pasal 48
 
@@ -480,9 +458,7 @@ Dengan berlakunya Undang-Undang ini, pembinaan badan peradilan umum, badan perad
 
 Perubahan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 telah membawa perubahan dalam kehidupan ketatanegaraan khususnya dalam pelaksanaan kekuasaan kehakiman. Berdasarkan perubahan tersebut ditegaskan bahwa kekuasaan kehakiman dilaksanakan oleh sebuah Mahkamah Agung dan badan peradilan yang berada di bawahnya dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi.
 
-Ketentuan Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 menentukan bahwa Mahkamah Konstitusi mempunyai wewenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji undang-undang terhadap Undang-Undang Dasar Negara Republik
-
--
+Ketentuan Pasal 24C ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 menentukan bahwa Mahkamah Konstitusi mempunyai wewenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji undang-undang terhadap Undang-Undang Dasar Negara Republik -
 
 Indonesia Tahun 1945, memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, memutus pembubaran partai politik, dan memutus perselisihan tentang hasil pemilihan umum. Selain itu Mahkamah Konstitusi mempunyai kewajiban memberi putusan atas pendapat Dewan Perwakilan Rakyat mengenai dugaan pelanggaran oleh Presiden dan/atau wakil Presiden menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
 
@@ -502,9 +478,7 @@ Kebebasan dalam melaksanakan wewenang yudisial bersifat tidak mutlak karena tuga
 
 #### Pasal 2
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 #### Pasal 3
 
@@ -562,9 +536,7 @@ Cukup jelas.
 
 #### Pasal 8
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 #### Pasal 9
 
@@ -618,9 +590,7 @@ Cukup jelas.
 
 #### Pasal 13
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 #### Pasal 14
 
@@ -668,9 +638,7 @@ Cukup jelas.
 
 Ayat (1)
 
-Yang dimaksud dengan ”hal atau keadaan tertentu” dalam ketentuan ini antara lain adalah ditemukannya bukti baru (novum) dan/atau adanya kekhilafan/kekeliruan hakim dalam menerapkan hukumnya.
-
--
+Yang dimaksud dengan ”hal atau keadaan tertentu” dalam ketentuan ini antara lain adalah ditemukannya bukti baru (novum) dan/atau adanya kekhilafan/kekeliruan hakim dalam menerapkan hukumnya. -
 
 Ayat (2)
 
@@ -722,9 +690,7 @@ Cukup jelas.
 
 Ayat (5)
 
-Yang dimaksud dengan ”kepentingan langsung atau tidak langsung” adalah termasuk apabila hakim atau panitera atau pihak lain pernah menangani perkara tersebut atau perkara tersebut pernah terkait dengan pekerjaan atau jabatan yang bersangkutan sebelumnya.
-
--
+Yang dimaksud dengan ”kepentingan langsung atau tidak langsung” adalah termasuk apabila hakim atau panitera atau pihak lain pernah menangani perkara tersebut atau perkara tersebut pernah terkait dengan pekerjaan atau jabatan yang bersangkutan sebelumnya. -
 
 Ayat (6)
 
@@ -778,9 +744,7 @@ Cukup jelas.
 
 #### Pasal 38
 
-Sejalan dengan asas bahwa seseorang selama belum terbukti kesalahannya harus dianggap tidak bersalah, maka ia harus dibolehkan untuk berhubungan dengan keluarga atau advokat sejak ditangkap dan/atau ditahan. Tetapi hubungan ini tidak boleh merugikan kepentingan pemeriksaan, yang pelaksanaannya sesuai dengan ketentuan dalam Hukum Acara Pidana.
-
--
+Sejalan dengan asas bahwa seseorang selama belum terbukti kesalahannya harus dianggap tidak bersalah, maka ia harus dibolehkan untuk berhubungan dengan keluarga atau advokat sejak ditangkap dan/atau ditahan. Tetapi hubungan ini tidak boleh merugikan kepentingan pemeriksaan, yang pelaksanaannya sesuai dengan ketentuan dalam Hukum Acara Pidana. -
 
 #### Pasal 39
 
@@ -848,9 +812,7 @@ Lihat penjelasan Pasal 43 huruf c.
 
 Huruf a
 
-Cukup jelas.
-
--
+Cukup jelas. -
 
 Huruf b
 

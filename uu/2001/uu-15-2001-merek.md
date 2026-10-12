@@ -111,8 +111,6 @@ Hak atas Merek adalah hak eksklusif yang diberikan oleh Negara kepada pemilik Me
 
 ### Bagian Kedua — Merek yang Tidak Dapat Didaftar dan yang Ditolak
 
-##### Pasal 4
-
 Merek tidak dapat didaftar atas dasar Permohonan yang diajukan oleh Pemohon yang beriktikad tidak baik.
 
 ##### Pasal 5
@@ -305,8 +303,6 @@ Perubahan atas Permohonan hanya diperbolehkan terhadap penggantian nama dan/atau
 
 Dalam waktu paling lama 10 (sepuluh) hari terhitung sejak tanggal disetujuinya Permohonan untuk didaftar, Direktorat Jenderal mengumumkan Permohonan tersebut dalam Berita Resmi Merek.
 
-##### Pasal 22
-
 (1) Pengumuman berlangsung selama 3 (tiga) bulan dan dilakukan dengan:
 
 a. menempatkannya dalam Berita Resmi Merek yang diterbitkan secara berkala oleh Direktorat Jenderal; dan/atau
@@ -393,7 +389,7 @@ Merek Terdaftar
 
 Merek terdaftar mendapat perlindungan hukum untuk jangka waktu 10 (sepuluh) tahun sejak Tanggal Penerimaan dan jangka waktu perlindungan itu dapat diperpanjang.
 
-### Bagian Keenam — Permohonan Banding
+### Bagian Keenam
 
 ##### Pasal 29
 
@@ -448,8 +444,6 @@ Susunan organisasi, tugas, dan fungsi Komisi Banding Merek diatur lebih lanjut d
 ### Bagian Kedelapan — Perpanjangan Jangka Waktu Perlindungan
 
 Merek Terdaftar
-
-##### Pasal 35
 
 (1) Pemilik Merek terdaftar setiap kali dapat mengajukan permohonan perpanjangan untuk jangka waktu yang sama.
 
@@ -562,8 +556,6 @@ Penggunaan Merek terdaftar di Indonesia oleh penerima Lisensi dianggap sama deng
 (2) Direktorat Jenderal wajib menolak permohonan pencatatan perjanjian Lisensi yang memuat larangan sebagaimana dimaksud pada ayat (1).
 
 (3) Direktorat Jenderal memberitahukan secara tertulis penolakan beserta alasannya sebagaimana dimaksud pada ayat (2) kepada pemilik Merek atau Kuasanya, dan kepada penerima Lisensi.
-
-##### Pasal 48
 
 (1) Penerima Lisensi yang beriktikad baik, tetapi kemudian Merek itu dibatalkan atas dasar adanya persamaan pada pokoknya atau keseluruhannya dengan Merek lain yang terdaftar, tetap berhak melaksanakan perjanjian Lisensi tersebut sampai dengan berakhirnya jangka waktu perjanjian Lisensi.
 
@@ -711,8 +703,6 @@ c. larangan serupa lainnya yang ditetapkan dengan Peraturan Pemerintah.
 
 (2) dapat diajukan kepada Pengadilan Niaga.
 
-##### Pasal 62
-
 (1) Permohonan penghapusan pendaftaran Merek oleh pemilik Merek atau Kuasanya, baik sebagian atau seluruh jenis barang dan/atau jasa, diajukan kepada Direktorat Jenderal.
 
 (2) Dalam hal Merek sebagaimana dimaksud pada ayat (1) masih terikat perjanjian Lisensi, penghapusan hanya dapat dilakukan apabila hal tersebut disetujui secara tertulis oleh penerima Lisensi.
@@ -762,8 +752,6 @@ d) bukti yang cukup bahwa Merek Kolektif tersebut tidak digunakan sesuai dengan 
 Penghapusan pendaftaran Merek Kolektif dapat pula diajukan oleh pihak ketiga dalam bentuk gugatan kepada Pengadilan Niaga berdasarkan alasan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf b, huruf c, atau huruf d.
 
 ### Bagian Kedua — Pembatalan
-
-##### Pasal 68
 
 (1) Gugatan pembatalan pendaftaran Merek dapat diajukan oleh pihak yang berkepentingan berdasarkan alasan sebagaimana dimaksud dalam Pasal 4, Pasal 5, atau Pasal 6.
 
@@ -926,8 +914,6 @@ Terhadap putusan Pengadilan Niaga sebagaimana dimaksud dalam Pasal 80 ayat (8) h
 Selain penyelesaian gugatan sebagaimana dimaksud dalam Bagian Pertama Bab ini, para pihak dapat menyelesaikan sengketa melalui Arbitrase atau Alternatif Penyelesaian Sengketa.
 
 ## BAB XII — PENETAPAN SEMENTARA PENGADILAN
-
-##### Pasal 85
 
 Berdasarkan bukti yang cukup pihak yang haknya dirugikan dapat meminta hakim Pengadilan Niaga untuk menerbitkan surat penetapan sementara tentang:
 

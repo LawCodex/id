@@ -96,8 +96,6 @@ Dalam Undang-undang ini yang dimaksud dengan:
 
 2. Ketentuan Pasal 2 ayat (2) dan ayat (3) diubah, sehingga keseluruhan Pasal 2 berbunyi sebagai berikut:
 
-“Pasal 2
-
 (1) Yang menjadi objek pajak adalah perolehan hak atas tanah dan atau bangunan.
 
 (2) Perolehan hak atas tanah dan atau bangunan sebagaimana dimaksud dalam ayat (1) meliputi:
@@ -353,8 +351,6 @@ Dengan berlakunya Undang-undang ini, peraturan pelaksanaan yang telah ada di bid
 ##### Pasal II
 
 Undang-undang ini dapat disebut Undang-undang Perubahan atas Undang-undang Bea Perolehan Hak atas Tanah dan Bangunan.
-
-##### Pasal III
 
 Undang-undang ini mulai berlaku pada tanggal 1 Januari 2001.
 

@@ -97,8 +97,6 @@ Atas permintaan pegawai-pegawai tersebut dalam pasal 2 ayat (1), majikan atau wa
 
 BAGIAN III.
 
-Menyimpan rahasia.
-
 ##### Pasal 5.
 
 Pegawai-pegawai beserta pegawai-pegawai pembantu tersebut dalam pasal 2 di luar jabatannya wajib merahasiakan segala keterangan tentang rahasia-rahasia di dalam suatu perusahaan, yang didapatnya berhubung dengan jabatannya.

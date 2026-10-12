@@ -82,7 +82,7 @@ b. Kabupaten Pontianak adalah Daerah Otonom sebagaimana dimaksud dalam Undang-un
 
 c. Propinsi Kalimantan Barat adalah Daerah Otonom sebagaimana dimaksud dalam Undang-undang Nomor 25 Tahun 1956 tentang Pembentukan Daerah-daerah Otonom Propinsi Kalimantan Barat, Kalimantan Selatan dan Kalimantan Timur.
 
-## BAB II — PEMBENTUKAN, BATAS WILAYAH, DAN IBUKOTA
+PEMBENTUKAN, BATAS WILAYAH, DAN IBUKOTA
 
 ##### Pasal 2
 

@@ -71,8 +71,6 @@ Dalam Peraturan Pemerintah Pengganti Undang-undang ini yang dimaksud dengan :
 
 Batas-batas Kawasan Perdagangan Bebas dan Pelabuhan Bebas baik daratan maupun perairannya ditetapkan dalam Undang-undang pembentukan Kawasan Perdagangan Bebas dan Pelabuhan Bebas.
 
-Pasal 3 ….
-
 ##### Pasal 3
 
 Di dalam Kawasan Perdagangan Bebas dan Pelabuhan Bebas dilakukan kegiatan-kegiatan di bidang ekonomi, seperti sektor perdagangan, maritim, industri, perhubungan, perbankan, pariwisata, dan bidang-bidang lain yang ditetapkan dalam Undang-undang pembentukan Kawasan Perdagangan Bebas dan Pelabuhan Bebas.

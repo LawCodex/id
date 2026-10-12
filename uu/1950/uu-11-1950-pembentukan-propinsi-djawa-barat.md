@@ -119,7 +119,7 @@ XIV. Urusan Perusahaan.
 
 Peraturan-peraturan Daerah Karesidenan, sebelum diganti dengan Peraturan Daerah Propinsi, berlaku terus sebagai peraturan Daerah Propinsi; peraturan-peraturan itu tidak berlaku lagi sesudah 5 tahun terhitung dari berdirinja Propinsi Djawa Barat.
 
-## BAB III — KETENTUAN PENUTUP.
+## BAB III
 
 ##### Pasal 7.
 

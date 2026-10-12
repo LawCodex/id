@@ -157,8 +157,6 @@ Oleh karena kekurangan akan orang-orang yang memenuhi syarat-syarat untuk dapat 
 
 Pada bagian pasal demi pasal dari Penjelasan ini (di bawah B) akan diterangkan dengan cara bagaimana Pemerintah hendak mengadakan peraturan yang termaksud itu.
 
-B….
-
 B. PASAL DEMI PASAL
 
 Ad. Pertama:

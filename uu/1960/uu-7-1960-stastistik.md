@@ -149,8 +149,6 @@ Kerahasiaan keterangan-keterangan perseorangan.
 
 ##### Pasal 8.
 
-Bagi petugas statistik.
-
 (1) Barangsiapa yang mendapat tugas, melakukan kegiatan statistik dibawah Undang-undang ini, yang :
 
 a. dengan sengaja melanggar larangan dalam pasal 7 ayat (1) diatas, atau

@@ -67,8 +67,6 @@ a. Metrologi adalah ilmu pengetahuan tentang ukur-mengukur secara luas;
 
 b. Metrologi Legal adalah metrologi yang mengelola satuan-satuan ukuran, metoda-metoda pengukuran dan alat-alat ukur, yang menyangkut persyaratan teknik dan peraturan berdasarkan Undang-undang yang bertujuan melindungi kepentingan umum dalam hal kebenaran pengukuran;
 
-c. Konvensi
-
 c. Konvensi Meter (la Convention du Metre) ialah suatu perjanjian internasional yang bertujuan mencari dan menyeragamkan satuan-satuan ukuran dan timbangan, yang ditandatangani dan diselenggarakan di Paris pada tanggal 20 Mei 1875 oleh para utusan yang berkuasa penuh dari 17 Negara;
 
 d. Konperensi Umum untuk Ukuran dan Timbangan (la Conference Generale des Poids et Mesures) ialah konperensi yang diadakan berdasarkan Konvensi Meter;

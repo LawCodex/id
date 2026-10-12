@@ -210,8 +210,6 @@ DAN MEDIA MASSA Rp 184.349.463.568 20 SEKTOR PERTAHANAN DAN KEAMANAN Rp 3.496.91
 
 Sisa Anggaran Lebih Perhitungan Anggaran Negara Tahun Anggaran 1996/1997 adalah sebesar Rp 1.017.516.727.734 (satu triliun tujuh belas miliar lima ratus enam belas juta tujuh ratus dua puluh tujuh ribu tujuh ratus tiga puluh empat rupiah).
 
-##### Pasal 4
-
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.

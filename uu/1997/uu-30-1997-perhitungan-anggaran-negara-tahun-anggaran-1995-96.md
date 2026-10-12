@@ -360,8 +360,6 @@ TAHUN ANGGARAN 1995/96 (dalam rupiah)
 
 0910 Bantuan Program --0920 Bantuan Proyek 9.008.800.449.481
 
-JUMLAH 9.008.800.449.481
-
 #### Pasal 2
 
 Ayat (1)
@@ -581,8 +579,6 @@ PENERANGAN, KOMUNIKASI DAN MEDIA MASSA
 20 SEKTOR PERTAHANAN DAN KEAMANAN
 
 20.1 Subsektor Rakyat Terlatih dan Perlindungan Masyarakat 2.425.000.000 20.2 Subsektor ABRI 691.995.677.205 20.3 Subsektor Pendukung 64.575.900.000 Jumlah Sektor Pertahanan dan Keamanan 758.996.577.205
-
-JUMLAH 19.771.884.678.189
 
 RINCIAN PENGELUARAN PEMBANGUNAN
 

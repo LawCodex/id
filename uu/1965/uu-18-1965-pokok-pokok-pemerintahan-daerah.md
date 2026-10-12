@@ -109,8 +109,6 @@ c. Kecamatan dan/atau Kotapraja sebagai Daerah tingkat III.
 
 (2) Ibu-kota Negara Republik Indonesia Jakarta dimaksud dalam Undang-undang No. 10 tahun 1964, sebagai Kotapraja tersebut pada ayat (1) pasal ini, baik bagi perubahan dan penyempurnaan batas-batas wilayahnya maupun mengingat pertumbuhan dan perkembangannya dapat mempunyai dalam wilayahnya Daerah-daerah tingkat lain ataupun pemerintahan dalam bentuk lain yang sedapat mungkin akan disesuaikan dengan ketentuan-ketentuan dalam Undang-undang ini yang pengaturannya ditetapkan dengan Undang-undang.
 
-##### Pasal 3.
-
 (1) Pembentukan Daerah termaksud dalam pasal 2 ayat (1), nama, ibu-kota dan batasnya, serta tugas kewenangan pangkalnya dan anggaran keuangannya yang pertama, diatur dengan Undang-undang.
 
 2) Penyempurnaan batas wilayah Daerah begitu pula pemindahan ibu-kota, perubahan nama dan batas wilayah kemudian yang tidak mengakibatkan pembubaran sesuatu Daerah, diatur dengan Peraturan Pemerintah.
@@ -152,8 +150,6 @@ a. Daerah tingkat I oleh Menteri Dalam Negeri,
 b. Daerah-daerah lain oleh Kepala Daerah yang setingkat lebih atas.
 
 (2) Selama Ketua dan Wakil Ketua Dewan Perwakilan Rakyat Daerah belum ada, rapat Dewan Perwakilan Rakyat Daerah dipimpin oleh seorang anggota Dewan Perwakilan Rakyat Daerah yang tertua usianya.
-
-##### Pasal 10.
 
 (1) Penyelenggaraan administrasi yang berhubungan dengan seluruh tugas Pemerintah Daerah dilakukan oleh Sekretariat Daerah, yang disusun dan pembiayaannya ditetapkan dengan Peraturan Daerah berdasarkan pedoman yang diberikan oleh Pemerintah Pusat dan disahkan oleh Menteri Dalam Negeri.
 
@@ -547,8 +543,6 @@ c.2. berpengetahuan yang sederajat dengan Sekolah Lanjutan Tingkat Pertama atau 
 
 6. tidak mempunyai hubungan keluarga dengan Kepala Daerah sampai derajat ketiga, baik menurut garis lurus maupun garis ke- samping termasuk menantu dan ipar.
 
-##### Pasal 35.
-
 (1) Anggota Badan Pemerintah Harian diangkat dan diberhentikan oleh:
 
 a. Presiden bagi Daerah tingkat I;
@@ -617,7 +611,7 @@ a. Menteri Dalam Negeri bagi Daerah tingkat I dan
 
 b. Kepala Daerah setingakt lebih atas bagi lain-lain Daerah.
 
-## BAB IV — KEKUASAAN, TUGAS DAN KEWAJIBAN PEMERINTAH DAERAH.
+KEKUASAAN, TUGAS DAN KEWAJIBAN PEMERINTAH DAERAH.
 
 BAGIAN I
 
@@ -644,8 +638,6 @@ Ketentuan Umum.
 (2) Peraturan tersebut dalam ayat (1) tidak dapat berlaku sebelum disahkan oleh Menteri Dalam Negeri bagi Daerah tingkat I dan oleh Kepala Daerah setingkat lebih atas bagi lain-lain Daerah.
 
 (3) Bagi penyerahan dimaksud ini, berlaku pula ketentuan termaskud dalam pasal 39 ayat (3) dan pasal 40 ayat (2).
-
-##### Pasal 42.
 
 (1) Dengan tidak mengurangi ketentuan-ketentuan seperti yang dimaksud dalam pasal 39, 40 dan 41, peraturan perundangan Pusat atau Peraturan Daerah setingkat lebih atas, sedapat mungkin mengatur agar urusan-urusan Pemerintah Pusat atau urusan-urusan yang merupakan rumah-tangga Pemerintah Daerah setingkat lebih atas, sebagian atau seluruhnya, dilaksanakan oleh Pemerintah Daerah yang ditunjuk oleh dan dalam peraturan-peraturan yang dimaksud.
 
@@ -715,8 +707,6 @@ b. alat Pemerintah Daerah.
 
 (3) Apabila dipandang perlu, Kepala Daerah dapat menyerahkan kepada Wakil Kepala Daerah untuk atas namanya memberikan keterangan dihadapan Dewan Perwakilan Rakyat Daerah.
 
-##### Pasal 48.
-
 (1) Jika Kepala Daerah tidak dapat melakukan tugas kewenangannya Wakil Kepala Daerah melakukan tugas kewenangan Kepala Daerah.
 
 (2) Jika Kepala Daerah meninggal dunia atau diperhentikan, Wakil Kepala Daerah diangkat sebagai penggantinya sampai akhir masa jabatannya, kecuali apabila penguasa yang berhak mengangkat menentukan lain.
@@ -774,8 +764,6 @@ Jika tidak ada Lembaran Daerah dimaksud, maka pengundangannya dilakukan menurut 
 (6) Peraturan Daerah yang tidak boleh belaku sebelum disahkan oleh Penguasa yang berwajib mengesahkannya, tidak diundangkan sebelum pengesahan itu diberikan ataupun jangka waktu tersebut dalam pasal 79 berakhir.
 
 $2. Hak Petisi.
-
-##### Pasal 55.
 
 (1) Dewan Perwakilan Rakyat Daerah dapat membela kepentingan Daerah dan penduduknya kepada Pemerintah dan Dewan, Perwakilan Rakyat dengan sepengetahuan Kepala Daerah yang bersangkutan.
 
@@ -842,8 +830,6 @@ b. Daerah tingkat III diangkat oleh Kepala Daerah tingkat I atas usul Kepala Dae
 (1) Sekretaris Daerah adalah Sekretaris Kepala Daerah dalam kedudukannya dimaksud dalam pasal 44 ayat (1) dan Sekretaris Dewan Perwakilan Rakyat Daerah serta diberi tugas pula untuk membantu anggota Badan Pemerintah Harian dalam segala hal untuk kelancaran jalannya pekerjaan yang ditugaskan kepada mereka seperti dimaksud dalam pasal 57.
 
 (2) Sekretaris Daerah melaksanakan persiapan dengan sebaik-baiknya segala sesuatu yang akan dimusyawarahkan dan dimufakatkan serta diputus oleh Dewan Perwakilan Rakyat Daerah.
-
-##### Pasal 63.
 
 Bila Sekretaris Daerah berhalangan menjalankan tugas, maka tugas Sekretaris Daerah dijalankan oleh pejabat yang ditunjuk oleh Kepala Daerah.
 
@@ -998,8 +984,6 @@ Anggaran Keuangan Daerah.
 (3) Pemerintah Daerah mengusahakan sedapat-dapatnya menutup anggaran belanja barang routine dengan penerimaan sendiri
 
 (4) Pengesahan atau penolakan anggaran Daerah, dilakukan terhadap anggaran termaksud dalam keseluruhannya. Penolakan harus memuat alasan-alasannya.
-
-##### Pasal 77.
 
 Dengan Peraturan Pemerintah ditetapkan ketentuan-ketentuan dan cara-cara menyusun:
 
@@ -2120,8 +2104,6 @@ Pasal 67 sampai dengan pasal 72.
 Sudah cukup jelas.
 
 Untuk selanjutnya (Lihat penjelasan umum).
-
-#### Pasal 73.
 
 Keputusan Dewan Perwakilan Rakyat Daerah untuk mengadakan usaha-usaha yang mengakibatkan tambahan beban Rakyat perlu mendapatkan pengesahan terlebih dahulu. Didalam Menteri Dalam Negeri mengesahkan keputusan-keputusan semacam itu selalu akan mendengarkan saran dan pendapat dari Menteri Iuran Negara dan/atau Menteri yang lain, sepanjang apa yang akan diatur didalam keputusan Dewan Perwakilan Rakyat Daerah tersebut menyangkut sesuatu bidang tertentu yang termasuk dalam tugas bidang Menteri yang bersangkutan.
 

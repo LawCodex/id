@@ -274,7 +274,7 @@ Tentang pernyataan tak menurut Konstitusi Republik Indonesia Serikat yang dimaks
 
 ## BAB IV — JALAN PENGADILAN DALAM TINGKATAN KESATU DALAM PERKARA HUKUMAN PERDATA.
 
-Bagian 1. Pengusutan dan penuntutan perkara.
+Bagian 1.
 
 ##### Pasal 34.
 

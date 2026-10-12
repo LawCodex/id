@@ -381,8 +381,6 @@ PERTANIAN RAKYAT.
 
 3 Hasil dari penjualan minyak kayu putih, terpentin, gondorukem dan lain-lain.
 
-5A.5A..
-
 5A.5A RENCANA KESEJAHTERAAN JAWATAN KARET
 
 RAKYAT.
