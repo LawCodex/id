@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69426"
 bpk_page: "https://peraturan.bpk.go.id/Details/69426"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123824/https://peraturan.bpk.go.id/Details/69426"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 1961 tentang Pokok-Pokok Kearsipan Nasional

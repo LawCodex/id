@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41152"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082902/https://peraturan.bpk.go.id/Details/41152"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=20&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 20 Tahun 2011 tentang Perubahan atas Peraturan Presiden Nomor 96 Tahun 2006 tentang Tunjangan dan Hak-hak Lainnya bagi Hakim Ad Hoc pada Pengadilan Hubungan Industrial

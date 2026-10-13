@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47032"
 bpk_page: "https://peraturan.bpk.go.id/Details/47032"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132309/https://peraturan.bpk.go.id/Details/47032"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1982 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1966 tentang Ketentuan-Ketentuan Pokok Pers sebagaimana telah Diubah dengan Undang-Undang Nomor 4 Tahun 1967

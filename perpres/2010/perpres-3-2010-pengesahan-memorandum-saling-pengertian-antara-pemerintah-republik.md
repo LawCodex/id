@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+3+Tahun+2010.pdf&fl=P15438"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=3&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 3 Tahun 2010 tentang Pengesahan Memorandum Saling Pengertian Antara Pemerintah Republik Indonesia Dan Pemerintah Federasi Rusia Tentang Kerja Sama Di Bidang Pemberantasan Terorisme (Memorandum Of Understanding Between The Government Of The Republic Of Indonesia And The Government Of The Russian Federation On Cooperation In Combating Terrorism)

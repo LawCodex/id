@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50202"
 bpk_page: "https://peraturan.bpk.go.id/Details/50202"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124748/https://peraturan.bpk.go.id/Details/50202"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1965 tentang Pencabutan Undang-Undang No. 78 TAHUN 1958 Tentang Penanaman Modal Asing (Lembaran-Negara Tahun 1958, No. 138) Yang Telah Diubah Dan Ditambah Dengan Undang-Undang No. 15 PRP TAHUN 1960 (Lembaran-Negara Tahun 1960 No. 42)

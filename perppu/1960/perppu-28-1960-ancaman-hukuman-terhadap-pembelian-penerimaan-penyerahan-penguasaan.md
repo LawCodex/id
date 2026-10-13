@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53527"
 bpk_page: "https://peraturan.bpk.go.id/Details/53527"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123402/https://peraturan.bpk.go.id/Details/53527"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 28 Tahun 1960 tentang Ancaman Hukuman Terhadap Pembelian, Penerimaan, Penyerahan Penguasaan, Kepunyaan, Persediaan Atau Dalam Milik, Penyimpanan, Pengangkutan Atau Pembawaan Barang Logam D.K.A Dengan Tidak Mempunyai Surat Izin

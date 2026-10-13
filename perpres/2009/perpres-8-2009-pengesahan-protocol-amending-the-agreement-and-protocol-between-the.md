@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42353"
 bpk_metadata_archived: "http://web.archive.org/web/20250423025234/https://peraturan.bpk.go.id/Details/42353/perpres-no-8-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=8&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 2009 tentang Pengesahan Protocol Amending The Agreement And Protocol Between The Republic Of Indonesia And The Swiss Confederation For The Avoidance Of Double Taxation With Respect To Taxes On Income (Protokol Perubahan Persetujuan dan Protokol antara Republik Indonesia dan Konfederasi Swiss Mengenai Penghindaran Pajak Berganda yang Berhubungan dengan Pajak-pajak atas Penghasilan)

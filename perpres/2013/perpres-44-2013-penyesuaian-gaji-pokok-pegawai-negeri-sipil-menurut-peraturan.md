@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41414"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083433/https://peraturan.bpk.go.id/Details/41414"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=44&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 44 Tahun 2013 tentang Penyesuaian Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 15 Tahun 2012 ke dalam Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 22 Tahun 2013

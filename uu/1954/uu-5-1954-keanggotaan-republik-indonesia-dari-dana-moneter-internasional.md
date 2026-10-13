@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47915"
 bpk_page: "https://peraturan.bpk.go.id/Details/47915"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121857/https://peraturan.bpk.go.id/Details/47915"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1954 tentang Keanggotaan Republik Indonesia dari Dana Moneter Internasional (International Monetery Fund) dan Bank Internasional Untuk Rekonstruksi dan Pembangunan (International Bank For Reconstruction And Development)

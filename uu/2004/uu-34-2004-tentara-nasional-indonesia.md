@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40774"
 bpk_page: "https://peraturan.bpk.go.id/Details/40774"
 bpk_metadata_archived: "http://web.archive.org/web/20260331191329/https://peraturan.bpk.go.id/Details/40774/uu-no-34-tahun-2004%20"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 2004 tentang Tentara Nasional Indonesia

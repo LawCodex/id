@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49104"
 bpk_page: "https://peraturan.bpk.go.id/Details/49104"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125332/https://peraturan.bpk.go.id/Details/49104"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1969 tentang Tambahan dan Perubahan Atas Anggaran Pendapatan dan Belanja Negara Tahun 1968

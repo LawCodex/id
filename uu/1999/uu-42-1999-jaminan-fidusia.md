@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45374"
 bpk_metadata_archived: "http://web.archive.org/web/20251120024459/https://peraturan.bpk.go.id/Details/45374/uu-no-42-tahun-1999Indraswari"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=42&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia

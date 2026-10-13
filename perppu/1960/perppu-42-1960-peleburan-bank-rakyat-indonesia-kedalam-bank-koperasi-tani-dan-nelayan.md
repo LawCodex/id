@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53578"
 bpk_page: "https://peraturan.bpk.go.id/Details/53578"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123446/https://peraturan.bpk.go.id/Details/53578"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 42 Tahun 1960 tentang Peleburan Bank Rakyat Indonesia Kedalam Bank Koperasi, Tani Dan Nelayan

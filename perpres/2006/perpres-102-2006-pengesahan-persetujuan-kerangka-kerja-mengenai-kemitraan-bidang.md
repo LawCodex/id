@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES1022006.pdf&fl=P16487"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=102&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 102 Tahun 2006 tentang Pengesahan Persetujuan Kerangka Kerja Mengenai Kemitraan Bidang Ekonomi Dan Perdagangan Secara Komprehensif Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Islam Iran

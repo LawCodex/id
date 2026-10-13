@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52616"
 bpk_page: "https://peraturan.bpk.go.id/Details/52616"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122508/https://peraturan.bpk.go.id/Details/52616"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 46 Tahun 1957 tentang Penetapan Bagian XII (Kementrian Sosial) Dari Anggaran Republik Indonesia Tahun Dinas 1954

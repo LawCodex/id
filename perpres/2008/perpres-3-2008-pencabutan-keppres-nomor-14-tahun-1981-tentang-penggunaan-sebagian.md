@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42191"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082437/https://peraturan.bpk.go.id/Details/42191"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=3&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 3 Tahun 2008 tentang Pencabutan Keppres Nomor 14 Tahun 1981 Tentang Penggunaan Sebagian dari Pendapatan Tol Pada Pintu Gerbang Menuju dari Taman Miniatur Indonesia Indah dan Arena Pramuka Cibubur

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES972006.pdf&fl=P16458"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=97&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 97 Tahun 2006 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Ekuador Mengenai Pembebasan Visa (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Ecuador On Visa Exemptio

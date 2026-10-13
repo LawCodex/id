@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38786"
 bpk_metadata_archived: "http://web.archive.org/web/20260424171924/https://peraturan.bpk.go.id/Details/38786/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=41&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 41 Tahun 2009 tentang Perlindungan Lahan Pertanian Pangan Berkelanjutan

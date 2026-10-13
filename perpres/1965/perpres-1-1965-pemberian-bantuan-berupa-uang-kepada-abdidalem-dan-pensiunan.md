@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42516"
 bpk_page: "https://peraturan.bpk.go.id/Details/42516"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124759/https://peraturan.bpk.go.id/Details/42516"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 1965 tentang Pemberian Bantuan Berupa Uang Kepada Abdidalem dan Pensiunan Abdidalem Pura Paku Alaman

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45478"
 bpk_metadata_archived: "http://web.archive.org/web/20250803135005/https://peraturan.bpk.go.id/Details/45478/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1998"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1998 tentang Kemerdekaan Menyampaikan Pendapat di Muka Umum

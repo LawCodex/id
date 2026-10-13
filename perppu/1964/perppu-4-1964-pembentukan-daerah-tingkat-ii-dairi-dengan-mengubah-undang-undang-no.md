@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53761"
 bpk_page: "https://peraturan.bpk.go.id/Details/53761"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124707/https://peraturan.bpk.go.id/Details/53761"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1964 tentang Pembentukan Daerah Tingkat II Dairi Dengan Mengubah Undang-Undang No. 7 DRT. 1956 Tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Utara

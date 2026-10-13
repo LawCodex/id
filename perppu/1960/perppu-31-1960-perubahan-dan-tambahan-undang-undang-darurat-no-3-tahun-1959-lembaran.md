@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53533"
 bpk_page: "https://peraturan.bpk.go.id/Details/53533"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123413/https://peraturan.bpk.go.id/Details/53533"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 31 Tahun 1960 tentang Perubahan Dan Tambahan Undang-Undang Darurat No. 3 Tahun 1959 (Lembaran Negara No. 43) Tentang Pinjaman Obligasi Berhadiah Tahun 1959

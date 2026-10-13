@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/43009"
 bpk_page: "https://peraturan.bpk.go.id/Details/43009"
 bpk_metadata_archived: "http://web.archive.org/web/20231110085557/https://peraturan.bpk.go.id/Details/43009/uu-no-9-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2003 tentang Pembentukan Kabupaten Nias Selatan, Kabupaten Pakpak Bharat, dan Kabupaten Humbang Hasundutan di Provinsi Sumatera Utara

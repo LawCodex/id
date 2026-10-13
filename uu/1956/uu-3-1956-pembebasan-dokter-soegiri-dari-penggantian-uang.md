@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51078"
 bpk_page: "https://peraturan.bpk.go.id/Details/51078"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122235/https://peraturan.bpk.go.id/Details/51078"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1956 tentang Pembebasan Dokter Soegiri dari Penggantian Uang

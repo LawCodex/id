@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41062"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082756/https://peraturan.bpk.go.id/Details/41062"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=53&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 53 Tahun 2010 tentang Perubahan Kedua atas Keputusan Presiden Nomor 42 Tahun 2002 tentang Pedoman Pelaksanaan Anggaran Pendapatan dan Belanja Negara

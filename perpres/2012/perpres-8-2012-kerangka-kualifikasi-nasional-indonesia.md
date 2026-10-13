@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41251"
 bpk_page: "https://peraturan.bpk.go.id/Details/41251"
 bpk_metadata_archived: "http://web.archive.org/web/20250805211731/https://peraturan.bpk.go.id/Details/41251/perpres-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia

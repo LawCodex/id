@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44493"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141051/https://peraturan.bpk.go.id/Details/44493"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=30&thn=2002"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi

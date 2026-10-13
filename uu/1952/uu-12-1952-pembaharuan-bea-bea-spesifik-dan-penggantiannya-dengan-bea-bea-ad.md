@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40246"
 bpk_page: "https://peraturan.bpk.go.id/Details/40246"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121246/https://peraturan.bpk.go.id/Details/40246"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1952 tentang Pembaharuan Bea-Bea Spesifik dan Penggantiannya dengan Bea-Bea Ad Valorem

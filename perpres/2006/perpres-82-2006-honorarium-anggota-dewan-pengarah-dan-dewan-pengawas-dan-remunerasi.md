@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES822006.pdf&fl=P16338"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=82&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 82 Tahun 2006 tentang Honorarium Anggota Dewan Pengarah Dan Dewan Pengawas, Dan Remunerasi Kepala Badan Pelaksana, Wakil Kepala Badan Pelaksana, Sekretaris Badan Pelaksana, Dan Deputi Badan Pelaksana Badan Rehabilitasi Dan Rekonstruksi Wilayah Dan Kehidupan Masyarakat Provinsi

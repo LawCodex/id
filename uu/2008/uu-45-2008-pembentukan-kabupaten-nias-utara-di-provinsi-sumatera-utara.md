@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39742"
 bpk_metadata_archived: "http://web.archive.org/web/20231110164747/https://peraturan.bpk.go.id/Details/39742/uu-no-45-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=45&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 45 Tahun 2008 tentang Pembentukan Kabupaten Nias Utara di Provinsi Sumatera Utara

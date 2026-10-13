@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51093"
 bpk_page: "https://peraturan.bpk.go.id/Details/51093"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122112/https://peraturan.bpk.go.id/Details/51093"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1956 tentang Penetapan "Undang-Undang Darurat No. 7 Tahun 1954 tentang Dasar Hukum Keputusan Kepala Daerah Otonom dalam Keadaan Dewan Perwakilan Rakyat Daerah/Dewan Pemerintah Daerah Tidak Ada atau Tidak Dapat Menjalankan Tugas Kewajibannya" Sebagai Undang-Undang dan tentang Peraturan Pembagian Kekuasaan dalam Keadaan Dewan Perwakilan Rakyat Daerah/Dewan Pemerintah Daerah Tidak Ada atau Tidak Dapat Menjalankan Tugas Kewajibannya

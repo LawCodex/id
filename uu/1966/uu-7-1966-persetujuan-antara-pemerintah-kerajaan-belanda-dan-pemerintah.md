@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49798"
 bpk_page: "https://peraturan.bpk.go.id/Details/49798"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125010/https://peraturan.bpk.go.id/Details/49798"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1966 tentang Persetujuan antara Pemerintah Kerajaan Belanda dan Pemerintah Republik Indonesia Tenang Soal-Soal Keuangan

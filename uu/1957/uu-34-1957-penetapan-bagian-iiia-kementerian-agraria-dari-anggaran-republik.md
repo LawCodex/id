@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52545"
 bpk_page: "https://peraturan.bpk.go.id/Details/52545"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122433/https://peraturan.bpk.go.id/Details/52545"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 1957 tentang Penetapan Bagian IIIA (Kementerian Agraria) dari Anggaran Republik Indonesia untuk Tahun DInas 1954

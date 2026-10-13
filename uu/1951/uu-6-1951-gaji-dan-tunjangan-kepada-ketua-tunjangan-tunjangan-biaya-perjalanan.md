@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39831"
 bpk_page: "https://peraturan.bpk.go.id/Details/39831"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121220/https://peraturan.bpk.go.id/Details/39831"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1951 tentang Gaji dan Tunjangan Kepada Ketua, Tunjangan-Tunjangan, Biaya Perjalanan dan Penginapan Kepada Anggauta-Anggauta Dewan Perwakilan Rakyat Republik Indonesia

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51145"
 bpk_page: "https://peraturan.bpk.go.id/Details/51145"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122147/https://peraturan.bpk.go.id/Details/51145"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1956 tentang Penetapan "Undang-Undang Darurat No. 4 Tahun 1955 (Lembaran-Negara Tahun 1955 No. 18) tentang Larangan untuk Mengumpulkan Uang Logam yang Sah dan Larangan Memperhitungkan Agio Pada Waktu Penukaran Alat-Alat Pembayaran Yang Sah" Sebagai Undang-Undang

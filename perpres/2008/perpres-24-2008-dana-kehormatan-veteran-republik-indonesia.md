@@ -12,7 +12,7 @@ status_basis: "Setneg: dicabut"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+24+Tahun+2008.pdf&fl=P15697"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=24&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 2008 tentang Dana Kehormatan Veteran Republik Indonesia

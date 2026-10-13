@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47923"
 bpk_page: "https://peraturan.bpk.go.id/Details/47923"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125344/https://peraturan.bpk.go.id/Details/47923"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1970 tentang Tata Cara Tindakan Kepolisian Terhadap Anggota-anggota/Pimpinan Majelis Permusyawaratan Rakyat Sementara dan Dewan Perwakilan Rakyat Gotong-Royong

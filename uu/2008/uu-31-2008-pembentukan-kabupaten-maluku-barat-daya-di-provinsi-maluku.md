@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39677"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105257/https://peraturan.bpk.go.id/Details/39677/uu-no-31-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=31&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 2008 tentang Pembentukan Kabupaten Maluku Barat Daya di Provinsi Maluku

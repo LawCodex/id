@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47218"
 bpk_page: "https://peraturan.bpk.go.id/Details/47218"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131620/https://peraturan.bpk.go.id/Details/47218"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1976 tentang Pengesahan Konvensi Telekomunikasi Internasional (International Telecommunication Convention) Malaga-Torremolinos, 1973

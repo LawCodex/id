@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50980"
 bpk_page: "https://peraturan.bpk.go.id/Details/50980"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124206/https://peraturan.bpk.go.id/Details/50980"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1962 tentang Pembuatan Perjanjian Hubungan Keramahan dan Perniagaan Antara Republik Indonesia Dengan Jepang

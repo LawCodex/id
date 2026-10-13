@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42131"
 bpk_page: "https://peraturan.bpk.go.id/Details/42131"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083356/https://peraturan.bpk.go.id/Details/42131/perpres-no-75-tahun-2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 75 Tahun 2007 tentang Tunjangan Jabatan Fungsional Pengawas Mutu Pakan

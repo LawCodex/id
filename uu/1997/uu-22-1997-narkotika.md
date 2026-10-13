@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/46016"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134207/https://peraturan.bpk.go.id/Details/46016"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=1997"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1997 tentang Narkotika

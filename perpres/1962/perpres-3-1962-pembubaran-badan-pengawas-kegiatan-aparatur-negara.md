@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42434"
 bpk_page: "https://peraturan.bpk.go.id/Details/42434"
 bpk_metadata_archived: "http://web.archive.org/web/20250905005249/https://peraturan.bpk.go.id/Details/42434/perpres-no-3-tahun-1962"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 3 Tahun 1962 tentang Pembubaran Badan Pengawas Kegiatan Aparatur Negara

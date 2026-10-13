@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51055"
 bpk_page: "https://peraturan.bpk.go.id/Details/51055"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122030/https://peraturan.bpk.go.id/Details/51055"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1955 tentang Pengubahan dan Tambahan Ordonansi Bea-Statistik

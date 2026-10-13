@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51451"
 bpk_page: "https://peraturan.bpk.go.id/Details/51451"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123023/https://peraturan.bpk.go.id/Details/51451"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1959 tentang Penetapan "Undang_Undang Darurat No. 40 Tahun 1950 Tentang Surat Perjalanan Republik Indonesia (Lembaran-Negara Tahun 1950 No. 82), Sebagai Undang-Undang

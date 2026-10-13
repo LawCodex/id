@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51244"
 bpk_page: "https://peraturan.bpk.go.id/Details/51244"
 bpk_metadata_archived: "http://web.archive.org/web/20240621103118/https://peraturan.bpk.go.id/Details/51244/uu-no-18-tahun-1961"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1961 tentang Ketentuan-Ketentuan Pokok Kepegawaian

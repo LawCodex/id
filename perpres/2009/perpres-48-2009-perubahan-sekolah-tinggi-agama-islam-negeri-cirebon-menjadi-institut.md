@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42346"
 bpk_metadata_archived: "http://web.archive.org/web/20240923095034/https://peraturan.bpk.go.id/Details/42346/perpres-no-48-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=48&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 48 Tahun 2009 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Cirebon Menjadi Institut Agama Islam Negeri Syekh Nurjati Cirebon

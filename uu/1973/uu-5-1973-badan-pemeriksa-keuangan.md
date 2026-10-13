@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47432"
 bpk_page: "https://peraturan.bpk.go.id/Details/47432"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131409/https://peraturan.bpk.go.id/Details/47432"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1973 tentang Badan Pemeriksa Keuangan

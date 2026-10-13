@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38748"
 bpk_metadata_archived: "http://web.archive.org/web/20251013202859/https://peraturan.bpk.go.id/Details/38748/uu-no-25-tahun-2009.pdf"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=25&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40191"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141850/https://peraturan.bpk.go.id/Details/40191"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2006 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2007

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44462"
 bpk_page: "https://peraturan.bpk.go.id/Details/44462"
 bpk_metadata_archived: "http://web.archive.org/web/20260904013636/https://peraturan.bpk.go.id/Details/44462/uu-no-18-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2002 tentang Sistem Nasional Penelitian, Pengembangan, dan Penerapan Ilmu Pengetahuan dan Teknologi

@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44901"
 bpk_metadata_archived: "http://web.archive.org/web/20251206192142/https://peraturan.bpk.go.id/Details/44901/uu-no-21-tahun-2001.Braithwaite"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=21&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 2001 tentang Otonomi Khusus Bagi Provinsi Papua

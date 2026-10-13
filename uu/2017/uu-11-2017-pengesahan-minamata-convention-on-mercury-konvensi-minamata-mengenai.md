@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/53614"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150246/https://peraturan.bpk.go.id/Details/53614"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 2017 tentang Pengesahan Minamata Convention On Mercury (Konvensi Minamata Mengenai Merkuri)

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47429"
 bpk_page: "https://peraturan.bpk.go.id/Details/47429"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131407/https://peraturan.bpk.go.id/Details/47429"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1973 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun 1972/1973

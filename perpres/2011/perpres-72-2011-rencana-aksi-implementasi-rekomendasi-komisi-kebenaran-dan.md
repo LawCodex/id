@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_72_2011.pdf&fl=P16246"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=72&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 72 Tahun 2011 tentang Rencana Aksi Implementasi Rekomendasi Komisi Kebenaran Dan Persahabatan Republik Indonesia Dan Republik Demokratik Timur Leste

@@ -11,7 +11,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES+NO+15+TH+2008.pdf&fl=P15588"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=15&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 15 Tahun 2008 tentang Penyesuaian Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor 10 Tahun 2007 Ke Dalam Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor 11 Tahun 2008

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51065"
 bpk_page: "https://peraturan.bpk.go.id/Details/51065"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122101/https://peraturan.bpk.go.id/Details/51065"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1955 tentang Penetapan Undang-Undang Darurat No. 33 Tahun 1950 untuk Mencabut Kembali Undang-Undang Darurat Republik Indonesia Serikat No.6 Tahun 1950 Tentang Pembentukan Jabatan Gubernur Militer Ibu Kota, Sebagai Undang-Undang

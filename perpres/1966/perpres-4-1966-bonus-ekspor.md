@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42534"
 bpk_page: "https://peraturan.bpk.go.id/Details/42534"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124957/https://peraturan.bpk.go.id/Details/42534"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 1966 tentang Bonus Ekspor

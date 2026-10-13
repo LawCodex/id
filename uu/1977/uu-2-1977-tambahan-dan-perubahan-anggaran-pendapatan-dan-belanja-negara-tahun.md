@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47198"
 bpk_page: "https://peraturan.bpk.go.id/Details/47198"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131736/https://peraturan.bpk.go.id/Details/47198"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1977 tentang Tambahan dan Perubahan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1976/1977

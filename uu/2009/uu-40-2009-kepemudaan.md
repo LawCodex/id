@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38784"
 bpk_metadata_archived: "http://web.archive.org/web/20260327080115/https://peraturan.bpk.go.id/Details/38784/uu-no-40-tahun-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=40&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 40 Tahun 2009 tentang Kepemudaan

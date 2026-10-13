@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45394"
 bpk_metadata_archived: "http://web.archive.org/web/20241213212106/https://peraturan.bpk.go.id/Details/45394/uu-no-13-tahun-1998"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=51&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 51 Tahun 1999 tentang Pembentukan Kabupaten Buol, Kabupaten Morowali, dan Kabupaten Banggai Kepulauan

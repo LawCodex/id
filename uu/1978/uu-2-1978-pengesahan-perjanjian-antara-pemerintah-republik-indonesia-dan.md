@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47153"
 bpk_page: "https://peraturan.bpk.go.id/Details/47153"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131823/https://peraturan.bpk.go.id/Details/47153"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1978 tentang Pengesahan Perjanjian antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Thailand tentang Ekstradisi

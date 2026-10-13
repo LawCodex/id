@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69411"
 bpk_page: "https://peraturan.bpk.go.id/Details/69411"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124138/https://peraturan.bpk.go.id/Details/69411"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 1961 tentang Instruksi Bagi Kepala Jawatan Akuntan Negara

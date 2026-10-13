@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42199"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083700/https://peraturan.bpk.go.id/Details/42199/perpres-no-12-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=12&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 2008 tentang Dewan Sumber Daya Air

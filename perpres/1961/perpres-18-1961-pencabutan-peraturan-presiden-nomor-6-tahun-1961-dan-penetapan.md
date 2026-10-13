@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69425"
 bpk_page: "https://peraturan.bpk.go.id/Details/69425"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123808/https://peraturan.bpk.go.id/Details/69425"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 1961 tentang Pencabutan Peraturan Presiden Nomor 6 Tahun 1961 Dan Penetapan Penyelenggaraan Pekan Raya dan Pameran Indonesia

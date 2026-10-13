@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_87_Tahun_2007.pdf&fl=P16382"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=87&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 87 Tahun 2007 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Negara Qatar Tentang Penghindaran Pajak Berganda Dan Pencegahan Pengelakan Pajak Atas Penghasilan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The State Of Qatar For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion With Respect To Taxes On Income)

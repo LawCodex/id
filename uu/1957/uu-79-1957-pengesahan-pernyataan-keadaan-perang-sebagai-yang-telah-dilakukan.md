@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52781"
 bpk_page: "https://peraturan.bpk.go.id/Details/52781"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122625/https://peraturan.bpk.go.id/Details/52781"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 79 Tahun 1957 tentang Pengesahan Pernyataan Keadaan Perang Sebagai Yang Telah Dilakukan Dengan Keputusan Presiden Republik Indonesia Nomor 225 Tahun 1957 Tanggal 17 Desember 1957

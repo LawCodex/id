@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39063"
 bpk_metadata_archived: "http://web.archive.org/web/20260519081529/https://peraturan.bpk.go.id/Details/39063/uu-no-12-tahun-2012BPK-RI"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi

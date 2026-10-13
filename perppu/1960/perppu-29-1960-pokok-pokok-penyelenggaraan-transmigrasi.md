@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/54129"
 bpk_page: "https://peraturan.bpk.go.id/Details/54129"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123405/https://peraturan.bpk.go.id/Details/54129"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 29 Tahun 1960 tentang Pokok-Pokok Penyelenggaraan Transmigrasi

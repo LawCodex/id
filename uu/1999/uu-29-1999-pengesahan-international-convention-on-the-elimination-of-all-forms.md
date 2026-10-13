@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45346"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134607/https://peraturan.bpk.go.id/Details/45346"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=29&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1999 tentang Pengesahan International Convention on The Elimination of All Forms of Racial Discrimination 1965 (Konvensi Internasional tentang Penghapusan Segala Bentuk Diskriminasi Rasial 1965)

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49978"
 bpk_page: "https://peraturan.bpk.go.id/Details/49978"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124908/https://peraturan.bpk.go.id/Details/49978"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1965 tentang Pemberian Bantuan Penghidupan Orang Jompo

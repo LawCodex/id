@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/33414"
 bpk_page: "https://peraturan.bpk.go.id/Details/33414"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120656/https://peraturan.bpk.go.id/Details/33414"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1949 tentang Pengesahan Induk Persetujuan Bersama-sama Rancangan Persetujuan dan Segala Pertukaran Surat-menyurat Mengenai Penyerahan Kedaulatan oleh Kerajaan Nederland kepada Republik Indonesia Serikat

@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25372"
 bpk_page: "https://peraturan.bpk.go.id/Details/25372"
 bpk_metadata_archived: "http://web.archive.org/web/20240807092001/https://peraturan.bpk.go.id/Details/25372/uu-no-35-tahun-1947"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 1947 tentang Pengesyahan Peraturan Pemerintah Nomor 21 Tahun 1947

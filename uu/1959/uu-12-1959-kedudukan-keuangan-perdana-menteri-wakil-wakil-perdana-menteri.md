@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51412"
 bpk_page: "https://peraturan.bpk.go.id/Details/51412"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123015/https://peraturan.bpk.go.id/Details/51412"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1959 tentang Kedudukan Keuangan Perdana Menteri, Wakil-Wakil Perdana Menteri, Menteri dan Menteri Muda Republik Indonesia

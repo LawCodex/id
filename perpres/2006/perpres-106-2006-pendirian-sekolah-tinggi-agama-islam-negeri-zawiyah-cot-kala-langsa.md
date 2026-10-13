@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42035"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081912/https://peraturan.bpk.go.id/Details/42035"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=106&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 106 Tahun 2006 tentang Pendirian Sekolah Tinggi Agama Islam Negeri Zawiyah Cot Kala Langsa

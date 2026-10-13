@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50236"
 bpk_page: "https://peraturan.bpk.go.id/Details/50236"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124710/https://peraturan.bpk.go.id/Details/50236"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 1 tahun 1963 tentang Pelunasan Cukai Tembakau Oleh Perusahaan Hasil Tembakau Dan Pengeluaran Hasil-Hasiltembakau Dari Perusahaan-Perusahaan Itu Ke Dalam Peredaran Bebas (Lembaran Negara Tahun 1963 no. 11)menjadi Undang-Undang

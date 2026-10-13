@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/43008"
 bpk_page: "https://peraturan.bpk.go.id/Details/43008"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111426/https://peraturan.bpk.go.id/Details/43008/uu-no-8-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2003 tentang Pembentukan Kabupaten Manggarai Barat di Provinsi Nusa Tenggara Timur

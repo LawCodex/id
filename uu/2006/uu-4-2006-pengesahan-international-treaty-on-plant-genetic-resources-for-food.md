@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40157"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141946/https://peraturan.bpk.go.id/Details/40157"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2006 tentang Pengesahan International Treaty on Plant Genetic Resources for Food and Agriculture (Perjanjian Mengenai Sumber Daya Genetik Tanaman untuk Pangan dan Pertanian)

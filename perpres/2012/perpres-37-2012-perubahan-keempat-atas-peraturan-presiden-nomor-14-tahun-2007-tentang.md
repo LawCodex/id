@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41281"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083201/https://peraturan.bpk.go.id/Details/41281"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=37&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 37 Tahun 2012 tentang Perubahan Keempat atas Peraturan Presiden Nomor 14 Tahun 2007 tentang Badan Penanggulangan Lumpur Sidoarjo

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39650"
 bpk_metadata_archived: "http://web.archive.org/web/20260314192133/https://peraturan.bpk.go.id/Details/39650/uu-no-19-tahun-2008Widyastuti"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 2008 tentang Surat Berharga Syariah Negara

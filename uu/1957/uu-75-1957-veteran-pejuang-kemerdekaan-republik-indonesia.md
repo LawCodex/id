@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52757"
 bpk_page: "https://peraturan.bpk.go.id/Details/52757"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122618/https://peraturan.bpk.go.id/Details/52757"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 75 Tahun 1957 tentang Veteran Pejuang Kemerdekaan Republik Indonesia

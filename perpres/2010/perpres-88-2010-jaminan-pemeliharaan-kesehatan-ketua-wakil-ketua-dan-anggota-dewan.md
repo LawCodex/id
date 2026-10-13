@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41088"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083340/https://peraturan.bpk.go.id/Details/41088/perpres-no-88-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=88&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 88 Tahun 2010 tentang Jaminan Pemeliharaan Kesehatan Ketua, Wakil Ketua, dan Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Badan Pemeriksa Keuangan, Komisi Yudisial, Hakim Mahkamah Konstitusi dan Hakim Agung Mahkamah Agung

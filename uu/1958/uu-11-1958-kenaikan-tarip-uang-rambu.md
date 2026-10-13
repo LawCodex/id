@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51665"
 bpk_page: "https://peraturan.bpk.go.id/Details/51665"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122642/https://peraturan.bpk.go.id/Details/51665"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1958 tentang Kenaikan Tarip Uang Rambu

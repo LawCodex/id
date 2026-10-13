@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41256"
 bpk_metadata_archived: "http://web.archive.org/web/20260829143133/https://peraturan.bpk.go.id/Details/41256/perpres-no-13-tahun-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=13&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 2012 tentang Rencana Tata Ruang Pulau Sumatera

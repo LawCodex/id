@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42477"
 bpk_page: "https://peraturan.bpk.go.id/Details/42477"
 bpk_metadata_archived: "http://web.archive.org/web/20250423025023/https://peraturan.bpk.go.id/Details/42477/perpres-no-7-tahun-1964"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 7 Tahun 1964 tentang Panitia Negara BAPPENAS Urusan Statistik

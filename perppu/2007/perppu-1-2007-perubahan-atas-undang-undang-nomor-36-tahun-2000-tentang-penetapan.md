@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2007"
 bpk_page: "https://peraturan.bpk.go.id/Details/53202"
 bpk_metadata_archived: "http://web.archive.org/web/20260901145047/https://peraturan.bpk.go.id/Details/53202/uu-no-12-tahun-2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2007 tentang Perubahan Atas Undang-Undang Nomor 36 Tahun 2000 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 36 Tahun 2000 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 Tentang Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Menjadi Undang-Undang

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53797"
 bpk_page: "https://peraturan.bpk.go.id/Details/53797"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124836/https://peraturan.bpk.go.id/Details/53797"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1965 tentang Kebijakan Penerimaan Negara Tahun 1966

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39136"
 bpk_metadata_archived: "http://web.archive.org/web/20250726000750/https://peraturan.bpk.go.id/Details/39136/uu-no-4-tahun"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2011 tentang Informasi Geospasial

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42137"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083814/https://peraturan.bpk.go.id/Details/42137/perpres-no-85-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=85&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 85 Tahun 2007 tentang Jaringan Data Spasial Nasional

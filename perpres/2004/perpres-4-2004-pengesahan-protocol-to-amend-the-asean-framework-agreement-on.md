@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41938"
 bpk_page: "https://peraturan.bpk.go.id/Details/41938"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081714/https://peraturan.bpk.go.id/Details/41938"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 2004 tentang Pengesahan Protocol To Amend The ASEAN Framework Agreement On Services (Protokol Perubahan Perjanjian Bidang Jasa ASEAN)

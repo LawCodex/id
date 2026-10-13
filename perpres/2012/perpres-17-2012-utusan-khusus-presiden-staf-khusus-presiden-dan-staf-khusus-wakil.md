@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41260"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083134/https://peraturan.bpk.go.id/Details/41260"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=17&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 17 Tahun 2012 tentang Utusan Khusus Presiden, Staf Khusus Presiden, dan Staf Khusus Wakil Presiden

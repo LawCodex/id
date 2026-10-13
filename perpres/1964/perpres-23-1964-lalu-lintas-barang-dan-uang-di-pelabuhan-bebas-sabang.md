@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42470"
 bpk_page: "https://peraturan.bpk.go.id/Details/42470"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124553/https://peraturan.bpk.go.id/Details/42470"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 1964 tentang Lalu Lintas Barang dan Uang di Pelabuhan Bebas Sabang

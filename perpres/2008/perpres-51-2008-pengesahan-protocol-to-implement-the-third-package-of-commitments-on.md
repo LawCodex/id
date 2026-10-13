@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+51+2008.pdf&fl=P16011"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=51&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 51 Tahun 2008 tentang Pengesahan Protocol To Implement The Third Package Of Commitments On Financial Services Under The Asean Framework Agreement On Services (Protokol Untuk Melaksanakan Paket Komitmen Ketiga Jasa Keuangan Dalam Persetujuan Kerangka Kerja Asean Di Bidang Jasa)

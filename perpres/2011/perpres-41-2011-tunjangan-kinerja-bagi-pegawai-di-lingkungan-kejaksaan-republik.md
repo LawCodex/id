@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41203"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083638/https://peraturan.bpk.go.id/Details/41203/perpres-no-41-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=41&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 41 Tahun 2011 tentang Tunjangan Kinerja bagi Pegawai di Lingkungan Kejaksaan Republik Indonesia

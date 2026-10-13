@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51053"
 bpk_page: "https://peraturan.bpk.go.id/Details/51053"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122012/https://peraturan.bpk.go.id/Details/51053"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1955 tentang Penetapan "Undang-Undang Darurat No. 2 Tahun 1954 (Lembaran-Negara No.5 Tahun 1954) tentang Mencabut Sifat Sebagai Alat Pembayar yang Syah dari Uang Kertas Pemerintah yang Dikeluarkan Sebelum Penyerahan Kedaulatan" Sebagai Undang-Undang *)

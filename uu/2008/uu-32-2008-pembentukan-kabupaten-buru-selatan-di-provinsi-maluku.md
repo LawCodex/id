@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39679"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111207/https://peraturan.bpk.go.id/Details/39679/uu-no-32-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=32&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 32 Tahun 2008 tentang Pembentukan Kabupaten Buru Selatan di Provinsi Maluku

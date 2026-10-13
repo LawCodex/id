@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50398"
 bpk_page: "https://peraturan.bpk.go.id/Details/50398"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124640/https://peraturan.bpk.go.id/Details/50398"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 1964 tentang Perubahan dan Tambahan Atas Anggaran Pendapatan dan Belanja Negara Tahun 1963 (Undang-Undang No. 9 tahun 1963 Lembaran-Negara Tahun 1963 No. 91)

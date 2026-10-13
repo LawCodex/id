@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52214"
 bpk_page: "https://peraturan.bpk.go.id/Details/52214"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122822/https://peraturan.bpk.go.id/Details/52214"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 46 Tahun 1958 tentang Penetapan Bagian I.B.W. VII (Pelabuhan Makassar) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50333"
 bpk_page: "https://peraturan.bpk.go.id/Details/50333"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124546/https://peraturan.bpk.go.id/Details/50333"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1964 tentang Perubahan Dan Tambahan Undang-Undang No. 38 PRP. Tahun 1960, Tentang Penggunaan Dan Penetapan Luas Tanah Untuk Tanaman-Tanaman Tertentu

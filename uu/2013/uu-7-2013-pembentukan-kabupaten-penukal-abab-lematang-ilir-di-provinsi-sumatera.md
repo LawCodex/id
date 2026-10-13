@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38837"
 bpk_metadata_archived: "http://web.archive.org/web/20251006110434/https://peraturan.bpk.go.id/Details/38837/uu-no-28-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2013 tentang Pembentukan Kabupaten Penukal Abab Lematang Ilir di Provinsi Sumatera Selatan

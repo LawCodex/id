@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40597"
 bpk_page: "https://peraturan.bpk.go.id/Details/40597"
 bpk_metadata_archived: "http://web.archive.org/web/20260110160905/https://peraturan.bpk.go.id/Details/40597/uu-no-23-tahun-2004%20.%20Diakses%2023%20Juli%202025,%20Pukul%2014.38%20WIB"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan dalam Rumah Tangga

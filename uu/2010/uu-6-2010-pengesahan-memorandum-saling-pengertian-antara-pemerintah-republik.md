@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38542"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144511/https://peraturan.bpk.go.id/Details/38542"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2010 tentang Pengesahan Memorandum Saling Pengertian antara Pemerintah Republik Indonesia dan Kerajaan Kebawah Duli Yang Maha Mulia Paduka Seri Baginda Sultand Yang Di-Pertuan Negara Brunei Darussalam tentang Kerjasama Di Bidang Pertahanan (Memorandum of Understanding Between The Government of The Republic of Indonesia and The Government of His Majesty The Sultan and Yang Di-Pertuan of Brunei Darussalam on Defence Cooperation)

@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=4&thn=2009"
 bpk_page: "https://peraturan.bpk.go.id/Details/53245"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144247/https://peraturan.bpk.go.id/Details/53245"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi

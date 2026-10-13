@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51748"
 bpk_page: "https://peraturan.bpk.go.id/Details/51748"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122722/https://peraturan.bpk.go.id/Details/51748"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1958 tentang Penetapan Bagian II (Kementerian Luar Negeri) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

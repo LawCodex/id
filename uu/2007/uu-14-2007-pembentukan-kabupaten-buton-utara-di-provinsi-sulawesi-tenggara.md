@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39822"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111239/https://peraturan.bpk.go.id/Details/39822/uu-no-14-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2007 tentang Pembentukan Kabupaten Buton Utara di Provinsi Sulawesi Tenggara

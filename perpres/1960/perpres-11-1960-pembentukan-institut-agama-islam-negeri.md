@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69348"
 bpk_page: "https://peraturan.bpk.go.id/Details/69348"
 bpk_metadata_archived: "http://web.archive.org/web/20240913160744/https://peraturan.bpk.go.id/Details/69348/perpres-no-11-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 1960 tentang Pembentukan Institut Agama Islam Negeri

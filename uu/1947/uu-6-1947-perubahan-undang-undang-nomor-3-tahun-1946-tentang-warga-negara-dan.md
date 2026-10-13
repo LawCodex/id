@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25222"
 bpk_page: "https://peraturan.bpk.go.id/Details/25222"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120415/https://peraturan.bpk.go.id/Details/25222"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1947 tentang Perubahan Undang-Undang Nomor 3 Tahun 1946 Tentang Warga Negara dan Penduduk Negara Republik Indonesia

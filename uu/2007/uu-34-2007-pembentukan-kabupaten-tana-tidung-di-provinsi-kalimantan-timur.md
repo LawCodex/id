@@ -16,7 +16,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39947"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111300/https://peraturan.bpk.go.id/Details/39947/uu-no-34-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=34&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 2007 tentang Pembentukan Kabupaten Tana Tidung Di Provinsi Kalimantan Timur

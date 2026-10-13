@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40171"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141829/https://peraturan.bpk.go.id/Details/40171"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2006 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2006 tentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 2003 tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat,Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah menjadi Undang-Undang

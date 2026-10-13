@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/60295"
 bpk_page: "https://peraturan.bpk.go.id/Details/60295"
 bpk_metadata_archived: "http://web.archive.org/web/20240624232714/https://peraturan.bpk.go.id/Details/60295/uu-no-13-tahun-1950"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Propinsi Djawa Tengah

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40752"
 bpk_page: "https://peraturan.bpk.go.id/Details/40752"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141508/https://peraturan.bpk.go.id/Details/40752"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 2004 tentang Praktik Kedokteran

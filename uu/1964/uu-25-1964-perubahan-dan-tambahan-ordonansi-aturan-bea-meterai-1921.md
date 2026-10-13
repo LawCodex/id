@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50345"
 bpk_page: "https://peraturan.bpk.go.id/Details/50345"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124603/https://peraturan.bpk.go.id/Details/50345"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1964 tentang Perubahan dan Tambahan Ordonansi Aturan Bea Meterai 1921

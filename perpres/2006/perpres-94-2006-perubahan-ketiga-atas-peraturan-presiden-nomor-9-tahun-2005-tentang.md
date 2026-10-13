@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42028"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082123/https://peraturan.bpk.go.id/Details/42028"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=94&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 94 Tahun 2006 tentang Perubahan Ketiga atas Peraturan Presiden Nomor 9 Tahun 2005 Tentang Kedudukan, Tugas, Fungsi, Susunan Organisasi, dan Tata Kerja Kementerian Negara Republik Indonesia

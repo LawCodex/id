@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49802"
 bpk_page: "https://peraturan.bpk.go.id/Details/49802"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125012/https://peraturan.bpk.go.id/Details/49802"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1966 tentang Keanggotaan Republik Indonesia Dalam Bank Pembangunan Asia (Asian Devolepment Bank)

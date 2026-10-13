@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41252"
 bpk_metadata_archived: "http://web.archive.org/web/20250120193134/https://peraturan.bpk.go.id/Details/41252/perpres-no-9-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=9&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 2012 tentang Penugasan kepada Menteri Hukum dan Hak Asasi Manusia, Menteri Sekretaris Negara, Menteri Keuangan, dan Jaksa Agung untuk Melakukan Penanganan Pengembalian Aset Hasil Tindak Pidana Terkait Kasus PT Bank Century, Tbk., yang Berada di Luar Negeri

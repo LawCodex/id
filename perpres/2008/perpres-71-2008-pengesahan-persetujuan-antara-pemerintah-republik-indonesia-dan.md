@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+71+Tahun+2008.pdf&fl=P16234"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=71&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 71 Tahun 2008 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Meksiko Serikat Tentang Kerja Sama Pendidikan Dan Kebudayaan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The United Mexican States On Educational And Cultural Cooperation)

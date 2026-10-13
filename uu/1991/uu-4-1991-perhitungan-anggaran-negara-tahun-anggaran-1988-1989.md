@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1991"
 bpk_page: "https://peraturan.bpk.go.id/Details/46656"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133257/https://peraturan.bpk.go.id/Details/46656"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1991 tentang Perhitungan Anggaran Negara Tahun Anggaran 1988/1989

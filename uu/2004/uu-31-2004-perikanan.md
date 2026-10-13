@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40763"
 bpk_page: "https://peraturan.bpk.go.id/Details/40763"
 bpk_metadata_archived: "http://web.archive.org/web/20240415182323/https://peraturan.bpk.go.id/Details/40763"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 2004 tentang Perikanan

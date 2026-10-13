@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46960"
 bpk_page: "https://peraturan.bpk.go.id/Details/46960"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132603/https://peraturan.bpk.go.id/Details/46960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1985 tentang Pencabutan Undang-Undang Nomor 4 Tahun 1970 tentang Pembentukan Daerah Perdagangan Bebas dengan Pelabuhan Bebas Sabang

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51123"
 bpk_page: "https://peraturan.bpk.go.id/Details/51123"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124005/https://peraturan.bpk.go.id/Details/51123"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1961 tentang Persetujuan Konpensi Organisasi Perburuhan Internasional No. 106 Mengenai Istirahat Mingguan Dalam Perdagangan dan Kantor-Kantor

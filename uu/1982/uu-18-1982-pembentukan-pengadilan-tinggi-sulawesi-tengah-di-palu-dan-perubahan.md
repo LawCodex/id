@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47029"
 bpk_page: "https://peraturan.bpk.go.id/Details/47029"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132259/https://peraturan.bpk.go.id/Details/47029"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1982 tentang Pembentukan Pengadilan Tinggi Sulawesi Tengah di Palu dan Perubahan Wilayah Hukum Pengadilan Tinggi Manado

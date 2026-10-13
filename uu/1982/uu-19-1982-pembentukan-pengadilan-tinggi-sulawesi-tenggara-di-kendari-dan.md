@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47030"
 bpk_page: "https://peraturan.bpk.go.id/Details/47030"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132301/https://peraturan.bpk.go.id/Details/47030"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1982 tentang Pembentukan Pengadilan Tinggi Sulawesi Tenggara di Kendari dan Perubahan Wilayah Hukum Pengadilan Tinggi Ujung Pandang

@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1994"
 bpk_page: "https://peraturan.bpk.go.id/Details/46221"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105529/https://peraturan.bpk.go.id/Details/46221/uu-no-5-tahun-1994"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1994 tentang Pengesahan United Nations Convention On Biological Diversity (Konvensi Perserikatan Bangsa-Bangsa Mengenai Keanekaragaman Hayati)

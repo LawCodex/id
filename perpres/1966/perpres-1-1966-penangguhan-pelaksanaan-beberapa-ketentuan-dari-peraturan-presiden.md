@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42536"
 bpk_page: "https://peraturan.bpk.go.id/Details/42536"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124945/https://peraturan.bpk.go.id/Details/42536"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 1966 tentang Penangguhan Pelaksanaan Beberapa Ketentuan dari Peraturan Presiden Nomor 17 Tahun 1965

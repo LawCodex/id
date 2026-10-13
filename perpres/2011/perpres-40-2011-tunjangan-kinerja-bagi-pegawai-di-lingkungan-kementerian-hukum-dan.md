@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41204"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082926/https://peraturan.bpk.go.id/Details/41204"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=40&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 40 Tahun 2011 tentang Tunjangan Kinerja bagi Pegawai di Lingkungan Kementerian Hukum dan Hak Asasi Manusia

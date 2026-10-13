@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39064"
 bpk_metadata_archived: "http://web.archive.org/web/20240822102200/https://peraturan.bpk.go.id/Details/39064/uu-no-13-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2012 tentang Keistimewaan Daerah Istimewa Yogyakarta

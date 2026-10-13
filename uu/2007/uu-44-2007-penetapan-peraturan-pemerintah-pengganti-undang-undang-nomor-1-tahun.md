@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39971"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142142/https://peraturan.bpk.go.id/Details/39971"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=44&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 44 Tahun 2007 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2007 tentang Perubahan Atas Undang-Undang Nomor 36 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Undang-Undang Menjadi Undang-Undang

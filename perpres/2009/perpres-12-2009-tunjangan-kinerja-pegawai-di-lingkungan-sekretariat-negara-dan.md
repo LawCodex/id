@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42295"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082615/https://peraturan.bpk.go.id/Details/42295/perpres-no-12-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=12&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 2009 tentang Tunjangan Kinerja Pegawai di Lingkungan Sekretariat Negara dan Sekretariat Kabinet

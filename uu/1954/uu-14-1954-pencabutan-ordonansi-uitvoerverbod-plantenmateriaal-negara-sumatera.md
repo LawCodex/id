@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47970"
 bpk_page: "https://peraturan.bpk.go.id/Details/47970"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121639/https://peraturan.bpk.go.id/Details/47970"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1954 tentang Pencabutan Ordonansi "Uitvoerverbod Plantenmateriaal Negara Sumatera Timur 1949" (Staatsblad 1949 Nr 159)

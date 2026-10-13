@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39234"
 bpk_metadata_archived: "http://web.archive.org/web/20240517232732/https://peraturan.bpk.go.id/Details/39234"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2011 tentang Bantuan Hukum

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25380"
 bpk_page: "https://peraturan.bpk.go.id/Details/25380"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120406/https://peraturan.bpk.go.id/Details/25380"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 39 Tahun 1947 tentang Menyesuaikan Hukum Pidana Pidana Tentara (Staatsblad 1934, No.167) Dengan Keadaan Sekarang

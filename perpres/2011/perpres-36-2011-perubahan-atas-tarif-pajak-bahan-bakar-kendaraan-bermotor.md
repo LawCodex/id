@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41160"
 bpk_metadata_archived: "http://web.archive.org/web/20250423013704/https://peraturan.bpk.go.id/Details/41160/perpres-no-36-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=36&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 36 Tahun 2011 tentang Perubahan atas Tarif Pajak Bahan Bakar Kendaraan Bermotor

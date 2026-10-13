@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42447"
 bpk_page: "https://peraturan.bpk.go.id/Details/42447"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124328/https://peraturan.bpk.go.id/Details/42447"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 1963 tentang Pemberian Bantuan Berupa Uang dan Pakaian Kepada Guru

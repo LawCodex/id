@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45311"
 bpk_page: "https://peraturan.bpk.go.id/Details/45311"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121450/https://peraturan.bpk.go.id/Details/45311"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1953 tentang Merawat Orang-Orang Miskin dan Orang-Orang yang Kurang Mampu

@@ -27,7 +27,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51157"
 bpk_page: "https://peraturan.bpk.go.id/Details/51157"
 bpk_metadata_archived: "http://web.archive.org/web/20240916081843/https://peraturan.bpk.go.id/Details/51157"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1956 tentang Pembentukan Daerah-Daerah Otonom Propisi Kalimantan Barat, Kalimantan Selatan dan Kalimantan Timur

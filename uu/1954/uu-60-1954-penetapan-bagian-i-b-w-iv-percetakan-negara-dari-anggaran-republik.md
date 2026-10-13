@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50562"
 bpk_page: "https://peraturan.bpk.go.id/Details/50562"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121901/https://peraturan.bpk.go.id/Details/50562"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 60 Tahun 1954 tentang Penetapan Bagian I.B.W. IV (Percetakan Negara) dari Anggaran Republik Indonesia Untuk Tahun-Tahun Dinas 1952 dan 1953

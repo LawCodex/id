@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45390"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111515/https://peraturan.bpk.go.id/Details/45390/uu-no-49-tahun-1999"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=49&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 49 Tahun 1999 tentang Pembentukan Kabupaten Kepulauan Mentawai

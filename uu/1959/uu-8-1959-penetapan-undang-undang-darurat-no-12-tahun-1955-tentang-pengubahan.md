@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51373"
 bpk_page: "https://peraturan.bpk.go.id/Details/51373"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123254/https://peraturan.bpk.go.id/Details/51373"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1959 tentang Penetapan Undang-Undang Darurat No. 12 Tahun 1955 Tentang Pengubahan Pasal 4 Ayat 1 Undang-Undang No. 12 Tahun 1953 (Lembaran-Negara Tahun 1955 No. 37), Sebagai Undang-Undang

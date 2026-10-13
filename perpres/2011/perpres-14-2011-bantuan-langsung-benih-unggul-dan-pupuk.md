@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41148"
 bpk_metadata_archived: "http://web.archive.org/web/20250423023531/https://peraturan.bpk.go.id/Details/41148/perpres-no-14-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=14&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 2011 tentang Bantuan Langsung Benih Unggul dan Pupuk

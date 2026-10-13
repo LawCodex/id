@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/45942"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134146/https://peraturan.bpk.go.id/Details/45942"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian

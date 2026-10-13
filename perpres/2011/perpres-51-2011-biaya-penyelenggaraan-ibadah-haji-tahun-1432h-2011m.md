@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41171"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082936/https://peraturan.bpk.go.id/Details/41171"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=51&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 51 Tahun 2011 tentang Biaya Penyelenggaraan Ibadah Haji Tahun 1432H/2011M

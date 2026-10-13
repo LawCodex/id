@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42433"
 bpk_page: "https://peraturan.bpk.go.id/Details/42433"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081614/https://peraturan.bpk.go.id/Details/42433"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 1962 tentang Pemberian Ganjaran (Premi) Kepada Orang-Orang yang Telah Memberikan Jasanya dalam Pengusutan Beberapa Tindak Pidana

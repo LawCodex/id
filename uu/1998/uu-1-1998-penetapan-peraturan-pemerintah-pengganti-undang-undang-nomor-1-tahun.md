@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45406"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134336/https://peraturan.bpk.go.id/Details/45406"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1998"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1998 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1997 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 21 Tahun 1997 tentang Bea Perolehan Hak atas Tanah dan Bangunan Menjadi Undang-Undang

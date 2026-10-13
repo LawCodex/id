@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69415"
 bpk_page: "https://peraturan.bpk.go.id/Details/69415"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123636/https://peraturan.bpk.go.id/Details/69415"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 1961 tentang Pemberian Tugas Belajar

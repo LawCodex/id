@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan+Perpres+Nomor+60+Tahun+2009.pdf&fl=P16116"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=60&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 60 Tahun 2009 tentang Perubahan Sekolah Tinggi Seni Indonesia Padangpanjang Menjadi Institut Seni Indonesia Padangpanjang

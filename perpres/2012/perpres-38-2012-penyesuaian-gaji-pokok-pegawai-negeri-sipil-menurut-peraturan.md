@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41282"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083203/https://peraturan.bpk.go.id/Details/41282"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=38&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 38 Tahun 2012 tentang Penyesuaian Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 11 Tahun 2011 ke dalam Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 15 Tahun 2012

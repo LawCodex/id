@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42460"
 bpk_page: "https://peraturan.bpk.go.id/Details/42460"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081639/https://peraturan.bpk.go.id/Details/42460/perpres-no-26-tahun-1963"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 26 Tahun 1963 tentang Perubahan dan Tambahan Peraturan Pemerintah Nomor 209 Tahun 1961 (Lembaran-Negara Tahun 1961 No. 250), Tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggota Dewan Perwakilan Rakyat Gotong Royong

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41310"
 bpk_metadata_archived: "http://web.archive.org/web/20251204132154/https://peraturan.bpk.go.id/Details/41310/perpres-no-66-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=66&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 66 Tahun 2012 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Makedonia tentang Pembebasan Visa Kunjungan Singkat bagi Pemegang Paspor Diplomatik dan Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Macedonia On Exemption Of Visa Requirements For Holders Of Diplomatic And Service Passports)

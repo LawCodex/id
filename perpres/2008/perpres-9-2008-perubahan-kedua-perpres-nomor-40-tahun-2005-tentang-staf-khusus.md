@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42196"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082539/https://peraturan.bpk.go.id/Details/42196"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=9&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 2008 tentang Perubahan Kedua Perpres Nomor 40 Tahun 2005 Tentang Staf Khusus Presiden

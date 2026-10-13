@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69416"
 bpk_page: "https://peraturan.bpk.go.id/Details/69416"
 bpk_metadata_archived: "http://web.archive.org/web/20250125193312/https://peraturan.bpk.go.id/Details/69416/perpres-no-13-tahun-1961"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 1961 tentang Garis Kebijaksanaan Terhadap Pemberontak Dan Gerombolan yang Menyerah

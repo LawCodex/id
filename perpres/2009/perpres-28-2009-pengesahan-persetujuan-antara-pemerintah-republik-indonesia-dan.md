@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=1.+Salinan+Perpres+Nomor+28+Tahun+2009.pdf&fl=P15744"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=28&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 28 Tahun 2009 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Azerbaijan Mengenai Kerja Sama Ekonomi Dan Teknik (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Azerbaijan On Economic And Technical Cooperation)

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47953"
 bpk_page: "https://peraturan.bpk.go.id/Details/47953"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121633/https://peraturan.bpk.go.id/Details/47953"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1954 tentang Pernyataan Berlakunya Undang-Undang Nr 4 Tahun 1950 dari Republik Indonesia Dahulu tentang Dasar-Dasar Pendidikan dan Pengajaran di Sekolah Untuk Seluruh Indonesia

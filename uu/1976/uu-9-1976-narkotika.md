@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47215"
 bpk_page: "https://peraturan.bpk.go.id/Details/47215"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105525/https://peraturan.bpk.go.id/Details/47215/uu-no-9-tahun-1976"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1976 tentang Narkotika

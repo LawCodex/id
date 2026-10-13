@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39843"
 bpk_page: "https://peraturan.bpk.go.id/Details/39843"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121234/https://peraturan.bpk.go.id/Details/39843"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1951 tentang Pembagian Tenaga Dokter, Dokter Gigi dan Bidan Secara Rasionil

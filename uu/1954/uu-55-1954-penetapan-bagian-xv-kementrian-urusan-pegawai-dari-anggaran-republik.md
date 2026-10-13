@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50556"
 bpk_page: "https://peraturan.bpk.go.id/Details/50556"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121845/https://peraturan.bpk.go.id/Details/50556"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 55 Tahun 1954 tentang Penetapan Bagian XV (Kementrian Urusan Pegawai) dari Anggaran Republik Indonesia Untuk Tahun-Tahun Dinas 1952 dan 1953

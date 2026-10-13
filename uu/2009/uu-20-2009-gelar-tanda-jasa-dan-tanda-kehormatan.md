@@ -34,7 +34,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38640"
 bpk_metadata_archived: "http://web.archive.org/web/20240228022327/https://peraturan.bpk.go.id/Details/38640"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 2009 tentang Gelar, Tanda Jasa, dan Tanda Kehormatan

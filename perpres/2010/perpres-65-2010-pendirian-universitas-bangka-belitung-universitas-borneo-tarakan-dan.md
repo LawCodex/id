@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_65_Th_2010.pdf&fl=P16171"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2010 tentang Pendirian Universitas Bangka Belitung, Universitas Borneo Tarakan, Dan Universitas Musamus

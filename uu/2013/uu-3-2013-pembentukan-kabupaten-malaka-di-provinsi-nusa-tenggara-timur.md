@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38828"
 bpk_metadata_archived: "http://web.archive.org/web/20240410071346/https://peraturan.bpk.go.id/Details/38828/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2013 tentang Pembentukan Kabupaten Malaka di Provinsi Nusa Tenggara Timur

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52869"
 bpk_page: "https://peraturan.bpk.go.id/Details/52869"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122937/https://peraturan.bpk.go.id/Details/52869"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 75 Tahun 1958 tentang Memperpanjang Jangka Waktu Pembebasan Bank Indonesia Dari Kewajiban Yang Dimaksud Dalam Pasal 16 Ayat 1 Undang-Undang Pokok Bank Indonesia 1953 Dengan 12 (Dua Belas) Bulan, Setelah Berakhirnya Jangka Waktu Yang Ditetapkan Dengan Undang-Undang Darurat No. 14 Tahun 1957 Jo. Undang-Undang No. 63 Tahun 1958 (Lembaran-Negara Tahun 1958 No. 58 No. 114)

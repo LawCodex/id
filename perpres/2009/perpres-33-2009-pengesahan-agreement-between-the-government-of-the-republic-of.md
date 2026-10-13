@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42358"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082612/https://peraturan.bpk.go.id/Details/42358"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=33&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 33 Tahun 2009 tentang Pengesahan Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Kingdom Of Denmark Concerning The Promotion And Protection Of Investment (Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Denmark Mengenai Peningkatan dan Perlindungan Penanaman Modal)

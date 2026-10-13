@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES892006.pdf&fl=P16398"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=89&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 89 Tahun 2006 tentang Panitia Urusan Piutang Negara

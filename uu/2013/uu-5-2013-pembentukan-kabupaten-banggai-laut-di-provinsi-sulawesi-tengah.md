@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38832"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111127/https://peraturan.bpk.go.id/Details/38832/uu-no-5-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2013 tentang Pembentukan Kabupaten Banggai Laut di Provinsi Sulawesi Tengah

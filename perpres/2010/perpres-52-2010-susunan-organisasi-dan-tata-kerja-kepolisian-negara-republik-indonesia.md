@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41109"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082758/https://peraturan.bpk.go.id/Details/41109"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=52&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 52 Tahun 2010 tentang Susunan Organisasi dan Tata Kerja Kepolisian Negara Republik Indonesia

@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42141"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082341/https://peraturan.bpk.go.id/Details/42141"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=90&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 90 Tahun 2007 tentang Badan Koordinasi Penanaman Modal

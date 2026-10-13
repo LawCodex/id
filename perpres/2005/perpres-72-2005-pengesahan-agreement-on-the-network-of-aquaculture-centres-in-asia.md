@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES_NO_72_TAHUN_2005.pdf&fl=P16241"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=72&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 72 Tahun 2005 tentang Pengesahan Agreement On The Network Of Aquaculture Centres In Asia And The Pacific As Amended By The Governing Council At Its 14Th Meeting, 28 March - 01 April 2003, Yangon, Myanmar (Persetujuan Mengenai Jaringan Pusat-Pusat Akuakultur Di Asia Dan Pasifik Sebagaimana Diamendemen Oleh Dewan Pengatur Pada Pertemuan Ke-14, Pada Tanggal 28 Maret - 1 April 2003, Di Yangon, Myanmar)

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39052"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144829/https://peraturan.bpk.go.id/Details/39052"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2012 tentang Pengesahan Optional Protocol to The Convention on The Rights of The Child on The Sale of Children, Child Prostitution and Child Pornography (Protokol Opsional Konvensi Hak-Hak Anak Mengenai Penjualan Anak, dan Pornografi Anak)

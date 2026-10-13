@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42827"
 bpk_page: "https://peraturan.bpk.go.id/Details/42827"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141338/https://peraturan.bpk.go.id/Details/42827"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2003 tentang Pembentukan Kabupaten Konawe Selatan di Provinsi Sulawesi Tenggara

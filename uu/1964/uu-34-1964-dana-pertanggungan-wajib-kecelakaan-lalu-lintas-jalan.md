@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50395"
 bpk_page: "https://peraturan.bpk.go.id/Details/50395"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124636/https://peraturan.bpk.go.id/Details/50395"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 1964 tentang Dana Pertanggungan Wajib Kecelakaan Lalu-Lintas Jalan

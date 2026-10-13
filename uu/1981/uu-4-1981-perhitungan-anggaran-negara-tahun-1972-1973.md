@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47036"
 bpk_page: "https://peraturan.bpk.go.id/Details/47036"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132217/https://peraturan.bpk.go.id/Details/47036"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1981 tentang Perhitungan Anggaran Negara Tahun 1972/1973

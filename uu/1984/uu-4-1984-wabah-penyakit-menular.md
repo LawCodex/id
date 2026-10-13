@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46973"
 bpk_page: "https://peraturan.bpk.go.id/Details/46973"
 bpk_metadata_archived: "http://web.archive.org/web/20250308163510/https://peraturan.bpk.go.id/Details/46973/uu-no-4-tahun-1984.%E2%80%9D"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1984 tentang Wabah Penyakit Menular

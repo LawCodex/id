@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41072"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082818/https://peraturan.bpk.go.id/Details/41072"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=68&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 68 Tahun 2010 tentang Pemberian Fasilitas Uang Muka bagi Pejabat Negara pada Lembaga Negara untuk Pembelian Kendaraan Perorangan

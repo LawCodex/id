@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52250"
 bpk_page: "https://peraturan.bpk.go.id/Details/52250"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122838/https://peraturan.bpk.go.id/Details/52250"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 52 Tahun 1958 tentang Penetapan Bagian I.B.W. XII (Pelabuhan Palembang) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

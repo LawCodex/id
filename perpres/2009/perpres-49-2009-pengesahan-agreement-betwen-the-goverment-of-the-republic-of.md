@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42363"
 bpk_metadata_archived: "http://web.archive.org/web/20251209114108/https://peraturan.bpk.go.id/Details/42363/perpres-no-49-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=49&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 49 Tahun 2009 tentang Pengesahan Agreement Betwen The Goverment Of The Republic Of Indonesia And The Government Of The Democratic Sosialist Republic Of Srilangka On Visa Exemption For Holders Of Diplomatic And Official/Service Passport (Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Demokratik Sosialis Srilangka tentang Pembebasan Visa bagi Pemegang Paspor Diplomatik dan Dinas)

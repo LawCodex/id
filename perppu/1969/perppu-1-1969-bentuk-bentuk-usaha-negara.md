@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/54105"
 bpk_page: "https://peraturan.bpk.go.id/Details/54105"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125255/https://peraturan.bpk.go.id/Details/54105"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1969 tentang Bentuk-Bentuk Usaha Negara

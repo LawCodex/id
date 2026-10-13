@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_102_Tahun-2007.pdf&fl=P16488"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=102&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 102 Tahun 2007 tentang Pengesahan Convention On Technical And Vocational Education (Konvensi Mengenai Pendidikan Teknik Dan Kejuruan)

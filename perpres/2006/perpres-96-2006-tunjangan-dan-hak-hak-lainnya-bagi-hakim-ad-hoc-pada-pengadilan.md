@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42030"
 bpk_page: "https://peraturan.bpk.go.id/Details/42030"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082905/https://peraturan.bpk.go.id/Details/42030/perpres-no-96-tahun-2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 96 Tahun 2006 tentang Tunjangan dan Hak-Hak Lainnya Bagi Hakim Ad Hoc Pada Pengadilan Hubungan Industrial

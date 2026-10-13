@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40231"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141703/https://peraturan.bpk.go.id/Details/40231"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2005 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2005 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial menjadi Undang-Undang

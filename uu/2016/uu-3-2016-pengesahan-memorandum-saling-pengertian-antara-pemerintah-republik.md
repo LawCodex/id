@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2016"
 bpk_page: "https://peraturan.bpk.go.id/Details/37173"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150110/https://peraturan.bpk.go.id/Details/37173"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2016 tentang Pengesahan Memorandum Saling Pengertian Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Sosialis Vietnam Tentang Peningkatan Kerja Sama Antara Pejabat Pertahanan Dan Kegiatan Bidang Pertahanan Terkait (Memorandum Of Understanding Between The Government Of The Republic Of Indonesia And The Government Of The Socialist Republic Of Vietnam On Strengthening Of Cooperation Between Defence Officials And Its Related Activities)

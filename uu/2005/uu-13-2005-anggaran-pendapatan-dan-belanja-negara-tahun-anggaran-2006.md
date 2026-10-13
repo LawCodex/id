@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40264"
 bpk_metadata_archived: "http://web.archive.org/web/20251218010726/https://peraturan.bpk.go.id/Details/40264/uu-no-14-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2005 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2006

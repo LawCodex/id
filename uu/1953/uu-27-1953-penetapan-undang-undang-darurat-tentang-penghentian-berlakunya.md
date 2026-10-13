@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45423"
 bpk_page: "https://peraturan.bpk.go.id/Details/45423"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121516/https://peraturan.bpk.go.id/Details/45423"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 1953 tentang Penetapan "Undang-Undang Darurat tentang Penghentian Berlakunya "Indische Muntwet 1912" dan Penetapan Peraturan Baru tentang Mata Uang" (Undang-Undang Darurat Nomor 20 Tahun 1951 (Lembaran-Negara Nomor 95 Tahun 1951) Sebagai Undang-Undang

@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=2013"
 bpk_page: "https://peraturan.bpk.go.id/Details/38979"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145148/https://peraturan.bpk.go.id/Details/38979"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 2013 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2014

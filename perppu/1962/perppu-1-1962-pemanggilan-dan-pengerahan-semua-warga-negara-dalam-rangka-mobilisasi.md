@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53646"
 bpk_page: "https://peraturan.bpk.go.id/Details/53646"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124215/https://peraturan.bpk.go.id/Details/53646"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1962 tentang Pemanggilan Dan Pengerahan Semua Warga Negara Dalam Rangka Mobilisasi Umum Untuk Kepentingan Keamanan Dan Pertahanan Negara

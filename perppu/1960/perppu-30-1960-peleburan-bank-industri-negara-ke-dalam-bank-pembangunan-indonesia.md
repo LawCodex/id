@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53530"
 bpk_page: "https://peraturan.bpk.go.id/Details/53530"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123410/https://peraturan.bpk.go.id/Details/53530"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 30 Tahun 1960 tentang Peleburan Bank Industri Negara Ke Dalam Bank Pembangunan Indonesia

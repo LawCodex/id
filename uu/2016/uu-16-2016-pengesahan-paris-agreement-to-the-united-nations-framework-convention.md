@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37573"
 bpk_metadata_archived: "http://web.archive.org/web/20250809230654/https://peraturan.bpk.go.id/Details/37573/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2016 tentang Pengesahan Paris Agreement To The United Nations Framework Convention On Climate Change (Persetujuan Paris Atas Konvensi Kerangka Kerja Perserikatan Bangsa-Bangsa mengenai Perubahan Iklim)

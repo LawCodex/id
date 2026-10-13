@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45329"
 bpk_metadata_archived: "http://web.archive.org/web/20250802192354/https://peraturan.bpk.go.id/Details/45329/uu"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah

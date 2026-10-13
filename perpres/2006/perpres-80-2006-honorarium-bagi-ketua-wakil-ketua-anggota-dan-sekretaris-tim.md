@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES802006.pdf&fl=P16319"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=80&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 80 Tahun 2006 tentang Honorarium Bagi Ketua, Wakil Ketua, Anggota Dan Sekretaris Tim Koordinasi Pemberantasan Tindak Pidana Korupsi

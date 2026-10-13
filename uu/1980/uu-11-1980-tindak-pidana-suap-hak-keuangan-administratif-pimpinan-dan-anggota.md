@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47142"
 bpk_page: "https://peraturan.bpk.go.id/Details/47142"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131954/https://peraturan.bpk.go.id/Details/47142"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1980 tentang Tindak Pidana Suap Hak Keuangan/Administratif Pimpinan dan Anggota Lembaga Tertinggi/Tinggi Negara dan Bekas Anggota Lembaga Tinggi Negara serta Bekas Pimpinan Lembaga Tertinggi/Tinggi Negara dan Bekas Anggota Lembaga Tinggi Negara

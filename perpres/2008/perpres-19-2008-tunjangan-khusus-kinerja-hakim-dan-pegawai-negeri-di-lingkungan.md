@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42204"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092728/https://peraturan.bpk.go.id/Details/42204/perpres-no-19-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=19&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 2008 tentang Tunjangan Khusus Kinerja Hakim dan Pegawai Negeri di Lingkungan Mahkamah Agung dan Badan Peradilan yang Berada di Bawahnya

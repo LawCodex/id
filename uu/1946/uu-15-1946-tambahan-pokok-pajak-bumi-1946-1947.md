@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25170"
 bpk_page: "https://peraturan.bpk.go.id/Details/25170"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120226/https://peraturan.bpk.go.id/Details/25170"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1946 tentang Tambahan Pokok Pajak Bumi 1946-1947

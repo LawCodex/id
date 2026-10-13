@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49167"
 bpk_page: "https://peraturan.bpk.go.id/Details/49167"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125111/https://peraturan.bpk.go.id/Details/49167"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1968 tentang Penyerahan Pajak-Pajak Negara: Bea Balik Nama Kendaraan Bermotor, Pajak Bangsa Asing dan Pajak Radio Kepada Daerah

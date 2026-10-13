@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40694"
 bpk_page: "https://peraturan.bpk.go.id/Details/40694"
 bpk_metadata_archived: "http://web.archive.org/web/20241202170009/https://peraturan.bpk.go.id/Details/40694/uu-no-25-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan Nasional

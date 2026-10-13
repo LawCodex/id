@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42212"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082420/https://peraturan.bpk.go.id/Details/42212"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=27&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 27 Tahun 2008 tentang Badan Pengembangan Wilayah Surabaya-Madura

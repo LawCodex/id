@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69424"
 bpk_page: "https://peraturan.bpk.go.id/Details/69424"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123752/https://peraturan.bpk.go.id/Details/69424"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 17 Tahun 1961 tentang Kedudukan Hukum, Nama Jabatan, Gelar, Penghasilan dan Keuntungan-Keuntungan Lainnya Kepala Daerah, Kepala Daerah/Wakil Kepala Daerah Istimewa Yogyakarta dan Wakil Kepala Daerah Tingkat I

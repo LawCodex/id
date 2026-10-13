@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38771"
 bpk_metadata_archived: "http://web.archive.org/web/20260911130308/https://peraturan.bpk.go.id/details/38771/uu-no-32-tahun-2009Law"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=32&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup

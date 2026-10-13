@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41165"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082932/https://peraturan.bpk.go.id/Details/41165"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=43&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 43 Tahun 2011 tentang Perubahan Ketiga atas Keputusan Presiden Nomor 18 Tahun 2003 tentang Bebas Visa Kunjungan Singkat

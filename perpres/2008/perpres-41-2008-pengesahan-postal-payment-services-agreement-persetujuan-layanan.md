@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+41+2008.pdf&fl=P15898"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=41&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 41 Tahun 2008 tentang Pengesahan Postal Payment Services Agreement (Persetujuan Layanan Pembayaran Pos)

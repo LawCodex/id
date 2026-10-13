@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53641"
 bpk_page: "https://peraturan.bpk.go.id/Details/53641"
 bpk_metadata_archived: "http://web.archive.org/web/20241206182331/https://peraturan.bpk.go.id/Details/53641/perpuno-56-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 56 Tahun 1960 tentang Penetapan Luas Tanah Pertanian

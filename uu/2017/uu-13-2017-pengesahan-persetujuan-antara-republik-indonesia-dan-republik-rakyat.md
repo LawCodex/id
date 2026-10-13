@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2017"
 bpk_page: "https://peraturan.bpk.go.id/Details/64497"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150249/https://peraturan.bpk.go.id/Details/64497"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2017 tentang Pengesahan Persetujuan antara Republik Indonesia dan Republik Rakyat China tentang Ekstradisi (Treaty Between The Republic of Indonesia and The People’s Republic of China on Extradition)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52263"
 bpk_page: "https://peraturan.bpk.go.id/Details/52263"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122845/https://peraturan.bpk.go.id/Details/52263"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 54 Tahun 1958 tentang Penetapan Bagian I.B.W. XVI (Jawatan Kereta Api) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

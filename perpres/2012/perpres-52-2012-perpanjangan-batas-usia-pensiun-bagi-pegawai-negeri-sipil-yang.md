@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+0522012.pdf&fl=P16027"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=52&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 52 Tahun 2012 tentang Perpanjangan Batas Usia Pensiun Bagi Pegawai Negeri Sipil Yang Menduduki Jabatan Fungsional Pemeriksa

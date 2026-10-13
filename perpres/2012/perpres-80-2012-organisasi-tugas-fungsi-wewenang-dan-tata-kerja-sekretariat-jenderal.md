@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41324"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083301/https://peraturan.bpk.go.id/Details/41324"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=80&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 80 Tahun 2012 tentang Organisasi, Tugas, Fungsi, Wewenang, dan Tata Kerja Sekretariat Jenderal Badan Pengawas Pemilihan Umum, Sekretariat Badan Pengawas Pemilihan Umum Provinsi, Sekretariat Panitia Pengawas Pemilihan Umum Kabupaten/kota, dan Sekretariat Panitia Pengawas Pemilihan Umum Kecamatan

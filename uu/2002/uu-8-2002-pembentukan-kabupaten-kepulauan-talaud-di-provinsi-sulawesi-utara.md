@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44431"
 bpk_page: "https://peraturan.bpk.go.id/Details/44431"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111453/https://peraturan.bpk.go.id/Details/44431/uu-no-8-tahun-2002"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2002 tentang Pembentukan Kabupaten Kepulauan Talaud Di Provinsi Sulawesi Utara

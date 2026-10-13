@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47207"
 bpk_page: "https://peraturan.bpk.go.id/Details/47207"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131651/https://peraturan.bpk.go.id/Details/47207"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1976 tentang Perubahan Pasal 18 Undang-Undang Nomor 62 Tahun 1958 tentang Kewarganegaraan Republik Indonesia

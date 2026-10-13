@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40164"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142004/https://peraturan.bpk.go.id/Details/40164"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2006 tentang Pengesahan Perjanjian antara Republik Indonesia dan Republik Rakyat China Mengenai Bantuan Hukum Timbal Balik dalam Masalah Pidana (Treaty Between The Republic Of Indonesia And The People's Republic Of China On Mutual Legal Assistance In Criminal Matters)

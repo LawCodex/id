@@ -29,7 +29,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68783"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082326/https://peraturan.bpk.go.id/Details/68783"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=7&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 7 Tahun 2007 tentang Perubahan Keenam atas Peraturan Presiden Nomor 10 Tahun 2005 Tentang Unit Organisasi dan Tugas Eselon I Kementerian Negara Republik Indonesia

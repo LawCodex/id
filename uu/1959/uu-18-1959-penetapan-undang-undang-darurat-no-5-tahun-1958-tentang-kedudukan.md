@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51464"
 bpk_page: "https://peraturan.bpk.go.id/Details/51464"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123038/https://peraturan.bpk.go.id/Details/51464"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1959 tentang Penetapan "Undang-Undang Darurat No. 5 Tahun 1958 Tentang Kedudukan-Hukum Apotik Darurat" (Lembaran-Negara Tahun 1958 No. 137), Sebagai Undang-Undang

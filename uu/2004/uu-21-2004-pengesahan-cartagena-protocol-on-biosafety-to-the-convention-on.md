@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40522"
 bpk_page: "https://peraturan.bpk.go.id/Details/40522"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141445/https://peraturan.bpk.go.id/Details/40522"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 2004 tentang Pengesahan Cartagena Protocol on Biosafety to The Convention on Biological Diversity (Protokol Cartagena tentang Keamanan Hayati atas Konvensi tentang Keanekaragaman Hayati)

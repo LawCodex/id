@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53616"
 bpk_page: "https://peraturan.bpk.go.id/Details/53616"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123521/https://peraturan.bpk.go.id/Details/53616"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 53 Tahun 1960 tentang Perubahan dan Tambahan Pajak Deviden

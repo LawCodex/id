@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25196"
 bpk_page: "https://peraturan.bpk.go.id/Details/25196"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120238/https://peraturan.bpk.go.id/Details/25196"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1946 tentang Pengesahan Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1946

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41228"
 bpk_metadata_archived: "http://web.archive.org/web/20250423024019/https://peraturan.bpk.go.id/Details/41228/perpres-no-78-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=78&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 78 Tahun 2011 tentang Pengesahan Convention On The Protection And Promotion Of The Diversity Of Cultural Expressions (Konvensi Tentang Proteksi dan Promosi Keanekaragaman Ekspresi Budaya)

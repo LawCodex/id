@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40247"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141815/https://peraturan.bpk.go.id/Details/40247"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2005 tentang Pembentukan Pengadilan Tinggi Agama Maluku Utara

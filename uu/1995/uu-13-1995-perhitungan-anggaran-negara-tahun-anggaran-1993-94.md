@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=1995"
 bpk_page: "https://peraturan.bpk.go.id/Details/46207"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133838/https://peraturan.bpk.go.id/Details/46207"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1995 tentang Perhitungan Anggaran Negara Tahun Anggaran 1993/94

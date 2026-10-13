@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42345"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082647/https://peraturan.bpk.go.id/Details/42345"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=59&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 59 Tahun 2009 tentang Perubahan atas Peraturan Presiden Nomor 71 Tahun 2006 tentang Penugasan kepada PT Perusahaan Listrik Negara (Persero) untuk Melakukan Percepatan Pembangunan Pembangkit Tenaga Listrik yang Menggunakan Batubara

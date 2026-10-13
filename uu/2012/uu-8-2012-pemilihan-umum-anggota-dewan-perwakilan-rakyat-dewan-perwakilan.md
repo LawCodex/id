@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37659"
 bpk_metadata_archived: "http://web.archive.org/web/20241115220802/https://peraturan.bpk.go.id/Details/37659/uu-no-8-tahun-2012Republik"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2012 tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah

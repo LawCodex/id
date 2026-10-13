@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42009"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082054/https://peraturan.bpk.go.id/Details/42009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=75&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 75 Tahun 2006 tentang Komisi Penanggulangan AIDS Nasional

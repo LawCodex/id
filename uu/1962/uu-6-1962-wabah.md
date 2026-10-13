@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50678"
 bpk_page: "https://peraturan.bpk.go.id/Details/50678"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124301/https://peraturan.bpk.go.id/Details/50678"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1962 tentang Wabah

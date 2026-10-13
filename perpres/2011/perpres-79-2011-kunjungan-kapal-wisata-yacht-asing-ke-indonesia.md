@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41195"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083743/https://peraturan.bpk.go.id/Details/41195/perpres-no-79-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=79&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 79 Tahun 2011 tentang Kunjungan Kapal Wisata (Yacht) Asing ke Indonesia

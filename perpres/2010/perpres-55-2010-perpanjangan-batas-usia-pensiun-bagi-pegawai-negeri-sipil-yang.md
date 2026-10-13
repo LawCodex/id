@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+55+Tahun+2010.pdf&fl=P16061"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=55&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 55 Tahun 2010 tentang Perpanjangan Batas Usia Pensiun Bagi Pegawai Negeri Sipil Yang Menduduki Jabatan Fungsional Penyuluh Pertanian, Penyuluh Perikanan, Dan Penyuluh Kehutanan

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_79_Th_2010.pdf&fl=P16312"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=79&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 79 Tahun 2010 tentang Pengesahan Agreement On The Asean Harmonized Electrical And Electronic Equipment Regulatory Regime (Persetujuan Asean Mengenai Harmonisasi Tata Cara Pengaturan Peralatan Listrik Dan Elektronika)

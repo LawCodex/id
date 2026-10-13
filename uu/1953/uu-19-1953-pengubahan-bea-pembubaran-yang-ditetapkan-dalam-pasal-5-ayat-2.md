@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45319"
 bpk_page: "https://peraturan.bpk.go.id/Details/45319"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121453/https://peraturan.bpk.go.id/Details/45319"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1953 tentang Pengubahan Bea Pembubaran yang Ditetapkan dalam Pasal 5 Ayat 2 "Jachtordonnantie Java en Madura 1940" (Staatsblad 1939 Nr 733)

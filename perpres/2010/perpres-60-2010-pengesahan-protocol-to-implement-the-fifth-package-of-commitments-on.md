@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_60_Th_2010.pdf&fl=P16117"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=60&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 60 Tahun 2010 tentang Pengesahan Protocol To Implement The Fifth Package Of Commitments On Air Transport Services Under The Asean Framework Agreement On Services (Protokol Untuk Melaksanakan Paket Kelima Komitmen Jasa Angkutan Udara Dalam Persetujuan Kerangka Kerja Asean Di Bidang Jasa)

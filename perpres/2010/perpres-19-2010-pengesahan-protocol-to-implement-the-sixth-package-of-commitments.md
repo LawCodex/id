@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+19+Tahun+2010.pdf&fl=P15639"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=19&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 2010 tentang Pengesahan Protocol To Implement The Sixth Package Of Commitments Under The Asean Framework Agreement On Services (Protokol Untuk Melaksanakan Komitmen Paket Keenam Dalam Persetujuan Kerangka Kerja Asean Di Bidang Jasa)

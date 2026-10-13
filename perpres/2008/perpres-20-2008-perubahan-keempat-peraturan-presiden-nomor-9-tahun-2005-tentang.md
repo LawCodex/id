@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42205"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082410/https://peraturan.bpk.go.id/Details/42205"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=20&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 20 Tahun 2008 tentang Perubahan Keempat Peraturan Presiden Nomor 9 Tahun 2005 Tentang Kedudukan, Tugas, Fungsi, Susunan Organisasi, dan Tata Kerja Kementerian Negara Republik Indonesia

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/43922"
 bpk_metadata_archived: "http://web.archive.org/web/20240910045252/https://peraturan.bpk.go.id/Details/43922"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=21&thn=2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 2003 tentang Pengesahan ILO Convention No. 81 Concerning Labour Inspection In Industry And Commerce (Konvensi ILO No. 81 mengenai Pengawasan Ketenagakerjaan dalam Industri dan Perdagangan

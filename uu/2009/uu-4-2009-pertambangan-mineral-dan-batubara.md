@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38578"
 bpk_metadata_archived: "http://web.archive.org/web/20241113102824/https://peraturan.bpk.go.id/Details/38578/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara

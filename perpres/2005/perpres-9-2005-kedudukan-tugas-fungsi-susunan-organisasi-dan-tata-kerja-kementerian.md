@@ -28,7 +28,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42545"
 bpk_page: "https://peraturan.bpk.go.id/Details/42545"
 bpk_metadata_archived: "http://web.archive.org/web/20261003135747/https://peraturan.bpk.go.id/Details/42545/perpres-no-9-tahun-2005-kedudukan-tugas-fungsi-susunan-organisasi-dan-tata-kerja"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 2005 tentang Kedudukan, Tugas, Fungsi, Susunan Organisasi, dan Tata Kerja Kementerian Negara Republik Indonesia

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38875"
 bpk_metadata_archived: "http://web.archive.org/web/20250804083533/https://peraturan.bpk.go.id/Details/38875/uu-no-24-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2008 tentang Pembentukan Kabupaten Puncak Di Provinsi Papua

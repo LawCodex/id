@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45332"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134552/https://peraturan.bpk.go.id/Details/45332"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53114"
 bpk_page: "https://peraturan.bpk.go.id/Details/53114"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141439/https://peraturan.bpk.go.id/Details/53114"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan Atas Undang-Undang Nomor 41 Tahun 1999 Tentang Kehutanan

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47608"
 bpk_page: "https://peraturan.bpk.go.id/Details/47608"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125515/https://peraturan.bpk.go.id/Details/47608"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1971 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 1 Tahun 1971 tentang Pencabutan Undang-Undang No. 17 Tahun 1964 tentang Larangan Penarikan Cek Kosong Menjadi Undang-Undang

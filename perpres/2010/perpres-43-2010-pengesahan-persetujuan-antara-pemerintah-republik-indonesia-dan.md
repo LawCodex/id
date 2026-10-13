@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+43+Tahun+2010.pdf&fl=P15924"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=43&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 43 Tahun 2010 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Slovakia Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik Dan Paspor Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Slovak Republic On Visa Exemption For Holders Of Diplomatic Passports And Service Passports)

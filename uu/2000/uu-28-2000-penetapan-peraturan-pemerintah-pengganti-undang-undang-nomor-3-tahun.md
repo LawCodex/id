@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44997"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140530/https://peraturan.bpk.go.id/Details/44997"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=28&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2000 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan Menjadi Undang-Undang

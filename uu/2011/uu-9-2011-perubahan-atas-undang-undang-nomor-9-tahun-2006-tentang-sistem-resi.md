@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39184"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105237/https://peraturan.bpk.go.id/Details/39184/uu-no-9-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 9 Tahun 2006 Tentang Sistem Resi Gudang

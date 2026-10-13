@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2015"
 bpk_page: "https://peraturan.bpk.go.id/Details/37679"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145839/https://peraturan.bpk.go.id/Details/37679"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2015 tentang Perubahan Atas Undang-Undang Nomor 27 Tahun 2014 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2015

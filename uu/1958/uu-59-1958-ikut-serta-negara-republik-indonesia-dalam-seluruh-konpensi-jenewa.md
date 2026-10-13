@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52317"
 bpk_page: "https://peraturan.bpk.go.id/Details/52317"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122858/https://peraturan.bpk.go.id/Details/52317"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 59 Tahun 1958 tentang Ikut-Serta Negara Republik Indonesia Dalam Seluruh Konpensi Jenewa Tanggal 12 Agustus 1949

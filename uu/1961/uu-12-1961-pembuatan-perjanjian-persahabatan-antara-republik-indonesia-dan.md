@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51232"
 bpk_page: "https://peraturan.bpk.go.id/Details/51232"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123639/https://peraturan.bpk.go.id/Details/51232"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1961 tentang Pembuatan Perjanjian Persahabatan Antara Republik Indonesia dan Republik Rakyat Tiongkok

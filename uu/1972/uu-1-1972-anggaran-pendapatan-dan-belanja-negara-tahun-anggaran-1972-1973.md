@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47546"
 bpk_page: "https://peraturan.bpk.go.id/Details/47546"
 bpk_metadata_archived: "http://web.archive.org/web/20260905190101/https://peraturan.bpk.go.id/Details/47546/uu-no-1-tahun"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1972 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1972/1973

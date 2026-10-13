@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25246"
 bpk_page: "https://peraturan.bpk.go.id/Details/25246"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120307/https://peraturan.bpk.go.id/Details/25246"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1947 tentang Mengubah Ordonansi Pajak Potong 1936 STBL. 1936, No. 671

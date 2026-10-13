@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/99207"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150428/https://peraturan.bpk.go.id/Details/99207"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2018 tentang Pengesahan Persetujuan Kerja Sama Pertahanan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Arab Saudi (Defense Cooperation Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Kingdom Of Saudi Arabia)

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_074_2012.pdf&fl=P16266"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=74&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 74 Tahun 2012 tentang Pertanggungjawaban Kerugian Nuklir

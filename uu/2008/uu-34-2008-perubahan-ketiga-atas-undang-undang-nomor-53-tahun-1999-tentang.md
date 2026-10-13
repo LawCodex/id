@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39693"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143859/https://peraturan.bpk.go.id/Details/39693"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=34&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 2008 tentang Perubahan Ketiga atas Undang-Undang Nomor 53 Tahun 1999 tentang Pembentukan Kabupaten Pelalawan, Kabupaten Rokan Hulu, Kabupaten Rokan Hilir, Kabupaten Siak, Kabupaten Karimun, Kabupaten Natuna, Kabupaten Kuantan Singingi, dan Kota Batam

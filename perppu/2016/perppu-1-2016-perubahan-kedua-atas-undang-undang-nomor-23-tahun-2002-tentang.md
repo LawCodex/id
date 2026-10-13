@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2016"
 bpk_page: "https://peraturan.bpk.go.id/Details/61883"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150035/https://peraturan.bpk.go.id/Details/61883"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak

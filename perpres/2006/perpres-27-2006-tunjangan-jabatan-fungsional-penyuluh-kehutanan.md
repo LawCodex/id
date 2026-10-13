@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41963"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082229/https://peraturan.bpk.go.id/Details/41963/perpres-no-27-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=27&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 27 Tahun 2006 tentang Tunjangan Jabatan Fungsional Penyuluh Kehutanan

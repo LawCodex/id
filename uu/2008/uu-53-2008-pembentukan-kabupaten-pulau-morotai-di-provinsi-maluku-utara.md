@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39758"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111219/https://peraturan.bpk.go.id/Details/39758/uu-no-53-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=53&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 53 Tahun 2008 tentang Pembentukan Kabupaten Pulau Morotai di Provinsi Maluku Utara

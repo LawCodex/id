@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44932"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105430/https://peraturan.bpk.go.id/Details/44932/uu-no-1-tahun-2000"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2000 tentang Pengesahan ILO Convention Nomor 182 Concerning The Prohibition and Immediate Action for Elimination of The Worst Forms of Child Labour (Konvensi ILO Nomor 182 Mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-Bentuk Pekerjaan Terburuk untuk Anak)

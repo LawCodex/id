@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52282"
 bpk_page: "https://peraturan.bpk.go.id/Details/52282"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122856/https://peraturan.bpk.go.id/Details/52282"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 58 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 21 Tahun 1957 Tentang Pengubahan Undang-Undang No. 12 Tahun 1956 Tentang Pembentukan Daerah Swatantra Tingkat II Dalam Lingkungan Daerah Swatantra Tingkat I Sumatera Tengah" (Lembaran-Negara Tahun 1957 No. 77) Sebagai Undang-Undang

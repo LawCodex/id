@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25057"
 bpk_page: "https://peraturan.bpk.go.id/Details/25057"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120251/https://peraturan.bpk.go.id/Details/25057"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1946 tentang Penetapan Tarip Pajak Pendapatan Tahun 1946/1947 dan Tambahan Pajak

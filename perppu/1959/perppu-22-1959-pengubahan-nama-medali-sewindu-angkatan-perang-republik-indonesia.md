@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53965"
 bpk_page: "https://peraturan.bpk.go.id/Details/53965"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123059/https://peraturan.bpk.go.id/Details/53965"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 22 Tahun 1959 tentang Pengubahan Nama "Medali Sewindu Angkatan Perang Republik Indonesia" Menjadi "Bintang Sewindu Angkatan Perang Republik Indonesia"

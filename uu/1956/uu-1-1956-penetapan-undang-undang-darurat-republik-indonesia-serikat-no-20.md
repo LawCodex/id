@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51075"
 bpk_page: "https://peraturan.bpk.go.id/Details/51075"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122139/https://peraturan.bpk.go.id/Details/51075"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1956 tentang Penetapan "Undang-Undang Darurat Republik Indonesia Serikat No.20 Tahun 1950 (Lembaran-Negara No.31 Tahun 1950) Tentang Pemerintahan Jakarta Raya" Sebagai Undang-Undang *)

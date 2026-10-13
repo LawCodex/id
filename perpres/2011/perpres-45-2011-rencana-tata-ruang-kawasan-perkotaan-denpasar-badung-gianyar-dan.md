@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41166"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082942/https://peraturan.bpk.go.id/Details/41166"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=45&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 45 Tahun 2011 tentang Rencana Tata Ruang Kawasan Perkotaan Denpasar, Badung, Gianyar, dan Tabanan

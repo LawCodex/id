@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42584"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081821/https://peraturan.bpk.go.id/Details/42584"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=55&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 55 Tahun 2005 tentang Harga Jual Eceran Bahan Bakar Minyak Dalam Negeri

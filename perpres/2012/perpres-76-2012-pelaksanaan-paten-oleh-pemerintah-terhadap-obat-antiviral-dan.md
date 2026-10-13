@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_076_2012.pdf&fl=P16286"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=76&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 76 Tahun 2012 tentang Pelaksanaan Paten Oleh Pemerintah Terhadap Obat Antiviral Dan Antiretroviral

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38609"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145408/https://peraturan.bpk.go.id/Details/38609"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2014 tentang Pembentukan Kabupaten Buton Tengah di Provinsi Sulawesi Tenggara

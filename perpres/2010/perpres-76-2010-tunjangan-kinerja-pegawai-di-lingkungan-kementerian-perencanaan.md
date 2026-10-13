@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41080"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083557/https://peraturan.bpk.go.id/Details/41080/perpres-no-76-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=76&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 76 Tahun 2010 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Perencanaan Pembangunan Nasional / Badan Perencanaan Pembangunan Nasional

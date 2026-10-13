@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42467"
 bpk_page: "https://peraturan.bpk.go.id/Details/42467"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124601/https://peraturan.bpk.go.id/Details/42467"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 25 Tahun 1964 tentang Kebijaksanaan Ekonomi dan Keuangan Untuk Mengatasi Keadaan Sekarang dan Waktu Dekat

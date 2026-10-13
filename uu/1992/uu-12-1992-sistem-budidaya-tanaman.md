@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46604"
 bpk_metadata_archived: "http://web.archive.org/web/20250124032738/https://peraturan.bpk.go.id/Details/46604/uu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1992 tentang Sistem Budidaya Tanaman

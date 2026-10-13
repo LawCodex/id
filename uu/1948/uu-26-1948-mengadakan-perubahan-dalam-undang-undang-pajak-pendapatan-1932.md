@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25832"
 bpk_page: "https://peraturan.bpk.go.id/Details/25832"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120512/https://peraturan.bpk.go.id/Details/25832"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1948 tentang Mengadakan Perubahan Dalam Undang-Undang Pajak Pendapatan 1932 (Ordonnantie Op De Inkomstenbelasting 1932)

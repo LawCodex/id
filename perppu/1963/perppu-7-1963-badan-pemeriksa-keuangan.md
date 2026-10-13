@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53742"
 bpk_page: "https://peraturan.bpk.go.id/Details/53742"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124501/https://peraturan.bpk.go.id/Details/53742"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1963 tentang Badan Pemeriksa Keuangan

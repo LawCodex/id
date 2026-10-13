@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40269"
 bpk_page: "https://peraturan.bpk.go.id/Details/40269"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121319/https://peraturan.bpk.go.id/Details/40269"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1952 tentang Kemungkinan Hilangnya Surat Keputusan dan Surat-Surat Pemeriksaan Pengadilan

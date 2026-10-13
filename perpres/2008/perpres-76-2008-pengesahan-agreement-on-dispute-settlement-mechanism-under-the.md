@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_76_Th_2008.pdf&fl=P16283"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=76&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 76 Tahun 2008 tentang Pengesahan Agreement On Dispute Settlement Mechanism Under The Framework Agreement On Comprehensive Economic Cooperation Among The Governments Of The Member Countries Of The Association Of Southeast Asian Nations And The Republic Of Korea (Persetujuan Mekanisme Penyelesaian Sengketa Dalam Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antar Pemerintah Negara-Negara Anggota Perhimpunan Bangsabangsa Asia Tenggara Dan Republik Korea)

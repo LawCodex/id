@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/82689"
 bpk_metadata_archived: "http://web.archive.org/web/20251206190522/https://peraturan.bpk.go.id/Details/82689/uu%E2%80%90no%E2%80%905%E2%80%90tahun%E2%80%902018"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2018 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme Menjadi Undang-Undang

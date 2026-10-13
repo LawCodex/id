@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41386"
 bpk_page: "https://peraturan.bpk.go.id/Details/41386"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083354/https://peraturan.bpk.go.id/Details/41386"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 2013 tentang Tunjangan Jabatan Fungsional Penyuluh Pertanian, Pengendali Organisme Pengganggu Tumbuhan, Pengawas Benih Tanaman, Pengawas Bibit Ternak, Medik Veteriner, Paramedik Veteriner, dan Pengaws Mutu Pakan

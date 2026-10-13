@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41394"
 bpk_metadata_archived: "http://web.archive.org/web/20241004172144/https://peraturan.bpk.go.id/Details/41394/perpres-no-24-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=24&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 2013 tentang Pengesahan Memorandum Saling Pengertian antara Departemen Pertahanan dan Keamanan Republik Indonesia dan Kementerian Pertahanan Republik Italia Tentang Kerja Sama Dalam Bidang Peralatan, Logistik dan Industri Pertahanan (Memorandum Of Understanding Between The Department Of Defence And Security Of The Republic Of Indonesia And The Ministry Of Defence Of The Italian Republic Concerning Cooperation In The Field Of Defence Equipment Logistics And Industry)

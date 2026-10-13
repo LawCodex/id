@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38847"
 bpk_metadata_archived: "http://web.archive.org/web/20251129195114/https://peraturan.bpk.go.id/Details/38847/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2013 tentang Pengesahan Rotterdam Convention on The Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade (Konvensi Rotterdam Tentang Prosedur Persetujuan atas Dasar Informasi Awal Untuk Bahan Kimia dan Pestisida Berbahaya Tertentu dalam Perdagangan Internasional)

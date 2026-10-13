@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47561"
 bpk_page: "https://peraturan.bpk.go.id/Details/47561"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125650/https://peraturan.bpk.go.id/Details/47561"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1971 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1970/1971

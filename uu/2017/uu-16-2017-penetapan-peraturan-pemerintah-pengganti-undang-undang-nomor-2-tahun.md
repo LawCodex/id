@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2017"
 bpk_page: "https://peraturan.bpk.go.id/Details/64506"
 bpk_metadata_archived: "http://web.archive.org/web/20231207033552/https://peraturan.bpk.go.id/Details/64506/uu-no-16-tahun-2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2017 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2017 tentang Perubahan atas Undang-Undang Nomor 17 Tahun 2013 tentang Organisasi Kemasyarakatan Menjadi Undang-Undang

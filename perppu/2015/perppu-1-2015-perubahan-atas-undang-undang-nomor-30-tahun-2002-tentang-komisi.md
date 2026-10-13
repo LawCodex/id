@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2015"
 bpk_page: "https://peraturan.bpk.go.id/Details/53266"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145803/https://peraturan.bpk.go.id/Details/53266"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi

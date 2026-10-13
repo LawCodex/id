@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42588"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081831/https://peraturan.bpk.go.id/Details/42588"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=61&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 61 Tahun 2005 tentang Tata Cara Penyusunan dan Pengelolaan Program Legislasi Nasional

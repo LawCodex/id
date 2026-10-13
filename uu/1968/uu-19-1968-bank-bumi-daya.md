@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49186"
 bpk_page: "https://peraturan.bpk.go.id/Details/49186"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125134/https://peraturan.bpk.go.id/Details/49186"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1968 tentang Bank Bumi Daya

@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/33391"
 bpk_page: "https://peraturan.bpk.go.id/Details/33391"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120742/https://peraturan.bpk.go.id/Details/33391"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1949 tentang Perubahan Peraturan Bea Meterai 1921

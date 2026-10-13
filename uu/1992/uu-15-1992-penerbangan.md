@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46609"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133356/https://peraturan.bpk.go.id/Details/46609"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1992 tentang Penerbangan

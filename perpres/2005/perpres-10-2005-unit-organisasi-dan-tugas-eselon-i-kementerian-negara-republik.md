@@ -38,7 +38,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42546"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081717/https://peraturan.bpk.go.id/Details/42546"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=10&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 2005 tentang Unit Organisasi dan Tugas Eselon I Kementerian Negara Republik Indonesia

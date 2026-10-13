@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42443"
 bpk_page: "https://peraturan.bpk.go.id/Details/42443"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124339/https://peraturan.bpk.go.id/Details/42443"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 1963 tentang Ketentuan-Ketentuan Pokok Mengenai Bentuk, Jenis, Warna, Pembuatan Serta Pemakaian Pakaian Seragam dan Tanda Pengenal Diluar Angkatan Perang dan Kepolisian Negara

@@ -104,7 +104,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2022"
 bpk_page: "https://peraturan.bpk.go.id/Details/234926"
 bpk_metadata_archived: "http://web.archive.org/web/20260829143328/https://peraturan.bpk.go.id/Details/234926/perpu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja

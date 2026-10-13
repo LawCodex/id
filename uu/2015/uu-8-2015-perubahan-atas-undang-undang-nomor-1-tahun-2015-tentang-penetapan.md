@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38208"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145953/https://peraturan.bpk.go.id/Details/38208"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 Tentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang-Undang

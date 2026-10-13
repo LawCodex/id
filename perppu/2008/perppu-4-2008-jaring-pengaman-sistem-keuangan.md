@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=4&thn=2008"
 bpk_page: "https://peraturan.bpk.go.id/Details/53224"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143936/https://peraturan.bpk.go.id/Details/53224"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2008 tentang Jaring Pengaman Sistem Keuangan

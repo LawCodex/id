@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46921"
 bpk_page: "https://peraturan.bpk.go.id/Details/46921"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132657/https://peraturan.bpk.go.id/Details/46921"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1985 tentang Perubahan atas Undang-Undang Nomor 3 Tahun 1975 tentang Partai Politik dan Golongan Karya

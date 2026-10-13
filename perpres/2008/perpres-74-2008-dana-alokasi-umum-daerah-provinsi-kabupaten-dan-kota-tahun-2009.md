@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_74_Th_2008.pdf&fl=P16263"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=74&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 74 Tahun 2008 tentang Dana Alokasi Umum Daerah Provinsi, Kabupaten, Dan Kota Tahun 2009

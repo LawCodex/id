@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40788"
 bpk_page: "https://peraturan.bpk.go.id/Details/40788"
 bpk_metadata_archived: "http://web.archive.org/web/20251130213146/https://peraturan.bpk.go.id/Details/40788/uu-no-41-tahun-2004%20%D8%AA%D9%85%20%D8%A7%D9%84%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%20%D8%B9%D9%84%D9%8A%D9%87%20%D9%81%D9%8A%20%D9%8A%D9%88%D9%85%20%D8%A7%D9%84%D8%A3%D8%AD%D8%AF%D8%8C%2013%20%D9%8A%D9%88%D9%84%D9%8A%D9%88%202025."
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 41 Tahun 2004 tentang Wakaf

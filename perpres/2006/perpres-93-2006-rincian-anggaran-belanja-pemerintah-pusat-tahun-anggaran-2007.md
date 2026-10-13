@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES932006.pdf&fl=P16427"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=93&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 93 Tahun 2006 tentang Rincian Anggaran Belanja Pemerintah Pusat Tahun Anggaran 2007

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45268"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134543/https://peraturan.bpk.go.id/Details/45268"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1999 tentang Pengesahan Perjanjian antara Republik Indonesia dan Australia mengenai Bantuan Timbal Balik Dalam Masalah Pidana (Treaty Between The Republic of Indonesia and Australia on Mutual Assistancein Criminal Matters)

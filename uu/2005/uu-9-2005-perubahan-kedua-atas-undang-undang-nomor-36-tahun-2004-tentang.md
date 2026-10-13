@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40252"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141826/https://peraturan.bpk.go.id/Details/40252"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2005 tentang Perubahan Kedua atas Undang-Undang Nomor 36 Tahun 2004 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2005

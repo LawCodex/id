@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47166"
 bpk_page: "https://peraturan.bpk.go.id/Details/47166"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131837/https://peraturan.bpk.go.id/Details/47166"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1978 tentang Pembentukan Pengadilan Tinggi Kupang dan Perubahan Wilayah Hukum Pengadilan Tinggi Denpasar

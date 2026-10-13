@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25492"
 bpk_page: "https://peraturan.bpk.go.id/Details/25492"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120404/https://peraturan.bpk.go.id/Details/25492"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 38 Tahun 1947 tentang Undang-Undang Tentang Undian-Uang Negara

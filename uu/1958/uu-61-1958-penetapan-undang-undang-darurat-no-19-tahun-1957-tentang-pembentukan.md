@@ -25,7 +25,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52323"
 bpk_page: "https://peraturan.bpk.go.id/Details/52323"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105753/https://peraturan.bpk.go.id/Details/52323/uu-no-61-tahun-1958"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 61 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 19 Tahun 1957 Tentang Pembentukan Daerah-Daerah Swantantra Tingkat I Sumatera Barat, Jambi dan Riau" (Lembaran-Negara Tahun 1957 No. 75), Sebagai Undang-Undang

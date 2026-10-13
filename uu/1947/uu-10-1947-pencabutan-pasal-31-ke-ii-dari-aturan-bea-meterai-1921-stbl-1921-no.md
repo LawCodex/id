@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25236"
 bpk_page: "https://peraturan.bpk.go.id/Details/25236"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120302/https://peraturan.bpk.go.id/Details/25236"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1947 tentang Pencabutan Pasal 31 Ke II Dari Aturan Bea Meterai 1921 (STBL. 1921 No.498)

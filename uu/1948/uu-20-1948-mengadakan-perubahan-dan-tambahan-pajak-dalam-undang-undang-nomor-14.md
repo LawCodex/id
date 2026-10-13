@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25786"
 bpk_page: "https://peraturan.bpk.go.id/Details/25786"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120458/https://peraturan.bpk.go.id/Details/25786"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1948 tentang Mengadakan Perubahan dan Tambahan Pajak Dalam Undang-Undang Nomor 14 Tahun 1947 Dari Hal Pajak Pembangunan I

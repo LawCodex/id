@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38657"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144130/https://peraturan.bpk.go.id/Details/38657"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 2009 tentang Pertanggungjawaban atas Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2007

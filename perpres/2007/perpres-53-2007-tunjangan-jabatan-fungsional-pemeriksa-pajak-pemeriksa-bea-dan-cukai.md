@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42109"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082250/https://peraturan.bpk.go.id/Details/42109"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=53&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 53 Tahun 2007 tentang Tunjangan Jabatan Fungsional Pemeriksa Pajak, Pemeriksa Bea dan Cukai, dan Penilai Pajak Bumi dan Bangunan

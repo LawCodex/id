@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41361"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085635/https://peraturan.bpk.go.id/Details/41361/perpres-no-116-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=116&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 116 Tahun 2012 tentang Tunjangan Kinerja Pegawai di Lingkungan Lembaga Sandi Negara

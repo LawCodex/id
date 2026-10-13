@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39025"
 bpk_page: "https://peraturan.bpk.go.id/Details/39025"
 bpk_metadata_archived: "http://web.archive.org/web/20240909143415/https://peraturan.bpk.go.id/Details/39025"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2012 tentang Pengesahan International Convention on The Protection of The Rights of All Migrant Workers and Members of Their Families (Konvensi International Mengenai Perlindungan Hak-Hak Seluruh Pekerja Migran dan Anggota Keluarganya)

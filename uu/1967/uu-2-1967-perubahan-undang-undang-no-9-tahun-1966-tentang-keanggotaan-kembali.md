@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49520"
 bpk_page: "https://peraturan.bpk.go.id/Details/49520"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125047/https://peraturan.bpk.go.id/Details/49520"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1967 tentang Perubahan Undang-Undang No. 9 tahun 1966, tentang Keanggotaan Kembali Republik Indonesia Dalam International Monetary Fund dan Bank For Reconstruction and development (Lembaran-Negara Tahun 1966 No. 36).

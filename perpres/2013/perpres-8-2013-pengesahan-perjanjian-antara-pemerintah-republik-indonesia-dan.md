@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_8_Tahun_2013.pdf&fl=P15505"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=8&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 2013 tentang Pengesahan Perjanjian Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Ceko Tentang Kegiatan Kerjasama Di Bidang Pertahanan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Czech Republic On Cooperation Activities In The Field Of Defence)

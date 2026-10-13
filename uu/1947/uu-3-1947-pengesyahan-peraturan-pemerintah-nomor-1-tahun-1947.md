@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25213"
 bpk_page: "https://peraturan.bpk.go.id/Details/25213"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120408/https://peraturan.bpk.go.id/Details/25213"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1947 tentang Pengesyahan Peraturan Pemerintah Nomor 1 Tahun 1947

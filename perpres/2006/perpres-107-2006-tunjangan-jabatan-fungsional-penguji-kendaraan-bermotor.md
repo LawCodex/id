@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42036"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081914/https://peraturan.bpk.go.id/Details/42036"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=107&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 107 Tahun 2006 tentang Tunjangan Jabatan Fungsional Penguji Kendaraan Bermotor

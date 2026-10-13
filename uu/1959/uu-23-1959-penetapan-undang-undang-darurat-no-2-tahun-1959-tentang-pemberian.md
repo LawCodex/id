@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51495"
 bpk_page: "https://peraturan.bpk.go.id/Details/51495"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123105/https://peraturan.bpk.go.id/Details/51495"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1959 tentang Penetapan Undang-Undang Darurat No. 2 Tahun 1959 Tentang Pemberian Tanda Kehormatan Bintang Garuda (Lembaran-Negara Tahun 1959 No. 19), Sebagai Undang-Undang

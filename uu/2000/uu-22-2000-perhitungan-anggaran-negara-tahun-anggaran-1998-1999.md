@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44989"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140515/https://peraturan.bpk.go.id/Details/44989"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 2000 tentang Perhitungan Anggaran Negara Tahun Anggaran 1998/1999

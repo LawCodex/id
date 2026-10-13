@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41176"
 bpk_metadata_archived: "http://web.archive.org/web/20250423015610/https://peraturan.bpk.go.id/Details/41176/perpres-no-58-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=58&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 58 Tahun 2011 tentang Pembukaan Konsulat Jenderal Republik Indonesia di Shanghai, Republik Rakyat Tiongkok

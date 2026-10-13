@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50317"
 bpk_page: "https://peraturan.bpk.go.id/Details/50317"
 bpk_metadata_archived: "http://web.archive.org/web/20241125092759/https://peraturan.bpk.go.id/Details/50317/uu-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 3 Tahun 1964 Tentang Pembentukan Daerah Tingkat I Lampung Dengan Mengubah Undang-Undang No. 25 Tahun 1959 Tentang Pembentukan Daerah Tingkat I Sumatera Selatan (Lembaran Negara Tahun 1964 No. 8) Menjadi Undang-Undang

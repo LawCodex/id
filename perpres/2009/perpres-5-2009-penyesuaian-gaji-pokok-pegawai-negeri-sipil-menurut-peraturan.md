@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42291"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082649/https://peraturan.bpk.go.id/Details/42291"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=5&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 2009 tentang Penyesuaian Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 10 Tahun 2008 ke dalam Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 8 Tahun 2009

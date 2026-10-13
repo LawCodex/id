@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42140"
 bpk_metadata_archived: "http://web.archive.org/web/20250713053306/https://peraturan.bpk.go.id/Details/42140/perpres-no-89-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=89&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 89 Tahun 2007 tentang Gerakan Nasional Rehabilitasi Hutan dan Lahan

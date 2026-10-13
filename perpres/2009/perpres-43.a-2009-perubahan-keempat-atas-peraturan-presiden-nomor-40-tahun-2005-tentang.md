@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan+Perpres+Nomor+43.A+Tahun+2009.pdf&fl=P18722"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=43.A&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 43.A Tahun 2009 tentang Perubahan Keempat Atas Peraturan Presiden Nomor 40 Tahun 2005 Tentang Staf Khusus Presiden

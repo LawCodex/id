@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_54_2013.pdf&fl=P16052"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=54&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 54 Tahun 2013 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Ternate Menjadi Institut Agama Islam Negeri Ternate

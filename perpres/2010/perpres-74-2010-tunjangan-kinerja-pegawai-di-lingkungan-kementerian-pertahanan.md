@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41078"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085823/https://peraturan.bpk.go.id/Details/41078/perpres-no-74-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=74&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 74 Tahun 2010 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pertahanan

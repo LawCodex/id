@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42485"
 bpk_page: "https://peraturan.bpk.go.id/Details/42485"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124614/https://peraturan.bpk.go.id/Details/42485"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 29 Tahun 1964 tentang Pemberian Bantuan Berupa Uang Kepada Abdidalem dan Pensiunan Abdidalem Keraton Surakarta

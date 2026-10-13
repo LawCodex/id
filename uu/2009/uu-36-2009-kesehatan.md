@@ -30,7 +30,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38778"
 bpk_metadata_archived: "http://web.archive.org/web/20260302090926/https://peraturan.bpk.go.id/Details/38778/uu-no-11-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=36&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan

@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46917"
 bpk_page: "https://peraturan.bpk.go.id/Details/46917"
 bpk_metadata_archived: "http://web.archive.org/web/20251216231708/https://peraturan.bpk.go.id/Details/46917/uu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1985 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1969 tentang Pemilihan Umum Anggota-Anggota Badan Permusyawaratan/Perwakilan Rakyat sebagaimana telah Diubah dengan Undang-Undang Nomor 4 Tahun 1975 dan Undang-Undang Nomor 2 Tahun 1980

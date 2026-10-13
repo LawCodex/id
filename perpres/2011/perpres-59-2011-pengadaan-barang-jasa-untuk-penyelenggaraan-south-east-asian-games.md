@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41177"
 bpk_metadata_archived: "http://web.archive.org/web/20250213165925/https://peraturan.bpk.go.id/Details/41177/perpres-no-59-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=59&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 59 Tahun 2011 tentang Pengadaan Barang/Jasa untuk Penyelenggaraan South East Asian Games (Sea Games) XXVI Tahun 2011 dan ASEAN Para Games VI Tahun 2011

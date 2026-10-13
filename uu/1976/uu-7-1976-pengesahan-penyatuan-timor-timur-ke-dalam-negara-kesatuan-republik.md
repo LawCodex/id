@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47212"
 bpk_page: "https://peraturan.bpk.go.id/Details/47212"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131701/https://peraturan.bpk.go.id/Details/47212"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1976 tentang Pengesahan Penyatuan Timor-Timur ke Dalam Negara Kesatuan Republik Indonesia dan Pembentukan Propinsi Daerah Tingkat I Timor-Timur

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42299"
 bpk_metadata_archived: "http://web.archive.org/web/20241204224440/https://peraturan.bpk.go.id/Details/42299/perpres-no-16-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=16&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 2009 tentang Perpanjangan Batas Usia Pensiun bagi Pegawai Negeri Sipil yang Menduduki Jabatan Fungsional Sandiman

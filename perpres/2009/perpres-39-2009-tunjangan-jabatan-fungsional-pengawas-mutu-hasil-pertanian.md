@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42313"
 bpk_metadata_archived: "http://web.archive.org/web/20250430210713/https://peraturan.bpk.go.id/Details/42313/perpres-no-39-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=39&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 39 Tahun 2009 tentang Tunjangan Jabatan Fungsional Pengawas Mutu Hasil Pertanian

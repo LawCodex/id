@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_no_12_th_2007.pdf&fl=P15549"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=12&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 2007 tentang Pengesahan Agreement On Trade In Goods Under The Framework Agreement On Comprehensive Economic Cooperation Among The Governments Of The Member Countries Of The Association Of Southeast Asian Nations And The Republic Of Korea (Persetujuan Perdagangan Barang Dalam Persetujuan Kerangka Kerja Mengenai Kerjasama Ekonomi Menyeluruh Antar Pemerintah Negara-Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Republik Korea)

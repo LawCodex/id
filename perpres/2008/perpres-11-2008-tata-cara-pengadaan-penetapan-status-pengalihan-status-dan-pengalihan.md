@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42198"
 bpk_metadata_archived: "http://web.archive.org/web/20251209085243/https://peraturan.bpk.go.id/Details/42198/perpres-no-11-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=11&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 2008 tentang Tata Cara Pengadaan, Penetapan Status, Pengalihan Status, dan Pengalihan Hak Atas Rumah Negara

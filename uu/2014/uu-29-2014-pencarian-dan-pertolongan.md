@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38691"
 bpk_metadata_archived: "http://web.archive.org/web/20250410022447/https://peraturan.bpk.go.id/Details/38691/uu-no-29-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=29&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 2014 tentang Pencarian dan Pertolongan

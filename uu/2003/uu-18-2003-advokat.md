@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/43018"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141219/https://peraturan.bpk.go.id/Details/43018"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2003 tentang Advokat

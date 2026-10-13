@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50969"
 bpk_page: "https://peraturan.bpk.go.id/Details/50969"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121915/https://peraturan.bpk.go.id/Details/50969"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 67 Tahun 1954 tentang Penetapan Bagian I.B.W. XI (Pelabuhan Tanjung Priuk) dari Anggaran Republik Indonesia Untuk Tahun-Tahun Dinas 1952 dan 1953

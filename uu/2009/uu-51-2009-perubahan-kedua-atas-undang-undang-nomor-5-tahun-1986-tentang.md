@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38851"
 bpk_metadata_archived: "http://web.archive.org/web/20260904023858/https://peraturan.bpk.go.id/Details/38851/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=51&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 51 Tahun 2009 tentang Perubahan Kedua Atas Undang-Undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara

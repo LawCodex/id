@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41175"
 bpk_metadata_archived: "http://web.archive.org/web/20241113223259/https://peraturan.bpk.go.id/Details/41175/perpres-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=56&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 56 Tahun 2011 tentang Perubahan Kedua atas Peraturan Presiden Nomor 67 Tahun 2005 tentang Kerjasama Pemerintah dengan Badan Usaha dalam Penyediaan Infrastruktur

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50570"
 bpk_page: "https://peraturan.bpk.go.id/Details/50570"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124344/https://peraturan.bpk.go.id/Details/50570"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1963 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 11 Tahun 1962 tentang Pemungutan Sumbangan Wajib Istimewa Atas Beberapa Jenis Barang (Lembaran Negara Tahun 1962 No. 49), Menjadi Undang-Undang

@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42110"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082252/https://peraturan.bpk.go.id/Details/42110"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=54&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 54 Tahun 2007 tentang Tunjangan Jabatan Fungsional, Dokter, Dokter Gigi, Apoteker, Asisten Apoteker, Pranata Laboratorium Kesehatan, Epidemiolog Kesehatan, Entomolog Kesehatan, Sanitarian, Administrator Kesehatan, Penyuluh Kesehatan Masyarakat, Perawat Gigi, Nutrisionis, Bidan, Perawat, Radiografer, Perekam Medis, dan Teknisi Elektromedis

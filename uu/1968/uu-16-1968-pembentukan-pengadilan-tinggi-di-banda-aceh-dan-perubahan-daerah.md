@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49176"
 bpk_page: "https://peraturan.bpk.go.id/Details/49176"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125127/https://peraturan.bpk.go.id/Details/49176"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1968 tentang Pembentukan Pengadilan Tinggi di Banda Aceh dan Perubahan Daerah Hukum Pengadilan Tinggi di Medan

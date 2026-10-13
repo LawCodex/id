@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51255"
 bpk_page: "https://peraturan.bpk.go.id/Details/51255"
 bpk_metadata_archived: "http://web.archive.org/web/20240226203946/https://peraturan.bpk.go.id/Details/51255/uu-no-22-tahun-1961"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1961 tentang Perguruan Tinggi

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42376"
 bpk_page: "https://peraturan.bpk.go.id/Details/42376"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123155/https://peraturan.bpk.go.id/Details/42376"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 3 Tahun 1959 tentang Pengubahan Peraturan Presiden Republik Indonesia No. 2 Tahun 1959 (Lembaran-Negara No. 82 Tahun 1959)

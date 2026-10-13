@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_30_2013.pdf&fl=P15772"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=30&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 2013 tentang Pengesahan Protocol To Implement The Second Package Of Specific Commitments Under The Agreement On Trade In Services Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association Of Southeast Asian Nations And The People├Ö├Ç├Ûs Republic Of China (Protokol Untuk Melaksanakan Paket Kedua Komitmen Spesifik Di Bawah Persetujuan Perdagangan Jasa Dalam Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Negara-Negara Anggota Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik Rakyat China)

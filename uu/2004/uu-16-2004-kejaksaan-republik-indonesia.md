@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40511"
 bpk_page: "https://peraturan.bpk.go.id/Details/40511"
 bpk_metadata_archived: "http://web.archive.org/web/20260402192322/https://peraturan.bpk.go.id/Details/40511/uu-no-16-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2004 tentang Kejaksaan Republik Indonesia

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39757"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143944/https://peraturan.bpk.go.id/Details/39757"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=52&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 52 Tahun 2008 tentang Pembentukan Kabupaten Sabu Raijua di Provinsi Nusa Tenggara Timur

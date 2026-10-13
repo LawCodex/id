@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41372"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083400/https://peraturan.bpk.go.id/Details/41372"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=1&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2013 tentang Pengesahan Perjanjian antara Republik Indonesia dan Republik Portugal tentang Pembebasan Visa Tinggal Jangka Pendek untuk Pemegang Paspor Diplomatik, Dinas dan Khusus (Agreement Between The Republic Of Indonesia And The Portuguese Republic On Short-term Stay Visa Exemption For Holders Of Diplomatic, Service And Special Passports)

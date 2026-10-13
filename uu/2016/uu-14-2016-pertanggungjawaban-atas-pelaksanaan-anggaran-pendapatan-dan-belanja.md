@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/38359"
 bpk_page: "https://peraturan.bpk.go.id/Details/38359"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150021/https://peraturan.bpk.go.id/Details/38359"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2016 tentang Pertanggungjawaban atas Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun 2015
@@ -45,9 +45,7 @@ PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang : a. bahwa Anggaran Pendapatan dan Belanja Negara (APBN) Tahun Anggaran 2015 yang diundangkan berdasarkan Undang-Undang Nomor 27 Tahun 2014 tentang Anggaran Pendapatan dan Belanja Negara (APBN) Tahun Anggaran 2015 sebagaimana telah diubah dengan Undang-Undang Nomor 3 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 27 Tahun 2014 Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2015, pelaksanaannya perlu dilakukan pemeriksaan dan dipertanggungjawabkan sesuai dengan Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan Negara;
 
-b. bahwa sesuai dengan ketentuan Pasal 30 ayat (1) Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara dan Pasal 4 ayat (2) Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan Negara, terhadap
-
-2016, No.189 -2-pelaksanaan APBN Tahun Anggaran 2015 telah dilakukan pemeriksaan oleh Badan Pemeriksa Keuangan
+b. bahwa sesuai dengan ketentuan Pasal 30 ayat (1) Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara dan Pasal 4 ayat (2) Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan Negara, terhadap pelaksanaan APBN Tahun Anggaran 2015 telah dilakukan pemeriksaan oleh Badan Pemeriksa Keuangan
 
 (BPK);
 
@@ -86,8 +84,6 @@ Menetapkan: UNDANG-UNDANG TENTANG PERTANGGUNGJAWABAN
 ATAS PELAKSANAAN ANGGARAN PENDAPATAN DAN
 
 BELANJA NEGARA TAHUN ANGGARAN 2015.
-
-2016, No.189 -4-
 
 ##### Pasal 1
 
@@ -129,8 +125,6 @@ d. pembiayaan untuk menutup Defisit Anggaran Tahun Anggaran 2015 sebagaimana dim
 
 e. berdasarkan Defisit Anggaran sebagaimana dimaksud dalam huruf c dan Pembiayaan sebagaimana dimaksud dalam huruf d, terdapat Sisa Lebih Pembiayaan Anggaran
 
-2016, No.189 -6-
-
 (SiLPA) sebesar Rp24.613.179.586.977 (dua puluh empat triliun enam ratus tiga belas miliar seratus tujuh puluh sembilan juta lima ratus delapan puluh enam ribu sembilan ratus tujuh puluh tujuh rupiah);
 
 f. realisasi Pendapatan Negara sebagaimana dimaksud dalam huruf a, termasuk realisasi penerimaan minyak bumi dan gas alam yang dilaporkan berdasarkan asas neto.
@@ -166,8 +160,6 @@ a. jumlah aset sebesar Rp5.163.321.643.105.717 (lima kuadriliun seratus enam pul
 b. jumlah kewajiban sebesar Rp3.493.530.747.415.081 (tiga kuadriliun empat ratus sembilan puluh tiga triliun lima ratus tiga puluh miliar tujuh ratus empat puluh tujuh juta empat ratus lima belas ribu delapan puluh satu rupiah);
 
 c. jumlah ekuitas sebesar Rp1.669.790.895.690.636 (satu kuadriliun enam ratus enam puluh sembilan triliun tujuh ratus sembilan puluh miliar delapan ratus sembilan puluh lima juta enam ratus sembilan puluh ribu enam ratus tiga puluh enam rupiah).
-
-2016, No.189 -8-
 
 ##### Pasal 6
 
@@ -205,8 +197,6 @@ Laporan Perubahan Ekuitas Tahun Anggaran 2015 sebagaimana dimaksud dalam Pasal 2
 
 a. ekuitas awal Tahun Anggaran 2015 sebesar Rp1.012.199.491.708.078 (satu kuadriliun dua belas triliun seratus sembilan puluh sembilan miliar empat ratus sembilan puluh satu juta tujuh ratus delapan ribu tujuh puluh delapan rupiah);
 
-2016, No.189 -10-
-
 b. defisit Laporan Operasional Tahun Anggaran 2015 sebagaimana dimaksud dalam Pasal 6 huruf f sebesar Rp243.282.473.074.250 (dua ratus empat puluh tiga triliun dua ratus delapan puluh dua miliar empat ratus tujuh puluh tiga juta tujuh puluh empat ribu dua ratus lima puluh rupiah);
 
 c. penyesuaian Nilai Tahun Berjalan sebesar minus Rp450.391.075.659 (empat ratus lima puluh miliar tiga ratus sembilan puluh satu juta tujuh puluh lima ribu enam ratus lima puluh sembilan rupiah);
@@ -240,8 +230,6 @@ Laporan Keuangan Pemerintah Pusat sebagaimana dimaksud dalam Pasal 2, telah dipe
 a. terdapat ketidakpastian nilai Penyertaan Modal Negara sehubungan tidak diterapkannya kebijakan akuntansi Interpretasi atas Standar Akuntansi Keuangan (ISAK) Nomor 8 pada Laporan Keuangan PT PLN (Persero) Tahun 2015;
 
 b. Pemerintah menetapkan harga jual eceran minyak solar bersubsidi lebih tinggi dari harga dasar termasuk pajak dikurangi subsidi tetap;
-
-2016, No.189 -12-
 
 c. penatausahaan Piutang PNBP pada beberapa K/L tidak didukung dengan dokumen sumber yang memadai dan terdapat Piutang yang nilainya tidak sesuai hasil konfirmasi dengan wajib bayar;
 

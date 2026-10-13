@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES872006.pdf&fl=P16381"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=87&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 87 Tahun 2006 tentang Pembatalan Ketentuan Pasal 33 Ayat (2) Huruf N Dan Pasal 34 Ayat (8) Qanun Aceh Nomor 7 Tahun 2006 Tentang Perubahan Kedua Atas Qanun Provinsi Nanggroe Aceh Darussalam Nomor 2 Tahun 2004 Tentang Pemilihan Gubernur/Wakil Gubernur, Bupati/Wakil Bupati

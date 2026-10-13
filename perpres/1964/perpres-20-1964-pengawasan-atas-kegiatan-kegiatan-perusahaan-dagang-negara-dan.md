@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42492"
 bpk_page: "https://peraturan.bpk.go.id/Details/42492"
 bpk_metadata_archived: "http://web.archive.org/web/20250423011642/https://peraturan.bpk.go.id/Details/42492/perpres-no-20-tahun-1964"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 20 Tahun 1964 tentang Pengawasan atas Kegiatan-Kegiatan Perusahaan Dagang Negara dan Perusahaan Negara di Luar Negeri

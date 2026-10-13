@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68862"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082220/https://peraturan.bpk.go.id/Details/68862"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=31&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 31 Tahun 2007 tentang Tunjangan Jabatan Fungsional Perekayasa dan Teknisi Penelitian dan Perekayasaan

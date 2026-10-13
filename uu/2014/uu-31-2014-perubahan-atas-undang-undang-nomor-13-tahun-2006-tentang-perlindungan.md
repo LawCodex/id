@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38701"
 bpk_metadata_archived: "http://web.archive.org/web/20260128013958/https://peraturan.bpk.go.id/Details/38701/uu-no-32-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=31&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi dan Korban

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47155"
 bpk_page: "https://peraturan.bpk.go.id/Details/47155"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131832/https://peraturan.bpk.go.id/Details/47155"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1978 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1977/1978

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25473"
 bpk_page: "https://peraturan.bpk.go.id/Details/25473"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120320/https://peraturan.bpk.go.id/Details/25473"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1947 tentang Pembentukan Haminte-Kota Surakarta

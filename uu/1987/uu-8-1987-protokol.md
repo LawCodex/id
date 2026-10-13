@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46828"
 bpk_page: "https://peraturan.bpk.go.id/Details/46828"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132908/https://peraturan.bpk.go.id/Details/46828"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1987 tentang Protokol

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53758"
 bpk_page: "https://peraturan.bpk.go.id/Details/53758"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124653/https://peraturan.bpk.go.id/Details/53758"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1964 tentang Pembentukan Daerah Tingkat I Lampung Dengan Mengubah Undang-Undang No. 25 Tahun 1959 Tentang Pembentukan Daerah Tingkat I Sumatera Selatan

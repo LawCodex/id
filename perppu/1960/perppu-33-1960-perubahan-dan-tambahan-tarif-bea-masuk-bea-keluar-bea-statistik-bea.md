@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53545"
 bpk_page: "https://peraturan.bpk.go.id/Details/53545"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123418/https://peraturan.bpk.go.id/Details/53545"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 33 Tahun 1960 tentang Perubahan Dan Tambahan Tarif Bea Masuk, Bea Keluar, Bea Statistik, Bea Berat Barang Dan Pajak Masuk (Pajak Penjualan)

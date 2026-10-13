@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41222"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083007/https://peraturan.bpk.go.id/Details/41222"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=68&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 68 Tahun 2011 tentang Perubahan Ketiga atas Peraturan Presiden Nomor 14 Tahun 2007 tentang Badan Penanggulangan Lumpur Sidoarjo

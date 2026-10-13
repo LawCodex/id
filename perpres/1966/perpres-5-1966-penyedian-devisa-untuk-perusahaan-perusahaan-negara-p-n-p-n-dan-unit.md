@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42540"
 bpk_page: "https://peraturan.bpk.go.id/Details/42540"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125001/https://peraturan.bpk.go.id/Details/42540"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 1966 tentang Penyedian Devisa Untuk Perusahaan-Perusahaan Negara (P.N.-P.N.) dan Unit-Unit Lainnya dalam Lingkungan Departemen Pertambangan dari Hasil Ekspor yang diselenggarakannya

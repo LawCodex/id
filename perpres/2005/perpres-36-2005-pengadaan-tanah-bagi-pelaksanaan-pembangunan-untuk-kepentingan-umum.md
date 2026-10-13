@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42569"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081755/https://peraturan.bpk.go.id/Details/42569"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=36&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 36 Tahun 2005 tentang Pengadaan Tanah Bagi Pelaksanaan Pembangunan Untuk Kepentingan Umum

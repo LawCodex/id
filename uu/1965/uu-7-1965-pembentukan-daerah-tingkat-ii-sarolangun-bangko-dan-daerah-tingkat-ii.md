@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49991"
 bpk_page: "https://peraturan.bpk.go.id/Details/49991"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124920/https://peraturan.bpk.go.id/Details/49991"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1965 tentang Pembentukan Daerah Tingkat II Sarolangun-Bangko Dan Daerah Tingkat II Tanjung Jabung Dengan Mengubah Undang-Undang No. 12 tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Tengah

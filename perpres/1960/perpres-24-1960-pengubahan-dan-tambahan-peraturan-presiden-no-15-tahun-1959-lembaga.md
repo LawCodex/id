@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69372"
 bpk_page: "https://peraturan.bpk.go.id/Details/69372"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081559/https://peraturan.bpk.go.id/Details/69372"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 1960 tentang Pengubahan Dan Tambahan Peraturan Presiden No. 15 Tahun 1959 (Lembaga - Negara 1959 No. 15) Tentang Dewan Ekonomi Dan Pembangunan

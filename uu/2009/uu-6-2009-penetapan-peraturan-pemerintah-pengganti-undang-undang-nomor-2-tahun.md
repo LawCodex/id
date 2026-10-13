@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38588"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144322/https://peraturan.bpk.go.id/Details/38588"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2008 Tentang Perubahan Kedua Atas Undang Undang Nomor 23 Tahun 1999 tentang Bank Indonesia menjadi Undang-Undang

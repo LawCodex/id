@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41935"
 bpk_page: "https://peraturan.bpk.go.id/Details/41935"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092509/https://peraturan.bpk.go.id/Details/41935/perpres-no-1-tahun-2004"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2004 tentang Perubahan Sekolah Tinggi Agama Hindu Negeri Denpasar Menjadi Institut Hindu Dharma Negeri Denpasar

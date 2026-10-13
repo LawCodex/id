@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38615"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144102/https://peraturan.bpk.go.id/Details/38615"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2009 tentang Pengesahan Protocol To Prevent, Suppress And Punish Trafficking in Persons, Especially Women And Children,Supplementing The United Nations Convention Against Transnational Organized Crime (Protokol untuk Mencegah, Menindak, dan Menghukum Perdagangan Orang, Terutama Perempuan dan Anak-Anak, Melengkapi Konvensi Perserikatan Bangsa-Bangsa Menentang Tindak Pidana Transnasional yang Terorganisasi)

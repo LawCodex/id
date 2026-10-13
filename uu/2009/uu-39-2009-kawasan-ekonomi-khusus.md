@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/54483"
 bpk_metadata_archived: "http://web.archive.org/web/20250502121920/https://peraturan.bpk.go.id/Details/54483/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=39&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 39 Tahun 2009 tentang Kawasan Ekonomi Khusus

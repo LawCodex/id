@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45437"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134433/https://peraturan.bpk.go.id/Details/45437"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1998"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Convention Against Tortureand Other Cruel, Inhuman or Degrading Treatment or Punishment (Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi, atau Merendahkan Martabat Manusia)

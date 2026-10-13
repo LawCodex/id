@@ -25,7 +25,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46920"
 bpk_page: "https://peraturan.bpk.go.id/Details/46920"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132641/https://peraturan.bpk.go.id/Details/46920"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1985 tentang Perubahan atas Undang-Undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah Sebagaimana Telah Diubah dengan Undang-Undang Nomor 5 Tahun 1975

@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42574"
 bpk_metadata_archived: "http://web.archive.org/web/20250502065732/https://peraturan.bpk.go.id/Details/42574/perpres-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=42&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 42 Tahun 2005 tentang Komite Kebijakan Percepatan Penyediaan Infrastruktur

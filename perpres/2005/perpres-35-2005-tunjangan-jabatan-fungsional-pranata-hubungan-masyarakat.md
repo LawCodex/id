@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42568"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081946/https://peraturan.bpk.go.id/Details/42568/perpres-no-35-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=35&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 35 Tahun 2005 tentang Tunjangan Jabatan Fungsional Pranata Hubungan Masyarakat

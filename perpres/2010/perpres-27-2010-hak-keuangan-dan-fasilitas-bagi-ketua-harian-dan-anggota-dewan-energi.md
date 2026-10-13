@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41046"
 bpk_metadata_archived: "http://web.archive.org/web/20240923091634/https://peraturan.bpk.go.id/Details/41046/perpres-no-27-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=27&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 27 Tahun 2010 tentang Hak Keuangan dan Fasilitas bagi Ketua Harian dan Anggota Dewan Energi Nasional

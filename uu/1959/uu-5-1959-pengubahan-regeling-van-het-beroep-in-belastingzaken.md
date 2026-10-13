@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51359"
 bpk_page: "https://peraturan.bpk.go.id/Details/51359"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123235/https://peraturan.bpk.go.id/Details/51359"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1959 tentang Pengubahan "Regeling Van Het Beroep In Belastingzaken"

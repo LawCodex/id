@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/38788"
 bpk_page: "https://peraturan.bpk.go.id/Details/38788"
 bpk_metadata_archived: "http://web.archive.org/web/20251017032201/https://peraturan.bpk.go.id/Details/38788/u"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 43 Tahun 2009 tentang Kearsipan

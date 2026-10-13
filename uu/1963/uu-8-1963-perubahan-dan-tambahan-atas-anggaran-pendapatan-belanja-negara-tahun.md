@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50648"
 bpk_page: "https://peraturan.bpk.go.id/Details/50648"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124507/https://peraturan.bpk.go.id/Details/50648"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1963 tentang Perubahan dan Tambahan Atas Anggaran Pendapatan Belanja Negara Tahun 1962

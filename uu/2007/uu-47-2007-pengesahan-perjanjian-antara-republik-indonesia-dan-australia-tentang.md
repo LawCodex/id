@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40144"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142148/https://peraturan.bpk.go.id/Details/40144"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=47&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 47 Tahun 2007 tentang Pengesahan Perjanjian antara Republik Indonesia dan Australia tentang Kerangka Kerja Sama Keamanan (Agreement Between The Republic of Indonesia and Australia on The Framework for Security Cooperation)

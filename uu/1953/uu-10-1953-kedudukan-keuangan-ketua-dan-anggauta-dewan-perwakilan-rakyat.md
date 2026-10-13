@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45286"
 bpk_page: "https://peraturan.bpk.go.id/Details/45286"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121430/https://peraturan.bpk.go.id/Details/45286"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1953 tentang Kedudukan Keuangan Ketua dan Anggauta Dewan Perwakilan Rakyat Republik Indonesia

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51066"
 bpk_page: "https://peraturan.bpk.go.id/Details/51066"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122105/https://peraturan.bpk.go.id/Details/51066"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1955 tentang Penetapan Undang-Undang Darurat No. 10 Tahun 1951 tentang Pencabutan Peraturan Gaji Militer 1950, Seperti yang Termuat dalam Undang-Undang Darurat Republik Indonesia Serikat No.5 Tahun 1950 dan Diubah dengan Undang-Undang Darurat Republik Indonesia Serikat No. 27 Tahun 195o, Sebagai Undang-Undang

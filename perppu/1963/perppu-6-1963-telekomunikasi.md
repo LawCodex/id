@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53739"
 bpk_page: "https://peraturan.bpk.go.id/Details/53739"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124456/https://peraturan.bpk.go.id/Details/53739"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1963 tentang Telekomunikasi

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_no_8_th_2007.pdf&fl=P15499"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=8&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 2007 tentang Pengesahan Convention On International Interests In Mobile Equipment (Konvensi Tentang Kepentingan Internasional Dalam Peralatan Bergerak) Beserta Protocol To The Convention On International Interests In Mobile Equipmen On Matters Specific To Aircraft Equipment (Protokol Pada Konvensi Tentang Kepentingan Internasional Dalam Peralatan Bergerak Mengenai Masalah-Masalah Khusus Pada Peralatan Pesawat Udara)

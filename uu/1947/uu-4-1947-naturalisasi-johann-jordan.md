@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25216"
 bpk_page: "https://peraturan.bpk.go.id/Details/25216"
 bpk_metadata_archived: "http://web.archive.org/web/20240822110818/https://peraturan.bpk.go.id/Details/25216/uu-no-4-tahun-1947"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1947 tentang Naturalisasi Johann Jordan

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_29_2013.pdf&fl=P15760"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=29&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 29 Tahun 2013 tentang Pengesahan Memorandum Of Understanding Among The Governments Of The Participating Member States Of The Association Of Southeast Asian Nations (Asean) On The Second Pilot Project For The Implementation Of A Regional Self Certification System (Memorandum Saling Pengertian Antarpemerintah Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara (Asean) Peserta Pada Proyek Percontohan Kedua Untuk Pelaksanaan Sistem Sertifikasi Mandiri Kawasan)

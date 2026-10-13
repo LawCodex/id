@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51072"
 bpk_page: "https://peraturan.bpk.go.id/Details/51072"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121943/https://peraturan.bpk.go.id/Details/51072"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1955 tentang Pemberian Kuasa kepada Menteri Keuangan untuk Mengambil Uang-Muka pada Bank Indonesia Lebih dari Pada Batas yang Ditetapkan dalam Pasal 19 Ayat 2 Undang-Undang Pokok Bank Indonesia 1953 (Undang-Undang No. 11 Tahun 1953)

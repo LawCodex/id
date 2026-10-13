@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39736"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143918/https://peraturan.bpk.go.id/Details/39736"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=41&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 41 Tahun 2008 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2009

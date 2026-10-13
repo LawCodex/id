@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42504"
 bpk_page: "https://peraturan.bpk.go.id/Details/42504"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124651/https://peraturan.bpk.go.id/Details/42504"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 39 Tahun 1964 tentang Perubahan dan Tambahan Peraturan Presiden Nomor 23 Tahun 1963 Tentang Peraturan Penyesuaian Gaji dan Pangkat Pegawai Negeri Sipil dan Anggota Kepolisian Negara di Propinsi Irian Barat ke dalam "P.G.P.N. 1961"/"P.G.Pol. 1961"

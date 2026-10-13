@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_13_2013.pdf&fl=P15568"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=13&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 2013 tentang Pengesahan Persetujuan Mengenai Kerja Sama Teknik Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Argentina

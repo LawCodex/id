@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40235"
 bpk_page: "https://peraturan.bpk.go.id/Details/40235"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121239/https://peraturan.bpk.go.id/Details/40235"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1952 tentang Penetapan Undang-Undang Darurat tentang Tambahan Pokok Bea (Opsenten) atas Bea-Bea Masuk Selama Tahun 1951 (Undang-Undang Darurat Nr 39 Tahun 1950) Sebagai Undang-Undang

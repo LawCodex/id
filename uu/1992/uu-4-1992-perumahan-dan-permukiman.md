@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46596"
 bpk_metadata_archived: "http://web.archive.org/web/20251124093812/https://peraturan.bpk.go.id/Details/46596/uu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1992 tentang Perumahan dan Permukiman

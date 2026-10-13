@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42005"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082650/https://peraturan.bpk.go.id/Details/42005/perpres-no-71-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=71&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 71 Tahun 2006 tentang Penugasan Kepada PT Perusahaan Listrik Negara (Persero) Untuk Melakukan Percepatan Pembangunan Pembangkit Tenaga Listrik yang Menggunakan Batubara

@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52374"
 bpk_page: "https://peraturan.bpk.go.id/Details/52374"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122957/https://peraturan.bpk.go.id/Details/52374"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 87 Tahun 1958 tentang Pengubahan Undang-Undang Pajak Bangsa Asing (Undang-Undang No. 74 Tahun 1958)

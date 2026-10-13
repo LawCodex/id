@@ -10,7 +10,7 @@ source: "https://peraturan.bpk.go.id/Download/92286/UUD45_perubahan3.pdf"
 source_page: "https://peraturan.bpk.go.id/Details/101646"
 bpk_metadata_archived: "http://web.archive.org/web/20261002084126/https://peraturan.bpk.go.id/Details/101646/uud-no---uud-1945-dan-amandemen"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Perubahan Ketiga Undang-Undang Dasar Negara Republik Indonesia Tahun 1945

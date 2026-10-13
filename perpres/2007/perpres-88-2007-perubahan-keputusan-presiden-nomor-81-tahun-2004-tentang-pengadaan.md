@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42139"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085352/https://peraturan.bpk.go.id/Details/42139/perpres-no-88-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=88&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 88 Tahun 2007 tentang Perubahan Keputusan Presiden Nomor 81 Tahun 2004 tentang Pengadaan Rumah bagi Mantan Presiden dan/atau Mantan Wakil Presiden Republik Indonesia

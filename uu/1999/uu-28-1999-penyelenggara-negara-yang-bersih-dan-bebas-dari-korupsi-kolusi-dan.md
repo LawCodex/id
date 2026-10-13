@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45345"
 bpk_metadata_archived: "http://web.archive.org/web/20260829142210/https://peraturan.bpk.go.id/Details/45345/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=28&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1999 tentang Penyelenggara Negara yang Bersih dan Bebas dari Korupsi, Kolusi dan Nepotisme

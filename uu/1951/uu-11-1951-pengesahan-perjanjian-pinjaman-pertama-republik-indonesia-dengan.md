@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39851"
 bpk_page: "https://peraturan.bpk.go.id/Details/39851"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121010/https://peraturan.bpk.go.id/Details/39851"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1951 tentang Pengesahan Perjanjian Pinjaman Pertama Republik Indonesia dengan Export-Import Bank of Washington

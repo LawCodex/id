@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25381"
 bpk_page: "https://peraturan.bpk.go.id/Details/25381"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120409/https://peraturan.bpk.go.id/Details/25381"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 40 Tahun 1947 tentang Menyesuaikan Peraturan-Peraturan Hukum Disiplin Tentara (Staatsblad 1934, No.168) Dengan Keadaan Sekarang

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53681"
 bpk_page: "https://peraturan.bpk.go.id/Details/53681"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124156/https://peraturan.bpk.go.id/Details/53681"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 14 Tahun 1962 tentang Sumbangan Wajib Istimewa Atas Kendaraaan Bermotor Yang Diimport Ke Dalam Daerah Pabean Indoneia

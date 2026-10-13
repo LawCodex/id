@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53668"
 bpk_page: "https://peraturan.bpk.go.id/Details/53668"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124150/https://peraturan.bpk.go.id/Details/53668"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 12 Tahun 1962 tentang Ketentuan Dibidang Fiskal Mengenai Pembayaran Sumbangan Wajib Istimewa

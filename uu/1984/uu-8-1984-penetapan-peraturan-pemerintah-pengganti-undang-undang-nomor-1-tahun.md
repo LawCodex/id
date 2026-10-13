@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46979"
 bpk_page: "https://peraturan.bpk.go.id/Details/46979"
 bpk_metadata_archived: "http://web.archive.org/web/20250809220017/https://peraturan.bpk.go.id/Details/46979/uu-no-1-tahun-1970"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1984 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1984 Tentang Penangguhan Mulai Berlakunya Undang-Undang Pajak Pertambahan Nilai 1984 Menjadi Undang-Undang

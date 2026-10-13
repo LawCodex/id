@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/38813"
 bpk_page: "https://peraturan.bpk.go.id/Details/38813"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145138/https://peraturan.bpk.go.id/Details/38813"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2013 tentang Lembaga Keuangan Mikro

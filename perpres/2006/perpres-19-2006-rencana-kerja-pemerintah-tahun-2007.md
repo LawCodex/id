@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=19.pdf&fl=P15635"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=19&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 2006 tentang Rencana Kerja Pemerintah Tahun 2007

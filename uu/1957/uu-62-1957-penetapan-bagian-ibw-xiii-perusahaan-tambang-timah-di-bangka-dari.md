@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52696"
 bpk_page: "https://peraturan.bpk.go.id/Details/52696"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122554/https://peraturan.bpk.go.id/Details/52696"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 62 Tahun 1957 tentang Penetapan Bagian IBW XIII (Perusahaan Tambang Timah di Bangka) Dari Anggaran Republik Indonesia Tahun Dinas 1954

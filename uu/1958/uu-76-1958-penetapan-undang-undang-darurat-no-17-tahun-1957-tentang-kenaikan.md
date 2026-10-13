@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52870"
 bpk_page: "https://peraturan.bpk.go.id/Details/52870"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122938/https://peraturan.bpk.go.id/Details/52870"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 76 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 17 Tahun 1957 Tentang Kenaikan Tarip Cukai Atas Bir, Gula, Saccharin Dan Sebagainya Dan Kenaikan Bea Masuk Atas Bir (Lembaran-Negara Tahun 1957 No. 64)" Sebagai Undang-Undang

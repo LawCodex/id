@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42455"
 bpk_page: "https://peraturan.bpk.go.id/Details/42455"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124323/https://peraturan.bpk.go.id/Details/42455"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 1963 tentang Penertiban Pembangunan Baru disepanjang Jalan Antara Jakarta-Bogor-Puncak-Cianjur, di luar Batas-Batas Daerah Khusus Ibukota Jakarta-Raya, Daerah Swatantra Tingkat II Bogor dan Daerah Swatantra Tingkat II Cianjur

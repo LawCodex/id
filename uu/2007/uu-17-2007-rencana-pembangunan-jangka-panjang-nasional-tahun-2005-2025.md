@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39830"
 bpk_metadata_archived: "http://web.archive.org/web/20250907094422/https://peraturan.bpk.go.id/Details/39830/uu-no-17-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2007 tentang Rencana Pembangunan Jangka Panjang Nasional Tahun 2005 – 2025

@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41042"
 bpk_page: "https://peraturan.bpk.go.id/Details/41042"
 bpk_metadata_archived: "http://web.archive.org/web/20251127124129/https://peraturan.bpk.go.id/Details/41042/perpres-no-23-tahun-2010%20diakses%20pada%202024-08-24"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 2010 tentang Badan Narkotika Nasional

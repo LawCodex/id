@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44874"
 bpk_page: "https://peraturan.bpk.go.id/Details/44874"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105423/https://peraturan.bpk.go.id/Details/44874/uu-no-9-tahun-2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2001 tentang Pembentukan Kota Cimahi

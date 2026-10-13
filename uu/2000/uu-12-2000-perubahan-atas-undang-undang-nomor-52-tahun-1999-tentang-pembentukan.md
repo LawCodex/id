@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44962"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140413/https://peraturan.bpk.go.id/Details/44962"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2000 tentang Perubahan Atas Undang-Undang Nomor 52 Tahun 1999 Tentang Pembentukan Kabupaten Lembata

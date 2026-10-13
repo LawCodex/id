@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40507"
 bpk_page: "https://peraturan.bpk.go.id/Details/40507"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141420/https://peraturan.bpk.go.id/Details/40507"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2004 tentang Pembentukan Pengadilan Tinggi Bangka Belitung

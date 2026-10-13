@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0232013.pdf&fl=P15690"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=23&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 2013 tentang Pengesahan Persetujuan Antara Pemerintah Negara-Negara Anggota Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik Korea Mengenai Kerja Sama Di Bidang Kehutanan

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39764"
 bpk_metadata_archived: "http://web.archive.org/web/20250525173127/https://peraturan.bpk.go.id/Details/39764/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=56&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 56 Tahun 2008 tentang Pembentukan Kabupaten Tambrauw di Provinsi Papua Barat

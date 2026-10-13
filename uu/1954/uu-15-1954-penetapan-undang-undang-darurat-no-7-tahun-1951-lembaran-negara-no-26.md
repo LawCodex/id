@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47975"
 bpk_page: "https://peraturan.bpk.go.id/Details/47975"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121643/https://peraturan.bpk.go.id/Details/47975"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1954 tentang Penetapan "Undang-Undang Darurat No. 7 Tahun 1951 (Lembaran Negara No 26 Tahun 1951) Untuk Memperpanjang Waktu Berlakunya Aturan Hukum Termaksud dalam Pasal 3 Ayat 2 Ordonansi (Staatsblad Untuk Indonesia Tahun 1948 No 141)" Sebagai Undang-Undang

@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/62854"
 bpk_page: "https://peraturan.bpk.go.id/Details/62854"
 bpk_metadata_archived: "http://web.archive.org/web/20231207130138/https://peraturan.bpk.go.id/Details/62854/perpu-no-20-tahun-1947"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 20 Tahun 1947 tentang Peraturan Promes Negara

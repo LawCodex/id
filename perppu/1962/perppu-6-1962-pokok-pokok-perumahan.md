@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53651"
 bpk_page: "https://peraturan.bpk.go.id/Details/53651"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124258/https://peraturan.bpk.go.id/Details/53651"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1962 tentang Pokok-Pokok Perumahan

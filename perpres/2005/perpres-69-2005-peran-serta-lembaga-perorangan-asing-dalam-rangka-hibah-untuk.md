@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES_NO_69_TAHUN_2005.pdf&fl=P16210"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=69&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 69 Tahun 2005 tentang Peran Serta Lembaga/Perorangan Asing Dalam Rangka Hibah Untuk Rehabilitasi Dan Rekonstruksi Wilayah Dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam Dan Kepulauan Nias Provinsi Sumatera Utara

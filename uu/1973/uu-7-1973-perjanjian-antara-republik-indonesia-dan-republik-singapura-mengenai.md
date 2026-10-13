@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47436"
 bpk_page: "https://peraturan.bpk.go.id/Details/47436"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131414/https://peraturan.bpk.go.id/Details/47436"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1973 tentang Perjanjian antara Republik Indonesia dan Republik Singapura Mengenai Penetapan Garis Batas Laut Wilayah Kedua Negara di Selat Singapura

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46820"
 bpk_page: "https://peraturan.bpk.go.id/Details/46820"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132859/https://peraturan.bpk.go.id/Details/46820"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1987 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1986/1987

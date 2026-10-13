@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41373"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083427/https://peraturan.bpk.go.id/Details/41373"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=3&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 3 Tahun 2013 tentang Perubahan Ketujuh atas Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Kementerian

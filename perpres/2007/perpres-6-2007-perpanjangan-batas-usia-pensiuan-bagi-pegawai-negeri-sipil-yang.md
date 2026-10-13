@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_no_6_th_2007.pdf&fl=P15473"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=6&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 2007 tentang Perpanjangan Batas Usia Pensiuan Bagi Pegawai Negeri Sipil Yang Menuduki Jabatan Fungsional Penyelidik Bumi

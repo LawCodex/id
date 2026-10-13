@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42243"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083003/https://peraturan.bpk.go.id/Details/42243/perpres-no-81-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=81&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 81 Tahun 2008 tentang Organisasi dan Tata Kerja Instansi Vertikal Departemen Agama

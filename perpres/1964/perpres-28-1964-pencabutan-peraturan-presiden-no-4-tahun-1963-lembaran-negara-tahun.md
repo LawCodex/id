@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42488"
 bpk_page: "https://peraturan.bpk.go.id/Details/42488"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124610/https://peraturan.bpk.go.id/Details/42488"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 28 Tahun 1964 tentang Pencabutan Peraturan Presiden No. 4 Tahun 1963 (Lembaran Negara Tahun 1963 No. 29) Tentang Pendirian Perusahaan Negera Irian Bhakti

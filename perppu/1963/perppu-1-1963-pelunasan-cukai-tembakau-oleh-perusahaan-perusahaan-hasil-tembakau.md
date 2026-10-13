@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53697"
 bpk_page: "https://peraturan.bpk.go.id/Details/53697"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124342/https://peraturan.bpk.go.id/Details/53697"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1963 tentang Pelunasan Cukai Tembakau Oleh Perusahaan-Perusahaan Hasil Tembakau Dan Pengeluaran Hasil-Hasil Tembakau Dari Perusahaan-Perusahaan itu Kedalam Peredaran Bebas (Disempurnakan)

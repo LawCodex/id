@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40509"
 bpk_page: "https://peraturan.bpk.go.id/Details/40509"
 bpk_metadata_archived: "http://web.archive.org/web/20250619055023/https://peraturan.bpk.go.id/Details/40509/uu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan Negara

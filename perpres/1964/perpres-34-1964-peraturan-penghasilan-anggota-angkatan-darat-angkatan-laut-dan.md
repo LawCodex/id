@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42497"
 bpk_page: "https://peraturan.bpk.go.id/Details/42497"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124634/https://peraturan.bpk.go.id/Details/42497"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 34 Tahun 1964 tentang Peraturan Penghasilan Anggota Angkatan Darat, Angkatan Laut dan Angkatan Udara di Propinsi Irian Barat

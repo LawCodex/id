@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49975"
 bpk_page: "https://peraturan.bpk.go.id/Details/49975"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124854/https://peraturan.bpk.go.id/Details/49975"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1965 tentang Lalu-Lintas dan Angkutan Jalan Raya

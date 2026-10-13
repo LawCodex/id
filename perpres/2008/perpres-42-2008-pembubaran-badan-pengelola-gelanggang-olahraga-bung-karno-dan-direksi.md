@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+42+2008.pdf&fl=P15910"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=42&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 42 Tahun 2008 tentang Pembubaran Badan Pengelola Gelanggang Olahraga Bung Karno Dan Direksi Pelaksana Pengelolaan Gelanggang Olahraga Bung Karno

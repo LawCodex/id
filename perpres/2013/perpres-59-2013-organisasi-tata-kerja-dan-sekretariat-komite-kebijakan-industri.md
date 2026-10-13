@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41429"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083452/https://peraturan.bpk.go.id/Details/41429"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=59&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 59 Tahun 2013 tentang Organisasi, Tata Kerja, dan Sekretariat Komite Kebijakan Industri Pertahanan

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69328"
 bpk_page: "https://peraturan.bpk.go.id/Details/69328"
 bpk_metadata_archived: "http://web.archive.org/web/20250125133959/https://peraturan.bpk.go.id/Details/69328/perpres-no-1-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 1960 tentang Pemberian "Uang Jasa" kepada Bekas Ketua, Wakil Ketua dan Anggota Konstituante

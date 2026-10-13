@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45439"
 bpk_page: "https://peraturan.bpk.go.id/Details/45439"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121535/https://peraturan.bpk.go.id/Details/45439"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 1953 tentang Penetapan "Undang-Undang Darurat Nomor 15 Tahun 1951, Penilaian dari Bagian-Bagian Pendapatan dan Kekayaan, Baik yang Diperoleh Maupun yang Berada dalam Uang Asing untuk Pemungutan Pajak Peralihan, Pajak Upah, Pajak Perseroan dan Pajak Kekayaan dan tentang Pengubahan Ordonansi Pajak Peralihan 1944" (Lembaran-Negara Nomor 87 Tahun 1951) Sebagai Undang-Undang

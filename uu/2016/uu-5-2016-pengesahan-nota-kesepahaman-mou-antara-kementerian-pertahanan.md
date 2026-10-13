@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37221"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150140/https://peraturan.bpk.go.id/Details/37221"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2016 tentang Pengesahan Nota Kesepahaman (Mou) Antara Kementerian Pertahanan Republik Indonesia Dan Kementerian Pertahanan Republik Federasi Jerman Mengenai Kerja Sama Di Bidang Pertahanan (Memorandum Of Understanding (Mou) Between The Ministry Of Defence Of The Republic Of Indonesia And The Federal Ministry Of Defence Of The Federal Republic Of Germany Concerning Cooperation In The Field Of Defence)

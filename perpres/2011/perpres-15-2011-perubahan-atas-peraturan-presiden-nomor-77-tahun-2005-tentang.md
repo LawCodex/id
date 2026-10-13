@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41149"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082854/https://peraturan.bpk.go.id/Details/41149"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=15&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 15 Tahun 2011 tentang Perubahan atas Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan

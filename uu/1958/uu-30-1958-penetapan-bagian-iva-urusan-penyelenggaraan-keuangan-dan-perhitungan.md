@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52167"
 bpk_page: "https://peraturan.bpk.go.id/Details/52167"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122735/https://peraturan.bpk.go.id/Details/52167"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 30 Tahun 1958 tentang Penetapan Bagian IVA (Urusan Penyelenggaraan Keuangan dan Perhitungan-Perhitungan MengenaiPerusahaan-Perusahaan dan Jawatan-Jawatan (Pemerintah) yang Mempunyai Pengurus Sendiri) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

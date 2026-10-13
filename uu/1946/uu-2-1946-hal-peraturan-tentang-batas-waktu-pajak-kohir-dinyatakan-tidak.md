@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25391"
 bpk_page: "https://peraturan.bpk.go.id/Details/25391"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120243/https://peraturan.bpk.go.id/Details/25391"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1946 tentang Hal Peraturan tentang Batas Waktu Pajak Kohir dinyatakan Tidak Berlaku Lagi (Stbld. 1882 Nomor 10)

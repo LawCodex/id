@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50675"
 bpk_page: "https://peraturan.bpk.go.id/Details/50675"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124256/https://peraturan.bpk.go.id/Details/50675"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1962 tentang Perusahaan Daerah

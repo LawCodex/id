@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42288"
 bpk_metadata_archived: "http://web.archive.org/web/20250423010552/https://peraturan.bpk.go.id/Details/42288/perpres-no-2-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=2&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 2009 tentang Bantuan dan Fasilitas Pemerintah Daerah dalam Penyelenggaraan Pemilihan Umum Tahun 2009

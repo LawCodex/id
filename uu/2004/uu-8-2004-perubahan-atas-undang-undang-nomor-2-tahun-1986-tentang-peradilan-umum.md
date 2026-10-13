@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40498"
 bpk_page: "https://peraturan.bpk.go.id/Details/40498"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141619/https://peraturan.bpk.go.id/Details/40498"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 2 Tahun 1986 tentang Peradilan Umum

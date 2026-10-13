@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49102"
 bpk_page: "https://peraturan.bpk.go.id/Details/49102"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125327/https://peraturan.bpk.go.id/Details/49102"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1969 tentang Pernyataan Tidak Berlakunya Berbagai Undang-Undang dan Peraturan Pemerintah Pengganti Undang-Undang

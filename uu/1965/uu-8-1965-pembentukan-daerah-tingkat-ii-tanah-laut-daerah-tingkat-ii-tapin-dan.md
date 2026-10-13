@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49994"
 bpk_page: "https://peraturan.bpk.go.id/Details/49994"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124923/https://peraturan.bpk.go.id/Details/49994"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1965 tentang Pembentukan Daerah Tingkat II Tanah Laut, Daerah Tingkat II Tapin Dan Derah Tingkat II Tabalong Dengan Mengubah Undang-Undang No. 27 tahun 1959, tentang Penetapan Undang-Undang Darurat No. 3 tahun 1953, tentang Pembentukan Daerah Tingkat II Di Kalimantan

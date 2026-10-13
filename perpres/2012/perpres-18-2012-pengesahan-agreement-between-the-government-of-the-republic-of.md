@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_18_2012.pdf&fl=P15628"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=18&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 2012 tentang Pengesahan Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Independent State Of Papua New Guinea For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion With Respect To Taxes On Income (Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Negara Berdaulat Papua Nugini Untuk Penghindaran Pajak Berganda Dan Pencegahan Pengelakan Pajak Yang Berkenaan Dengan Pajak Atas Penghasilan)

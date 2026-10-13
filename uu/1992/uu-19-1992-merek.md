@@ -24,7 +24,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46616"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133404/https://peraturan.bpk.go.id/Details/46616"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1992 tentang Merek

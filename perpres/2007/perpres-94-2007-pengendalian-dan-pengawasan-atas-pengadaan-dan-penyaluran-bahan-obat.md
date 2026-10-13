@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_94_Tahun_2007.pdf&fl=P16435"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=94&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 94 Tahun 2007 tentang Pengendalian Dan Pengawasan Atas Pengadaan Dan Penyaluran Bahan Obat, Obat Spesifik Dan Alat Kesehatan Yang Berfungsi Sebagai Obat

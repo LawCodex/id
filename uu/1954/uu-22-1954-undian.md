@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50408"
 bpk_page: "https://peraturan.bpk.go.id/Details/50408"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121704/https://peraturan.bpk.go.id/Details/50408"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1954 tentang Undian

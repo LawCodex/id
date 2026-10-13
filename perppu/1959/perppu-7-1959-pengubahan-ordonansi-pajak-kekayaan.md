@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53855"
 bpk_page: "https://peraturan.bpk.go.id/Details/53855"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123247/https://peraturan.bpk.go.id/Details/53855"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1959 tentang Pengubahan Ordonansi Pajak Kekayaan

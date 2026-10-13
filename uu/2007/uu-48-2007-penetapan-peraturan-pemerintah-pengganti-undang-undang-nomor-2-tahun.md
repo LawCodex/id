@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40145"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142152/https://peraturan.bpk.go.id/Details/40145"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=48&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 48 Tahun 2007 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2007 tentang Penanganan Permasalahan Hukum dalam Rangka Pelaksanaan Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat di Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara Menjadi Undang-Undang

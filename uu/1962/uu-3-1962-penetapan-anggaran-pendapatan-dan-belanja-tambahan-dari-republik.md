@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50669"
 bpk_page: "https://peraturan.bpk.go.id/Details/50669"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124247/https://peraturan.bpk.go.id/Details/50669"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1962 tentang Penetapan Anggaran Pendapatan dan Belanja Tambahan Dari Republik Indonesia Untuk Tahun 1960

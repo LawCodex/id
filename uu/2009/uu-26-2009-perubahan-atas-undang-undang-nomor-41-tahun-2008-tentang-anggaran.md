@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38752"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144137/https://peraturan.bpk.go.id/Details/38752"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=26&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 41 Tahun 2008 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2009

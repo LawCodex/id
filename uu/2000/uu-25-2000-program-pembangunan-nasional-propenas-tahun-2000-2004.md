@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44992"
 bpk_page: "https://peraturan.bpk.go.id/Details/44992"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140522/https://peraturan.bpk.go.id/Details/44992"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 2000 tentang Program Pembangunan Nasional (Propenas) Tahun 2000-2004

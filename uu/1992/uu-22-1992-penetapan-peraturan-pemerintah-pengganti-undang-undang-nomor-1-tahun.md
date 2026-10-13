@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46619"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133415/https://peraturan.bpk.go.id/Details/46619"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1992 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1992 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 14 Tahun 1992 tentang Lalu Lintas dan Angkutan Jalan Menjadi Undang-Undang

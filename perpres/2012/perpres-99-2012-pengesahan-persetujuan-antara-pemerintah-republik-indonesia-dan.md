@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_099_2012.pdf&fl=P16472"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=99&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 99 Tahun 2012 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Perhimpunan Bangsa-Bangsa Asia Tenggara (Asean) Mengenai Ketuanrumahan Dan Pemberian Keistimewaan Dan Kekebalan Kepada Sekretariat Asean (Agreement Between The Government Of The Republic Of Indonesia And The Association Of Southeast Asian Nations (Asean) On Hosting And Granting Privileges And Immunities To The Asean Secretariat)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39936"
 bpk_page: "https://peraturan.bpk.go.id/Details/39936"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121050/https://peraturan.bpk.go.id/Details/39936"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1951 tentang Pembebasan Cukai Guna Pegawai-Pegawai Diplomatik atau Konsuler dari Negeri-Negeri Asing yang Menjalankan Tugasnya Dinegeri Ini

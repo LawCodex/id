@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_44_2011.pdf&fl=P15936"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=44&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 44 Tahun 2011 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Federasi Rusia Tentang Kerja Sama Penggunaan Energi Atom Untuk Maksud Damai (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Russian Federation On The Cooperation In The Peaceful Uses Of Atomic Energy)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53655"
 bpk_page: "https://peraturan.bpk.go.id/Details/53655"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124302/https://peraturan.bpk.go.id/Details/53655"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1962 tentang Penggunaan Dan Pengawasan Atas Penggunaan Dana-Dana Investasi

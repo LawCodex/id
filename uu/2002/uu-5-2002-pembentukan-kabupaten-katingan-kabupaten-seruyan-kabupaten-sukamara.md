@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44427"
 bpk_page: "https://peraturan.bpk.go.id/Details/44427"
 bpk_metadata_archived: "http://web.archive.org/web/20240815160422/https://peraturan.bpk.go.id/Details/44427/uu-no-5-tahun-2002"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2002 tentang Pembentukan Kabupaten Katingan, Kabupaten Seruyan, Kabupaten Sukamara, Kabupaten Lamandau, Kabupaten Gunung Mas, Kabupaten Pulang Pisau, Kabupaten Murung Raya, Dan Kabupaten Barito Timur Di Provinsi Kalimantan Tengah

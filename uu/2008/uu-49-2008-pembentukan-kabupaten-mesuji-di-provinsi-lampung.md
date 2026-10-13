@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39753"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111214/https://peraturan.bpk.go.id/Details/39753/uu-no-49-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=49&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 49 Tahun 2008 tentang Pembentukan Kabupaten Mesuji di Provinsi Lampung

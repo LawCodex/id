@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42487"
 bpk_page: "https://peraturan.bpk.go.id/Details/42487"
 bpk_metadata_archived: "http://web.archive.org/web/20250430201051/https://peraturan.bpk.go.id/Details/42487/perpres-no-46-tahun-1964"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 46 Tahun 1964 tentang Pemberian Perbaikan Penghasilan Kepada Bekas Pegawai Sipil/Anggota Angkatan Kepolisian Negara/Angkatan Kepolisian Negara/Anggota Militer/Menteri Negara dan Ketua/Anggota Dewan Perwakilan Rakyat Gotong Royong Serta Janda dan Anak Yatim-Piatunya

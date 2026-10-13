@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40158"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141954/https://peraturan.bpk.go.id/Details/40158"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2006 tentang Pengesahan International Convention For The Suppression of Terrorist Bombings, 1997 (Konvensi Internasional Pemberantasan Pengeboman oleh Teroris, 1997)

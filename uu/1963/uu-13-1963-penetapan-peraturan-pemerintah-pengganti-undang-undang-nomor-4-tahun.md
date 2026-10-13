@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50660"
 bpk_page: "https://peraturan.bpk.go.id/Details/50660"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124327/https://peraturan.bpk.go.id/Details/50660"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1963 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1962 Tentang Perjanjian Karya Antara Perusahaan Negara Pertamina Dan Pan American Oil Company Menjadi Undang-Undang

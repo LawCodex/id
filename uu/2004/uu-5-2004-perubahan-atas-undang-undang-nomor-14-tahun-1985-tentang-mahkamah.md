@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40491"
 bpk_page: "https://peraturan.bpk.go.id/Details/40491"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141610/https://peraturan.bpk.go.id/Details/40491"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah Agung

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69410"
 bpk_page: "https://peraturan.bpk.go.id/Details/69410"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124122/https://peraturan.bpk.go.id/Details/69410"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 1961 tentang Peraturan Kendaraan Bermotor Milik Negara Untuk Dinas-Dinas Sipil

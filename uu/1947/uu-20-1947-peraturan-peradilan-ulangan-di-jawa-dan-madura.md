@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25274"
 bpk_page: "https://peraturan.bpk.go.id/Details/25274"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120332/https://peraturan.bpk.go.id/Details/25274"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1947 tentang Peraturan Peradilan Ulangan di Jawa dan Madura

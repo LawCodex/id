@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=2016"
 bpk_page: "https://peraturan.bpk.go.id/Details/37575"
 bpk_metadata_archived: "http://web.archive.org/web/20251019152934/https://peraturan.bpk.go.id/Details/37575/uu-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 Tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak Menjadi Undang-Undang

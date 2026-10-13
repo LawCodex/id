@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52788"
 bpk_page: "https://peraturan.bpk.go.id/Details/52788"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122628/https://peraturan.bpk.go.id/Details/52788"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 80 Tahun 1957 tentang Persetujuan Konpensi Organisasi Perburuhan Internasional No. 100 Mengenai Pengupahan Yang Sama Bagi Buruh Laki-Laki dan Wanita Untuk Pekerjaan Yang Sama Nilainya

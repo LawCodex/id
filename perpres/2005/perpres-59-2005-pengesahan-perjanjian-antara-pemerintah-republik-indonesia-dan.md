@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42627"
 bpk_metadata_archived: "http://web.archive.org/web/20251128170847/https://peraturan.bpk.go.id/Details/42627/perpres-no-59-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=59&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 59 Tahun 2005 tentang Pengesahan Perjanjian Antara Pemerintah Republik Indonesia dan Pemerintah Republik Rakyat China Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik dan Dinas

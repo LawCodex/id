@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40437"
 bpk_metadata_archived: "http://web.archive.org/web/20240923090004/https://peraturan.bpk.go.id/Details/40437/perpres-no-32-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 32 Tahun 2013 tentang Penugasan Kepada Perusahaan Umum Bulog Untuk Pengamanan Harga Dan Penyaluran Kedelai

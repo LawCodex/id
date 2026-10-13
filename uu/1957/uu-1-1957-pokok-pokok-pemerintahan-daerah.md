@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52381"
 bpk_page: "https://peraturan.bpk.go.id/Details/52381"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122341/https://peraturan.bpk.go.id/Details/52381"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1957 tentang Pokok-Pokok Pemerintahan Daerah

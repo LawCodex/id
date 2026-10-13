@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25485"
 bpk_page: "https://peraturan.bpk.go.id/Details/25485"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120350/https://peraturan.bpk.go.id/Details/25485"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1947 tentang Peraturan Cukai atas Tembakau yang Belum Dikenakan Cukai Menurut STBL.1932, No.517 (Tabaksac Cijnsordonnaantie).

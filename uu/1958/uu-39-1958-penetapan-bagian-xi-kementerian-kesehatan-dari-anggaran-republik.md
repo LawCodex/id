@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52184"
 bpk_page: "https://peraturan.bpk.go.id/Details/52184"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122800/https://peraturan.bpk.go.id/Details/52184"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 39 Tahun 1958 tentang Penetapan Bagian XI (Kementerian Kesehatan) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

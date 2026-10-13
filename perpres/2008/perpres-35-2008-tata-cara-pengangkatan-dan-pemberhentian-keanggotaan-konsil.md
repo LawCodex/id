@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42217"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082431/https://peraturan.bpk.go.id/Details/42217"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=35&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 35 Tahun 2008 tentang Tata Cara Pengangkatan dan Pemberhentian Keanggotaan Konsil Kedokteran Indonesia

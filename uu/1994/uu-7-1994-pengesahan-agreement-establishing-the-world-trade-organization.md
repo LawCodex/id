@@ -17,7 +17,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1994"
 bpk_page: "https://peraturan.bpk.go.id/Details/46225"
 bpk_metadata_archived: "http://web.archive.org/web/20260217162346/https://peraturan.bpk.go.id/Details/46225/uu-no-7-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1994 tentang Pengesahan Agreement Establishing The World Trade Organization (Persetujuan Pembentukan Organisasi Perdagangan Dunia)

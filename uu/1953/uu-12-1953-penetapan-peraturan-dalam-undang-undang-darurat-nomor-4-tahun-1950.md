@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45293"
 bpk_page: "https://peraturan.bpk.go.id/Details/45293"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121435/https://peraturan.bpk.go.id/Details/45293"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1953 tentang Penetapan Peraturan Dalam Undang-Undang Darurat Nomor 4 Tahun 1950 tentang Penerimaan Anggota Angkatan Perang R.I.S. (Lembaran-Negara Nomor 5 Tahun 1950) Sebagai Undang-Undang

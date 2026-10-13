@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51552"
 bpk_page: "https://peraturan.bpk.go.id/Details/51552"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122732/https://peraturan.bpk.go.id/Details/51552"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1958 tentang Persetujuan Antara Republik Indonesia dan Republik Rakyat Tiongkok Mengenai Soal Dwikewarganegaraan

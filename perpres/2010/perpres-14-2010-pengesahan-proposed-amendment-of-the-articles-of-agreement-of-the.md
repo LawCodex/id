@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+14+Tahun+2010.pdf&fl=P15578"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=14&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 2010 tentang Pengesahan Proposed Amendment Of The Articles Of Agreement Of The International Monetary Fund To Enhance Voice And Participation In The International Monetary Fund (Usulan Perubahan Pasal-Pasal Persetujuan Dana Moneter Internasional Untuk Meningkatkan Suara Dan Keikutsertaan Dalam Dana Moneter Internasional) Dan Proposed Amendment Of The Articles Of Agreement Of The International Monetary Fund To Expand The Investment Authority Of The International Monetary Fund (Usulan Perubahan Pasal-Pasal Persetujuan Dana Moneter Internasional Untuk Memperluas Kewenangan Penanaman Modal Dari Dana Moneter Internasional)

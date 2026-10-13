@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45434"
 bpk_page: "https://peraturan.bpk.go.id/Details/45434"
 bpk_metadata_archived: "http://web.archive.org/web/20251210134338/https://peraturan.bpk.go.id/Details/45434/uu-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1998 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1998 tentang Perubahan atas Undang-Undang tentang Kepailitan Menjadi Undang-Undang

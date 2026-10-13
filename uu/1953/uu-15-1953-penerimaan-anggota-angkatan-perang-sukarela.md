@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45303"
 bpk_page: "https://peraturan.bpk.go.id/Details/45303"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121443/https://peraturan.bpk.go.id/Details/45303"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1953 tentang Penerimaan Anggota Angkatan Perang Sukarela

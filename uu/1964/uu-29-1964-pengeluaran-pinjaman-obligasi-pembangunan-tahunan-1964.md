@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50385"
 bpk_page: "https://peraturan.bpk.go.id/Details/50385"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124617/https://peraturan.bpk.go.id/Details/50385"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1964 tentang Pengeluaran Pinjaman Obligasi Pembangunan Tahunan 1964

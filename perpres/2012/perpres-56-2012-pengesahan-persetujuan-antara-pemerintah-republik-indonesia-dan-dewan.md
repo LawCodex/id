@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0562012.pdf&fl=P16075"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=56&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 56 Tahun 2012 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Dewan Kementerian Bosnia Dan Herzegovina Tentang Pembebasan Visa Bagi Paspor Diplomatik Dan Paspor Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Council Of Ministers Of Bosnia And Herzegovina On Visa Exemption For Diplomatic And Service Passports)

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41187"
 bpk_metadata_archived: "http://web.archive.org/web/20250626065805/https://peraturan.bpk.go.id/Details/41187/perpres-no-71-tahun-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=71&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 71 Tahun 2011 tentang Penyelenggaraan Inventarisasi Gas Rumah Kaca Nasional

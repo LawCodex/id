@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_74_2011.pdf&fl=P16265"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=74&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 74 Tahun 2011 tentang Pengesahan Asean Multilateral Agreement On Air Services (Persetujuan Multilateral Asean Tentang Jasa Angkutan Udara

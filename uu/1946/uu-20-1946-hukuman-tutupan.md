@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25422"
 bpk_page: "https://peraturan.bpk.go.id/Details/25422"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120235/https://peraturan.bpk.go.id/Details/25422"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1946 tentang Hukuman Tutupan

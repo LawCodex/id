@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50500"
 bpk_page: "https://peraturan.bpk.go.id/Details/50500"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121736/https://peraturan.bpk.go.id/Details/50500"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 1954 tentang Penetapan Undang-Undang Darurat No. 5 Tahun 1954 tentang Pemungutan Tambahan Pembayaran atas Pengiriman Uang Keluar Negeri Sebagai Undang-Undang

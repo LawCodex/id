@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44082"
 bpk_page: "https://peraturan.bpk.go.id/Details/44082"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141247/https://peraturan.bpk.go.id/Details/44082"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 2003 tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 2004

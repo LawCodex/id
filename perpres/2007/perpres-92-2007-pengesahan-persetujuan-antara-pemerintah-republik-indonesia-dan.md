@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42183"
 bpk_metadata_archived: "http://web.archive.org/web/20251026160423/https://peraturan.bpk.go.id/Details/42183/perpres-no-92-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=92&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 92 Tahun 2007 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Republik Korea Mengenai Kerjasama di Bidang Kebudayaan (Agreement Between The Government Of The Republic Of Indonesia and The Republic Of Korea On Cultural Cooperation)

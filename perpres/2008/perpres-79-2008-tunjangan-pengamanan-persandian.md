@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_79_Th_2008.pdf&fl=P16311"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=79&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 79 Tahun 2008 tentang Tunjangan Pengamanan Persandian

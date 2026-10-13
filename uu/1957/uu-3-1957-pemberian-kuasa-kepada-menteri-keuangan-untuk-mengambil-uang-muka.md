@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52388"
 bpk_page: "https://peraturan.bpk.go.id/Details/52388"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122448/https://peraturan.bpk.go.id/Details/52388"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1957 tentang Pemberian Kuasa Kepada Menteri Keuangan Untuk Mengambil Uang Muka Pada Bank Indonesia Lebih Daripada Batas Yang Ditetapkan Dalam Pasal 19 Ayat 2 Undang-Undang Pokok Bank Indonesia 1953 (Undang-Undang No. 11 Tahun 1953); (Lembaran-Negara Tahun 1953 No. 40)

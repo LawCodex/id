@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42432"
 bpk_page: "https://peraturan.bpk.go.id/Details/42432"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081619/https://peraturan.bpk.go.id/Details/42432"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 1962 tentang Pedoman Kerja Adminstratif (Peraturan Tata Tertib) Aparatur Pemerintahan Negara Pada Tingkat Tertinggi

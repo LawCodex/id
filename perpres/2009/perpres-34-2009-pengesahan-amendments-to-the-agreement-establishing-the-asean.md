@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=1.+Salinan+Perpres+Nomor+34+Tahun+2009.pdf&fl=P15816"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=34&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 34 Tahun 2009 tentang Pengesahan Amendments To The Agreement Establishing The Asean Promotion Centre On Trade, Investment And Tourism (Perubahan Terhadap Persetujuan Mengenai Pendirian Pusat Promosi Asean Dibidang Perdagangan, Penanaman Modal Dan Pariwisata)

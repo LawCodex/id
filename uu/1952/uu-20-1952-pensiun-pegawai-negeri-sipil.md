@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40267"
 bpk_page: "https://peraturan.bpk.go.id/Details/40267"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121314/https://peraturan.bpk.go.id/Details/40267"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1952 tentang Pensiun Pegawai Negeri Sipil

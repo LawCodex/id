@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51369"
 bpk_page: "https://peraturan.bpk.go.id/Details/51369"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123251/https://peraturan.bpk.go.id/Details/51369"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1959 tentang Penghapusan "Peraturan Umum Korban Perang" Dahulu Disebut "Algemen Oorogsongevallen Regeling"

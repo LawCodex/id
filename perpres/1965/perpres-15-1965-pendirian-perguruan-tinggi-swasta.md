@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42517"
 bpk_page: "https://peraturan.bpk.go.id/Details/42517"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124742/https://peraturan.bpk.go.id/Details/42517"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 15 Tahun 1965 tentang Pendirian Perguruan Tinggi Swasta

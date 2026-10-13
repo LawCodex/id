@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41198"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083802/https://peraturan.bpk.go.id/Details/41198/perpres-no-48-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=48&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 48 Tahun 2011 tentang Perubahan atas Peraturan Presiden Nomor 4 Tahun 2010 tentang Penugasan kepada PT Perusahaan Listrik Negara (Persero) untuk Melakukan Percepatan Pembangunan Pembangkit Tenaga Listrik yang Menggunakan Energi Terbarukan, Batubara, dan Gas

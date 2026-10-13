@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42533"
 bpk_page: "https://peraturan.bpk.go.id/Details/42533"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124753/https://peraturan.bpk.go.id/Details/42533"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 1965 tentang Penguasaan Persediaan dan Penyaluran Bahan-Bahan Pokok Kebutuhan Hidup Sehari-Hari

@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44471"
 bpk_page: "https://peraturan.bpk.go.id/Details/44471"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141028/https://peraturan.bpk.go.id/Details/44471"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 2002 tentang Grasi

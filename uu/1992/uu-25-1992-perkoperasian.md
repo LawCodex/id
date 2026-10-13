@@ -27,7 +27,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=25&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46650"
 bpk_metadata_archived: "http://web.archive.org/web/20250326014206/https://peraturan.bpk.go.id/Details/46650/uu-no-25-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian

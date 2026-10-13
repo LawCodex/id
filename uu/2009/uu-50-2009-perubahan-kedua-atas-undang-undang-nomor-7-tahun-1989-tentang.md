@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38795"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144254/https://peraturan.bpk.go.id/Details/38795"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=50&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 50 Tahun 2009 tentang Perubahan Kedua atas Undang-Undang Nomor 7 Tahun 1989 tentang Peradilan Agama

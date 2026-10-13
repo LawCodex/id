@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45419"
 bpk_page: "https://peraturan.bpk.go.id/Details/45419"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121514/https://peraturan.bpk.go.id/Details/45419"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1953 tentang Penetapan "Undang-Undang Darurat tentang Larangan Untuk Mempergunakan dan Memasukkan dalam Peredaran Uang Perak Lama, yang Dikeluarkan Berdasarkan "Indische Muntwet 1912" (Undang-Undang Darurat Nomor 13 Tahun 1952, Lembaran-Negara Nomor 86 Tahun 1952)" Sebagai Undang-Undang

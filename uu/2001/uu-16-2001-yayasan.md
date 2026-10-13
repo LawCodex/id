@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44893"
 bpk_metadata_archived: "http://web.archive.org/web/20240725121637/https://peraturan.bpk.go.id/Details/44893/uu-no-16-tahun-2001"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2001 tentang Yayasan

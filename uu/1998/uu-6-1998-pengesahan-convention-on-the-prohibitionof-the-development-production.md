@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45442"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134448/https://peraturan.bpk.go.id/Details/45442"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1998"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1998 tentang Pengesahan Convention on The Prohibitionof The Development Production, Stockpiling and Use of Chemical Weapons and on Their Destruction (Konvensi tentang Pelarangan Pengembangan, Produksi, Penimbunan, Dan Penggunaan Senjata Kimia Serta Tentang Pemusnahannya)

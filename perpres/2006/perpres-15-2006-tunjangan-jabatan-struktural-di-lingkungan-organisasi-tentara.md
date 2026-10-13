@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41954"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081928/https://peraturan.bpk.go.id/Details/41954"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=15&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 15 Tahun 2006 tentang Tunjangan Jabatan Struktural di Lingkungan Organisasi Tentara Nasional Indonesia

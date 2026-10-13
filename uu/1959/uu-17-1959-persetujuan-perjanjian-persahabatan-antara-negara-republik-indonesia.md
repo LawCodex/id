@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51461"
 bpk_page: "https://peraturan.bpk.go.id/Details/51461"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123035/https://peraturan.bpk.go.id/Details/51461"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1959 tentang Persetujuan Perjanjian Persahabatan Antara Negara Republik Indonesia dan Kerajaan Iran

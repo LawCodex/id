@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+11+Tahun+2010.pdf&fl=P15541"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=11&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 2010 tentang Kerja Sama Pemerintah Aceh Dengan Lembaga Atau Badan Di Luar Negeri

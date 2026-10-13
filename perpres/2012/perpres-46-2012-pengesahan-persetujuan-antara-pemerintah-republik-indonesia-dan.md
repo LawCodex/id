@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0462012.pdf&fl=P15961"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=46&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 46 Tahun 2012 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Federasi Rusia Tentang Kerja Sama Teknik Militer (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Russian Federation On Military Technical Cooperation)

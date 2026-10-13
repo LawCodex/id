@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42211"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082418/https://peraturan.bpk.go.id/Details/42211"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=26&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 26 Tahun 2008 tentang Pembentukan Dewan Energi Nasional dan Tata Cara Penyaringan Calon Anggota Dewan Energi Nasional

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_no_56_th_2005.pdf&fl=P16068"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=56&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 56 Tahun 2005 tentang Tim Monitoring Dan Evaluasi Program Subsidi Langsung Tunai Kepada Rumah Tangga Miskin

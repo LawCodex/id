@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51490"
 bpk_page: "https://peraturan.bpk.go.id/Details/51490"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123101/https://peraturan.bpk.go.id/Details/51490"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1959 tentang Penetapan Undang-Undang Darurat No. 43 Tahun 1950 Tentang Perubahan Pasal 45 "Zegelverordening 1921" (Lembaran Negara Tahun 1950 No. 85), Sebagai Undang-Undang

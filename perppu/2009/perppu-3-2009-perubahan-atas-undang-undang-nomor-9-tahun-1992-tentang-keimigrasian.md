@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=3&thn=2009"
 bpk_page: "https://peraturan.bpk.go.id/Details/53242"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144220/https://peraturan.bpk.go.id/Details/53242"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian

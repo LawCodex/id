@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42595"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081840/https://peraturan.bpk.go.id/Details/42595"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=68&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 68 Tahun 2005 tentang Tata Cara Mempersiapkan Rancangan Undang-Undang, Rancangan Peraturan Pemerintah Pengganti Undang-Undang, Rancangan Peraturan Pemerintah, dan Rancangan Peraturan Presiden

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52551"
 bpk_page: "https://peraturan.bpk.go.id/Details/52551"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122438/https://peraturan.bpk.go.id/Details/52551"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 1957 tentang Penetapan Urusan Penyelenggaraan Keuangan dan Perhitungan-Perhitungannya Mengenai Perusahaan-Perusahaan dan Jawatan-Jawatan (Pemerintah) yang Mempunyai Pengurus Sendiri/dari Anggaran Republik Indonesia untuk Tahun Dinas 1954

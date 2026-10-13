@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50338"
 bpk_page: "https://peraturan.bpk.go.id/Details/50338"
 bpk_metadata_archived: "http://web.archive.org/web/20240822112206/https://peraturan.bpk.go.id/Details/50338/uu-no-22-tahun-1964"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1964 tentang Perubahan Dan Tambahan Ordonansi Pajak Perseroan 1925

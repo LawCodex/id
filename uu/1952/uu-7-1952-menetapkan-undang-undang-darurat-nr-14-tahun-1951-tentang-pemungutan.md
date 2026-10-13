@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40225"
 bpk_page: "https://peraturan.bpk.go.id/Details/40225"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121419/https://peraturan.bpk.go.id/Details/40225"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1952 tentang Menetapkan Undang-Undang Darurat Nr 14 Tahun 1951 tentang Pemungutan Pajak Verponding atas Tahun 1951 Sebagai Undang-Undang

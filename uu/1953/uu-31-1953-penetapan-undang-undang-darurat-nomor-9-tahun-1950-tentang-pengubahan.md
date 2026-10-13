@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45433"
 bpk_page: "https://peraturan.bpk.go.id/Details/45433"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121529/https://peraturan.bpk.go.id/Details/45433"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 1953 tentang Penetapan "Undang-Undang Darurat Nomor 9 Tahun 1950, tentang Pengubahan Undang-Undang Postspaarbank (Staatsblad 1934 No. 653, 1937 No. 176 dan 197 dan 1941 No. 295, Lembaran-Negara Nomor 12 Tahun 1950 Sebagai Undang-Undang)

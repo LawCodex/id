@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38897"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145143/https://peraturan.bpk.go.id/Details/38897"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=21&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 2013 tentang Keantariksaan

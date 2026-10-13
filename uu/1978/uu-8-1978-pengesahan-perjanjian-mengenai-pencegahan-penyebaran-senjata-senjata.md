@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47168"
 bpk_page: "https://peraturan.bpk.go.id/Details/47168"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131844/https://peraturan.bpk.go.id/Details/47168"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1978 tentang Pengesahan Perjanjian Mengenai Pencegahan Penyebaran Senjata-Senjata Nuklir

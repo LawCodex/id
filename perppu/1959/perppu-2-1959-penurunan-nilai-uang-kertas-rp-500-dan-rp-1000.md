@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53804"
 bpk_page: "https://peraturan.bpk.go.id/Details/53804"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123137/https://peraturan.bpk.go.id/Details/53804"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1959 tentang Penurunan Nilai Uang Kertas Rp. 500,- Dan Rp. 1000,-

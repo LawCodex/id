@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51253"
 bpk_page: "https://peraturan.bpk.go.id/Details/51253"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123903/https://peraturan.bpk.go.id/Details/51253"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1961 tentang Merek Perusahaan dan Merek Perniagaan

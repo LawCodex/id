@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52560"
 bpk_page: "https://peraturan.bpk.go.id/Details/52560"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122451/https://peraturan.bpk.go.id/Details/52560"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 40 Tahun 1957 tentang Penetapan Bagian VII (Kementerian Kehakiman) dari Anggaran Republik Indonesia Tahun Dinas 1954

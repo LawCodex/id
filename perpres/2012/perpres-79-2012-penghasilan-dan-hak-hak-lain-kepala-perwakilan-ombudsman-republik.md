@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41323"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092022/https://peraturan.bpk.go.id/Details/41323/perpres-no-79-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=79&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 79 Tahun 2012 tentang Penghasilan dan Hak-hak Lain Kepala Perwakilan Ombudsman Republik Indonesia di Daerah

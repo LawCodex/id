@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52272"
 bpk_page: "https://peraturan.bpk.go.id/Details/52272"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122850/https://peraturan.bpk.go.id/Details/52272"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 56 Tahun 1958 tentang Pengubahan Undang-Undang No. 1 Tahun 1950 Tentang Susunan, Kekuasaan dan Jalan Pengadilan Mahkamah Agung Indonesia (Lembaran-Negara Tahun 1950 No.30)

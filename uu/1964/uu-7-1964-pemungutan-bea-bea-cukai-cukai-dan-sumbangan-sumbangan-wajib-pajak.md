@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50288"
 bpk_page: "https://peraturan.bpk.go.id/Details/50288"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124722/https://peraturan.bpk.go.id/Details/50288"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1964 tentang Pemungutan Bea-Bea, Cukai-Cukai Dan Sumbangan-Sumbangan Wajib Pajak Istimewa (Swi) Di Daerah Tingkat II Kepulauan Riau

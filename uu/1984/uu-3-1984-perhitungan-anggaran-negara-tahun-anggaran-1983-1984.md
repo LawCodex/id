@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46972"
 bpk_page: "https://peraturan.bpk.go.id/Details/46972"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132547/https://peraturan.bpk.go.id/Details/46972"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1984 tentang Perhitungan Anggaran Negara Tahun Anggaran 1983/1984

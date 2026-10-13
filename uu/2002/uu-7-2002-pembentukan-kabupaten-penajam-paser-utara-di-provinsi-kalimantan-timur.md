@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44430"
 bpk_page: "https://peraturan.bpk.go.id/Details/44430"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141151/https://peraturan.bpk.go.id/Details/44430"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2002 tentang Pembentukan Kabupaten Penajam Paser Utara Di Provinsi Kalimantan Timur

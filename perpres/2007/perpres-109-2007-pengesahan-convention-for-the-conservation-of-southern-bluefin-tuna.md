@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42188"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082145/https://peraturan.bpk.go.id/Details/42188"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=109&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 109 Tahun 2007 tentang Pengesahan Convention For The Conservation Of Southern Bluefin Tuna (Konvensi tentang Konservasi Tuna Sirip Biru Selatan)

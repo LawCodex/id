@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53649"
 bpk_page: "https://peraturan.bpk.go.id/Details/53649"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124250/https://peraturan.bpk.go.id/Details/53649"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1962 tentang Pengesahan Perjanjian Karya Antara Perusahaan Negara Pertamina Dan Pan American Indonesia Oil Co. Untuk Diri Sendiri Dan Atas nama Pan Ametrican International Oil Co.

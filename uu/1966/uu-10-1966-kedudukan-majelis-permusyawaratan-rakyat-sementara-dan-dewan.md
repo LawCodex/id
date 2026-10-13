@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49811"
 bpk_page: "https://peraturan.bpk.go.id/Details/49811"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124928/https://peraturan.bpk.go.id/Details/49811"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1966 tentang Kedudukan Majelis Permusyawaratan Rakyat Sementara dan Dewan Perwakilan Rakyat Gotong Royong Menjelang Pemilihan Umum

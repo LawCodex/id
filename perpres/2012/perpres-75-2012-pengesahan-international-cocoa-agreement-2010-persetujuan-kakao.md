@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_075_2012.pdf&fl=P16275"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=75&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 75 Tahun 2012 tentang Pengesahan International Cocoa Agreement 2010(Persetujuan Kakao Internasional 2010)

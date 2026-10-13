@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38594"
 bpk_metadata_archived: "http://web.archive.org/web/20250406082532/https://peraturan.bpk.go.id/Details/38594/Uu-No-40-Tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2014 tentang Pengesahan Perjanjian Antara Republik Indonesia Dan Republik Korea Tentang Bantuan Hukum Timbal Balik Dalam Masalah Pidana (Treaty Between The Republic Of Indonesia And The Republic Of Korea On Mutual Legal Assistance In Criminal Matters)

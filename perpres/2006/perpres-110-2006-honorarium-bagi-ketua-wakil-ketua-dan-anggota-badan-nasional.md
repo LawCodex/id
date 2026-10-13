@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42039"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092841/https://peraturan.bpk.go.id/Details/42039/perpres-no-110-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=110&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 110 Tahun 2006 tentang Honorarium Bagi Ketua, Wakil Ketua, dan Anggota Badan Nasional Sertifikasi Profesi

@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/82684"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150531/https://peraturan.bpk.go.id/Details/82684"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2018 tentang Pengesahan Protocol To Implement The Sixth Package Of Commitments On Financial Services Under The ASEAN Framework Agreement Services (Protokol untuk Melaksanakan Paket Komitmen Keenam Bidang Jasa Keuangan dalam Persetujuan Kerangka Kerja ASEAN di Bidang Jasa)

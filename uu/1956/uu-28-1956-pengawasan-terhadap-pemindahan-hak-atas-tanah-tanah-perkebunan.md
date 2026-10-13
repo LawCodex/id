@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51163"
 bpk_page: "https://peraturan.bpk.go.id/Details/51163"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122208/https://peraturan.bpk.go.id/Details/51163"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1956 tentang Pengawasan Terhadap Pemindahan Hak atas Tanah-Tanah Perkebunan

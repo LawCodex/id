@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68790"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082354/https://peraturan.bpk.go.id/Details/68790"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=9&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 2007 tentang Pengesahan Agreement For The Establishment Of The Indian Ocean Tuna Commission (Persetujuan Tentang Pembentukan Komisi Tuna Samudera Hindia)

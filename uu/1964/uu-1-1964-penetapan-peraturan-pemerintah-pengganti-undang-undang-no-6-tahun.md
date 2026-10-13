@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50228"
 bpk_page: "https://peraturan.bpk.go.id/Details/50228"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124543/https://peraturan.bpk.go.id/Details/50228"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1964 tentang Penetapan peraturan pemerintah pengganti undang-undang No. 6 tahun 1962 tentang Pokok-Pokok Perumahan (Lembaran Negara Tahun 1962 NO. 40) Menjadi Undang-Undang

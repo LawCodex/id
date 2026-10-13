@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38598"
 bpk_metadata_archived: "http://web.archive.org/web/20260829113142/https://peraturan.bpk.go.id/Details/38598/uu-no-10-tahun"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2009 tentang Kepariwisataan

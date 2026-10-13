@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45298"
 bpk_page: "https://peraturan.bpk.go.id/Details/45298"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121440/https://peraturan.bpk.go.id/Details/45298"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1953 tentang Perlakuan terhadap Anggota Angkatan Perang yang Diperhentikan dari Dinas Ketentaraan Karena Tidak Memperbaharui Ikatan Dinas

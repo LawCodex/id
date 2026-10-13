@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39916"
 bpk_metadata_archived: "http://web.archive.org/web/20250726041557/https://peraturan.bpk.go.id/Details/39916/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=28&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 2007 tentang Perubahan Ketiga atas Undang-Undang Nomor 6 Tahun 1983 tentang Ketentuan Umum dan Tata Cara Perpajakan

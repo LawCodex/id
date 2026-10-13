@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50511"
 bpk_page: "https://peraturan.bpk.go.id/Details/50511"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121751/https://peraturan.bpk.go.id/Details/50511"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 37 Tahun 1954 tentang Persetujuan Perjanjian Persahabatan antara Negara Republik Indonesia dan Kerajaan Thailand

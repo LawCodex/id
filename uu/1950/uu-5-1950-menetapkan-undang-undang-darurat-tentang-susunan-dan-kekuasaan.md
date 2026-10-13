@@ -27,7 +27,7 @@ source_page: "https://peraturan.bpk.go.id/Details/37969"
 bpk_page: "https://peraturan.bpk.go.id/Details/37969"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120946/https://peraturan.bpk.go.id/Details/37969"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1950 tentang Menetapkan “Undang-Undang Darurat tentang Susunan dan Kekuasaan Pengadilan/Kejaksaan dalam Lingkungan Peradilan Ketentaraan” (Undang-Undang Darurat Nr 16. Tahun 1950), Sebagai Undang-Undang Federal

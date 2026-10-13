@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44470"
 bpk_page: "https://peraturan.bpk.go.id/Details/44470"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141025/https://peraturan.bpk.go.id/Details/44470"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 2002 tentang Perubahan Atas Undang-Undang Nomor 19 Tahun 2001 Tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 2002

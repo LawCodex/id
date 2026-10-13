@@ -1,0 +1,268 @@
+---
+title: "Peraturan Presiden Nomor 32 Tahun 2023 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
+identifier: "Perpres No. 32 Tahun 2023"
+type: regulation
+jurisdiction: id
+language: id
+number: "32"
+year: 2023
+date: 2023-06-13
+promulgated: 2023-06-13
+in_force_from: 2023-06-13
+status: in_force
+status_basis: "BPK: Berlaku; Setneg: sebagian"
+repeals:
+  - "PERPRES No. 114 Tahun 2017"
+gazette: "LN.2023/No.78, jdih.setneg.go.id: 7 hlm."
+subject: "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - KEPEGAWAIAN, APARATUR NEGARA"
+source: "https://peraturan.bpk.go.id/Download/307255/Perpres%20Nomor%2032%20Tahun%202023.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/250664"
+bpk_page: "https://peraturan.bpk.go.id/Details/250664"
+bpk_metadata_archived: "http://web.archive.org/web/20240923094749/https://peraturan.bpk.go.id/Details/250664"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2023"
+consolidated: false
+retrieved: 2026-10-13
+---
+
+# Peraturan Presiden Nomor 32 Tahun 2023 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+
+PERATURAN PRESIDEN REPUBLIK INDONESIA
+
+NOMOR 32 TAHUN 2023
+
+TENTANG
+
+TUNJANGAN KTNERJA PEGAWAI DI LINGKUNGAN
+
+KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA
+
+DAN REFORMASI BIROKRASI
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang a. bahwa sesuai dengan capaian hasil pelaksanaan reformasi birokrasi, Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi telah memenuhi kriteria untuk diberikan penyesuaian tunjangan kinerja;
+
+b. bahwa Peraturan Presiden Nomor Ll4 Tahun 2OLT tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi sudah tidak sesuai dengan perkembangan capaian hasil pelaksanaan reformasi birokrasi sehingga perlu diganti;
+
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Presiden tentang T\rnjangan Kinerja Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;
+
+Mengingat 1. Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+2. Undang-Undang Nomor 5 Tahun 2Ol4 tentang Aparatur Sipil Negara (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 6, Tambahan Lembaran Negara Republik Indonesia Nomor 5a9al;
+
+SK No 155977 A
+
+3. Peraturan Pemerintah Nomor 11 Tahun 2Ol7 tentang Manajemen Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 2Ol7 Nomor 63, Tambahan Lembaran Negara Nomor 6037) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 17 Tahun 2O2O tentang Perubahan Atas Peraturan Pemerintah Nomor 11 Tahun 2Ol7 tentang Manajemen Pegawai Negeri Sipil (Lembaran Negara Republik lndonesia Tahun 2O2O Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 6a7\;
+
+4. Peraturan Presiden Nomor 47 Tahun 2O2l tentang Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Lembaran Negara Republik Indonesia Tahun 2O2l Nomor 126);
+
+MEMUTUSKAN:
+
+Menetapkan PERATURAN PRESIDEN TENTANG TUNJANGAN KINERJA
+
+PEGAWAI DI LINGKUNGAN KEMENTERIAN
+
+PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI
+
+BIROKRASI.
+
+##### Pasal 1
+
+Dalam Peraturan Presiden ini yang dimaksud dengan:
+
+1. Pegawai Negeri Sipil, yang selanjutnya disingkat PNS adalah warga negara Indonesia yang memenuhi syarat tertentu, diangkat sebagai pegawai aparatur sipil negara secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan.
+
+2. Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi adalah PNS dan Pegawai Lainnya yang berdasarkan keputusan pejabat yang berwenang diangkat dalam suatu jabatan dan bekerja secara penuh pada satuan organisasi di lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi.
+
+3. Pegawai Lainnya adalah pegawai yang diangkat pada jabatan yang telah mendapat persetujuan dari menteri yang menyelenggarakan urusan pemerintahan di bidang pendayagunaan aparatur negara dan reformasi birokrasi.
+
+SK No 155320A
+
+##### Pasal 2
+
+(1) Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi, selain diberikan penghasilan sesuai dengan ketentuan peraturan perundang-undangan, diberikan tunjangan kinerja setiap bulan.
+
+(2) Pemberian tunjangan kinerja bagi Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi sebagaimana dimaksud pada ayat (1) mempertimbangkan capaian kinerja pegawai sesuai dengan ketentuan peraturan perundang-undangan.
+
+##### Pasal 3
+
+Tunjangan kineda setiap bulan sebagaimana dimaksud dalam Pasal 2 tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Presiden ini.
+
+##### Pasal 4
+
+Tunjangan kinerja bagi Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi sebagaimana dimaksud dalam Pasal 3 diberikan terhitung sejak Peraturan Presiden ini berlaku.
+
+##### Pasal 5
+
+(1) Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi yang mengepalai dan memimpin Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi diberikan tunjangan kinerja sebesar l5Oo/o (seratus lima puluh persen) dari tunjangan kinerja tertinggi di lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi. (21 Tunjangan kinerja bagi Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi sebagaimana dimaksud pada ayat (1) diberikan terhitung sejak Peraturan Presiden ini berlaku.
+
+SK No 155321 A
+
+##### Pasal 6
+
+Pajak penghasilan atas tunjangan kinerja sebagaimana dimaksud dalam Pasal 3 dan Pasal 5 dikenakan sesuai dengan ketentuan peraturan perLlndang-undangan.
+
+##### Pasal 7
+
+(1) Tunjangan kinerja sebagaimana dimaksud dalam Pasal 2 tidak diberikan kepada:
+
+a. Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi yang tidak mempunyai jabatan tertentu;
+
+b. Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi yang diberhentikan untuk sementara atau dinonaktifkan;
+
+c. Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi yang diberhentikan dari jabatan organiknya dengan diberikan uang tunggu dan belum diberhentikan sebagai Pegawai; dan
+
+d. Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi yang menjalani cuti di luar tanggungan negara atau dalam bebas tugas untuk persiapan masa pensiun. (21 Ketentuan lebih lanjut mengenai Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi yang tidak diberikan tunjangan kinerja sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi.
+
+##### Pasal 8
+
+(1) Kelas jabatan pada setiap jabatan di lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Presiden ini, ditetapkan oleh Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi.
+
+(2) Perubahan
+
+SK No 155322A
+
+(2) Perubahan kelas jabatan pada setiap jabatan di lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi ditetapkan oleh Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi setelah:
+
+a. mendapat persetujuan dari menteri yang menyelenggarakan urusan pemerintahan di bidang pendayagunaan aparatur negara dan reformasi birokrasi, jika tidak mengakibatkan perubahan alokasi anggaran tunjangan kinerja; atau
+
+b. mendapat persetujuan dari menteri yang menyelenggarakan urusan pemerintahan di bidang pendayagunaan aparatur negara dan reformasi birokrasi dan persetujuan dari menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara, jika mengakibatkan perubahan alokasi anggaran tunjangan kinerja.
+
+##### Pasal 9
+
+(1) Dalam hal Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi diangkat sebagai pejabat fungsional dan mendapatkan tunjangan profesi maka tunjangan kinerja dibayarkan sebesar selisih antara tunjangan kinerja pada kelas jabatannya dengan tunjangan profesi pada jenjangnya.
+
+(2) Jika tunjangan profesi yang diterima sebagaimana dimaksud pada ayat (1) lebih besar dari tunjangan kinerja pada kelas jabatannya maka yang dibayarkan yaitu tunjangan profesi pada jenjangnya.
+
+##### Pasal 10
+
+Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi yartg menerima tunjangan kineda wajib mempertahankan dan terus meningkatkan pelaksanaan reformasi birokrasi sesuai dengan ketentuan peraturan perundang-undangan.
+
+SK No 155323 A
+
+REPUBLIK INDONESIA.
+
+Pasal 1 1 Pelaksanaan reformasi birokrasi sebagaimana dimaksud dalam Pasal 10 dimonitor dan dievaluasi secara berkala oleh Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi dan Tim Reformasi Birokrasi Nasional.
+
+##### Pasal 12
+
+Ketentuan lebih lanjut mengenai tunjangan kinerja Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi sebagaimana dimaksud dalam Pasal 2 sampai dengan Pasal 11 diatur dengan Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi.
+
+##### Pasal 13
+
+Pada saat Peraturan Presiden ini mulai berlaku, semua peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Peraturan Presiden Nomor 114 Tahun 2Ol7 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Lembaran Negara Republik Indonesia Tahun 2Ol7 Nomor 258) dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Presiden ini.
+
+##### Pasal 14
+
+Pada saat Peraturan Presiden ini mulai berlaku, Peraturan Presiden Nomor 114 Tahun 2017 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Lembaran Negara Republik Indonesia Tahun 2OI7 Nomor 258), dicabut dan dinyatakan tidak berlaku.
+
+##### Pasal 15
+
+Peraturan Presiden ini mulai berlaku pada tanggal diundangkan.
+
+Agar
+
+SK No 155324 A
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Presiden ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 13 Juni 2023
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+JOKO WIDODO
+
+Diundangkan di Jakarta pada tanggal 13 Juni 2023
+
+MENTERI SEKRETARIS NEGARA
+
+REPUBLIK INDONESIA,
+
+ttd
+
+PRATIKNO
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 78
+
+Salinan sesuai dengan aslinya
+
+KEMENTERIAN SEKRETARIAT NEGARA
+
+Perundang-undangan strasi HuJrum,
+
+Djaman
+
+SK No 155978 A
+
+LAMPIRAN
+
+PERATURAN PRESIDEN REPUBLIK INDONESIA
+
+NOMOR 32 TAHUN 2023
+
+TENTANG
+
+TUNJANGAN KINERJA PEGAWAI DI LINGKUNGAN
+
+KEMENTERTAN PENDAYAGUNAAN APARATUR
+
+NEGARA DAN REFORMASI BIROKRASI
+
+TUNJANGAN KINERJA PEGAWAI DI LINGKUNGAN
+
+KEMENTERIAN PENDAYAGUNAAN APARATUR NEGARA
+
+DAN REFORMASI BIROKRASI
+
+TUNJANGAN KINERJA
+
+No KELAS JABATAN
+
+PER KELAS JABATAN
+
+1 2 3
+
+```
+ 1                 17                        Ro41.550.000.00
+2                  L6                        Rp32.54O.OOO.0O
+3                  15                        F;o24.10O.0O0.OO
+4                  L4                        Rp21.330.000.O0
+5                  13                        Rp13.670.000,00
+6.                 r2                        Rp12.370.OOO,OO
+7                  11                        Rp1O.947.000,00
+8.                 10                        Rp8.458.000,00
+```
+
+9 9 Rp7.474.0O0,O0
+
+10. 8 Rp6.349.0O0,O0
+
+11. 7 RpS.O79.OOO,O0 L2. 6 Rp4.837.OOO,OO
+
+13. 5 Rp4.607.000,00 t4. 4 Rp4.179.OOO,0O
+
+15. 3 Rp3.980.000.00
+
+16. 2 Rp3.154.000.00
+
+17. 1 Rp2.575.OO0.OO
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+JOKO WIDODO
+
+Salinan sesuai dengan aslinya
+
+KEMENTERIAN SEKRETARIAT NEGARA
+
+Perundang-undangan Hukum,
+
+Djaman
+
+SK No 155980 A

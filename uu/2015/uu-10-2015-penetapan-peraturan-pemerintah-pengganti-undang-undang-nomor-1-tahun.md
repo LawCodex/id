@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38210"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145706/https://peraturan.bpk.go.id/Details/38210"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2015 Tentang Perubahan Atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi Menjadi Undang-Undang

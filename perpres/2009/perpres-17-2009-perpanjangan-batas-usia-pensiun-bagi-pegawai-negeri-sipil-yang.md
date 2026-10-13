@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan+Perpres+Nomor+17+Tahun+2009.pdf&fl=P15614"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=17&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 17 Tahun 2009 tentang Perpanjangan Batas Usia Pensiun Bagi Pegawai Negeri Sipil Yang Menduduki Jabatan Fungsional Sandiman

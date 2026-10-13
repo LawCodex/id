@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/43920"
 bpk_metadata_archived: "http://web.archive.org/web/20251223022108/https://peraturan.bpk.go.id/Details/43920/uu-no-20-tahun-2003?utm_source=chatgpt.com"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional

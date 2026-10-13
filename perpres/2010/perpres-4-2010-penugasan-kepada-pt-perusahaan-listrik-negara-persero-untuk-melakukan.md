@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41100"
 bpk_metadata_archived: "http://web.archive.org/web/20241111045711/https://peraturan.bpk.go.id/Details/41100/perpres-no-4-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=4&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 2010 tentang Penugasan kepada PT Perusahaan Listrik Negara (Persero) untuk Melakukan Percepatan Pembangunan Pembangkit Tenaga Listrik yang Menggunakan Tenaga Listrik Terbarukan, Batubara, dan Gas

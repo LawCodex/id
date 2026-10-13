@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44445"
 bpk_page: "https://peraturan.bpk.go.id/Details/44445"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141002/https://peraturan.bpk.go.id/Details/44445"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2002 tentang Pembentukan Kota Bima Di Provinsi Nusa Tenggara Barat

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42008"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082053/https://peraturan.bpk.go.id/Details/42008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=74&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 74 Tahun 2006 tentang Perubahan atas Peraturan Presiden Nomor 29 Tahun 2005 Tentang Rincian Anggaran Belanja Pemerintah Pusat Tahun Anggaran 2005

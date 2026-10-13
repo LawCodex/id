@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45324"
 bpk_page: "https://peraturan.bpk.go.id/Details/45324"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121502/https://peraturan.bpk.go.id/Details/45324"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1953 tentang Persetujuan Perjanjian Persahabatan antara Republik Indonesia dan Republik Suria

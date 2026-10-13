@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25208"
 bpk_page: "https://peraturan.bpk.go.id/Details/25208"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120329/https://peraturan.bpk.go.id/Details/25208"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1947 tentang Dewan Pertahanan Negara, Peraturan Memperpanjang Berlakunya Peraturan Dewan Pertahanan Negara Nomor 5, 7, 8, 9, 11 dan 16

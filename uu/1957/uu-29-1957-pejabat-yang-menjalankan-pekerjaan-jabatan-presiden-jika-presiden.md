@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52475"
 bpk_page: "https://peraturan.bpk.go.id/Details/52475"
 bpk_metadata_archived: "http://web.archive.org/web/20240423151637/https://peraturan.bpk.go.id/Details/52475/"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1957 tentang Pejabat Yang Menjalankan Pekerjaan Jabatan Presiden, Jika Presiden Mangkat, Berhenti atau Berhalangan, Sedang Wakil Presiden Tidak Ada atau Berhalangan

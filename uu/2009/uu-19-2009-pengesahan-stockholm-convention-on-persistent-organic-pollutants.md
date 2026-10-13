@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38639"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144115/https://peraturan.bpk.go.id/Details/38639"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 2009 tentang Pengesahan Stockholm Convention On Persistent Organic Pollutants (Konvensi Stockholm tentang Bahan Pencemar Organik yang Persisten)

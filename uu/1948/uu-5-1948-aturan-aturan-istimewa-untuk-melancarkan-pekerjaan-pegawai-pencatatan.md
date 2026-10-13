@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25533"
 bpk_page: "https://peraturan.bpk.go.id/Details/25533"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120620/https://peraturan.bpk.go.id/Details/25533"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1948 tentang Aturan-Aturan Istimewa Untuk Melancarkan Pekerjaan Pegawai Pencatatan Jiwa Dalam Hal Perceraian dan Perkawinan Orang yang Sudah Cukup Umur

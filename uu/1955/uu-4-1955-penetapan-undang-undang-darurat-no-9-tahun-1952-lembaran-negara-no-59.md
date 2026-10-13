@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51058"
 bpk_page: "https://peraturan.bpk.go.id/Details/51058"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122049/https://peraturan.bpk.go.id/Details/51058"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1955 tentang Penetapan Undang-Undang Darurat No. 9 Tahun 1952 (Lembaran-Negara No. 59 Tahun 1952) tentang Penyelesaian Hutang Negara di Zaman Revolusi Sebagai Undang-Undang

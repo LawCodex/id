@@ -25,7 +25,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47124"
 bpk_page: "https://peraturan.bpk.go.id/Details/47124"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132025/https://peraturan.bpk.go.id/Details/47124"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1980 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1969 tentang Pemilihan Umum Anggota-Anggota Badan Permusyawaratan/Perwakilan Rakyat sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1975

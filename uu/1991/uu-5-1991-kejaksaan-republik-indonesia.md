@@ -23,7 +23,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1991"
 bpk_page: "https://peraturan.bpk.go.id/Details/46657"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133312/https://peraturan.bpk.go.id/Details/46657"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1991 tentang Kejaksaan Republik Indonesia

@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41192"
 bpk_metadata_archived: "http://web.archive.org/web/20250423024914/https://peraturan.bpk.go.id/Details/41192/perpres-no-90-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=90&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 90 Tahun 2011 tentang Hak Keuangan Ketua, Wakil Ketua, dan Anggota Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan

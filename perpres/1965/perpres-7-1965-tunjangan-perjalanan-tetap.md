@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42532"
 bpk_page: "https://peraturan.bpk.go.id/Details/42532"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124917/https://peraturan.bpk.go.id/Details/42532"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 7 Tahun 1965 tentang Tunjangan Perjalanan Tetap

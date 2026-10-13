@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25367"
 bpk_page: "https://peraturan.bpk.go.id/Details/25367"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120358/https://peraturan.bpk.go.id/Details/25367"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 1947 tentang Pembayaran Ganti Kerugian Kepada Buruh yang Mendapat Kecelakaan Berhubung Dengan Hubungan Kerja

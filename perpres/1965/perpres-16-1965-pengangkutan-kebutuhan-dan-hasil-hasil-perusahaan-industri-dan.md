@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42518"
 bpk_page: "https://peraturan.bpk.go.id/Details/42518"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124745/https://peraturan.bpk.go.id/Details/42518"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 1965 tentang Pengangkutan Kebutuhan dan Hasil-Hasil Perusahaan Industri dan Tambang Negara

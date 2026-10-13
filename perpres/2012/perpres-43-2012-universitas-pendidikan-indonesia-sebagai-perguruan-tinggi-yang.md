@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0432012.pdf&fl=P15926"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=43&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 43 Tahun 2012 tentang Universitas Pendidikan Indonesia Sebagai Perguruan Tinggi Yang Diselenggarakan Oleh Pemerintah

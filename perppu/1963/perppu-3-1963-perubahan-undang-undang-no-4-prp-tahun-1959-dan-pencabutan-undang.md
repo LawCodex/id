@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53731"
 bpk_page: "https://peraturan.bpk.go.id/Details/53731"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124428/https://peraturan.bpk.go.id/Details/53731"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1963 tentang Perubahan Undang-Undang No. 4 PRP Tahun 1959 Dan Pencabutan Undang-Undang 32 PRP Tahun 1960 Dan Undang-Undang No. 34 PRP Tahun 1960

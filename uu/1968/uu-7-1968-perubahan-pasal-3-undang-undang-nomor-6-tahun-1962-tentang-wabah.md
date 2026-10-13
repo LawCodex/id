@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49146"
 bpk_page: "https://peraturan.bpk.go.id/Details/49146"
 bpk_metadata_archived: "http://web.archive.org/web/20251225110503/https://peraturan.bpk.go.id/Details/49146/uud-nri-tahun-1945"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1968 tentang Perubahan Pasal 3 Undang-Undang Nomor 6 Tahun 1962 tentang Wabah

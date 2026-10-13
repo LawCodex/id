@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES_NO_79_TAHUN_2005.pdf&fl=P16309"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=79&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 79 Tahun 2005 tentang Pencabutan Keputusan Presiden Nomor 36 Tahun 1979 Tentang Pengadaan Besi Baja

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50498"
 bpk_page: "https://peraturan.bpk.go.id/Details/50498"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121726/https://peraturan.bpk.go.id/Details/50498"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1954 tentang Pertahanan Negara Republik Indonesia

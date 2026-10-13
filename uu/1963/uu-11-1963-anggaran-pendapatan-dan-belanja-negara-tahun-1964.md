@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50656"
 bpk_page: "https://peraturan.bpk.go.id/Details/50656"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124318/https://peraturan.bpk.go.id/Details/50656"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1963 tentang Anggaran Pendapatan Dan Belanja Negara Tahun 1964

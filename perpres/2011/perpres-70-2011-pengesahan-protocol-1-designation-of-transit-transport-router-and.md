@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_70_2011.pdf&fl=P16226"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=70&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 70 Tahun 2011 tentang Pengesahan Protocol 1 Designation Of Transit Transport Router And Facilities (Protocol 1 Penetapan Rute-Rute Dan Fasilitas Angkutan Transit)

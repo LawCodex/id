@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/38114"
 bpk_page: "https://peraturan.bpk.go.id/Details/38114"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121004/https://peraturan.bpk.go.id/Details/38114"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1950 tentang Penetapan Tarip Padjak Pendapatan untuk Tahun 1950

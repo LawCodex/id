@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40500"
 bpk_page: "https://peraturan.bpk.go.id/Details/40500"
 bpk_metadata_archived: "http://web.archive.org/web/20251228082106/https://peraturan.bpk.go.id/Details/40500/uu-no-9-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2004 tentang Perubahan Atas Undang-Undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara

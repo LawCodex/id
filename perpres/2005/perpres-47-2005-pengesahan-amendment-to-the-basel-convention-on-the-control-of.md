@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42626"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081812/https://peraturan.bpk.go.id/Details/42626"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=47&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 47 Tahun 2005 tentang Pengesahan Amendment To The Basel Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their Disposal (Amendemen Atas Konvensi Basel Tentang Pengawasan Perpindahan Lintas Batas Limbah Berbahaya Dan Pembuangannya)

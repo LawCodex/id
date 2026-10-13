@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=3&thn=2008"
 bpk_page: "https://peraturan.bpk.go.id/Details/53220"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143912/https://peraturan.bpk.go.id/Details/53220"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2008 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2004 Tentang Lembaga Penjamin Simpanan

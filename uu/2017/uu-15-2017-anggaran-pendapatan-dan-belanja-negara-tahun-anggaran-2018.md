@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/64502"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150254/https://peraturan.bpk.go.id/Details/64502"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2017 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2018

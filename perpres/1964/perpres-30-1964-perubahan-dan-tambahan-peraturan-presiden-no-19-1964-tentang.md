@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42503"
 bpk_page: "https://peraturan.bpk.go.id/Details/42503"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081646/https://peraturan.bpk.go.id/Details/42503"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 1964 tentang Perubahan dan Tambahan Peraturan Presiden No. 19/1964 Tentang Pengaturan dan Pengapalan Muatan Ekspor dan Impor Indonesia

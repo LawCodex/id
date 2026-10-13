@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50314"
 bpk_page: "https://peraturan.bpk.go.id/Details/50314"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124520/https://peraturan.bpk.go.id/Details/50314"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 2 Tahun 1964 Tentang Pembentukan Daerah Tingkat I Sulawesi Tengah Dan Daerah Tingkat I Sulawesi Tenggara Dengan Mengubah Undang-Undang No. 47 Prp Tahun 1960 tentang Pembentukan Daerah Tingkat I Sulawesi Utara -tengah Dan Daerah Tingkat I Sulawesi Selatan-Tenggara (Lembaran Negara Tahun 1964 No. 7) Menjadi Undang-Undang

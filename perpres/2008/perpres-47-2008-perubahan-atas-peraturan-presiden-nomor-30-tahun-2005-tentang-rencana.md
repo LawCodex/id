@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42224"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082448/https://peraturan.bpk.go.id/Details/42224"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=47&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 47 Tahun 2008 tentang Perubahan atas Peraturan Presiden Nomor 30 Tahun 2005 tentang Rencana Induk Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara

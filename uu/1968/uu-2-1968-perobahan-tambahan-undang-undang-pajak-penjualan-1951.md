@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49130"
 bpk_page: "https://peraturan.bpk.go.id/Details/49130"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125200/https://peraturan.bpk.go.id/Details/49130"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1968 tentang Perobahan/Tambahan Undang-Undang Pajak Penjualan 1951

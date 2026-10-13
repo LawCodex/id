@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42304"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082558/https://peraturan.bpk.go.id/Details/42304"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=23&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 2009 tentang Perubahan atas Peraturan Presiden Nomor 27 Tahun 2008 tentang Badan Pengembangan Wilayah Surabaya-Madura

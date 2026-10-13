@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51680"
 bpk_page: "https://peraturan.bpk.go.id/Details/51680"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122656/https://peraturan.bpk.go.id/Details/51680"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 10 Tahun 1955 Tentang Pemungutan Sumbangan dari Pabrikan-Pabrikan Rokok Bagi Badan Urusan "Tembakau" (Krosok Centrale)" (Lembaran-Negara Tahun 1955 No. 34) Sebagai Undang Undang

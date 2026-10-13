@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25375"
 bpk_page: "https://peraturan.bpk.go.id/Details/25375"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120402/https://peraturan.bpk.go.id/Details/25375"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 1947 tentang Mempercepat Peradilan Pada Pengadilan Tentara

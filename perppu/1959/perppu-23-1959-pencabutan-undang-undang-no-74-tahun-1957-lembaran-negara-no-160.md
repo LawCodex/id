@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53973"
 bpk_page: "https://peraturan.bpk.go.id/Details/53973"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123103/https://peraturan.bpk.go.id/Details/53973"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 23 Tahun 1959 tentang Pencabutan Undang-Undang NO. 74 Tahun 1957 (Lembaran-Negara NO. 160 Tahun 1957) Dan Penetapan Keadaan Bahaya

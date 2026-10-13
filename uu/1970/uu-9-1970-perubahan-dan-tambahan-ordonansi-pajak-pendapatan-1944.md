@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47627"
 bpk_page: "https://peraturan.bpk.go.id/Details/47627"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125507/https://peraturan.bpk.go.id/Details/47627"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1970 tentang Perubahan dan Tambahan Ordonansi Pajak Pendapatan 1944

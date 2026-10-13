@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41951"
 bpk_metadata_archived: "http://web.archive.org/web/20241004174903/https://peraturan.bpk.go.id/Details/41951/perpres-no-12-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=12&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 2006 tentang Tunjangan Umum Bagi Pegawai Negeri Sipil

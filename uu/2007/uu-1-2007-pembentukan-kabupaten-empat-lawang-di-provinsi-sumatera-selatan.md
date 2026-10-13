@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39800"
 bpk_metadata_archived: "http://web.archive.org/web/20240718121056/https://peraturan.bpk.go.id/Details/39800/uu-no-1-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2007 tentang Pembentukan Kabupaten Empat Lawang di Provinsi Sumatera Selatan

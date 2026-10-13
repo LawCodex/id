@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53826"
 bpk_page: "https://peraturan.bpk.go.id/Details/53826"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123241/https://peraturan.bpk.go.id/Details/53826"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1959 tentang Pembatasan Waktu Untuk Melaksanakan Hak Menuntut Penukaran Uang Kertas Bank Pecahan-Pecahan Rp. 1.000,- DAN Rp. 500,- Yang Dengan Peraturan Pemerintah Pengganti Undang-Undang No. 2 Tahun 1959 Nilainya Masing-Masing Telah Diturunkan Menjadi Rp. 100,- DAN Rp. 50,-

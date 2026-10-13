@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39094"
 bpk_metadata_archived: "http://web.archive.org/web/20260226122641/https://peraturan.bpk.go.id/Details/39094/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2012 tentang Perkoperasian

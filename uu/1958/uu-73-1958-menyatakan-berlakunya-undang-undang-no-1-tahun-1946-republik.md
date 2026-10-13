@@ -27,7 +27,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52862"
 bpk_page: "https://peraturan.bpk.go.id/Details/52862"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122935/https://peraturan.bpk.go.id/Details/52862"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 73 Tahun 1958 tentang Menyatakan Berlakunya Undang-Undang No. 1 Tahun 1946 Republik Indonesia Tentang Peraturan Hukum Pidana Untuk Seluruh Wilayah Republik Indonesia Dan Mengubah Kitab Undang-Undang Hukum Pidana

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52548"
 bpk_page: "https://peraturan.bpk.go.id/Details/52548"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122436/https://peraturan.bpk.go.id/Details/52548"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 1957 tentang Penetapan Bagian IV (Kementerian Keuangan) dari Anggaran Republik Indonesia untuk Tahun Dinas 1954

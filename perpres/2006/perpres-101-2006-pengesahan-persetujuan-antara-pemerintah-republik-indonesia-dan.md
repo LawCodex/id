@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES1012006.pdf&fl=P16482"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=101&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 101 Tahun 2006 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Islam Iran Tentang Bantuan Administratif Timbal Balik Di Bidang Kepabeanan (Agreement Between The Government Of The Republic Of Indonesia And The Gover

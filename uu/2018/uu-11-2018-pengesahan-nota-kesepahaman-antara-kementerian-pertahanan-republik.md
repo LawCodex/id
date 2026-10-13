@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/99210"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150431/https://peraturan.bpk.go.id/Details/99210"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 2018 tentang Pengesahan Nota Kesepahaman antara Kementerian Pertahanan Republik Indonesia dan Kementerian Pertahanan Kerajaan Belanda tentang Kerja Sama Terkait Pertahanan (Memorandum Of Understanding Between The Ministry Of Defence Of The Republic Of Indonesia And The Ministry Of Defence Of The Kingdom Of The Netherlands On Defence-Related Cooperation)

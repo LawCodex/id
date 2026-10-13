@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41422"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083444/https://peraturan.bpk.go.id/Details/41422"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=52&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 52 Tahun 2013 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Padangsidempuan Menjadi Institut Agama Islam Negeri Padangsidimpuan

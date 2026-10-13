@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+30+Tahun+2010.pdf&fl=P15769"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=30&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 2010 tentang Pengesahan Protokol Perubahan Persetujuan Penghindaran Pajak Berganda Antara Pemerintah Republik Indonesia Dan Pemerintah Malaysia Dan Protokolnya Yang Ditandatangani Di Kuala Lumpur Tanggal 12 September 1991 (Protocol Amending The Agreement Between The Government Of The Republic Of Indonesia And The Government Of Malaysia For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion With Respect To Taxes On Income And Its Protocol Signed At Kuala Lumpur On 12 September 1991)

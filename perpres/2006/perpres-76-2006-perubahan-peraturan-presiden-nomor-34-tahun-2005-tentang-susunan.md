@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42010"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082055/https://peraturan.bpk.go.id/Details/42010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=76&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 76 Tahun 2006 tentang Perubahan Peraturan Presiden Nomor 34 Tahun 2005 Tentang Susunan Organisasi dan Tata Kerja Serta Hak Keuangan Badan Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara

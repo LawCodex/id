@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41363"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085618/https://peraturan.bpk.go.id/Details/41363/perpres-no-118-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=118&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 118 Tahun 2012 tentang Tunjangan Kinerja Pegawai di Lingkungan Badan Narkotika Nasional

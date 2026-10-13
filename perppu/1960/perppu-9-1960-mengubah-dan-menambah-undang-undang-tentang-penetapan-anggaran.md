@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53419"
 bpk_page: "https://peraturan.bpk.go.id/Details/53419"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123548/https://peraturan.bpk.go.id/Details/53419"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1960 tentang Mengubah dan Menambah Undang-Undang Tentang Penetapan Anggaran Perusahaan-Perusahaan I.B.W Dari Anggaran Republik Indonesia Untuk Tahun Dinas 1959

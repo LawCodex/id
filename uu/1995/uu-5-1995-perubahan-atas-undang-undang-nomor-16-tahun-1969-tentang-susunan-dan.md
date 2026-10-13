@@ -24,7 +24,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1995"
 bpk_page: "https://peraturan.bpk.go.id/Details/46180"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133937/https://peraturan.bpk.go.id/Details/46180"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1995 tentang Perubahan atas Undang-Undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah Sebagaimana Telah Beberapa Kali Diubah, Terakhir Dengan Undang-Undang Nomor 2 Tahun 1985

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan+Perpres+Nomor+42+Tahun+2009.pdf&fl=P15911"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=42&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 42 Tahun 2009 tentang Tunjangan Jabatan Fungsional Psikolog Klinis, Fisikawan Medis, Dan Dokter Pendidik Klinis

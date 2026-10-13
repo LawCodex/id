@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50561"
 bpk_page: "https://peraturan.bpk.go.id/Details/50561"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121855/https://peraturan.bpk.go.id/Details/50561"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 59 Tahun 1954 tentang Penetapan Bagian I.B.W III (Pusat Perkebunan Negara) dari Anggaran Republik Indonesia Untuk Tahun-tahun Dinas 1952 dan 1953

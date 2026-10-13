@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2006"
 bpk_page: "https://peraturan.bpk.go.id/Details/53161"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141853/https://peraturan.bpk.go.id/Details/53161"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2006 tentang Perubahan Kedua Atas Undang-Undang Nomor 12 Tahun 2003 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah

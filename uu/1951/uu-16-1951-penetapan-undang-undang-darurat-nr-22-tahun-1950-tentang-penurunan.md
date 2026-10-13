@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39893"
 bpk_page: "https://peraturan.bpk.go.id/Details/39893"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121031/https://peraturan.bpk.go.id/Details/39893"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1951 tentang Penetapan Undang-Undang Darurat Nr 22 Tahun 1950 tentang Penurunan Cukai Tembakau Sebagai Undang-Undang

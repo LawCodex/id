@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38985"
 bpk_metadata_archived: "http://web.archive.org/web/20260524095956/https://peraturan.bpk.go.id/Details/38985/uu-no-24-tahun-2013increase"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=24&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 2013 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan

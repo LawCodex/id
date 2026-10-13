@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45295"
 bpk_page: "https://peraturan.bpk.go.id/Details/45295"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121437/https://peraturan.bpk.go.id/Details/45295"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1953 tentang Penetapan Peraturan Dalam Undang-Undang Darurat Nomor 12 Tahun 1952 (Lembaran-Negara Nomor 84 Tahun 1952) tentang Kewajiban Anggota Angkatan Perang untuk Tetap Dalam Dinas Ketentaraan Sebagai Undang-Undang

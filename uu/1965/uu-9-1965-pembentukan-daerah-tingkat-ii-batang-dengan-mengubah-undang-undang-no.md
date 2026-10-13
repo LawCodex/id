@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50008"
 bpk_page: "https://peraturan.bpk.go.id/Details/50008"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124922/https://peraturan.bpk.go.id/Details/50008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1965 tentang Pembentukan Daerah Tingkat II Batang Dengan Mengubah Undang-Undang No.13 Tahun 1950 Tentang Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Propinsi Jawa Tengah

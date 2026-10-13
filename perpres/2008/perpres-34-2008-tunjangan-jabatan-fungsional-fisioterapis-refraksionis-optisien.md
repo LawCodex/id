@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+34+Tahun+2008.pdf&fl=P15815"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=34&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 34 Tahun 2008 tentang Tunjangan Jabatan Fungsional Fisioterapis, Refraksionis Optisien, Terapis Wicara, Okupasi Terapis, Ortotis Prostetis, Teknisi Transfusi Darah Dan Teknisi Gigi

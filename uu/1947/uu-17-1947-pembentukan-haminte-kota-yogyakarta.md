@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25269"
 bpk_page: "https://peraturan.bpk.go.id/Details/25269"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120322/https://peraturan.bpk.go.id/Details/25269"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1947 tentang Pembentukan Haminte-Kota Yogyakarta

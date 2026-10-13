@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+49+Tahun+2010.pdf&fl=P15991"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=49&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 49 Tahun 2010 tentang Tunjangan Operasi Pengamanan Bagi Prajurit Tentara Nasional Indonesia Dan Pegawai Negeri Sipil Yang Bertugas Dalam Operasi Pengamanan Pada Pulau-Pulau Kecil Terluar Dan Wilayah Perbatasan

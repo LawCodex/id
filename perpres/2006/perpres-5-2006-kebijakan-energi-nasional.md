@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41945"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082033/https://peraturan.bpk.go.id/Details/41945"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=5&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 2006 tentang Kebijakan Energi Nasional

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38723"
 bpk_metadata_archived: "http://web.archive.org/web/20260904022828/https://peraturan.bpk.go.id/Details/38723/uu-no-35-tahun-2014.DatabasePeraturan%7CJDIH"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=35&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak

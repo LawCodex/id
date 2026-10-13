@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50665"
 bpk_page: "https://peraturan.bpk.go.id/Details/50665"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124218/https://peraturan.bpk.go.id/Details/50665"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1962 tentang Karantina Laut

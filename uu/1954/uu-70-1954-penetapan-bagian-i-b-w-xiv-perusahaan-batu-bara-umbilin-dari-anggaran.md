@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50972"
 bpk_page: "https://peraturan.bpk.go.id/Details/50972"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121923/https://peraturan.bpk.go.id/Details/50972"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 70 Tahun 1954 tentang Penetapan Bagian I.B.W. XIV (Perusahaan Batu Bara Umbilin) dari Anggaran Republik Indonesia Untuk Tahun-Tahun Dinas 1952 dan 1953

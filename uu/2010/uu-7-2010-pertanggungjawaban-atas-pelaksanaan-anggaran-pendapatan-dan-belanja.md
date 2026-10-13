@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38545"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144527/https://peraturan.bpk.go.id/Details/38545"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2010 tentang Pertanggungjawaban atas Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2009

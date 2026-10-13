@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49099"
 bpk_page: "https://peraturan.bpk.go.id/Details/49099"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125322/https://peraturan.bpk.go.id/Details/49099"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1969 tentang Persetujuan Perjanjian antara Republik Indonesia dan Republic Rakyat Tiongkok Mengenai Soal Dwikewarganegaraan

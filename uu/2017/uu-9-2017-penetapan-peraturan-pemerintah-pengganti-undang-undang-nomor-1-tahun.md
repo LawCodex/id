@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/53607"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150426/https://peraturan.bpk.go.id/Details/53607"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2017 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2017 Tentang Akses Informasi Keuangan Untuk Kepentingan Perpajakan Menjadi Undang-Undang
@@ -48,9 +48,7 @@ PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang : a. bahwa dalam melaksanakan pembangunan nasional Negara Kesatuan Republik Indonesia yang mempunyai tujuan untuk menyejahterakan dan memakmurkan seluruh rakyat Indonesia secara merata dan berkeadilan, dibutuhkan pendanaan yang bersumber dari penerimaan negara terutama yang berasal dari pajak, sehingga untuk memenuhi kebutuhan penerimaan pajak tersebut diperlukan pemberian akses yang luas bagi otoritas perpajakan untuk menerima dan memperoleh informasi keuangan bagi kepentingan perpajakan;
 
-b. bahwa saat ini masih terdapat keterbatasan akses bagi otoritas perpajakan Indonesia untuk menerima dan memperoleh informasi keuangan yang diatur dalam undang-undang di bidang perpajakan, perbankan, perbankan syariah, dan pasar modal, serta peraturan perundang-undangan lainnya, yang dapat mengakibatkan kendala bagi otoritas perpajakan dalam
-
-2017, No.190 -2-penguatan basis data perpajakan untuk memenuhi kebutuhan penerimaan pajak dan menjaga keberlanjutan efektivitas kebijakan pengampunan pajak;
+b. bahwa saat ini masih terdapat keterbatasan akses bagi otoritas perpajakan Indonesia untuk menerima dan memperoleh informasi keuangan yang diatur dalam undang-undang di bidang perpajakan, perbankan, perbankan syariah, dan pasar modal, serta peraturan perundang-undangan lainnya, yang dapat mengakibatkan kendala bagi otoritas perpajakan dalam penguatan basis data perpajakan untuk memenuhi kebutuhan penerimaan pajak dan menjaga keberlanjutan efektivitas kebijakan pengampunan pajak;
 
 c. bahwa Indonesia telah mengikatkan diri pada perjanjian internasional di bidang perpajakan yang berkewajiban untuk memenuhi komitmen keikutsertaan dalam mengimplementasikan pertukaran informasi keuangan secara otomatis (Automatic Exchange of Financial Account Information) dan harus segera membentuk peraturan perundang-undangan setingkat undang-undang mengenai akses informasi keuangan untuk kepentingan perpajakan sebelum tanggal 30 Juni 2017;
 
@@ -89,8 +87,6 @@ Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2017 tentang Akses In
 ##### Pasal 2
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
-
-2017, No.190 -4-
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
@@ -154,9 +150,7 @@ PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang : a. bahwa dalam melaksanakan pembangunan nasional Negara Kesatuan Republik Indonesia yang mempunyai tujuan untuk menyejahterakan dan memakmurkan seluruh rakyat Indonesia secara merata dan berkeadilan, dibutuhkan pendanaan yang bersumber dari penerimaan negara terutama yang berasal dari pajak, sehingga untuk memenuhi kebutuhan penerimaan pajak tersebut diperlukan pemberian akses yang luas bagi otoritas perpajakan untuk menerima dan memperoleh informasi keuangan bagi kepentingan perpajakan;
 
-b. bahwa saat ini masih terdapat keterbatasan akses bagi otoritas perpajakan Indonesia untuk menerima dan memperoleh informasi keuangan yang diatur dalam undang-undang di bidang perpajakan, perbankan, perbankan syariah, dan pasar modal, serta peraturan perundang-undangan lainnya, yang dapat
-
-2017, No.190 -6-mengakibatkan kendala bagi otoritas perpajakan dalam penguatan basis data perpajakan untuk memenuhi kebutuhan penerimaan pajak dan menjaga keberlanjutan efektivitas kebijakan pengampunan pajak;
+b. bahwa saat ini masih terdapat keterbatasan akses bagi otoritas perpajakan Indonesia untuk menerima dan memperoleh informasi keuangan yang diatur dalam undang-undang di bidang perpajakan, perbankan, perbankan syariah, dan pasar modal, serta peraturan perundang-undangan lainnya, yang dapat mengakibatkan kendala bagi otoritas perpajakan dalam penguatan basis data perpajakan untuk memenuhi kebutuhan penerimaan pajak dan menjaga keberlanjutan efektivitas kebijakan pengampunan pajak;
 
 c. bahwa Indonesia telah mengikatkan diri pada perjanjian internasional di bidang perpajakan yang berkewajiban untuk memenuhi komitmen keikutsertaan dalam mengimplementasikan pertukaran informasi keuangan secara otomatis (Automatic Exchange of Financial Account Information) dan harus segera membentuk peraturan perundang-undangan setingkat undang-undang mengenai akses informasi keuangan untuk kepentingan perpajakan sebelum tanggal 30 Juni 2017;
 
@@ -195,8 +189,6 @@ Pasal 2
 a. laporan yang berisi informasi keuangan sesuai standar pertukaran informasi keuangan berdasarkan perjanjian internasional di bidang perpajakan untuk setiap rekening keuangan yang diidentifikasikan sebagai rekening keuangan yang wajib dilaporkan; dan
 
 b. laporan yang berisi informasi keuangan untuk kepentingan perpajakan, yang dikelola oleh lembaga jasa keuangan, lembaga jasa keuangan lainnya, dan/atau entitas lain dimaksud selama satu tahun kalender.
-
-2017, No.190 -8-
 
 (3) Laporan yang berisi informasi keuangan sebagaimana dimaksud pada ayat (2) paling sedikit memuat:
 
@@ -246,8 +238,6 @@ a. mekanisme elektronik melalui Otoritas Jasa Keuangan bagi lembaga jasa keuanga
 
 b. mekanisme non-elektronik sepanjang mekanisme elektronik belum tersedia, kepada Direktur Jenderal Pajak, bagi lembaga jasa keuangan lainnya dan entitas lain sebagaimana dimaksud dalam Pasal 2 ayat (1), untuk laporan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf a; dan
 
-2017, No.190 -10-
-
 c. mekanisme non-elektronik sepanjang mekanisme elektronik belum tersedia, kepada Direktur Jenderal Pajak, untuk laporan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf b.
 
 (2) Dalam hal terdapat perubahan mekanisme sebagaimana dimaksud pada ayat (1), Menteri Keuangan dapat menentukan mekanisme lain setelah mendapat pertimbangan Ketua Dewan Komisioner Otoritas Jasa Keuangan.
@@ -286,9 +276,7 @@ Pasal 6
 
 (2) Pimpinan dan/atau pegawai Otoritas Jasa Keuangan yang memenuhi kewajiban penyampaian laporan sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf a, tidak dapat dituntut secara pidana dan/atau digugat secara perdata.
 
-(3) Pimpinan dan/atau pegawai lembaga jasa keuangan, pimpinan dan/atau pegawai lembaga jasa keuangan lainnya, dan pimpinan dan/atau pegawai entitas lain sebagaimana dimaksud dalam Pasal 2 ayat (1) yang memenuhi kewajiban penyampaian laporan sebagaimana
-
-2017, No.190 -12-dimaksud dalam Pasal 2 ayat (2), dan/atau pemberian informasi dan/atau bukti atau keterangan sebagaimana dimaksud dalam Pasal 4 ayat (2), tidak dapat dituntut secara pidana dan/atau digugat secara perdata.
+(3) Pimpinan dan/atau pegawai lembaga jasa keuangan, pimpinan dan/atau pegawai lembaga jasa keuangan lainnya, dan pimpinan dan/atau pegawai entitas lain sebagaimana dimaksud dalam Pasal 2 ayat (1) yang memenuhi kewajiban penyampaian laporan sebagaimana dimaksud dalam Pasal 2 ayat (2), dan/atau pemberian informasi dan/atau bukti atau keterangan sebagaimana dimaksud dalam Pasal 4 ayat (2), tidak dapat dituntut secara pidana dan/atau digugat secara perdata.
 
 Pasal 7
 
@@ -322,8 +310,6 @@ Pasal 8 Pada saat Peraturan Pemerintah Pengganti Undang-Undang ini mulai berlaku
 
 4. Pasal 17, Pasal 27, dan Pasal 55 Undang-Undang Nomor 32 Tahun 1997 tentang Perdagangan Berjangka Komoditi (Lembaran Negara Republik Indonesia Tahun 1997
 
-2017, No.190 -14-
-
 Nomor 93, Tambahan Lembaran Negara Republik Indonesia Nomor 3720) sebagaimana telah diubah dengan Undang-Undang Nomor 10 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 32 Tahun 1997 tentang Perdagangan Berjangka Komoditi (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 79, Tambahan Lembaran Negara Republik Indonesia Nomor 5232); dan
 
 5. Pasal 41 dan Pasal 42 Undang-Undang Nomor 21 Tahun 2008 tentang Perbankan Syariah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 94, Tambahan Lembaran Negara Republik Indonesia Nomor 4867), dinyatakan tidak berlaku sepanjang berkaitan dengan pelaksanaan akses informasi keuangan untuk kepentingan perpajakan berdasarkan Peraturan Pemerintah Pengganti Undang-Undang ini.
@@ -355,8 +341,6 @@ ttd.
 YASONNA H. LAOLY
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 95
-
-2017, No.190 -16-
 
 ## PENJELASAN
 
@@ -394,9 +378,7 @@ Indonesia berpotensi menjadi negara tujuan penempatan dana ilegal.
 
 Saat ini Indonesia telah mengikatkan diri pada perjanjian internasional di bidang perpajakan dengan banyak negara/yurisdiksi, yang di dalamnya juga mengatur mengenai pertukaran informasi termasuk pertukaran informasi keuangan secara otomatis sesuai dengan standar internasional yang disepakati. Salah satu persyaratan yang harus dipenuhi oleh Indonesia untuk mengimplementasikan pertukaran informasi keuangan secara otomatis adalah membentuk aturan domestik yang mengatur mengenai kewenangan otoritas perpajakan untuk mengakses informasi keuangan, kewajiban bagi lembaga jasa keuangan untuk melaporkan informasi keuangan secara otomatis kepada otoritas perpajakan, melakukan prosedur identifikasi rekening keuangan untuk kepentingan pelaporan dimaksud, serta adanya penerapan sanksi bagi ketidakpatuhan atas kewajiban-kewajiban tersebut.
 
-Global Forum on Transparency and Exchange of Information for Tax Purposes (Global Forum) yang hingga saat ini telah beranggotakan 139 negara atau yurisdiksi termasuk Indonesia, telah menguji transparansi dan pertukaran informasi yang efektif masing-masing negara anggota dan telah memberikan peringkat kepada 113 negara atau yurisdiksi, termasuk untuk Indonesia. Berdasarkan penilaian yang bersifat secara keseluruhan tersebut, Indonesia telah ditempatkan dalam peringkat “Patuh Sebagian” (Partially-Compliant), karena tidak adanya kewenangan Direktorat Jenderal Pajak selaku otoritas perpajakan di Indonesia untuk memperoleh
-
-2017, No.190 -18-dan menyediakan informasi keuangan (power to obtain and provide financial information). Hal tersebut disebabkan adanya pembatasan akses informasi keuangan untuk kepentingan perpajakan dalam undang-undang di bidang perpajakan, perbankan, perbankan syariah, dan pasar modal, serta peraturan perundang-undangan lainnya.
+Global Forum on Transparency and Exchange of Information for Tax Purposes (Global Forum) yang hingga saat ini telah beranggotakan 139 negara atau yurisdiksi termasuk Indonesia, telah menguji transparansi dan pertukaran informasi yang efektif masing-masing negara anggota dan telah memberikan peringkat kepada 113 negara atau yurisdiksi, termasuk untuk Indonesia. Berdasarkan penilaian yang bersifat secara keseluruhan tersebut, Indonesia telah ditempatkan dalam peringkat “Patuh Sebagian” (Partially-Compliant), karena tidak adanya kewenangan Direktorat Jenderal Pajak selaku otoritas perpajakan di Indonesia untuk memperoleh dan menyediakan informasi keuangan (power to obtain and provide financial information). Hal tersebut disebabkan adanya pembatasan akses informasi keuangan untuk kepentingan perpajakan dalam undang-undang di bidang perpajakan, perbankan, perbankan syariah, dan pasar modal, serta peraturan perundang-undangan lainnya.
 
 Penempatan Indonesia sebagai negara dengan peringkat “Patuh Sebagian” (Partially-Compliant) dimaksud mengakibatkan Indonesia dianggap tidak transparan dan kurang efektif dalam pertukaran informasi keuangan oleh seluruh negara atau yurisdiksi mitra pertukaran informasi dan sejumlah lembaga internasional.
 
@@ -423,8 +405,6 @@ Yang dimaksud dengan “perjanjian internasional di bidang perpajakan” adalah 
 Ayat (1)
 
 Yang dimaksud dengan “lembaga jasa keuangan lainnya” adalah lembaga jasa keuangan lainnya sebagaimana diatur dalam
-
-2017, No.190 -20-
 
 Undang-Undang mengenai Otoritas Jasa Keuangan.
 
@@ -491,8 +471,6 @@ Cukup jelas.
 Ayat (2)
 
 Yang dimaksud dengan “perubahan mekanisme” adalah perubahan mekanisme dari non elektronik menjadi elektronik.
-
-2017, No.190 -22-
 
 Ayat (3)
 

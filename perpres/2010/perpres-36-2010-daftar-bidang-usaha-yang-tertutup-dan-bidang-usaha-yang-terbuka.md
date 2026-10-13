@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40390"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082732/https://peraturan.bpk.go.id/Details/40390"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=36&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 36 Tahun 2010 tentang Daftar Bidang Usaha yang Tertutup dan Bidang Usaha yang Terbuka dengan Persyaratan di Bidang Penanaman Modal

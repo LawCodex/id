@@ -27,7 +27,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45350"
 bpk_metadata_archived: "http://web.archive.org/web/20260503083932/https://peraturan.bpk.go.id/Details/45350/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=31&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi

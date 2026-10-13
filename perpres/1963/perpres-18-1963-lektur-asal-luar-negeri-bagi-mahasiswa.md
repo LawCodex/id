@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42453"
 bpk_page: "https://peraturan.bpk.go.id/Details/42453"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124337/https://peraturan.bpk.go.id/Details/42453"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 1963 tentang Lektur Asal Luar Negeri Bagi Mahasiswa

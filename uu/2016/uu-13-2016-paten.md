@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37536"
 bpk_metadata_archived: "http://web.archive.org/web/20240812070046/https://peraturan.bpk.go.id/Details/37536"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2016 tentang Paten

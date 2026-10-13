@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52277"
 bpk_page: "https://peraturan.bpk.go.id/Details/52277"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122852/https://peraturan.bpk.go.id/Details/52277"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 57 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 8 Tahun 1952 Tentang Mengubah dan Menambah Undang-Undang Bea Berat Barang (Goederengeld Ordonnantie) Beserta Peraturan Bea Berat Barang (Algemeen Goederengeld Reglement)" (Lembaran-Negara Tahun 1952 No. 39) Sebagai Undang-Undang

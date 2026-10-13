@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42189"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082409/https://peraturan.bpk.go.id/Details/42189"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=1&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2008 tentang Perubahan Peraturan Presiden Nomor 19 Tahun 2005 tentang Pembiayaan Sekunder Perumahan

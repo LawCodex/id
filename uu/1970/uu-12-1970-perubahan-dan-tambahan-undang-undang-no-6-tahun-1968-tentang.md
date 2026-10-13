@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47914"
 bpk_page: "https://peraturan.bpk.go.id/Details/47914"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125342/https://peraturan.bpk.go.id/Details/47914"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1970 tentang Perubahan dan Tambahan Undang-Undang No. 6 Tahun 1968 tentang Penanaman Modal Dalam Negeri

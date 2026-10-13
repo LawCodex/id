@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44485"
 bpk_page: "https://peraturan.bpk.go.id/Details/44485"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111502/https://peraturan.bpk.go.id/Details/44485/uu-no-27-tahun-2002"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 2002 tentang Pembentukan Kota Banjar Di Provinsi Jawa Barat

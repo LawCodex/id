@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0472012.pdf&fl=P15971"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=47&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 47 Tahun 2012 tentang Tim Pengamat Indonesia Dalam International Monitoring Team Di Filipina Selatan

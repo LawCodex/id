@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53734"
 bpk_page: "https://peraturan.bpk.go.id/Details/53734"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124444/https://peraturan.bpk.go.id/Details/53734"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1963 tentang Perubahan Dan Tambahan Undang-Undang No. 36 Tahun 1953 Tentang Bank Tabungan Pos (Lembaran Negara Tahun 1953 No.86)

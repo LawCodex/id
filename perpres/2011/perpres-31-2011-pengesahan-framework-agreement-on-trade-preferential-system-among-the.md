@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41213"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082917/https://peraturan.bpk.go.id/Details/41213"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=31&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 31 Tahun 2011 tentang Pengesahan Framework Agreement On Trade Preferential System Among The Member States Of The Organization Of The Islamic Conference (Persetujuan Kerangka Kerja Mengenai Sistem Preferensi Perdagangan Antar Negara-negara Anggota Organisasi Konferensi Islam)

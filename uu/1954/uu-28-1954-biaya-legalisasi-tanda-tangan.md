@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50497"
 bpk_page: "https://peraturan.bpk.go.id/Details/50497"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121724/https://peraturan.bpk.go.id/Details/50497"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1954 tentang Biaya Legalisasi Tanda Tangan

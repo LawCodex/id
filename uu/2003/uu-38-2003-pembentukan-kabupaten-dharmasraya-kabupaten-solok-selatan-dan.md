@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44168"
 bpk_page: "https://peraturan.bpk.go.id/Details/44168"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105359/https://peraturan.bpk.go.id/Details/44168/uu-no-38-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 38 Tahun 2003 tentang Pembentukan Kabupaten Dharmasraya, Kabupaten Solok Selatan, dan Kabupaten Pasaman Barat di Provinsi Sumatera Barat

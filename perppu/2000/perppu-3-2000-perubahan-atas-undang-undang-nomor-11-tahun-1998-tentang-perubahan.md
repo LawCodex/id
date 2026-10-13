@@ -16,7 +16,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=3&thn=2000"
 bpk_page: "https://peraturan.bpk.go.id/Details/53152"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140603/https://peraturan.bpk.go.id/Details/53152"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2000 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 1998 Tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 Tentang Ketenagakerjaan

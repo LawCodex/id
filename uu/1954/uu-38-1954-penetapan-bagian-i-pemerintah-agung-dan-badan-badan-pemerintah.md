@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50521"
 bpk_page: "https://peraturan.bpk.go.id/Details/50521"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121753/https://peraturan.bpk.go.id/Details/50521"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 38 Tahun 1954 tentang Penetapan Bagian I (Pemerintah Agung dan Badan-Badan Pemerintah Tertinggi) dari Anggaran Republik Indonesia untuk Tahun-Tahun Dinas 1952 dan 1953

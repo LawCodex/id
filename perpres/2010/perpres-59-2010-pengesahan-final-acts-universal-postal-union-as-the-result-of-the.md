@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_59_Th_2010.pdf&fl=P16106"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=59&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 59 Tahun 2010 tentang Pengesahan Final Acts Universal Postal Union As The Result Of The 24Th Geneva Congress, Swiss 2008 (Akta-Akta Akhir Perhimpunan Pos Sedunia, Sebagai Hasil Kongres Ke-24 Di Jenewa, Swiss 2008)

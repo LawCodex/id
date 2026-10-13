@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41379"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083549/https://peraturan.bpk.go.id/Details/41379"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=9&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 2013 tentang Penyelenggaraan Pengelolaan Kegiatan Usaha Hulu Minyak dan Gas Bumi

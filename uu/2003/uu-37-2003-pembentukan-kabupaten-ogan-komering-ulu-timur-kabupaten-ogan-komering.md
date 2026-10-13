@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44164"
 bpk_page: "https://peraturan.bpk.go.id/Details/44164"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141313/https://peraturan.bpk.go.id/Details/44164"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 37 Tahun 2003 tentang Pembentukan Kabupaten Ogan Komering Ulu Timur, Kabupaten Ogan Komering Ulu Selatan, Dan Kabupaten Ogan Ilir Di Provinsi Sumatera Selatan

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45266"
 bpk_page: "https://peraturan.bpk.go.id/Details/45266"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121523/https://peraturan.bpk.go.id/Details/45266"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1953 tentang Mengubah dan Menambah Ordonansi Pajak Rumah Tangga 1908

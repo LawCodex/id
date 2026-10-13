@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41327"
 bpk_metadata_archived: "http://web.archive.org/web/20250309054944/https://peraturan.bpk.go.id/Details/41327/perpres-no-72-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=72&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 72 Tahun 2012 tentang Sistem Kesehatan Nasional

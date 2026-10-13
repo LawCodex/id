@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68817"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083415/https://peraturan.bpk.go.id/Details/68817/perpres-no-16-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=16&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 2007 tentang Gaji dan Penghasilan Serta Hak Lainnya yang Sah bagi Ketua dan Anggota Komite Badan Pengatur Penyediaan dan Pendistribusian Bahan Bakar Minyak dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa

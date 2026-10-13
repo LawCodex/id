@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42501"
 bpk_page: "https://peraturan.bpk.go.id/Details/42501"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081652/https://peraturan.bpk.go.id/Details/42501"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 43 Tahun 1964 tentang Perubahan dan Tambahan Peraturan Pemerintah Nomor 209 Tahun 1961, Tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggota Dewan Perwakilan Rakyat Gotong Royong

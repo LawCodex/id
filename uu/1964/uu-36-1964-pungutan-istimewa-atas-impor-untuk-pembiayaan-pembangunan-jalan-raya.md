@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50401"
 bpk_page: "https://peraturan.bpk.go.id/Details/50401"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124645/https://peraturan.bpk.go.id/Details/50401"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 1964 tentang Pungutan Istimewa Atas Impor Untuk Pembiayaan Pembangunan Jalan Raya Lintas Sumatera

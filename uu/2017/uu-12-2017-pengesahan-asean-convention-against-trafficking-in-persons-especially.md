@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/64495"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150247/https://peraturan.bpk.go.id/Details/64495"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2017 tentang Pengesahan Asean Convention Against Trafficking In Persons, Especially Women and Children (Konvensi Asean Menentang Perdagangan Orang, Terutama Perempuan dan Anak)

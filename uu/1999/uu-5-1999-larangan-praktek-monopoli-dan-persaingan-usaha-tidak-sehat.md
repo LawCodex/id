@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45280"
 bpk_metadata_archived: "http://web.archive.org/web/20251223185518/https://peraturan.bpk.go.id/Details/45280/uu-no-5-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1999 tentang Larangan Praktek Monopoli dan Persaingan Usaha Tidak Sehat

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50330"
 bpk_page: "https://peraturan.bpk.go.id/Details/50330"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124535/https://peraturan.bpk.go.id/Details/50330"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1964 tentang Wajib Kerja Tenaga Paramedis

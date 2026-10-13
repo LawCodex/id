@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+21+Tahun+2009.pdf&fl=P15662"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=21&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 21 Tahun 2009 tentang Rencana Kerja Pemerintah Tahun 2010

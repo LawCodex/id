@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49109"
 bpk_page: "https://peraturan.bpk.go.id/Details/49109"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125335/https://peraturan.bpk.go.id/Details/49109"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1969 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 1 tahun 1969 (lembaran negara tahun 1969 No. 16; Tambahan Lembaran Negara No. 2890) tentang Bentuk-Bentuk Usaha Negara Menjadi Undang-Undang

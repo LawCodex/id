@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46807"
 bpk_page: "https://peraturan.bpk.go.id/Details/46807"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132924/https://peraturan.bpk.go.id/Details/46807"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1988 tentang Perubahan atas Undang-Undang Nomor 20 Tahun 1982 tentang Ketentuan-Ketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia

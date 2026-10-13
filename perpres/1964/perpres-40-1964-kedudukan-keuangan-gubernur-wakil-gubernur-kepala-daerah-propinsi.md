@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42468"
 bpk_page: "https://peraturan.bpk.go.id/Details/42468"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124656/https://peraturan.bpk.go.id/Details/42468"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 40 Tahun 1964 tentang Kedudukan Keuangan Gubernur/Wakil Gubernur Kepala Daerah Propinsi Irian Barat

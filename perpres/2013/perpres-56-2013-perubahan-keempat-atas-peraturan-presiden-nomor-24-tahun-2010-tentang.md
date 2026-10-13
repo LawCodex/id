@@ -38,7 +38,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41426"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083449/https://peraturan.bpk.go.id/Details/41426"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=56&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 56 Tahun 2013 tentang Perubahan Keempat atas Peraturan Presiden Nomor 24 Tahun 2010 tentang Kedudukan Tugas dan Fungsi Kementerian Negara Serta Susunan Organisasi Tugas dan Fungsi Eselon I Kementerian Negara

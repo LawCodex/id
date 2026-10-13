@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52673"
 bpk_page: "https://peraturan.bpk.go.id/Details/52673"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122533/https://peraturan.bpk.go.id/Details/52673"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 55 Tahun 1957 tentang Penetapan Bagian IBW VI (Perusahaan Negeri untuk Pembangkit Tenaga Listrik) dari Anggaran Republik Indonesia Tahun Dinas 1954

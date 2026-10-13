@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39813"
 bpk_page: "https://peraturan.bpk.go.id/Details/39813"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121115/https://peraturan.bpk.go.id/Details/39813"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1951 tentang Pernyataan Berlakunya Undang-Undang Kecelakaan Tahun 1947 Nr. 33, dari Republik Indonesia untuk Seluruh Indonesia

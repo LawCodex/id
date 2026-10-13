@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69391"
 bpk_page: "https://peraturan.bpk.go.id/Details/69391"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124035/https://peraturan.bpk.go.id/Details/69391"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 1961 tentang Segi-Segi Protokoler Dalam Tindakan-Kepolisian Terhadap Anggota Pimpinan M.P.R.S.

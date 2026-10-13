@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41137"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092846/https://peraturan.bpk.go.id/Details/41137/perpres-no-1-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=1&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2011 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Surakarta Menjadi Institut Agama Islam Negeri Surakarta

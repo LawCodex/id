@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/45930"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134316/https://peraturan.bpk.go.id/Details/45930"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1997 tentang Pengesahan Treaty On The Southeast Asia Nuclear Weapon Free Zone (Traktat Kawasan Bebas Senjata Nuklir Di Asia Tenggara)

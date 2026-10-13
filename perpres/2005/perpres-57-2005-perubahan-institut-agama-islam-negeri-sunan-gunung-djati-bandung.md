@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_no_57_th_2005.pdf&fl=P16079"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=57&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 57 Tahun 2005 tentang Perubahan Institut Agama Islam Negeri Sunan Gunung Djati Bandung Menjadi Universitas Islam Negeri Sunan Gunung Djati Bandung Dan Perubahan Institut Agama Islam Negeri Alauddin Makassar Menjadi Universitas Islam Negeri Alauddin Makassar

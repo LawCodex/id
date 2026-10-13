@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50321"
 bpk_page: "https://peraturan.bpk.go.id/Details/50321"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124529/https://peraturan.bpk.go.id/Details/50321"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 4 tahun 1964 Tentang Pembentukan Daerah Tingkat II Dairi Dengan Mengubah Undang-Undang No. 7 Drt Tahun 1956 Tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Utara (Lembaran Negara Tahun 1964 No. 9) Menjadi Undang-Undang

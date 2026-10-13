@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50491"
 bpk_page: "https://peraturan.bpk.go.id/Details/50491"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121718/https://peraturan.bpk.go.id/Details/50491"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1954 tentang Pembayaran Kembali Pinjaman Nasional 1946

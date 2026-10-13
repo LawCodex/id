@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46907"
 bpk_page: "https://peraturan.bpk.go.id/Details/46907"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132808/https://peraturan.bpk.go.id/Details/46907"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1986 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1985/1986

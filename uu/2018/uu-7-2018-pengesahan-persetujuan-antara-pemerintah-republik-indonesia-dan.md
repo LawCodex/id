@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/90039"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150551/https://peraturan.bpk.go.id/Details/90039"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2018 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Korea tentang Kerja Sama di Bidang Pertahanan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Korea On Cooperation In The Field Of Defense)

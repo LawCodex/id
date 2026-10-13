@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40251"
 bpk_page: "https://peraturan.bpk.go.id/Details/40251"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121253/https://peraturan.bpk.go.id/Details/40251"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1952 tentang Penunjukan Jawatan Regi Garam Sebgai Perusahaan I.B.W. dengan Nama Baru "Perusahaan Garam dan Soda Negeri

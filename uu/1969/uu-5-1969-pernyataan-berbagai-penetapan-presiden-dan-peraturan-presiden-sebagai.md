@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49100"
 bpk_page: "https://peraturan.bpk.go.id/Details/49100"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125323/https://peraturan.bpk.go.id/Details/49100"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1969 tentang Pernyataan Berbagai Penetapan Presiden dan Peraturan Presiden Sebagai Undang-Undang

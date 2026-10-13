@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_105_Tahun_2007.pdf&fl=P16505"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=105&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 105 Tahun 2007 tentang Rincian Anggaran Belanja Pemerintah Pusat Tahun Anggaran 2008

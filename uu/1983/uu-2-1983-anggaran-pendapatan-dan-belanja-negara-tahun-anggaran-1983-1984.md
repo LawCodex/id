@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46981"
 bpk_page: "https://peraturan.bpk.go.id/Details/46981"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111842/https://peraturan.bpk.go.id/Details/46981/uu-no-2-tahun-1983"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1983 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1983/1984

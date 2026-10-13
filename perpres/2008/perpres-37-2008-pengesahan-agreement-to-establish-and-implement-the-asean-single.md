@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+37+2008.pdf&fl=P15851"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=37&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 37 Tahun 2008 tentang Pengesahan Agreement To Establish And Implement The Asean Single Window (Persetujuan Untuk Membangun Dan Melaksanakan Asean Single Window) Beserta Protocol To Establish And Implement The Asean Single Window (Protokol Untuk Membangun Dan Melaksanakan Asean Single Window)

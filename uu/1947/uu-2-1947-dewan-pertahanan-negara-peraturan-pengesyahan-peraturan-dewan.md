@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25212"
 bpk_page: "https://peraturan.bpk.go.id/Details/25212"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120353/https://peraturan.bpk.go.id/Details/25212"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1947 tentang Dewan Pertahanan Negara, Peraturan Pengesyahan Peraturan Dewan Pertahanan Negara Nomor 6, 10, 12,13,15, 18, 19, 23, 24, 25 dan 26 Tahun 1946

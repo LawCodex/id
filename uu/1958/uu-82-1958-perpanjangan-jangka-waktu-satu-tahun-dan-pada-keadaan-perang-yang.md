@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52362"
 bpk_page: "https://peraturan.bpk.go.id/Details/52362"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122948/https://peraturan.bpk.go.id/Details/52362"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 82 Tahun 1958 tentang Perpanjangan Jangka-Waktu Satu Tahun dan Pada Keadaan Perang Yang Telah Dinyatakan Dengan Keputusan Presiden Republik Indonesia No. 225 Tahun 1957 Tanggal 17 Desember 1957 dan Yang Disahkan Dengan Undang-Undang No. 79 Tahun 1957 (Lembaran-Negara Tahun 1957 No. 170) Untuk Seluruh Wilayah Republik Indonesia

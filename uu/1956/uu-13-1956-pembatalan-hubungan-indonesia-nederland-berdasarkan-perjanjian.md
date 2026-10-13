@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51096"
 bpk_page: "https://peraturan.bpk.go.id/Details/51096"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122120/https://peraturan.bpk.go.id/Details/51096"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1956 tentang Pembatalan Hubungan Indonesia-Nederland Berdasarkan Perjanjian Konperensi Meja Bundar

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41085"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082837/https://peraturan.bpk.go.id/Details/41085"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=82&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 82 Tahun 2010 tentang Sekretariat Kabinet

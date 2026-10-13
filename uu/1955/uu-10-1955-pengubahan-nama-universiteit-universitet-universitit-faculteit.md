@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51070"
 bpk_page: "https://peraturan.bpk.go.id/Details/51070"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121938/https://peraturan.bpk.go.id/Details/51070"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1955 tentang Pengubahan Nama Universiteit, Universitet, Universitit, Faculteit, Facultet dan Facultit Menjadi Universitas dan Fakultas

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40178"
 bpk_metadata_archived: "http://web.archive.org/web/20251207002825/https://peraturan.bpk.go.id/Details/40178/uu-no-13-tahun-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban

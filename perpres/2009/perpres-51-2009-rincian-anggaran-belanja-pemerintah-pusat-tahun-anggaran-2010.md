@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan+Perpres+Nomor+51+Tahun+2009.pdf&fl=P16012"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=51&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 51 Tahun 2009 tentang Rincian Anggaran Belanja Pemerintah Pusat Tahun Anggaran 2010

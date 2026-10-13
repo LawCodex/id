@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39128"
 bpk_metadata_archived: "http://web.archive.org/web/20260210152915/https://peraturan.bpk.go.id/Details/39128/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2011 tentang Perumahan dan Kawasan Permukiman

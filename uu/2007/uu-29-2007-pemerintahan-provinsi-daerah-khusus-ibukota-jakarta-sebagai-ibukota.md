@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39922"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142057/https://peraturan.bpk.go.id/Details/39922"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=29&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 2007 tentang Pemerintahan Provinsi Daerah Khusus Ibukota Jakarta sebagai Ibukota Negara Kesatuan Republik Indonesia

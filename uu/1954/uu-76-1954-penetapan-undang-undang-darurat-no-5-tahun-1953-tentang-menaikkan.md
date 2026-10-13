@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50981"
 bpk_page: "https://peraturan.bpk.go.id/Details/50981"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121930/https://peraturan.bpk.go.id/Details/50981"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 76 Tahun 1954 tentang Penetapan "Undang-Undang Darurat No. 5 Tahun 1953 Tentang Menaikkan Jumlah Maksimum Porto dan Bea" (Lembaran-Negara No. 22 Tahun 1953) Sebagai Undang-Undang

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+1+Tahun+2010.pdf&fl=P15414"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=1&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2010 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Federasi Rusia Mengenai Kerja Sama Di Bidang Eksplorasi Dan Pemanfaatan Antariksa Untuk Maksud Damai (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Russian Federation On Cooperation In The Field Of The Exploration And Use Of Outer Space For Peaceful Purposes)

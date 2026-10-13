@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38805"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145523/https://peraturan.bpk.go.id/Details/38805"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=42&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 42 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 17 Tahun 2014 Tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah

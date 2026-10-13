@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41392"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092823/https://peraturan.bpk.go.id/Details/41392/perpres-no-22-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=22&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 22 Tahun 2013 tentang Tunjangan Jabatan Fungsional Pengembang Teknologi Pembelajaran

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52400"
 bpk_page: "https://peraturan.bpk.go.id/Details/52400"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122546/https://peraturan.bpk.go.id/Details/52400"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1957 tentang Mengubah dan Menambah Undang-Undang Penempatan Bagian II Dari Anggaran Republik Indonesia Untuk Tahun Dinas 1953

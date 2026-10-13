@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41249"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085902/https://peraturan.bpk.go.id/Details/41249/perpres-no-6-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=6&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 2012 tentang Komite Koordinasi Nasional Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang

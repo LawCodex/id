@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69360"
 bpk_page: "https://peraturan.bpk.go.id/Details/69360"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123323/https://peraturan.bpk.go.id/Details/69360"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 1960 tentang Perubahan dan Tambahan Peraturan Presiden Peraturan Presiden Nomor 14 Tahun 1959

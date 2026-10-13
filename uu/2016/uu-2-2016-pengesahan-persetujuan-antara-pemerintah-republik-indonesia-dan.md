@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37172"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150053/https://peraturan.bpk.go.id/Details/37172"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2016 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Polandia Tentang Kerja Sama Di Bidang Pertahanan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Poland Concerning Co-Operation In The Field Of Defence)
@@ -56,9 +56,7 @@ Menimbang : a. bahwa hubungan luar negeri yang dilandasi politik bebas aktif mer
 
 b. bahwa untuk membangun kehidupan berbangsa dan bernegara serta berpartisipasi dalam menjaga ketertiban dunia, kerja sama di bidang pertahanan merupakan salah satu faktor yang sangat diperlukan guna mempererat hubungan baik antarnegara dalam rangka meningkatkan kemampuan pertahanan negara;
 
-c. bahwa untuk meningkatkan kerja sama di bidang pertahanan antara Pemerintah Republik Indonesia dan Pemerintah Republik Polandia, pada tanggal 6 Juni 2006 di Jakarta telah ditandatangani Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Polandia
-
-2016, No.10 -2-tentang Kerja Sama di Bidang Pertahanan (Agreement between the Government of the Republic of Indonesia and the Government of the Republic of Poland concerning Co-operation in the Field of Defence);
+c. bahwa untuk meningkatkan kerja sama di bidang pertahanan antara Pemerintah Republik Indonesia dan Pemerintah Republik Polandia, pada tanggal 6 Juni 2006 di Jakarta telah ditandatangani Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Polandia tentang Kerja Sama di Bidang Pertahanan (Agreement between the Government of the Republic of Indonesia and the Government of the Republic of Poland concerning Co-operation in the Field of Defence);
 
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Undang-Undang tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Polandia tentang Kerja Sama di Bidang Pertahanan (Agreement between the Government of the Republic of Indonesia and the Government of the Republic of Poland concerning Co-operation in the Field of Defence);
 

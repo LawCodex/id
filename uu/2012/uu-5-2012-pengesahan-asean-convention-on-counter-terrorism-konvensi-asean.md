@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39019"
 bpk_page: "https://peraturan.bpk.go.id/Details/39019"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145008/https://peraturan.bpk.go.id/Details/39019"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2012 tentang Pengesahan ASEAN Convention on Counter Terrorism (Konvensi ASEAN Mengenai Pemberantahasan Terorisme)

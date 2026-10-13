@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41186"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092510/https://peraturan.bpk.go.id/Details/41186/perpres-no-69-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=69&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 69 Tahun 2011 tentang Pendirian Sekolah Tinggi Agama Kristen Negeri Kupang, Nusa Tenggara Timur

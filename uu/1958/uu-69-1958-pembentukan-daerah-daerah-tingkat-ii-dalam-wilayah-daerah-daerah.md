@@ -48,7 +48,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52348"
 bpk_page: "https://peraturan.bpk.go.id/Details/52348"
 bpk_metadata_archived: "http://web.archive.org/web/20260206211331/https://peraturan.bpk.go.id/Details/52348/uu-no-69-tahun-1958%5C"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur

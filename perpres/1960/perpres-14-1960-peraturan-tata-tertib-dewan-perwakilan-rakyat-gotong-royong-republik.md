@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69357"
 bpk_page: "https://peraturan.bpk.go.id/Details/69357"
 bpk_metadata_archived: "http://web.archive.org/web/20240923080057/https://peraturan.bpk.go.id/Details/69357/perpres-no-14-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 1960 tentang Peraturan Tata Tertib Dewan Perwakilan Rakyat Gotong Royong Republik Indonesia

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_10_2013.pdf&fl=P15531"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=10&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 2013 tentang Dana Alokasi Umum Daerah Provinsi Dan Kabupaten/Kota Tahun Anggaran 2013

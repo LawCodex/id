@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47418"
 bpk_page: "https://peraturan.bpk.go.id/Details/47418"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131530/https://peraturan.bpk.go.id/Details/47418"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1974 tentang Pengesahan Perjanjian antara Pemerintah Republik Indonesia dan Pemerintah Malaysia mengenai Ekstradisi

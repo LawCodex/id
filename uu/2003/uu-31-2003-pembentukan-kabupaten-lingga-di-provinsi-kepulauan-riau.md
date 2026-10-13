@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44132"
 bpk_page: "https://peraturan.bpk.go.id/Details/44132"
 bpk_metadata_archived: "http://web.archive.org/web/20240725133243/https://peraturan.bpk.go.id/Details/44132/uu-no-31-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 2003 tentang Pembentukan Kabupaten Lingga di Provinsi Kepulauan Riau

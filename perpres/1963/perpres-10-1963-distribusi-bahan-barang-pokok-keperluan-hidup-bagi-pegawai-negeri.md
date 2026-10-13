@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42441"
 bpk_page: "https://peraturan.bpk.go.id/Details/42441"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081647/https://peraturan.bpk.go.id/Details/42441/perpres-no-10-tahun-1963"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 1963 tentang Distribusi Bahan/Barang Pokok Keperluan Hidup Bagi Pegawai Negeri

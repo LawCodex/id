@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42438"
 bpk_page: "https://peraturan.bpk.go.id/Details/42438"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124410/https://peraturan.bpk.go.id/Details/42438"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 1963 tentang Anggaran Pendapatan dan Belanja Propinsi Irian Barat Untuk Masa 1 Mei - 31 Desember 1963

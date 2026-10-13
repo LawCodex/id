@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49134"
 bpk_page: "https://peraturan.bpk.go.id/Details/49134"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125215/https://peraturan.bpk.go.id/Details/49134"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1968 tentang Keanggotaan Republik Indonesia pada International Development Association

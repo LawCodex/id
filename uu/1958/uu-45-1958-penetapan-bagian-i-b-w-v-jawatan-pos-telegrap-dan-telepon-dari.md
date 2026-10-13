@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52213"
 bpk_page: "https://peraturan.bpk.go.id/Details/52213"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122818/https://peraturan.bpk.go.id/Details/52213"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 45 Tahun 1958 tentang Penetapan bagian I.B.W. V (Jawatan Pos Telegrap dan Telepon) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

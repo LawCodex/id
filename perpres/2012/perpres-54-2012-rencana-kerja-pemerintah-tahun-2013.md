@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0542012.pdf&fl=P16051"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=54&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 54 Tahun 2012 tentang Rencana Kerja Pemerintah Tahun 2013

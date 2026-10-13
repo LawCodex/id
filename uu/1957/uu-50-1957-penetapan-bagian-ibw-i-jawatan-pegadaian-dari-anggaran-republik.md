@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52628"
 bpk_page: "https://peraturan.bpk.go.id/Details/52628"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122520/https://peraturan.bpk.go.id/Details/52628"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 50 Tahun 1957 tentang Penetapan Bagian IBW I (Jawatan Pegadaian) Dari Anggaran Republik indonesia Tahun Dinas 1954

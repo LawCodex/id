@@ -27,7 +27,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38643"
 bpk_metadata_archived: "http://web.archive.org/web/20250904171525/https://peraturan.bpk.go.id/Details/38643/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2014 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah

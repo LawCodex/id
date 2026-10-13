@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52719"
 bpk_page: "https://peraturan.bpk.go.id/Details/52719"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122612/https://peraturan.bpk.go.id/Details/52719"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 70 Tahun 1957 tentang Persetujuan Kebudayaan Antara Negara-Negara Republik Indonesia dan Republik Mesir

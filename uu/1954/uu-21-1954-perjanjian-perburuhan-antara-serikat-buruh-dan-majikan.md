@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50406"
 bpk_page: "https://peraturan.bpk.go.id/Details/50406"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121701/https://peraturan.bpk.go.id/Details/50406"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1954 tentang Perjanjian Perburuhan antara Serikat Buruh dan Majikan

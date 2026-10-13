@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37689"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145908/https://peraturan.bpk.go.id/Details/37689"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2015 tentang Pengesahan Perjanjian Ekstradisi Antara Republik Indonesia dan Republik Sosialis Viet Nam (Extradition Treaty Between The Republic Of Indonesia And The Socialist Republic Of Viet Nam)

@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41369"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083124/https://peraturan.bpk.go.id/Details/41369"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=124&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 124 Tahun 2012 tentang Perubahan atas Peraturan Presiden Nomor 33 Tahun 2010 tentang Dewan Nasional dan Dewan Kawasan Kawasan Ekonomi Khusus

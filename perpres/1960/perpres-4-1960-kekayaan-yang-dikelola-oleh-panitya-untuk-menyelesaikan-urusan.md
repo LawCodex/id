@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69335"
 bpk_page: "https://peraturan.bpk.go.id/Details/69335"
 bpk_metadata_archived: "http://web.archive.org/web/20250120202233/https://peraturan.bpk.go.id/Details/69335/perpres-no-4-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 1960 tentang Kekayaan yang Dikelola oleh Panitya untuk Menyelesaikan Urusan Pemulihan Hak

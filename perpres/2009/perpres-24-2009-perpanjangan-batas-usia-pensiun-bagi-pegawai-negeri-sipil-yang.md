@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42305"
 bpk_metadata_archived: "http://web.archive.org/web/20250423020452/https://peraturan.bpk.go.id/Details/42305/perpres-no-24-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=24&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 2009 tentang Perpanjangan Batas Usia Pensiun bagi Pegawai Negeri Sipil yang Menduduki Jabatan Fungsional Dokter Pendidik Klinis

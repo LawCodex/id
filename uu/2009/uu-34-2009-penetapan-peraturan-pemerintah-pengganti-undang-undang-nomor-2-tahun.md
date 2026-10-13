@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38774"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144207/https://peraturan.bpk.go.id/Details/38774"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=34&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 13 Tahun 2008 tentang Penyelenggaraan Ibadah Haji Menjadi Undang-Undang

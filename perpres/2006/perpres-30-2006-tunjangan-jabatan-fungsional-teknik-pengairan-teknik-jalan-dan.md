@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41966"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082226/https://peraturan.bpk.go.id/Details/41966/perpres-no-30-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=30&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 2006 tentang Tunjangan Jabatan Fungsional Teknik Pengairan, Teknik Jalan dan Jembatan, Teknik Tata Bangunan dan Perumahan, dan Teknik Penyehatan Lingkungan

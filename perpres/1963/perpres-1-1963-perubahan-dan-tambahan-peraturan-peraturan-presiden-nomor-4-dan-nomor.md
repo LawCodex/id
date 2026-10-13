@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42461"
 bpk_page: "https://peraturan.bpk.go.id/Details/42461"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081622/https://peraturan.bpk.go.id/Details/42461"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 1963 tentang Perubahan dan Tambahan Peraturan-Peraturan Presiden Nomor 4 dan Nomor 5 Tahun 1962 (Disempurnakan) Masing-Masing Tentang Pokok-Pokok Organisasi dan Pedoman Kerja Adminstratif (Peraturan Tata-Tertib) Aparatur Pemerintahan Pada Tingkat Tertinggi

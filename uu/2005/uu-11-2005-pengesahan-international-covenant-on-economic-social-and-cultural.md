@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40256"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141627/https://peraturan.bpk.go.id/Details/40256"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 2005 tentang Pengesahan International Covenant on Economic, Social and Cultural Rights (Kovenan Internasional tentang Hak-Hak Ekonomi, Sosial dan Budaya)

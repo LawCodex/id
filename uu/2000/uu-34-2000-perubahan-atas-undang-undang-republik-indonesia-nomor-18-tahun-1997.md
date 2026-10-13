@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45238"
 bpk_metadata_archived: "http://web.archive.org/web/20260916014127/https://peraturan.bpk.go.id/Details/%2045238/uu-no-34-tahun-2000"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=34&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 2000 tentang Perubahan atas Undang-Undang Republik Indonesia Nomor 18 Tahun 1997 tentang Pajak Daerah dan Retribusi Daerah

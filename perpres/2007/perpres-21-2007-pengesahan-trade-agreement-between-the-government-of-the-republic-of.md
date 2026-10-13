@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_21_th_2007.pdf&fl=P15660"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=21&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 21 Tahun 2007 tentang Pengesahan Trade Agreement Between The Government Of The Republic Of Indonesia And Bosnia And Herzegovina

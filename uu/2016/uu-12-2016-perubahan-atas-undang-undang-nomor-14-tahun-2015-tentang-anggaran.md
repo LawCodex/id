@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37487"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150017/https://peraturan.bpk.go.id/Details/37487"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2016 tentang Perubahan Atas Undang-Undang Nomor 14 Tahun 2015 Tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 2016

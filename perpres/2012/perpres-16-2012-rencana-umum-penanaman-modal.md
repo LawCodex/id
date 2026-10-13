@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41258"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083133/https://peraturan.bpk.go.id/Details/41258"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=16&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 2012 tentang Rencana Umum Penanaman Modal

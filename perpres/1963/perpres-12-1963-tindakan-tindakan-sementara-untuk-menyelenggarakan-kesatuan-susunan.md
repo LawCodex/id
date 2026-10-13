@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42462"
 bpk_page: "https://peraturan.bpk.go.id/Details/42462"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124320/https://peraturan.bpk.go.id/Details/42462"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 1963 tentang Tindakan-Tindakan Sementara Untuk Menyelenggarakan Kesatuan Susunan, Kekuasaan, Acara dan Tugas Pengadilan-Pengadilan Sipil dan Kejaksaan di Propinsi Irian Barat.

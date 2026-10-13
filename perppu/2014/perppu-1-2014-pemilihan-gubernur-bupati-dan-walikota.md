@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2014"
 bpk_page: "https://peraturan.bpk.go.id/Details/53255"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145419/https://peraturan.bpk.go.id/Details/53255"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, Dan Walikota

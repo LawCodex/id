@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42552"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082901/https://peraturan.bpk.go.id/Details/42552/perpres-no-17-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=17&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 17 Tahun 2005 tentang Komisi Kepolisian Nasional

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38574"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144223/https://peraturan.bpk.go.id/Details/38574"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan Kedua Atas Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah Agung

@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47143"
 bpk_page: "https://peraturan.bpk.go.id/Details/47143"
 bpk_metadata_archived: "http://web.archive.org/web/20240808042905/https://peraturan.bpk.go.id/Details/47143/uu-no-12-tahun-1980"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1980 tentang Hak Keuangan/Administratif Pimpinan dan Anggota Lembaga Tertinggi/Tinggi Negara serta Bekas Pimpinan Lembaga Tertinggi/Tinggi Negara dan Bekas Anggota Lembaga Tinggi Negara

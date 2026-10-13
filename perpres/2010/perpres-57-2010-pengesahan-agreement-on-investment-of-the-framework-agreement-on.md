@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+57+Tahun+2010.pdf&fl=P16084"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=57&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 57 Tahun 2010 tentang Pengesahan Agreement On Investment Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association Of Southeast Asian Nations And The People├Ö├Ç├Ûs Republic Of China (Persetujuan Mengenai Penanaman Modal Berdasarkan Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Republik Rakyat China)

@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52465"
 bpk_page: "https://peraturan.bpk.go.id/Details/52465"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122415/https://peraturan.bpk.go.id/Details/52465"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1957 tentang Penetapan Undang-Undang Darurat No. 13 Tahun 1957 (Lembaran-Negara Tahun 1957 No. 58) tentang Menambah Undang-Undang No. 21 Tahun 1952 (Lembaran-Negara Tahun 1952 No.78) tentang "Menetapkan Undang-Undang Darurat tentang Hak Pengangkatan dan Pemberhentian Pegawai-Pegawai Republik Indonesia Serikat (Undang-Undang Darurat No. 25 dan 34 Tahun 1950) Sebagai Undang-Undang Republik Indonesia". Sebagai Undang-Undang

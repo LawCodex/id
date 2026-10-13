@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41032"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082821/https://peraturan.bpk.go.id/Details/41032"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=6&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 2010 tentang Perubahan atas Peraturan Presiden Nomor 72 Tahun 2006 tentang Tim Koordinasi Percepatan Pembangunan Pembangkit Tenaga Listrik

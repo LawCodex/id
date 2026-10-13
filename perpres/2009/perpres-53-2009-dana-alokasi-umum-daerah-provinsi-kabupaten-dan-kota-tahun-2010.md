@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42322"
 bpk_metadata_archived: "http://web.archive.org/web/20250423023122/https://peraturan.bpk.go.id/Details/42322/perpres-no-53-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=53&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 53 Tahun 2009 tentang Dana Alokasi Umum Daerah Provinsi, Kabupaten, dan Kota Tahun 2010

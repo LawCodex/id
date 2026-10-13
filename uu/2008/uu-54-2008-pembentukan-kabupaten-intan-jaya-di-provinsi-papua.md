@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39760"
 bpk_metadata_archived: "http://web.archive.org/web/20231107011508/https://peraturan.bpk.go.id/Details/39760/uu-no-54-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=54&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 54 Tahun 2008 tentang Pembentukan Kabupaten Intan Jaya di Provinsi Papua

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_11_2013.pdf&fl=P15544"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=11&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 2013 tentang Kedudukan Keuangan Ketua Dan Anggota Komisi Pemilihan Umum, Komisi Pemilihan Umum Provinsi, Dan Komisi Pemilihan Umum

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52708"
 bpk_page: "https://peraturan.bpk.go.id/Details/52708"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122601/https://peraturan.bpk.go.id/Details/52708"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 65 Tahun 1957 tentang Penetapan Bagian IBW XVI (Jawatan Kereta Api) Dari Anggaran Republik Indonesia Tahun Dinas 1954

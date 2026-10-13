@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/45922"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111643/https://peraturan.bpk.go.id/Details/45922/uu-no-2-tahun-1997"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1997 tentang Pembentukan Kabupaten Daerah Tingkat II Tulang Bawang dan Kabupaten Daerah Tingkat II Tanggamus

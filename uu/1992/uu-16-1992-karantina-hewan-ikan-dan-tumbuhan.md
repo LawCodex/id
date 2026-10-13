@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46613"
 bpk_metadata_archived: "http://web.archive.org/web/20231213161134/https://peraturan.bpk.go.id/Details/46613"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1992 tentang Karantina Hewan, Ikan, dan Tumbuhan

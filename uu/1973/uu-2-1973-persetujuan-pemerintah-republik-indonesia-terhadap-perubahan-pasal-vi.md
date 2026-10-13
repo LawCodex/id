@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47426"
 bpk_page: "https://peraturan.bpk.go.id/Details/47426"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131335/https://peraturan.bpk.go.id/Details/47426"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1973 tentang Persetujuan Pemerintah Republik Indonesia Terhadap Perubahan Pasal VI Anggaran Dasar Badan Tenaga Atom Internasional

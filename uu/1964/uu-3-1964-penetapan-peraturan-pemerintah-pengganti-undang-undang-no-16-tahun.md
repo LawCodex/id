@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50234"
 bpk_page: "https://peraturan.bpk.go.id/Details/50234"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124655/https://peraturan.bpk.go.id/Details/50234"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 16 tahun 1962 tentang Sumbangan Wajib Istimewa Tahun 1962 Atas Bahan Bangunan (Lembaran Negara Tahun 1962 No. 70), Menjadi Undang-Undang

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42354"
 bpk_metadata_archived: "http://web.archive.org/web/20250423024838/https://peraturan.bpk.go.id/Details/42354/perpres-no-18-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=18&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 2009 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Tunisia tentang Pembebasan Visa bagi Paspor Diplomatik dan Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Tunisia On Visa Exemption For Diplomatic And Service Passports)

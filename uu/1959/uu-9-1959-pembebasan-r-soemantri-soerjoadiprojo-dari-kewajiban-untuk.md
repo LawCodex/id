@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51395"
 bpk_page: "https://peraturan.bpk.go.id/Details/51395"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123300/https://peraturan.bpk.go.id/Details/51395"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1959 tentang Pembebasan R. Soemantri Soerjoadiprojo dari Kewajiban untuk Menggantikan Uang

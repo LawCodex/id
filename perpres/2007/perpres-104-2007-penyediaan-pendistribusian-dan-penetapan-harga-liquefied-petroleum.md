@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42150"
 bpk_metadata_archived: "http://web.archive.org/web/20240923094550/https://peraturan.bpk.go.id/Details/42150/perpres-no-104-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=104&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 104 Tahun 2007 tentang Penyediaan, Pendistribusian, dan Penetapan Harga Liquefied Petroleum Gas Tabung 3 Kilogram

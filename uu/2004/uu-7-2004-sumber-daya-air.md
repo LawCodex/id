@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40497"
 bpk_page: "https://peraturan.bpk.go.id/Details/40497"
 bpk_metadata_archived: "http://web.archive.org/web/20241216233944/https://peraturan.bpk.go.id/Details/40497/u"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2004 tentang Sumber Daya Air

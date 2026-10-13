@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42356"
 bpk_metadata_archived: "http://web.archive.org/web/20250423012922/https://peraturan.bpk.go.id/Details/42356/perpres-no-25-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=25&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 25 Tahun 2009 tentang Pengesahan ASEAN Framework Agreement For The Integration Of Priority Sectors (Persetujuan Kerangka Kerja ASEAN untuk Integrasi Sektor-sektor Prioritas)

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42193"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092240/https://peraturan.bpk.go.id/Details/42193/perpres-no-5-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=5&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 2008 tentang Honorarium Bagi Ketua, Wakil Ketua, Sekretaris, dan Anggota Komisi Kepolisian Nasional

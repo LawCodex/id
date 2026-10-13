@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46791"
 bpk_page: "https://peraturan.bpk.go.id/Details/46791"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133008/https://peraturan.bpk.go.id/Details/46791"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1989 tentang Anggaran Pendapatan dan Belanja Negara Tahun 1989/1990

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42829"
 bpk_page: "https://peraturan.bpk.go.id/Details/42829"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111422/https://peraturan.bpk.go.id/Details/42829/uu-no-5-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2003 tentang Pembentukan Kabupaten Bangka Selatan, Kabupaten Bangka Tengah, Kabupaten Bangka Barat, dan Kabupaten Belitung Timur

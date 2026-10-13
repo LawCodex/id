@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42042"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082049/https://peraturan.bpk.go.id/Details/42042"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=70&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 70 Tahun 2006 tentang Biaya Penyelenggaraan Ibadah Haji Tahun 1427 H/2006 M

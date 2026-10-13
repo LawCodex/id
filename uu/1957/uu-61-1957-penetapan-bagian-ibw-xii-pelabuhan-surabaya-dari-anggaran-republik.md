@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52691"
 bpk_page: "https://peraturan.bpk.go.id/Details/52691"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122552/https://peraturan.bpk.go.id/Details/52691"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 61 Tahun 1957 tentang Penetapan Bagian IBW XII (Pelabuhan Surabaya) Dari Anggaran Republik Indonesia Tahun Dinas 1954

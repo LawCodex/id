@@ -11,7 +11,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+59+2008.pdf&fl=P16104"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=59&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 59 Tahun 2008 tentang Pengesahan Statute Of The International Institute For The Unification Of Private Law (Statuta Lembaga Internasional Untuk Unifikasi Hukum Perdata)

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53443"
 bpk_page: "https://peraturan.bpk.go.id/Details/53443"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123308/https://peraturan.bpk.go.id/Details/53443"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 12 Tahun 1960 tentang Pembubaran Panitya Untuk Menyelesaikan Urusan Pemulihan Hak

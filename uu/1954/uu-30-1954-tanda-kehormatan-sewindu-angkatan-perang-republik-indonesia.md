@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50499"
 bpk_page: "https://peraturan.bpk.go.id/Details/50499"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121733/https://peraturan.bpk.go.id/Details/50499"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 30 Tahun 1954 tentang Tanda Kehormatan Sewindu Angkatan Perang Republik Indonesia

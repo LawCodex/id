@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42521"
 bpk_page: "https://peraturan.bpk.go.id/Details/42521"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124810/https://peraturan.bpk.go.id/Details/42521"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 1965 tentang Penilaian Kembali Aktiva Tetap Perusahaan Swasta

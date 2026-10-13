@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47004"
 bpk_page: "https://peraturan.bpk.go.id/Details/47004"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132401/https://peraturan.bpk.go.id/Details/47004"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1982 tentang Perhitungan Anggaran Negara Tahun 1974/1975

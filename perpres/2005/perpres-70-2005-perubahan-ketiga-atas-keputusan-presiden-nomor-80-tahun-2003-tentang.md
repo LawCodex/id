@@ -29,7 +29,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42597"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081843/https://peraturan.bpk.go.id/Details/42597"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=70&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 70 Tahun 2005 tentang Perubahan Ketiga atas Keputusan Presiden Nomor 80 Tahun 2003 Tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah

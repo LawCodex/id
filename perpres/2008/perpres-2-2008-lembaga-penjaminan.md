@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42190"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082425/https://peraturan.bpk.go.id/Details/42190"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=2&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 2008 tentang Lembaga Penjaminan

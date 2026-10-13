@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Lampiran+Perpres+6+Tahun+2011.pdf&fl=P15477"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=6&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 2011 tentang Dana Alokasi Umum Daerah Provinsi Dan Kabupaten/Kota Tahun Anggaran 2011

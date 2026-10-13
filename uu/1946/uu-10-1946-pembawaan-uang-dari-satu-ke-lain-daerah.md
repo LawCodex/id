@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25133"
 bpk_page: "https://peraturan.bpk.go.id/Details/25133"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120219/https://peraturan.bpk.go.id/Details/25133"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1946 tentang Pembawaan Uang dari Satu ke Lain Daerah

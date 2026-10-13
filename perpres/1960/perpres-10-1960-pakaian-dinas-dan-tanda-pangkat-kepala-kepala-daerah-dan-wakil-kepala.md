@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69344"
 bpk_page: "https://peraturan.bpk.go.id/Details/69344"
 bpk_metadata_archived: "http://web.archive.org/web/20241210061114/https://peraturan.bpk.go.id/Details/69344/perpres-no-10-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 1960 tentang Pakaian Dinas dan Tanda Pangkat Kepala-Kepala Daerah dan Wakil Kepala Daerah Tingkat I

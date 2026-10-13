@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69428"
 bpk_page: "https://peraturan.bpk.go.id/Details/69428"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123844/https://peraturan.bpk.go.id/Details/69428"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 20 Tahun 1961 tentang Tugas-Kewajiban Dan Lapangan Pekerjaan Dokumentasi dan Perpustakaan Dalam Lingkungan Pemerintah

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53403"
 bpk_page: "https://peraturan.bpk.go.id/Details/53403"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123539/https://peraturan.bpk.go.id/Details/53403"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1960 tentang Penetapan Bagian-bagian Perusahaan Negara Berdasarkan I.B.W., Dari Anggaran Republik Indonesia Untuk Tahun 1960

@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37599"
 bpk_metadata_archived: "http://web.archive.org/web/20250525130923/https://peraturan.bpk.go.id/Details/37599/uu-no-15-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2001 tentang Merek

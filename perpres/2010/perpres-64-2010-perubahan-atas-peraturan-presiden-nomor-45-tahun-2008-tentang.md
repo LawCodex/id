@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41069"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082811/https://peraturan.bpk.go.id/Details/41069"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=64&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 64 Tahun 2010 tentang Perubahan atas Peraturan Presiden Nomor 45 Tahun 2008 tentang Perpanjangan Batas Usia Pensiun bagi Pegawai Negeri Sipil yang Menduduki Jabatan Fungsional Teknik Pengairan, Teknik Jalan dan Jembatan, Teknik Tata Bangunan dan Perumahan, dan Teknik Penyehatan Lingkungan

@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41200"
 bpk_metadata_archived: "http://web.archive.org/web/20250423015657/https://peraturan.bpk.go.id/Details/41200/perpres-no-29-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=29&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 29 Tahun 2011 tentang Rencana Kerja Pemerintah Tahun 2012

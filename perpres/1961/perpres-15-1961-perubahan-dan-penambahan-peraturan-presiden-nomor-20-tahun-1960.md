@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69420"
 bpk_page: "https://peraturan.bpk.go.id/Details/69420"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081607/https://peraturan.bpk.go.id/Details/69420"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 15 Tahun 1961 tentang Perubahan Dan Penambahan Peraturan Presiden Nomor 20 Tahun 1960, Tentang Pemberian Penghargaan/Tunjangan Kepada Perintis Pergerakan Kebangsaan/Kemerdekaan

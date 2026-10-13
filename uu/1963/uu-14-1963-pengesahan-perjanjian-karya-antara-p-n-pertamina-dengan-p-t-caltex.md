@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50663"
 bpk_page: "https://peraturan.bpk.go.id/Details/50663"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124331/https://peraturan.bpk.go.id/Details/50663"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1963 tentang Pengesahan "Perjanjian Karya" Antara P.N. Pertamina dengan p.t. Caltex Indonesia dan California Asiatic Oil Company (Calasiatic) Texaco Overseas Petroleum Company (Topco) ; P.N. Pertamina dengan P.T. Stanvac Indonesia, P.N. Permigan dengan P.T. Shell indonesia

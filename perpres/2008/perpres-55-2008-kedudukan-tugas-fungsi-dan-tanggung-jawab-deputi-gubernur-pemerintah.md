@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_55_Tahun_2008.pdf&fl=P16059"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=55&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 55 Tahun 2008 tentang Kedudukan, Tugas, Fungsi, Dan Tanggung Jawab Deputi Gubernur Pemerintah Propinsi Daerah Khusus Ibukota Jakarta

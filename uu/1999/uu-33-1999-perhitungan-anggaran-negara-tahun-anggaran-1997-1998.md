@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45354"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140122/https://peraturan.bpk.go.id/Details/45354"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=33&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 1999 tentang Perhitungan Anggaran Negara Tahun Anggaran 1997/1998

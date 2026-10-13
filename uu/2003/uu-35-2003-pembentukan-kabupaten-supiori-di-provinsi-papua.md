@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44157"
 bpk_page: "https://peraturan.bpk.go.id/Details/44157"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141308/https://peraturan.bpk.go.id/Details/44157"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 2003 tentang Pembentukan Kabupaten Supiori Di Provinsi Papua

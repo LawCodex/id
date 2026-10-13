@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52712"
 bpk_page: "https://peraturan.bpk.go.id/Details/52712"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122605/https://peraturan.bpk.go.id/Details/52712"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 67 Tahun 1957 tentang Penetapan Bagian IBW XVIII (Penataran Angkatan Laut) Dari Anggaran Republik Indonesia Tahun Dinas 1954

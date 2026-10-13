@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49550"
 bpk_page: "https://peraturan.bpk.go.id/Details/49550"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125049/https://peraturan.bpk.go.id/Details/49550"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1967 tentang Dewan Pertimbangan Agung

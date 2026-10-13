@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52384"
 bpk_page: "https://peraturan.bpk.go.id/Details/52384"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122420/https://peraturan.bpk.go.id/Details/52384"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1957 tentang Perjanjian Internasional Mengenai Pemberitaan Jarak Jauh

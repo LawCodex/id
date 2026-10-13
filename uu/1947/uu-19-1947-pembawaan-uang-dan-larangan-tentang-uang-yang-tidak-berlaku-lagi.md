@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25479"
 bpk_page: "https://peraturan.bpk.go.id/Details/25479"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120327/https://peraturan.bpk.go.id/Details/25479"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1947 tentang Pembawaan Uang dan larangan tentang Uang yang Tidak Berlaku Lagi

@@ -32,7 +32,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/43013"
 bpk_metadata_archived: "http://web.archive.org/web/20260519040610/https://peraturan.bpk.go.id/Details/43013/uu-no-13-tahun-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan

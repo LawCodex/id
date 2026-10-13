@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40261"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141628/https://peraturan.bpk.go.id/Details/40261"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2005 tentang Pengesahan International Covenant on Civil and Political Rights (Kovenan Internasional Tentang Hak-Hak Sipil dan Politik)

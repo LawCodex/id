@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53397"
 bpk_page: "https://peraturan.bpk.go.id/Details/53397"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123535/https://peraturan.bpk.go.id/Details/53397"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1960 tentang Penetapan Anggaran Pendapatan dan Belanja Dari Republik Indonesia Untuk Tahun 1960

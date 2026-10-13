@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25229"
 bpk_page: "https://peraturan.bpk.go.id/Details/25229"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120419/https://peraturan.bpk.go.id/Details/25229"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1947 tentang Memperpanjang Waktu untuk Mengajukan Pernyataan Berhubung dengan Kewargaan Negara Indonesia

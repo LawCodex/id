@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46617"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133412/https://peraturan.bpk.go.id/Details/46617"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1992 tentang Pembentukan Pengadilan Tinggi Agama di Yogyakarta, di Bandar Lampung, dan di Jambi

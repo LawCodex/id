@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39802"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111223/https://peraturan.bpk.go.id/Details/39802/uu-no-2-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2007 tentang Pembentukan Kabupaten Nagekeo di Provinsi Nusa Tenggara Timur

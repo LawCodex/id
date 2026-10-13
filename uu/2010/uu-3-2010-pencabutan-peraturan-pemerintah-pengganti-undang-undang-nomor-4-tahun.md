@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38538"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144429/https://peraturan.bpk.go.id/Details/38538"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2010 tentang Pencabutan Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2009 Tentang Perubahan Atas Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi

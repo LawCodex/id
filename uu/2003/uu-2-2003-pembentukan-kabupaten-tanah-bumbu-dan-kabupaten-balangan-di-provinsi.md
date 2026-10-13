@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42822"
 bpk_page: "https://peraturan.bpk.go.id/Details/42822"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141252/https://peraturan.bpk.go.id/Details/42822"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2003 tentang Pembentukan Kabupaten Tanah Bumbu dan Kabupaten Balangan di Provinsi Kalimantan Selatan

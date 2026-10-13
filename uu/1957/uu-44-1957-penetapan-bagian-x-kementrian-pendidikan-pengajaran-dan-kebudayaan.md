@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52601"
 bpk_page: "https://peraturan.bpk.go.id/Details/52601"
 bpk_metadata_archived: "http://web.archive.org/web/20241210124441/https://peraturan.bpk.go.id/Details/52601/uu-no-12-tahun-2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 44 Tahun 1957 tentang Penetapan Bagian X (Kementrian Pendidikan, Pengajaran dan Kebudayaan) Dari Anggaran Republik indonesia Tahun Dinas 1954

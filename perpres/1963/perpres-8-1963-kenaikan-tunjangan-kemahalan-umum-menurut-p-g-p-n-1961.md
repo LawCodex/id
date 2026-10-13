@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42442"
 bpk_page: "https://peraturan.bpk.go.id/Details/42442"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081701/https://peraturan.bpk.go.id/Details/42442/perpres-no-8-tahun-1963"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 1963 tentang Kenaikan Tunjangan Kemahalan Umum Menurut P.G.P.N. 1961

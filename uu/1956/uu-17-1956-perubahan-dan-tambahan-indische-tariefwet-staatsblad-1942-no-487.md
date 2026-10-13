@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51101"
 bpk_page: "https://peraturan.bpk.go.id/Details/51101"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122130/https://peraturan.bpk.go.id/Details/51101"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1956 tentang Perubahan dan Tambahan Indische Tariefwet (Staatsblad 1942 No. 487)

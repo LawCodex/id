@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41410"
 bpk_metadata_archived: "http://web.archive.org/web/20250123180343/https://peraturan.bpk.go.id/Details/41410/perpres-no-40-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=40&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 40 Tahun 2013 tentang Pembangunan Jalan dalam Rangka Percepatan Pembangunan Provinsi Papua dan Provinsi Papua Barat

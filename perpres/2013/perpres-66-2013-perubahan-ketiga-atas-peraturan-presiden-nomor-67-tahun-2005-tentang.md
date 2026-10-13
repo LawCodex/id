@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41436"
 bpk_metadata_archived: "http://web.archive.org/web/20241116104049/https://peraturan.bpk.go.id/Details/41436/perpres-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=66&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 66 Tahun 2013 tentang Perubahan Ketiga atas Peraturan Presiden Nomor 67 Tahun 2005 tentang Kerjasama Pemerintah dengan Badan Usaha Dalam Penyediaan Infrastruktur

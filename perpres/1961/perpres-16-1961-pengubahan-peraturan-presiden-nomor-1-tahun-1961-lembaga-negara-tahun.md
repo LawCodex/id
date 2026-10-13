@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69422"
 bpk_page: "https://peraturan.bpk.go.id/Details/69422"
 bpk_metadata_archived: "http://web.archive.org/web/20250125184054/https://peraturan.bpk.go.id/Details/69422/perpres-no-16-tahun-1961"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 1961 tentang Pengubahan Peraturan Presiden Nomor 1 Tahun 1961 (Lembaga-Negara Tahun 1961 Nomor 5) Mengenai Pemberian Tambahan Penghasilan Kepada Bekas Menteri Republik Indonesia Dahulu dan Bekas Anggota Badan Pekerja Komite Nasional Pusat Serta Janda-Janda dan/atau Anak Yatim Piatunya

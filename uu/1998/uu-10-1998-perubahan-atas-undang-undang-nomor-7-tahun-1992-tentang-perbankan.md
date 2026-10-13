@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45486"
 bpk_metadata_archived: "http://web.archive.org/web/20250810025241/https://peraturan.bpk.go.id/Details/45486/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1998"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan

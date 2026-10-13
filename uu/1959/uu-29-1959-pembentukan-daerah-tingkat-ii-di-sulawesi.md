@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51529"
 bpk_page: "https://peraturan.bpk.go.id/Details/51529"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123136/https://peraturan.bpk.go.id/Details/51529"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II Di Sulawesi

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+68+Tahun+2008.pdf&fl=P16202"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=68&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 68 Tahun 2008 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Yunani Tentang Kerja Sama Kebudayaan Dan Pendidikan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Hellenic Republic On Cultural And Educational Cooperation)

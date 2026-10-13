@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37251"
 bpk_metadata_archived: "http://web.archive.org/web/20260905184943/https://peraturan.bpk.go.id/Details/37251/uu-no-8-tahun-20161"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2016 tentang Penyandang Disabilitas

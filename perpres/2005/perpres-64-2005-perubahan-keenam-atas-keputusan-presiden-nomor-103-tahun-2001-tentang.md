@@ -27,7 +27,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42591"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081835/https://peraturan.bpk.go.id/Details/42591"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=64&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 64 Tahun 2005 tentang Perubahan Keenam atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen

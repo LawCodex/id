@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42621"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081731/https://peraturan.bpk.go.id/Details/42621"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=19&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 2005 tentang Pembiayaan Sekunder Perumahan

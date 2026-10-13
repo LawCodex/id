@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52748"
 bpk_page: "https://peraturan.bpk.go.id/Details/52748"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122615/https://peraturan.bpk.go.id/Details/52748"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 72 Tahun 1957 tentang Penetapan Undang-Undang Darurat Nomor 19 Tahun 1955 Tentang Penjualan Rumah-Rumah Negeri Kepada Pegawai Negeri Sebagai Undang-Undang

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47027"
 bpk_page: "https://peraturan.bpk.go.id/Details/47027"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132256/https://peraturan.bpk.go.id/Details/47027"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1982 tentang Pembentukan Pengadilan Tinggi Kalimantan Timur di Samarinda dan Perubahan Wilayah Hukum Pengadilan Tinggi Banjarmasin

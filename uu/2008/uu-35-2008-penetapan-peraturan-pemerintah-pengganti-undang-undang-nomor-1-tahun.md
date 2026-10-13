@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39700"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143901/https://peraturan.bpk.go.id/Details/39700"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=35&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 2008 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2008 tentang Perubahan atas Undang-Undang Nomor 21 Tahun 2001 tentang Otonomi Khusus Bagi Provinsi Papua Menjadi Undang-Undang

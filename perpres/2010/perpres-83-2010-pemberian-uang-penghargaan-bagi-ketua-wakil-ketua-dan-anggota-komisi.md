@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_83_Th_2010.pdf&fl=P16349"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=83&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 83 Tahun 2010 tentang Pemberian Uang Penghargaan Bagi Ketua, Wakil Ketua, Dan Anggota Komisi Pemilihan Umum, Ketua Dan Anggota Komisi Pemilihan Umum Provinsi, Dan Ketua Dan Anggota Komisi Pemilihan Umum Kabupaten/Kota Sebagai Penyelenggara Pemilihan Umum Tahun 2004

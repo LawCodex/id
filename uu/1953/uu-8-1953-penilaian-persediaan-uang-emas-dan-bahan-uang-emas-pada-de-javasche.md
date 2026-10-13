@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45277"
 bpk_page: "https://peraturan.bpk.go.id/Details/45277"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121617/https://peraturan.bpk.go.id/Details/45277"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1953 tentang Penilaian Persediaan Uang Emas dan Bahan Uang Emas pada De Javasche Bank

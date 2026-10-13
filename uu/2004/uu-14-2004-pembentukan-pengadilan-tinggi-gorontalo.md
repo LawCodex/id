@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40508"
 bpk_page: "https://peraturan.bpk.go.id/Details/40508"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141424/https://peraturan.bpk.go.id/Details/40508"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2004 tentang Pembentukan Pengadilan Tinggi Gorontalo

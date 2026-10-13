@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42315"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082624/https://peraturan.bpk.go.id/Details/42315"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=41&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 41 Tahun 2009 tentang Perubahan atas Peraturan Presiden Nomor 31 Tahun 2009 tentang Biaya Penyelenggaraan Ibadah Haji Tahun 1430 H / 2009 M

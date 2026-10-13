@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49189"
 bpk_page: "https://peraturan.bpk.go.id/Details/49189"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125145/https://peraturan.bpk.go.id/Details/49189"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1968 tentang Bank Ekspor Impor Indonesia

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53938"
 bpk_page: "https://peraturan.bpk.go.id/Details/53938"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123050/https://peraturan.bpk.go.id/Details/53938"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 20 Tahun 1959 tentang Pengubahan Dan Tambahan Undang-Undang Pajak Penjualan 1951

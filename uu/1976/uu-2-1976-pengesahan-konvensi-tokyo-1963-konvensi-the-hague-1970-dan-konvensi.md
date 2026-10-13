@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47206"
 bpk_page: "https://peraturan.bpk.go.id/Details/47206"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131649/https://peraturan.bpk.go.id/Details/47206"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1976 tentang Pengesahan Konvensi Tokyo 1963, Konvensi The Hague 1970, dan Konvensi Montreal 1971

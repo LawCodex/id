@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51174"
 bpk_page: "https://peraturan.bpk.go.id/Details/51174"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122217/https://peraturan.bpk.go.id/Details/51174"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 32 Tahun 1956 tentang Perimbangan Keuangan antara Negara Dengan Daerah-Daerah, yang Berhak Mengurus Rumah-Tangganya Sendiri

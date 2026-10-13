@@ -12,7 +12,7 @@ status_basis: "Setneg: dicabut"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0692012.pdf&fl=P16216"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=69&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 69 Tahun 2012 tentang Honorarium Ketua, Wakil Ketua, Dan Anggota Lembaga Perlindungan Saksi Dan Korban

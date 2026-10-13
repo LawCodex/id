@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_078_2012.pdf&fl=P16305"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=78&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 78 Tahun 2012 tentang Penugasan Menteri Hukum Dan Hak Asasi Manusia, Menteri Dalam Negeri, Jaksa Agung, Dan Kepala Badan Koordinasi Penanaman Modal Sebagai Kuasa Hukum Presiden Republik Indonesia Dalam Penanganan Gugatan Arbitrase Di International Centre For Settlement Of Invesment Disputes Terkait Gugatan Churchill Mining Kepada Pemerintah Republik Indonesia

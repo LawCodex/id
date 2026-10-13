@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69331"
 bpk_page: "https://peraturan.bpk.go.id/Details/69331"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081600/https://peraturan.bpk.go.id/Details/69331"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 1960 tentang Nama Jabatan Dan Gelar, Kedudukan, Penghasilan Dan Larangan Keanggotaan Partai Politik Wakil Kepala Daerah Tingkat I

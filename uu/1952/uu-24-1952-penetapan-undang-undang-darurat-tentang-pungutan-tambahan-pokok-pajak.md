@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40273"
 bpk_page: "https://peraturan.bpk.go.id/Details/40273"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121326/https://peraturan.bpk.go.id/Details/40273"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 1952 tentang Penetapan Undang-Undang Darurat tentang Pungutan Tambahan Pokok Pajak Mengenai Pajak Kekayaan dan Pajak Perseroan Tahun 1951 (Undang-Undang Darurat Nr 35 Tahun 1950, Lembaran Negara Nr 77 Tahun 1950) Sebagai Undang-Undang

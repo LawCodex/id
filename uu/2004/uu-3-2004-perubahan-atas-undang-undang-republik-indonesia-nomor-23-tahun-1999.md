@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40458"
 bpk_page: "https://peraturan.bpk.go.id/Details/40458"
 bpk_metadata_archived: "http://web.archive.org/web/20241117100804/https://peraturan.bpk.go.id/Details/40458/uu-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2004 tentang Perubahan atas Undang-Undang Republik Indonesia Nomor 23 Tahun 1999 tentang Bank Indonesia

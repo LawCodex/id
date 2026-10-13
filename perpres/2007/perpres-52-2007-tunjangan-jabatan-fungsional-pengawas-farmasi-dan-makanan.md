@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42108"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082249/https://peraturan.bpk.go.id/Details/42108"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=52&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 52 Tahun 2007 tentang Tunjangan Jabatan Fungsional Pengawas Farmasi dan Makanan

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_14_2012.pdf&fl=P15580"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=14&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 2012 tentang Hak Keuangan Bagi Ketua, Wakil Ketua, Sekretaris, Dan Anggota Komite Inovasi Nasional

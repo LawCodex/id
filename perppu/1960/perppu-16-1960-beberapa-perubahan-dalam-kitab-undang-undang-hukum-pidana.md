@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53465"
 bpk_page: "https://peraturan.bpk.go.id/Details/53465"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123324/https://peraturan.bpk.go.id/Details/53465"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 16 Tahun 1960 tentang Beberapa Perubahan Dalam Kitab Undang-Undang Hukum Pidana

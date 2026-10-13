@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=2013"
 bpk_page: "https://peraturan.bpk.go.id/Details/38966"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145146/https://peraturan.bpk.go.id/Details/38966"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 2013 tentang Pertanggungjawaban atas Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2012

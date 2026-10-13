@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41350"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085611/https://peraturan.bpk.go.id/Details/41350/perpres-no-105-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=105&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 105 Tahun 2012 tentang Tunjangan Kinerja Pegawai Di Lingkungan Kementerian Perumahan Rakyat

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51325"
 bpk_page: "https://peraturan.bpk.go.id/Details/51325"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123047/https://peraturan.bpk.go.id/Details/51325"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1959 tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggota Konstituante

@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41292"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085846/https://peraturan.bpk.go.id/Details/41292/perpres-no-48-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=48&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 48 Tahun 2012 tentang Organisasi dan Tata Kerja Pusat Pelaporan dan Analisis Transaksi Keuangan

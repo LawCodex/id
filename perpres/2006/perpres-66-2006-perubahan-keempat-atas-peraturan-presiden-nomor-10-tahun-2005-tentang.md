@@ -29,7 +29,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42002"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082041/https://peraturan.bpk.go.id/Details/42002"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=66&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 66 Tahun 2006 tentang Perubahan Keempat atas Peraturan Presiden Nomor 10 Tahun 2005 Tentang Unit Organisasi dan Tugas Eselon I Kementerian Negara Republik Indonesia

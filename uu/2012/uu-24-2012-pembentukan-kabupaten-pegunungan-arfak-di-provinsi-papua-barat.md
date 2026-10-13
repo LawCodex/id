@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39118"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144913/https://peraturan.bpk.go.id/Details/39118"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=24&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 2012 tentang Pembentukan Kabupaten Pegunungan Arfak di Provinsi Papua Barat

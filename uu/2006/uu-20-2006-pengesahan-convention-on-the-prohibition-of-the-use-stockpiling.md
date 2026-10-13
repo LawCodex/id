@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40196"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141857/https://peraturan.bpk.go.id/Details/40196"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 2006 tentang Pengesahan Convention on The Prohibition of The Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on Their Destruction (Konvensi tentang Pelarangan Penggunaan, Penimbunan, Produksi dan Transfer Ranjau Darat Anti Personel dan Pemusnahannya)

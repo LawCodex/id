@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51347"
 bpk_page: "https://peraturan.bpk.go.id/Details/51347"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123158/https://peraturan.bpk.go.id/Details/51347"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1959 tentang Persetujuan Kerjasama Ilmiah, Pendidikan dan Kebudayaan antara Republik Indonesia dan Republik Cekoslowakia

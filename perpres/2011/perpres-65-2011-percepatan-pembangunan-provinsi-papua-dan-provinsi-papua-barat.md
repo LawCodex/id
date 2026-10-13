@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41183"
 bpk_metadata_archived: "http://web.archive.org/web/20250430210739/https://peraturan.bpk.go.id/Details/41183/perpres-no-65-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2011 tentang Percepatan Pembangunan Provinsi Papua dan Provinsi Papua Barat

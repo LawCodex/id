@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38534"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145720/https://peraturan.bpk.go.id/Details/38534"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 2015 tentang Pencabutan Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2008 Tentang Jaring Pengaman Sistem Keuangan

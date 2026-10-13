@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45382"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105505/https://peraturan.bpk.go.id/Details/45382/uu-no-45-tahun-1999"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=45&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 45 Tahun 1999 tentang Pembentukan Propinsi Irian Jaya Tengah, Propinsi Irian Jaya Barat, Kabupaten Paniai, Kabupaten Mimika, Kabupaten Puncak Jaya, Dan Kota Sorong

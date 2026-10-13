@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47819"
 bpk_page: "https://peraturan.bpk.go.id/Details/47819"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121655/https://peraturan.bpk.go.id/Details/47819"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1954 tentang Undang-Undang tentang Penetapan Undang-Undang Darurat No. 11 Tahun 1952 tentang Perubahan dan Penambahan dari "Ordonnantie Op De Vennootschapsbelasting 1925" yang Memberikan Pula Aturan Kelengkapan Lebih Lanjut Mengenai Pemungutan Pajak Ini Sebagai Undang-Undang

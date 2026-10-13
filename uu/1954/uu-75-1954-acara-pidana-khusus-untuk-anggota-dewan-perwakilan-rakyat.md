@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50979"
 bpk_page: "https://peraturan.bpk.go.id/Details/50979"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121929/https://peraturan.bpk.go.id/Details/50979"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 75 Tahun 1954 tentang Acara Pidana Khusus untuk Anggota Dewan Perwakilan Rakyat

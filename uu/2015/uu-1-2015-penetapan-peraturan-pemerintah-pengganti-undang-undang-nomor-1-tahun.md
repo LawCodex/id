@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37341"
 bpk_metadata_archived: "http://web.archive.org/web/20240909194806/https://peraturan.bpk.go.id/Details/37341/uu-no-1-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 Tentang Pemilihan Gubernur, Bupati, Dan Walikota Menjadi Undang-Undang

@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1996"
 bpk_page: "https://peraturan.bpk.go.id/Details/46092"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134031/https://peraturan.bpk.go.id/Details/46092"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1996 tentang Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun anggaran 1995/96

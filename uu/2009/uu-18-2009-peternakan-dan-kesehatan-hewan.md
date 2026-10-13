@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38634"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144112/https://peraturan.bpk.go.id/Details/38634"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2009 tentang Peternakan dan Kesehatan Hewan

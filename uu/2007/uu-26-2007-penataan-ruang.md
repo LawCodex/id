@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39908"
 bpk_metadata_archived: "http://web.archive.org/web/20260429110513/https://peraturan.bpk.go.id/details/39908/uu-no-26-tahun-2007?hl=id-ID"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=26&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 2007 tentang Penataan Ruang

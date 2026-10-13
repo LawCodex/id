@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51728"
 bpk_page: "https://peraturan.bpk.go.id/Details/51728"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122713/https://peraturan.bpk.go.id/Details/51728"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1958 tentang Penetapan Undang-Undang Darurat No. 12 Tahun 1954 (Lembaran-Negara Tahun 1954 No. 147) Tentang Perubahan "Krosok Ordonnantie 1937" (Staatsblad Tahun 1937 No. 604) Sebagai Undang-Undang

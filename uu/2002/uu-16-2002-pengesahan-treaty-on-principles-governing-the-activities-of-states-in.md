@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44454"
 bpk_page: "https://peraturan.bpk.go.id/Details/44454"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141010/https://peraturan.bpk.go.id/Details/44454"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2002 tentang Pengesahan Treaty on Principles Governing The Activities of States In The Exploration And Use of Outer Space, Including The Moon and Other Celestial Bodies, 1967 (Traktat Mengenai Prinsip-Prinsip yang Mengatur Kegiatan Negara-Negara Dalam Eksplorasi dan Penggunaan Antariksa, Termasuk Bulan dan Benda-Benda Langit Lainnya, 1967)

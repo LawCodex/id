@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51095"
 bpk_page: "https://peraturan.bpk.go.id/Details/51095"
 bpk_metadata_archived: "http://web.archive.org/web/20240313161512/https://peraturan.bpk.go.id/Details/51095/uu-no-12-tahun-1956"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah

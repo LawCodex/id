@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51485"
 bpk_page: "https://peraturan.bpk.go.id/Details/51485"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123058/https://peraturan.bpk.go.id/Details/51485"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1959 tentang Penetapan Undang-Undang darurat No. 7 Tahun 1958 Tentang Penggantian Peraturan Tentang Bintang Gerilya Sebagaimana Termaktub Dalam Peraturan Pemerintah No. 8 Tahun 1949 (Lembaran-Negara Tahun 1958 No. 154), Sebagai Undang-Undang

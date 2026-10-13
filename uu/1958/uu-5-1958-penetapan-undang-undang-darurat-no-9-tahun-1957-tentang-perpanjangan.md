@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51629"
 bpk_page: "https://peraturan.bpk.go.id/Details/51629"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122900/https://peraturan.bpk.go.id/Details/51629"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 9 Tahun 1957 tentang Perpanjangan Jangka Waktu Masa-Kerja Dewan Perwakilan Rakyat Daerah Peralihan dan Dewan Pemerintah Daerah Peralihan" (Lembaran-Negara Tahun 1957 No. 51) Sebagai Undang-Undang

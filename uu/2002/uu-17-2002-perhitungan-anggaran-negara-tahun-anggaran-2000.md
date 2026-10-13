@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44457"
 bpk_page: "https://peraturan.bpk.go.id/Details/44457"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141011/https://peraturan.bpk.go.id/Details/44457"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2002 tentang Perhitungan Anggaran Negara Tahun Anggaran 2000

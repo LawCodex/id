@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40770"
 bpk_page: "https://peraturan.bpk.go.id/Details/40770"
 bpk_metadata_archived: "http://web.archive.org/web/20260811235319/https://peraturan.bpk.go.id/Details/40770/uu-no-33-tahun-2004%20Wahyuningsih,%20T.%20%282020%29.%20Ekonomi%20Publik%20Depok.%20Rajawali%20Pers."
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah

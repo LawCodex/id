@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42121"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082306/https://peraturan.bpk.go.id/Details/42121"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2007 tentang Tunjangan Dosen

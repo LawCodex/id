@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40265"
 bpk_page: "https://peraturan.bpk.go.id/Details/40265"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121308/https://peraturan.bpk.go.id/Details/40265"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1952 tentang Persetujuan Perjanjian Persahabatan antara Negara Republik Indonesia dan Negara Republik Philipina

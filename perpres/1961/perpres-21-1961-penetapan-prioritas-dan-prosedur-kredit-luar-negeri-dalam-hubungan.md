@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69429"
 bpk_page: "https://peraturan.bpk.go.id/Details/69429"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123900/https://peraturan.bpk.go.id/Details/69429"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 21 Tahun 1961 tentang Penetapan Prioritas Dan Prosedur Kredit Luar Negeri Dalam Hubungan Pelaksanaan Proyek-Proyek Pembangunan Nasional Semesta Berencana

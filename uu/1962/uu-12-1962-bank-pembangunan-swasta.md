@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50697"
 bpk_page: "https://peraturan.bpk.go.id/Details/50697"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124152/https://peraturan.bpk.go.id/Details/50697"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1962 tentang Bank Pembangunan Swasta

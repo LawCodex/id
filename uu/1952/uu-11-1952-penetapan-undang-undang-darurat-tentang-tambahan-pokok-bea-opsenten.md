@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40239"
 bpk_page: "https://peraturan.bpk.go.id/Details/40239"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121242/https://peraturan.bpk.go.id/Details/40239"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1952 tentang Penetapan Undang-Undang Darurat tentang Tambahan Pokok Bea (Opsenten) Atas Bea-Bea Masuk Selama Tahun 1952 (Undang-Undang Darurat Nr 4 Tahun 1952) Sebagai Undang-Undang

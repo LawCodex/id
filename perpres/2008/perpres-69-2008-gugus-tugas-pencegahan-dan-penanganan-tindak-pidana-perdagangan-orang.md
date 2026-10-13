@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42234"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092833/https://peraturan.bpk.go.id/Details/42234/perpres-no-69-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=69&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 69 Tahun 2008 tentang Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang

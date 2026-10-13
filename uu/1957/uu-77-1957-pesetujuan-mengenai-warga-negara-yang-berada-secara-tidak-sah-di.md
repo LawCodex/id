@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52763"
 bpk_page: "https://peraturan.bpk.go.id/Details/52763"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122621/https://peraturan.bpk.go.id/Details/52763"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 77 Tahun 1957 tentang Pesetujuan Mengenai Warga Negara yang Berada Secara Tidak Sah di Daerah Republik Indonesia dan Republik Pilipina

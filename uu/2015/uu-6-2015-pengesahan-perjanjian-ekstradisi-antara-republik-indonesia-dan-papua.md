@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37690"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145922/https://peraturan.bpk.go.id/Details/37690"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2015 tentang Pengesahan Perjanjian Ekstradisi antara Republik Indonesia dan Papua Nugini (Extradition Treaty Between The Republic Of Indonesia and The Independent State of Papua New Guinea)

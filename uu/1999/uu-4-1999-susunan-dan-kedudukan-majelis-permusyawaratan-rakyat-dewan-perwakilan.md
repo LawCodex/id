@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45276"
 bpk_metadata_archived: "http://web.archive.org/web/20240301182558/https://peraturan.bpk.go.id/Details/45276"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1999 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah

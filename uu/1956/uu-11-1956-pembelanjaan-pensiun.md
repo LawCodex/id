@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51094"
 bpk_page: "https://peraturan.bpk.go.id/Details/51094"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122115/https://peraturan.bpk.go.id/Details/51094"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1956 tentang Pembelanjaan Pensiun

@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53559"
 bpk_page: "https://peraturan.bpk.go.id/Details/53559"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123425/https://peraturan.bpk.go.id/Details/53559"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 36 Tahun 1960 tentang Perubahan Dan Tambahan Undang-Undang Darurat No. 7 Tahun 1955 Tentang Pengusutan, Penuntutan Dan Peradilan Tindak Pidana Ekonomi

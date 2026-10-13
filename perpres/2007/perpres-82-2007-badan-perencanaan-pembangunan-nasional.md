@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42135"
 bpk_page: "https://peraturan.bpk.go.id/Details/42135"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082330/https://peraturan.bpk.go.id/Details/42135"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 82 Tahun 2007 tentang Badan Perencanaan Pembangunan Nasional

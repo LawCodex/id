@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51178"
 bpk_page: "https://peraturan.bpk.go.id/Details/51178"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122220/https://peraturan.bpk.go.id/Details/51178"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 1956 tentang Penghapusan Ordonansi Staatsblad 1946 No. 115 dan Pembebasan Bea Meterai, Pajak Pendapatan dan Pajak Perseroan untuk Hal-Hal Tertentu Tentang Pembesaran Modal dari Perseroan dan Persekutuan

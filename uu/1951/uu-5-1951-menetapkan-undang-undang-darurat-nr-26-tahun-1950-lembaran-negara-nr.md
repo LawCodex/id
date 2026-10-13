@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39827"
 bpk_page: "https://peraturan.bpk.go.id/Details/39827"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121204/https://peraturan.bpk.go.id/Details/39827"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1951 tentang Menetapkan Undang-Undang Darurat Nr. 26 Tahun 1950 (Lembaran-Negara Nr. 48 Tahun 1950), Mengenai Pengesahan dan Pengakuan Hutang terhadap Kerajaan Belanda Sebagai Undang-Undang

@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25822"
 bpk_page: "https://peraturan.bpk.go.id/Details/25822"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120510/https://peraturan.bpk.go.id/Details/25822"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1948 tentang Penetapan Tarip Pajak Pendapatan Tahun 1948/1949 dan Pemungutan Pajak Tambahan atas Pajak Perseroan, Kekayaan, serta Pajak Untung Perang

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53911"
 bpk_page: "https://peraturan.bpk.go.id/Details/53911"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123029/https://peraturan.bpk.go.id/Details/53911"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 16 Tahun 1959 tentang Perubahan Dan Tambahan Ordonansi Pajak Pendapatan 1944 (Staatsblad 1944 No. 17)

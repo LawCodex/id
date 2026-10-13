@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41297"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085532/https://peraturan.bpk.go.id/Details/41297/perpres-no-53-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=53&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 53 Tahun 2012 tentang Kewajiban Pelayanan Publik dan Subsidi Angkutan Perintis Bidang Perkeretaapian, Biaya Penggunaan Prasarana Perkeretaapian Milik Negara, Serta Perawatan dan Pengoperasian Prasarana Perkeretaapian Milik Negara

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38865"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145122/https://peraturan.bpk.go.id/Details/38865"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2013 tentang Perubahan atas Undang-Undang Nomor 56 Tahun 2008 Tentang Pembentukan Kabupaten Tambrauw di Provinsi Papua Barat

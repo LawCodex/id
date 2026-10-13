@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50502"
 bpk_page: "https://peraturan.bpk.go.id/Details/50502"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121737/https://peraturan.bpk.go.id/Details/50502"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 32 Tahun 1954 tentang Penetapan Berlakunya Undang-Undang Republik Indonesia Tanggal 21 Nopember 1946 No.22 Tahun 1946 tentang Pencatatan Nikah, Talak dan Rujuk di Seluruh Daerah Luar Jawa dan Madura

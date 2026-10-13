@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50412"
 bpk_page: "https://peraturan.bpk.go.id/Details/50412"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121714/https://peraturan.bpk.go.id/Details/50412"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 1954 tentang Penetapan Undang-Undang Darurat tentang Pemindahan Hak Tanah-Tanah dan Barang-Barang Tetap yang Lainnya yang Bertakluk Kepada Hukum Eropah (Undang-Undang Darurat No. 1 Tahun 1952) Sebagai Undang-Undang

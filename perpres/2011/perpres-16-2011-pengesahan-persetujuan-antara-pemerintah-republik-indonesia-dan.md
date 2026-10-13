@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41208"
 bpk_metadata_archived: "http://web.archive.org/web/20250423004526/https://peraturan.bpk.go.id/Details/41208/perpres-no-16-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=16&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 2011 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Kabinet Menteri Ukraina Mengenai Kerja Sama Eksplorasi dan Pemanfaatan Antariksa untuk Maksud Damai (Agreement Between The Government Of The Republic Of Indonesia And The Cabinet Of Ministers Of Ukraine On Cooperation In The Exploration And Peaceful Uses Of Outer Space)

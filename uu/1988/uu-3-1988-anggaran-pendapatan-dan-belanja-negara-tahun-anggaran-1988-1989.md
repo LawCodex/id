@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46810"
 bpk_page: "https://peraturan.bpk.go.id/Details/46810"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132942/https://peraturan.bpk.go.id/Details/46810"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1988 tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1988/1989

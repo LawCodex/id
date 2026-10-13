@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50245"
 bpk_page: "https://peraturan.bpk.go.id/Details/50245"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124714/https://peraturan.bpk.go.id/Details/50245"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang No. 6 Tahun1963 Tentang Telekomunikasi (Lembaran Negara Tahun 1963 No. 66) Menjadi Undang-Undang

@@ -24,7 +24,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2017"
 bpk_page: "https://peraturan.bpk.go.id/Details/64508"
 bpk_metadata_archived: "http://web.archive.org/web/20260904022030/https://peraturan.bpk.go.id/Details/64508/uu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2017 tentang Pelindungan Pekerja Migran Indonesia

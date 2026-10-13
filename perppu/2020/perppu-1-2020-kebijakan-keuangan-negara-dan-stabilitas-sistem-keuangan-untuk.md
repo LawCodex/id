@@ -35,7 +35,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2020"
 bpk_page: "https://peraturan.bpk.go.id/Details/135060"
 bpk_metadata_archived: "http://web.archive.org/web/20251223045045/https://peraturan.bpk.go.id/Details/135060/perpu-no-1-tahun-2020."
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan

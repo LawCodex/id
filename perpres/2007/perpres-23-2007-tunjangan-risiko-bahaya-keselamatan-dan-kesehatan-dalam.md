@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES_NO_23_TH_2007.pdf&fl=P15684"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=23&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 2007 tentang Tunjangan Risiko Bahaya Keselamatan Dan Kesehatan Dalam Penyelenggaraan Pencarian Dan Pertolongan Bagi Pegawai Negeri Di Lingkungan Badan Search And Rescue Nasional

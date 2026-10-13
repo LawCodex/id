@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51721"
 bpk_page: "https://peraturan.bpk.go.id/Details/51721"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122710/https://peraturan.bpk.go.id/Details/51721"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1958 tentang Penetapan Undang-Undang Darurat No. 10 Tahun 1957 tentang Pembentukan Daerah Swatantra Tingkat I Kalimantan Tengah dan Perubahan Undang-Undang No. 25 Tahun 1956 tentang Pembentukan Daerah-Daerah Swatantra Tingkat I Kalimantan Barat, Kalimantan Selatan dan Kalimantan Timur (Lembaran-Negara Tahun 1957 No. 83) Sebagai Undang-Undang

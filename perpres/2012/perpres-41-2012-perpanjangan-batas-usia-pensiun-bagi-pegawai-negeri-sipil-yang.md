@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+Nomor+41Tahun+2012.pdf&fl=P15902"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=41&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 41 Tahun 2012 tentang Perpanjangan Batas Usia Pensiun Bagi Pegawai Negeri Sipil Yang Menduduki Jabatan Fungsional Auditor

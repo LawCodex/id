@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES1002006.pdf&fl=P16476"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=100&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 100 Tahun 2006 tentang Penyelesaian Administrasi Kepegawaian Bagi Pegawai Negeri Sipil Korban Konflik Dan/Atau Terlibat Dalam Gerakan Aceh Merdeka

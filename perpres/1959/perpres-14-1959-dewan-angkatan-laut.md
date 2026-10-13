@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69324"
 bpk_page: "https://peraturan.bpk.go.id/Details/69324"
 bpk_metadata_archived: "http://web.archive.org/web/20240923074458/https://peraturan.bpk.go.id/Details/69324"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 1959 tentang Dewan Angkatan Laut

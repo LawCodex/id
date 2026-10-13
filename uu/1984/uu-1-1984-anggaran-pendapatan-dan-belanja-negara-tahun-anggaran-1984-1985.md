@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46969"
 bpk_page: "https://peraturan.bpk.go.id/Details/46969"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132517/https://peraturan.bpk.go.id/Details/46969"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1984 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1984/1985

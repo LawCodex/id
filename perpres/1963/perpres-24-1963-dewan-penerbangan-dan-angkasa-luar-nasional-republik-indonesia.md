@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42440"
 bpk_page: "https://peraturan.bpk.go.id/Details/42440"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124358/https://peraturan.bpk.go.id/Details/42440"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 1963 tentang Dewan Penerbangan dan Angkasa Luar Nasional Republik Indonesia

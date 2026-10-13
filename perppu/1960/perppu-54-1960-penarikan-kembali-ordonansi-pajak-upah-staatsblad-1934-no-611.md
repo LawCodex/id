@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53639"
 bpk_page: "https://peraturan.bpk.go.id/Details/53639"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123524/https://peraturan.bpk.go.id/Details/53639"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 54 Tahun 1960 tentang Penarikan Kembali "Ordonansi Pajak Upah" (Staatsblad 1934 No. 611) Sebagaimana Telah Diubah Dan Ditambah Terakhir Dengan Peraturan Pemerintah Pengganti Undang-Undang Nomor 24 Tahun 1959

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51304"
 bpk_page: "https://peraturan.bpk.go.id/Details/51304"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123440/https://peraturan.bpk.go.id/Details/51304"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1960 tentang Pengesahan Undang-Undang Darurat No. 3 Tahun 1955 (Lembaran Negara Tahun 1955 No. 15) Tentang Penunjukan Pelabuhan Palembang Menjadi Perusahaan Negara Dalam Arti " Indische Bedrijivenwet" (Staatsblad 1927 No. 419) Menjadi Undang-Undang

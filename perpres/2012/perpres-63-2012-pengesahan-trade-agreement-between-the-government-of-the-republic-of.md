@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0632012.pdf&fl=P16152"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=63&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 63 Tahun 2012 tentang Pengesahan Trade Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Kingdom Of Thailand (Persetujuan Perdagangan Antara Pemerintah Republik Indonesia Dan Pemerintah Kerajaan Thailand)

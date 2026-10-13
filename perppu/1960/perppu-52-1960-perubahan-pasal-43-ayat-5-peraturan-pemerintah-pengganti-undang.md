@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53610"
 bpk_page: "https://peraturan.bpk.go.id/Details/53610"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123518/https://peraturan.bpk.go.id/Details/53610"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 52 Tahun 1960 tentang Perubahan Pasal 43 Ayat (5) Peraturan Pemerintah Pengganti Undang-Undang No. 23 Tahun 1959 (Lembaran Negara Tahun 1959) No. 139) Tentang Keadaan Bahaya

@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52802"
 bpk_page: "https://peraturan.bpk.go.id/Details/52802"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122349/https://peraturan.bpk.go.id/Details/52802"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1957 tentang Menetapkan Undang-Undang Darurat Nomor 14 Tahun 1952 Tentang Perubahan Dan Penambahan Peraturan Pemungutan Pajak Peralihan, Pajak Upah dan Pajak Kekayaan (Lembaran-Negara Tahun 1952 No. 87) Sebagai Undang-Undang

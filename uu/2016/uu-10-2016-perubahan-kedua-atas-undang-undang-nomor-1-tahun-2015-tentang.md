@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37311"
 bpk_metadata_archived: "http://web.archive.org/web/20260218034709/https://peraturan.bpk.go.id/Details/37311/uu-no-10-tahun-2016)"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 1 Tahun 2015 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 Tentang Pemilihan Gubernur, Bupati, Dan Walikota Menjadi Undang-Undang

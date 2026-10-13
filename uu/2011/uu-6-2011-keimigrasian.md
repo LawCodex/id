@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39140"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144748/https://peraturan.bpk.go.id/Details/39140"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2011 tentang Keimigrasian

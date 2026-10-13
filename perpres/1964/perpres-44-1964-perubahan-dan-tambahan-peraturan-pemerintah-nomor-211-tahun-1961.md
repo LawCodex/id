@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42502"
 bpk_page: "https://peraturan.bpk.go.id/Details/42502"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081653/https://peraturan.bpk.go.id/Details/42502"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 44 Tahun 1964 tentang Perubahan dan Tambahan Peraturan Pemerintah Nomor 211 Tahun 1961, Tentang Kedudukan Keuangan Wakil Ketua, Anggota Dan Sekretaris Dewan Pertimbangan Agung Sementara Republik Indonesia

@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42303"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082557/https://peraturan.bpk.go.id/Details/42303"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=22&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 22 Tahun 2009 tentang Kebijakan Percepatan Penganekaragaman Konsumsi Pangan Berbasis Sumber Daya Lokal

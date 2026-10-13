@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52723"
 bpk_page: "https://peraturan.bpk.go.id/Details/52723"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122614/https://peraturan.bpk.go.id/Details/52723"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 71 Tahun 1957 tentang Penetapan Undang-Undang Darurat Nomor 10 Tahun 1954 Tentang Nasionalisasi Bataviasche Verkeers Matschappij N.V. (B.V.M.) (Lembaran-Negara Tahun 1954 No. 67

@@ -27,7 +27,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47417"
 bpk_page: "https://peraturan.bpk.go.id/Details/47417"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131527/https://peraturan.bpk.go.id/Details/47417"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1974 tentang Pokok- Pokok Kepegawaian

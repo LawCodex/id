@@ -24,7 +24,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=2000"
 bpk_page: "https://peraturan.bpk.go.id/Details/44968"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140458/https://peraturan.bpk.go.id/Details/44968"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2000 tentang Perubahan Ketiga atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan

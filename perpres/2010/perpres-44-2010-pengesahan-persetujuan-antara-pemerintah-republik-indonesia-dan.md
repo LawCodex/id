@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41126"
 bpk_metadata_archived: "http://web.archive.org/web/20251206012936/https://peraturan.bpk.go.id/Details/41126/perpres-no-44-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=44&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 44 Tahun 2010 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Bulgaria Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik dan Paspor Dinas (Agreement Between The Government of The Republic Of Indonesia and The Government of The Republic Of Bulgaria on Visa Exemption for Holders of Diplomatic and Service Passports)

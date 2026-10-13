@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=13.pdf&fl=P15561"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=13&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 2006 tentang Tunjangan Umum Bagi Anggota Kepolisian Negara Republik Indonesia Di Lingkungan Kepolisian Negara Republik Indonesia

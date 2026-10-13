@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52426"
 bpk_page: "https://peraturan.bpk.go.id/Details/52426"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122330/https://peraturan.bpk.go.id/Details/52426"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1957 tentang Mengubah dan Menambah Undang-Undang Penempatan Bagian XII Dari Anggaran Republik Indonesia Untuk Tahun Dinas 1953

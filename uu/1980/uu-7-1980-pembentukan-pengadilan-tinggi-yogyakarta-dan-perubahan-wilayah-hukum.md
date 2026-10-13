@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47135"
 bpk_page: "https://peraturan.bpk.go.id/Details/47135"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132112/https://peraturan.bpk.go.id/Details/47135"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1980 tentang Pembentukan Pengadilan Tinggi Yogyakarta dan Perubahan Wilayah Hukum Pengadilan Tinggi Semarang

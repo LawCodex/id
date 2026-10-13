@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50198"
 bpk_page: "https://peraturan.bpk.go.id/Details/50198"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124744/https://peraturan.bpk.go.id/Details/50198"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1965 tentang Veteran Republik Indonesia

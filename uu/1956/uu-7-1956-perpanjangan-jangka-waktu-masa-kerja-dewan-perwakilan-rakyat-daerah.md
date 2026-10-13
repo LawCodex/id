@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51089"
 bpk_page: "https://peraturan.bpk.go.id/Details/51089"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122249/https://peraturan.bpk.go.id/Details/51089"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1956 tentang Perpanjangan Jangka Waktu Masa-Kerja Dewan Perwakilan Rakyat Daerah yang Terbentuk Berdasarkan Peraturan Pemerintah No. 39 Tahun 1950

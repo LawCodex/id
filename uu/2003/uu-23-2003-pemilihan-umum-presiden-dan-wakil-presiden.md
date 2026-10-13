@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/43928"
 bpk_page: "https://peraturan.bpk.go.id/Details/43928"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141233/https://peraturan.bpk.go.id/Details/43928"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 2003 tentang Pemilihan Umum Presiden dan Wakil Presiden

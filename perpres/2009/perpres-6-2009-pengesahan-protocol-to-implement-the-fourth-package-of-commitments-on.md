@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42350"
 bpk_metadata_archived: "http://web.archive.org/web/20250729020556/https://peraturan.bpk.go.id/Details/42350/perpres-no-6-tahun-2009Kementrian"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=6&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 2009 tentang Pengesahan Protocol To Implement The Fourth Package Of Commitments On Financial Services Under The ASEAN Framework Agreement On Services (Protokol untuk Melaksanakan Paket Komitmen Keempat di Bidang Jasa Keuangan dalam Persetujuan Kerangka Kerja ASEAN di Bidang Jasa)

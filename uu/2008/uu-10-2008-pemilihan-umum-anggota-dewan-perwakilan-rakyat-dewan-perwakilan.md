@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39037"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143756/https://peraturan.bpk.go.id/Details/39037"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2008 tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah

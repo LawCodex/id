@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50205"
 bpk_page: "https://peraturan.bpk.go.id/Details/50205"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124751/https://peraturan.bpk.go.id/Details/50205"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1965 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 6 Tahun 1964, Tentang Pembentukan Badan Pemeriksa Keuangan (Lembaran-Negara Tahun 1964 No. 41) Menjadi Undang-Undang

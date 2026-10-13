@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49165"
 bpk_page: "https://peraturan.bpk.go.id/Details/49165"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125233/https://peraturan.bpk.go.id/Details/49165"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1968 tentang Perubahan Pasal 7 Indische Comptabiliteitswet (STBL. 1925 Nomor 448) sebagaimana telah diubah dengan Undang-Undang Nomor 3 drt. 1954 (Lembaran Negara Tahun 1954 Nomor 6)

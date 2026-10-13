@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44506"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105416/https://peraturan.bpk.go.id/Details/44506/uu-no-3-tahun-2001"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2001 tentang Pembentukan Kota Langsa

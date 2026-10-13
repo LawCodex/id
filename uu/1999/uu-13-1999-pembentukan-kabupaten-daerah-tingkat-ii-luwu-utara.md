@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45297"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111547/https://peraturan.bpk.go.id/Details/45297/uu-no-13-tahun-1999"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1999 tentang Pembentukan Kabupaten Daerah Tingkat II Luwu Utara

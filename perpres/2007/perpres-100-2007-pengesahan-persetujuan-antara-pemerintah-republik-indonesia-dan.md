@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_100_Tahun_2007.pdf&fl=P16477"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=100&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 100 Tahun 2007 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Chile Mengenai Kerjasama Ekonomi Dan Teknik (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Chile On Economic And Technical Cooperation)

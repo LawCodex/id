@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41060"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082754/https://peraturan.bpk.go.id/Details/41060"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=51&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 51 Tahun 2010 tentang Biaya Penyelenggaraan Ibadah Haji Tahun 1431H/2010 M

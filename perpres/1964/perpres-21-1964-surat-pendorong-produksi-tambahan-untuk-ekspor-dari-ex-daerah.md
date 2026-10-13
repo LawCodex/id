@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42507"
 bpk_page: "https://peraturan.bpk.go.id/Details/42507"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124547/https://peraturan.bpk.go.id/Details/42507"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 21 Tahun 1964 tentang Surat Pendorong Produksi Tambahan Untuk Ekspor dari Ex-Daerah Konsinyasi Counter Impor

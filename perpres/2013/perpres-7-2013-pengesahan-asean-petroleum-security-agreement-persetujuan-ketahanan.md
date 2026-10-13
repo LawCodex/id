@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_7_Tahun_2013.pdf&fl=P15492"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=7&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 7 Tahun 2013 tentang Pengesahan Asean Petroleum Security Agreement (Persetujuan Ketahanan Minyak Dan Gas Bumi Asean)

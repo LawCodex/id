@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44467"
 bpk_page: "https://peraturan.bpk.go.id/Details/44467"
 bpk_metadata_archived: "http://web.archive.org/web/20250525162313/https://peraturan.bpk.go.id/Details/44467/uu-no-20-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 2002 tentang Ketenagalistrikan

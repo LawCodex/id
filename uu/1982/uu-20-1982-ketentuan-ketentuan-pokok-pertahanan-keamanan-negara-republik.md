@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47031"
 bpk_page: "https://peraturan.bpk.go.id/Details/47031"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132306/https://peraturan.bpk.go.id/Details/47031"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1982 tentang Ketentuan-Ketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia

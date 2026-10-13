@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42136"
 bpk_page: "https://peraturan.bpk.go.id/Details/42136"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082331/https://peraturan.bpk.go.id/Details/42136"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 83 Tahun 2007 tentang Badan Narkotika Nasional, Badan Narkotika Provinsi, dan Badan Narkotika Kabupaten/Kota

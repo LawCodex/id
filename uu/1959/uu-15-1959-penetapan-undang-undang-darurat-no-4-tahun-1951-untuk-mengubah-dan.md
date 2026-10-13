@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51453"
 bpk_page: "https://peraturan.bpk.go.id/Details/51453"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123027/https://peraturan.bpk.go.id/Details/51453"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1959 tentang Penetapan "Undang-Undang Darurat No. 4 Tahun 1951 Untuk Mengubah dan Menambah Peraturan Dalam Staatsblad 1916 No. 47" (Lembaran-Negara No. 14 Tahun 1951), Sebagai Undang-Undang

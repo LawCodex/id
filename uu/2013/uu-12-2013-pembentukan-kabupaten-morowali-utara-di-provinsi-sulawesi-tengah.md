@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38849"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145118/https://peraturan.bpk.go.id/Details/38849"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2013 tentang Pembentukan Kabupaten Morowali Utara di Provinsi Sulawesi Tengah

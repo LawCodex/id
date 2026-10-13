@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41226"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092306/https://peraturan.bpk.go.id/Details/41226/perpres-no-75-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=75&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 75 Tahun 2011 tentang Pengesahan Memorandum Of Understanding On Establishing The ASEAN-China Centre Between The Governments Of The Member States Of The Association Of Southeast Asian Nations And The Government Of The Peoples's Republic Of China (Memorandum Saling Pengertian Mengenai Pendirian ASEAN-China Centre antara Pemerintah Negara-Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara dan Republik Rakyat China)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39010"
 bpk_page: "https://peraturan.bpk.go.id/Details/39010"
 bpk_metadata_archived: "http://web.archive.org/web/20240913092218/https://peraturan.bpk.go.id/Details/39010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2012 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Daerah Administrasi Khusus Hong Kong Republik Rakyat China Tentang Tentang Bantuan Hukum Timbal Balik dalam Masalah Pidana (Agreement Between The Government of The Republic of Indonesia and The Government of The Hong Kong Special Administrative Region of The People's Republic of China Concerning Mutual Legal Mutual Legal Assistance in Criminal Matters)

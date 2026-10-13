@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1990"
 bpk_page: "https://peraturan.bpk.go.id/Details/46740"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133032/https://peraturan.bpk.go.id/Details/46740"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1990 tentang Pembentukan Pengadilan Tinggi Tata Usaha Negara Jakarta,Medan, dan Ujung Pandang

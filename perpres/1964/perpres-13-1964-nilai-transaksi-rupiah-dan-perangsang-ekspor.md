@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42473"
 bpk_page: "https://peraturan.bpk.go.id/Details/42473"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081635/https://peraturan.bpk.go.id/Details/42473"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 1964 tentang Nilai Transaksi Rupiah dan Perangsang Ekspor

@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=11.pdf&fl=P15537"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=11&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 2006 tentang Perubahan Institut Keguruan Dan Ilmu Pendidikan Negeri Singaraja Menjadi Universitas Pendidikan Ganesha

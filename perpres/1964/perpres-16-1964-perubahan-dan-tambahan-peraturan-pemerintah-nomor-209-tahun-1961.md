@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42500"
 bpk_page: "https://peraturan.bpk.go.id/Details/42500"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081637/https://peraturan.bpk.go.id/Details/42500"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 1964 tentang Perubahan dan Tambahan Peraturan Pemerintah Nomor 209 Tahun 1961 Tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggotan DPRGR (Lembaran Negara Tahun 1961 No. 250)

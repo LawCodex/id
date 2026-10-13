@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=24&thn=2014"
 bpk_page: "https://peraturan.bpk.go.id/Details/38687"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145434/https://peraturan.bpk.go.id/Details/38687"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 2014 tentang Pertanggungjawaban atas Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2013

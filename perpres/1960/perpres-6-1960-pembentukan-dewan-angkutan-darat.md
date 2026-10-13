@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69338"
 bpk_page: "https://peraturan.bpk.go.id/Details/69338"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123534/https://peraturan.bpk.go.id/Details/69338"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 1960 tentang Pembentukan Dewan Angkutan Darat

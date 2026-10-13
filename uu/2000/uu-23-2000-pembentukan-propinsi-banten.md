@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44990"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140516/https://peraturan.bpk.go.id/Details/44990"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 2000 tentang Pembentukan Propinsi Banten

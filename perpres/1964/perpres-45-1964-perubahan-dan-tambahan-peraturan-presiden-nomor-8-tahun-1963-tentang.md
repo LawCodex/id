@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42505"
 bpk_page: "https://peraturan.bpk.go.id/Details/42505"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081655/https://peraturan.bpk.go.id/Details/42505"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 45 Tahun 1964 tentang Perubahan dan Tambahan Peraturan Presiden Nomor 8 Tahun 1963, Tentang Kenaikan Tunjangan Kemahalan Umum Menurut P.G.P.N. 1961

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49114"
 bpk_page: "https://peraturan.bpk.go.id/Details/49114"
 bpk_metadata_archived: "http://web.archive.org/web/20260103231742/https://peraturan.bpk.go.id/Details/49114/uu-no-12-tahun-1969&quot;%7D"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1969 tentang Pembentukan Propinsi Otonom Irian Barat dan Kabupaten-Kabupaten Otonom di Propinsi Irian Barat

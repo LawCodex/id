@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51166"
 bpk_page: "https://peraturan.bpk.go.id/Details/51166"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124141/https://peraturan.bpk.go.id/Details/51166"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1961 tentang Pengumpulan Uang atau Barang

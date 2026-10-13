@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2016"
 bpk_page: "https://peraturan.bpk.go.id/Details/37214"
 bpk_metadata_archived: "http://web.archive.org/web/20240528063039/https://peraturan.bpk.go.id/Details/37214"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2016 tentang Tabungan Perumahan Rakyat

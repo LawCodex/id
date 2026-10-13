@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40194"
 bpk_page: "https://peraturan.bpk.go.id/Details/40194"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121406/https://peraturan.bpk.go.id/Details/40194"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1952 tentang Penetapan Undang-Undang Darurat tentang Penetapan Berlakunya Undang-Undang, Undang-Undang Darurat dan Ordonansi-Ordonansi Mengenai Masalah-Masalah Pajak, Dikeluarkan Sebelum Pembentukan Negara Kesatuan Republik Indonesia (Undang-Undang Darurat Nr 36 Tahun 1950) Sebagai Undang-Undang

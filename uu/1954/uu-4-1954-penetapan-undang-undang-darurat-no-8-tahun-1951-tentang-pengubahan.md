@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47906"
 bpk_page: "https://peraturan.bpk.go.id/Details/47906"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121828/https://peraturan.bpk.go.id/Details/47906"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1954 tentang Penetapan Undang-Undang Darurat No. 8 Tahun 1951 tentang Pengubahan Reglemene A yang Dilampirkan pada Rechtordonnantie, Staatsblad 1931 No. 471 (Lembaran Negara No. 39 Tahun 1951) Sebagai Undang-Undang

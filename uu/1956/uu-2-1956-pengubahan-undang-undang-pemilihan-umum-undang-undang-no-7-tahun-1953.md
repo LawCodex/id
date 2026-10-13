@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51076"
 bpk_page: "https://peraturan.bpk.go.id/Details/51076"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122203/https://peraturan.bpk.go.id/Details/51076"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1956 tentang Pengubahan Undang-Undang Pemilihan Umum (Undang-Undang No. 7 Tahun 1953, Lembaran-Negara No. 29 Tahun 1953)

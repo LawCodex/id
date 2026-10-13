@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40787"
 bpk_page: "https://peraturan.bpk.go.id/Details/40787"
 bpk_metadata_archived: "http://web.archive.org/web/20251226051409/https://peraturan.bpk.go.id/Details/40787?utm_source=chatgpt.com"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 40 Tahun 2004 tentang Sistem Jaminan Sosial Nasional

@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42006"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082823/https://peraturan.bpk.go.id/Details/42006/perpres-no-72-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=72&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 72 Tahun 2006 tentang Tim Koordinasi Percepatan Pembangunan Pembangkit Tenaga Listrik

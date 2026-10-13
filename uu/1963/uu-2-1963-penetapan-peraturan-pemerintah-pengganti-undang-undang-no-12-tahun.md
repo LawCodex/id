@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50571"
 bpk_page: "https://peraturan.bpk.go.id/Details/50571"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124414/https://peraturan.bpk.go.id/Details/50571"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1963 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 12 Tahun 1962 Tentang Ketentuan Dibidang Fiskal Mengenai Pembayaran Sumbangan Wajib Istimewa (Lembaran Negara Tahun 1962 no. 50) Menjadi Undang-Undang

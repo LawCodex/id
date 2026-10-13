@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45273"
 bpk_page: "https://peraturan.bpk.go.id/Details/45273"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121605/https://peraturan.bpk.go.id/Details/45273"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1953 tentang Menetapkan Undang-Undang Darurat Nomor 2 Tahun 1952 tentang Kenaikan Tarip Pengenaan Pajak Perseroan untuk Tahun Dinas 1952 (Lembaran-Negara Nomor 2 Tahun 1952) Sebagai Undang-Undang

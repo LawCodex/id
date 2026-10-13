@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42481"
 bpk_page: "https://peraturan.bpk.go.id/Details/42481"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124551/https://peraturan.bpk.go.id/Details/42481"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 22 Tahun 1964 tentang Pelaksanaan Pembangunan Pelabuhan Bebas Sabang

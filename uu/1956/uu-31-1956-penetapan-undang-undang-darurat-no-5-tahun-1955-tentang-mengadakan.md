@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51171"
 bpk_page: "https://peraturan.bpk.go.id/Details/51171"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122215/https://peraturan.bpk.go.id/Details/51171"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 1956 tentang Penetapan Undang-Undang Darurat No. 5 Tahun 1955 tentang Mengadakan Opsenten atas Cukai Bensin (Lembaran-Negara Tahun 1955 No. 24) Sebagai Undang-Undang

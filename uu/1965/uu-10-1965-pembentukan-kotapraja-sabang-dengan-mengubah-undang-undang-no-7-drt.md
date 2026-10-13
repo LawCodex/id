@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50182"
 bpk_page: "https://peraturan.bpk.go.id/Details/50182"
 bpk_metadata_archived: "http://web.archive.org/web/20240822112133/https://peraturan.bpk.go.id/Details/50182/uu-no-10-tahun-1965"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1965 tentang Pembentukan Kotapraja Sabang Dengan Mengubah Undang-Undang No.7 Drt Tahun 1956, tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Utara

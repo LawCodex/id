@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47938"
 bpk_page: "https://peraturan.bpk.go.id/Details/47938"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121939/https://peraturan.bpk.go.id/Details/47938"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1954 tentang Penetapan Undang-Undang Darurat No. 24 Tahun 1951 tentang Pengubahan Beberapa Pos Tarip Bea Masuk (Lembaran-Negara No. 104 Tahun 1951) Sebagai Undang-Undang

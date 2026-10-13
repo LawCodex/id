@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47165"
 bpk_page: "https://peraturan.bpk.go.id/Details/47165"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131839/https://peraturan.bpk.go.id/Details/47165"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1978 tentang Pembentukan Pengadilan Tinggi Pontianak dan Perubahan Wilayah Hukum Pengadilan Tinggi Jakarta

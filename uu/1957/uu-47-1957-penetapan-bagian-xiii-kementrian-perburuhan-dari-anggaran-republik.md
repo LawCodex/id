@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52620"
 bpk_page: "https://peraturan.bpk.go.id/Details/52620"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122512/https://peraturan.bpk.go.id/Details/52620"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 47 Tahun 1957 tentang Penetapan Bagian XIII (Kementrian Perburuhan) Dari Anggaran Republik Indonesia Tahun Dinas 1954

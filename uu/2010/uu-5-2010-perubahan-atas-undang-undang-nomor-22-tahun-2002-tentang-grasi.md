@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38540"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144458/https://peraturan.bpk.go.id/Details/38540"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2010 tentang Perubahan atas Undang-Undang Nomor 22 Tahun 2002 tentang Grasi

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38589"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144336/https://peraturan.bpk.go.id/Details/38589"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2008 Tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2004 Tentang Lembaga Penjamin Simpanan Menjadi Undang-Undang

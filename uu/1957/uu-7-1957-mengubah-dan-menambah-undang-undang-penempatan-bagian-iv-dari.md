@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52406"
 bpk_page: "https://peraturan.bpk.go.id/Details/52406"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122626/https://peraturan.bpk.go.id/Details/52406"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1957 tentang Mengubah dan Menambah Undang-Undang Penempatan Bagian IV Dari Anggaran Republik Indonesia Untuk Tahun Dinas 1953

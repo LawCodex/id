@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41939"
 bpk_page: "https://peraturan.bpk.go.id/Details/41939"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083741/https://peraturan.bpk.go.id/Details/41939/perpres-no-5-tahun-2004"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 2004 tentang Pembentukan Tim Penilai Akhir Pengangkatan, Pemindahan, dan Pemberhentian Dalam dan dari Jabatan Struktural Eselon I

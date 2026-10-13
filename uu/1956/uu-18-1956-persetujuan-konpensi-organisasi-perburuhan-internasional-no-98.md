@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51103"
 bpk_page: "https://peraturan.bpk.go.id/Details/51103"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122135/https://peraturan.bpk.go.id/Details/51103"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1956 tentang Persetujuan Konpensi Organisasi Perburuhan Internasional No. 98 Mengenai Berlakunya Dasar-Dasar Daripada Hak Untuk Berorganisasi dan Berunding Bersama

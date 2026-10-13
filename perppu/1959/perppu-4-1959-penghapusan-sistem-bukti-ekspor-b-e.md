@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53815"
 bpk_page: "https://peraturan.bpk.go.id/Details/53815"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123214/https://peraturan.bpk.go.id/Details/53815"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1959 tentang Penghapusan Sistem Bukti Ekspor (B.E.)

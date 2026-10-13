@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49171"
 bpk_page: "https://peraturan.bpk.go.id/Details/49171"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125117/https://peraturan.bpk.go.id/Details/49171"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1968 tentang Pembentukan Pengadilan Tinggi di Menado dan Perubahan Daerah Hukum Pengadilan Tinggi di Makasar

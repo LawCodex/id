@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49986"
 bpk_page: "https://peraturan.bpk.go.id/Details/49986"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124916/https://peraturan.bpk.go.id/Details/49986"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1965 tentang Pembentukan Daerah Tingkat II Inderagiri Hilir Dengan Mengubah Undang-Undang No. 12 Tahun 1956, Tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Propinsi Sumatera Tengah

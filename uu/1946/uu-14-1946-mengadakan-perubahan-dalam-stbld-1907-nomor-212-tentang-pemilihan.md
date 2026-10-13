@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25164"
 bpk_page: "https://peraturan.bpk.go.id/Details/25164"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120225/https://peraturan.bpk.go.id/Details/25164"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1946 tentang Mengadakan Perubahan dalam Stbld.: 1907 Nomor 212 Tentang Pemilihan Kepala Desa

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53600"
 bpk_page: "https://peraturan.bpk.go.id/Details/53600"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123512/https://peraturan.bpk.go.id/Details/53600"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 50 Tahun 1960 tentang Larangan Organisasi-Organisasi Dan Pengawasan Perusahaan_Perusahaan Orang Asing Tertentu

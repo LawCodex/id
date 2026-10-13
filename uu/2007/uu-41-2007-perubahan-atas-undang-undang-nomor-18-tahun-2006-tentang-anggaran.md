@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39966"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142135/https://peraturan.bpk.go.id/Details/39966"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=41&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 41 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 18 Tahun 2006 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2007

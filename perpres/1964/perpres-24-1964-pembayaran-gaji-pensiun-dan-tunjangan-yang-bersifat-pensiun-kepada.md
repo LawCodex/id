@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42482"
 bpk_page: "https://peraturan.bpk.go.id/Details/42482"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124557/https://peraturan.bpk.go.id/Details/42482"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 1964 tentang Pembayaran Gaji Pensiun dan Tunjangan yang Bersifat Pensiun Kepada (Bekas) Pegawai Negeri Sipil, Anggota Kepolisian Negara, Anggota Angkatan Perang Republik Indonesia dan Pejabat-Pejabat Negeri Lainnya di Daerah Tingkat II Kepulauan Riau yang Meliputi Kawedanaan Tanjung Pinang, Lingga, Karimun, dan Pulau Tujuh

@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49190"
 bpk_page: "https://peraturan.bpk.go.id/Details/49190"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125146/https://peraturan.bpk.go.id/Details/49190"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1968 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1968 (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 49, Tambahan Lembaran Negara Republik Indonesia Nomor. 2858) Tanda Kehormatan Bintang Kartika Eka Pakci Menjadi Undang-Undang

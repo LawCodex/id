@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42258"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083303/https://peraturan.bpk.go.id/Details/42258/perpres-no-49-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=49&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 49 Tahun 2008 tentang Pola Organisasi dan Tata Kerja Sekretariat Badan Pengawas Pemilihan Umum dan Sekretariat Panitia Pengawas Pemilihan Umum

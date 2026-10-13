@@ -19,7 +19,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=81&thn=20
 bpk_page: "https://peraturan.bpk.go.id/Details/42015"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092414/https://peraturan.bpk.go.id/Details/42015/perpres-no-81-tahun-2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 81 Tahun 2006 tentang Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia

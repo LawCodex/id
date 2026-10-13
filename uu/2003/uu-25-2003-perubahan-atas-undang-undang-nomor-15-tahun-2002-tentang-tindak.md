@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44074"
 bpk_page: "https://peraturan.bpk.go.id/Details/44074"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141240/https://peraturan.bpk.go.id/Details/44074"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 2003 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 2002 tentang Tindak Pidana Pencucian Uang

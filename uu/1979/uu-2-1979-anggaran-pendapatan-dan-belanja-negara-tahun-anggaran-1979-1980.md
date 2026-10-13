@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47146"
 bpk_page: "https://peraturan.bpk.go.id/Details/47146"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131920/https://peraturan.bpk.go.id/Details/47146"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1979 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1979/1980

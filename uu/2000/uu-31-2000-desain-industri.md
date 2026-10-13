@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45076"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140542/https://peraturan.bpk.go.id/Details/45076"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=31&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 2000 tentang Desain Industri

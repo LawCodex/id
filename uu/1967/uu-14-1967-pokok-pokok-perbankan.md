@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49592"
 bpk_page: "https://peraturan.bpk.go.id/Details/49592"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125030/https://peraturan.bpk.go.id/Details/49592"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1967 tentang Pokok-Pokok Perbankan

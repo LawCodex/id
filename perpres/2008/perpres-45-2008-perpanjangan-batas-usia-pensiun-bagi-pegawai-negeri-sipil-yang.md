@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42222"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082812/https://peraturan.bpk.go.id/Details/42222/perpres-no-45-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=45&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 45 Tahun 2008 tentang Perpanjangan Batas Usia Pensiun Bagi Pegawai Negeri Sipil yang Menduduki Jabatan Fungsional Teknik Pengairan, Teknik Jalan dan Jembatan, Teknik Tata Bangunan dan Perumahan, dan Teknik Penyehatan Lingkungan

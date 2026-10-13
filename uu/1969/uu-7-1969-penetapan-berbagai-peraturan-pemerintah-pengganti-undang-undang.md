@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49103"
 bpk_page: "https://peraturan.bpk.go.id/Details/49103"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125330/https://peraturan.bpk.go.id/Details/49103"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1969 tentang Penetapan Berbagai Peraturan Pemerintah Pengganti Undang-Undang Menjadi Undang-Undang

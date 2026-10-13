@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37162"
 bpk_metadata_archived: "http://web.archive.org/web/20240502115958/https://peraturan.bpk.go.id/Details/37162"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2016 tentang Penjaminan

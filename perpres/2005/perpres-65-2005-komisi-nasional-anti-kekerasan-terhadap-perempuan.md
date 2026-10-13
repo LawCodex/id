@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42592"
 bpk_metadata_archived: "http://web.archive.org/web/20241125194509/https://peraturan.bpk.go.id/Details/42592/perpres-no-65-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2005 tentang Komisi Nasional Anti Kekerasan Terhadap Perempuan

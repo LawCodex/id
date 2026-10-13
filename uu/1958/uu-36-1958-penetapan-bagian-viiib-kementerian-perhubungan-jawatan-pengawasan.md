@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52178"
 bpk_page: "https://peraturan.bpk.go.id/Details/52178"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122753/https://peraturan.bpk.go.id/Details/52178"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 1958 tentang Penetapan Bagian VIIIB (Kementerian Perhubungan-Jawatan Pengawasan Pelayaran) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

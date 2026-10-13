@@ -29,6 +29,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import threading
 import time
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor
@@ -317,16 +318,36 @@ def garbage_ratio(txt):
     return bad / len(toks)
 
 
-def download(url, host_delay, tries=4):
+HOST_SEM = {"jdih.setneg.go.id": threading.Semaphore(1), "peraturan.bpk.go.id": threading.Semaphore(3)}
+
+
+def download(url, host_delay, tries=4, max_size=MAX_PDF, deadline=900):
+    """Download with at most 1 concurrent request to Setneg (slow server) and 3 to BPK."""
+    sem = HOST_SEM.get(urllib.parse.urlparse(url).hostname)
+    if sem is None:
+        return _download(url, host_delay, tries, max_size, deadline)
+    with sem:
+        return _download(url, host_delay, tries, max_size, deadline)
+
+
+def _download(url, host_delay, tries, max_size, deadline):
+    t0 = time.time()
     for attempt in range(tries):
-        r = C.http("GET", url, delay=host_delay, timeout=600, stream=True)
+        r = C.http("GET", url, delay=host_delay, timeout=300, stream=True, tries=3)
         if r is None or r.status_code != 200:
             return None, (r.status_code if r is not None else "error")
+        cl = r.headers.get("Content-Length")
+        if cl and cl.isdigit() and int(cl) > max_size:
+            r.close()
+            return None, f"too large ({int(cl) // 1048576} MB)"
         buf = bytearray()
         try:
             for chunk in r.iter_content(1 << 16):
                 buf.extend(chunk)
-                if len(buf) > MAX_PDF:
+                if time.time() - t0 > deadline:
+                    r.close()
+                    return None, "download too slow"
+                if len(buf) > max_size:
                     r.close()
                     return None, "too large"
             break
@@ -377,10 +398,17 @@ def process_item(item, max_files=12):
         skipped = []
         main_ok = False
         for i, (label, url) in enumerate(files):
+            if i > 0 and src == "setneg":
+                # the Setneg file server is slow and drops large transfers: attachments are linked
+                skipped.append({"label": label, "url": url, "reason": "attachment not downloaded"})
+                continue
             if i >= max_files:
                 skipped.append({"label": label, "url": url, "reason": "too many attachments"})
                 continue
-            data, st = download(url, delay)
+            if i == 0:
+                data, st = download(url, delay)
+            else:  # attachments: smaller budget
+                data, st = download(url, delay, tries=2, max_size=15 * 1024 * 1024, deadline=180)
             if data is None:
                 if i == 0:
                     tried.append({"source": src, "url": url, "error": str(st)})
@@ -405,7 +433,7 @@ def process_item(item, max_files=12):
             cand = {"source": src, "parts": parts, "skipped": skipped, "garbage": round(g, 4)}
             if best is None or g < best["garbage"]:
                 best = cand
-            if g < 0.02:
+            if g < 0.05:
                 break  # good enough; otherwise also try the next source and keep the cleaner text
     res = {"key": key, "tried": tried, "compared": len(cands) > 1}
     if best:
@@ -465,7 +493,7 @@ def step_text(args):
             if not r.get("parts") and any("scanned" not in t.get("error", "") for t in r.get("tried", [])):
                 return False
             # poor OCR text and an untried alternative source
-            if r.get("parts") and r.get("garbage", 1) >= 0.02 and len(candidates(it)) > 1 \
+            if r.get("parts") and r.get("garbage", 1) >= 0.05 and len(candidates(it)) > 1 \
                     and len(r.get("tried", [])) + 1 < len(candidates(it)) and not r.get("compared"):
                 return False
             # retry if a source that was not tried is now available
@@ -473,6 +501,8 @@ def step_text(args):
                 return False
         return True
     todo = [it for it in items if not done_ok(it)]
+    # items with a BPK PDF first (fast server); Setneg-only items afterwards
+    todo.sort(key=lambda it: not (it.get("bpk") or {}).get("files"))
     if args.limit:
         todo = todo[:args.limit]
     print(f"{len(items)} items, {len(todo)} to process", flush=True)

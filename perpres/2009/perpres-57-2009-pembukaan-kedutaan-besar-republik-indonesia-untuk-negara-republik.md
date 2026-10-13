@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan+Perpres+Nomor+57+Tahun+2009.pdf&fl=P16083"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=57&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 57 Tahun 2009 tentang Pembukaan Kedutaan Besar Republik Indonesia Untuk Negara Republik Kazakhstan, Negara Republik Azerbaijan, Negara Kerajaan Bahrain, Negara Kesultanan Oman, Negara Republik Mozambique, Negara Republik Panama, Negara Republik Ekuador, Negara Bosnia Dan Herzegovina, Negara Republik Kroasia, Dan Pembukaan Konsulat Republik Indonesia Di Tawau, Malaysia

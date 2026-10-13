@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50655"
 bpk_page: "https://peraturan.bpk.go.id/Details/50655"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124315/https://peraturan.bpk.go.id/Details/50655"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1963 tentang Penetapan Bagian Anggaran Perusahaan Negara I.B.W. dari Anggaran Negara Republik Indonesia untuk Tahun 1963

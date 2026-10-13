@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46995"
 bpk_page: "https://peraturan.bpk.go.id/Details/46995"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132321/https://peraturan.bpk.go.id/Details/46995"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1982 tentang Pengesahan Konvensi Mengenai Misi Khusus (Convention On Special Missions, New York 1969)

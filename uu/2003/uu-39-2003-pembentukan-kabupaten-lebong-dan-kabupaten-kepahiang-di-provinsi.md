@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44176"
 bpk_page: "https://peraturan.bpk.go.id/Details/44176"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111447/https://peraturan.bpk.go.id/Details/44176/uu-no-39-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 39 Tahun 2003 tentang Pembentukan Kabupaten Lebong dan Kabupaten Kepahiang di Provinsi Bengkulu

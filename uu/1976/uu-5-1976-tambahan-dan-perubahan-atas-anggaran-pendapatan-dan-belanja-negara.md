@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47209"
 bpk_page: "https://peraturan.bpk.go.id/Details/47209"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131657/https://peraturan.bpk.go.id/Details/47209"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1976 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1975/1976

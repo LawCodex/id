@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42134"
 bpk_page: "https://peraturan.bpk.go.id/Details/42134"
 bpk_metadata_archived: "http://web.archive.org/web/20240923091950/https://peraturan.bpk.go.id/Details/42134/perpres-no-81-tahun-2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 81 Tahun 2007 tentang Pendirian Sekolah Tinggi Kristen Negeri Manado

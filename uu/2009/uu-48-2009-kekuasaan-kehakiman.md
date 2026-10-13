@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38793"
 bpk_metadata_archived: "http://web.archive.org/web/20260311054809/https://peraturan.bpk.go.id/Details/38793/uu-no-48-tahun-2009."
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=48&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman

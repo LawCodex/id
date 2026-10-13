@@ -27,7 +27,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49120"
 bpk_page: "https://peraturan.bpk.go.id/Details/49120"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125246/https://peraturan.bpk.go.id/Details/49120"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1969 tentang Pemilihan Umum Anggota-Anggota Badan Permusyawaratan/Perwakilan Rakyat

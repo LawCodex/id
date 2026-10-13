@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42323"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083104/https://peraturan.bpk.go.id/Details/42323/perpres-no-54-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=54&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 54 Tahun 2009 tentang Unit Kerja Presiden Bidang Pengawasan dan Pengendalian Pembangunan

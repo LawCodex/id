@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42373"
 bpk_page: "https://peraturan.bpk.go.id/Details/42373"
 bpk_metadata_archived: "http://web.archive.org/web/20240923074506/https://peraturan.bpk.go.id/Details/42373"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 1959 tentang Larangan Keanggotaan Partai Politik Bagi Pejabat Negeri Warga Negara Republik Indonesia

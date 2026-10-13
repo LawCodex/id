@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51639"
 bpk_page: "https://peraturan.bpk.go.id/Details/51639"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122958/https://peraturan.bpk.go.id/Details/51639"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1958 tentang Penetapan Undang-Undang Darurat No. 9 Tahun 1954 tentang Perubahan Nama Propinsi Sunda Kecil Menjadi Propinsi Nusa Tenggara (Lembaran-Negara Tahun 1954 No. 66) Sebagai Undang-Undang

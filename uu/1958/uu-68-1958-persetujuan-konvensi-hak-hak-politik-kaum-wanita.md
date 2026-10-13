@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52837"
 bpk_page: "https://peraturan.bpk.go.id/Details/52837"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122923/https://peraturan.bpk.go.id/Details/52837"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 68 Tahun 1958 tentang Persetujuan Konvensi Hak-Hak Politik Kaum Wanita

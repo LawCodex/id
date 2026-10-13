@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50185"
 bpk_page: "https://peraturan.bpk.go.id/Details/50185"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124731/https://peraturan.bpk.go.id/Details/50185"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1965 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 5 tahun 1962 tentang Perubahan Undang-Undang No. 2 Prp Tahun 1960 tentang Pergudangan (Lembaran-Negara Tahun 1962 No. 31) menjadi Undang-Undang

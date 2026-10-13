@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37298"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150239/https://peraturan.bpk.go.id/Details/37298"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2016"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2016 tentang Pencegahan dan Penanganan Krisis Sistem Keuangan

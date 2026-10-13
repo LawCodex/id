@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52857"
 bpk_page: "https://peraturan.bpk.go.id/Details/52857"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122933/https://peraturan.bpk.go.id/Details/52857"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 72 Tahun 1958 tentang Pajak Verponding Untuk Tahun-Tahun 1957 Dan Berikutnya

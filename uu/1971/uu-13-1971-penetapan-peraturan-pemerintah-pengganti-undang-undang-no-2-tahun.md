@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47611"
 bpk_page: "https://peraturan.bpk.go.id/Details/47611"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125522/https://peraturan.bpk.go.id/Details/47611"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1971 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 2 Tahun 1971 tentang Tanda Kehormatan Bintang Yudha Dharma Menjadi Undang-Undang

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45361"
 bpk_metadata_archived: "http://web.archive.org/web/20250503053507/https://peraturan.bpk.go.id/Details/45361/Undang-Undang-no-39-tahun-1999"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=39&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia

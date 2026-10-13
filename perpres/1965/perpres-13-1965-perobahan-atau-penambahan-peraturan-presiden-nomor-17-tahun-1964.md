@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42523"
 bpk_page: "https://peraturan.bpk.go.id/Details/42523"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081702/https://peraturan.bpk.go.id/Details/42523"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 1965 tentang Perobahan atau Penambahan Peraturan Presiden Nomor 17 Tahun 1964, Tentang Otorita Jalan Raya

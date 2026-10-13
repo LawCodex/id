@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44476"
 bpk_page: "https://peraturan.bpk.go.id/Details/44476"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141033/https://peraturan.bpk.go.id/Details/44476"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 2002 tentang Surat Utang Negara

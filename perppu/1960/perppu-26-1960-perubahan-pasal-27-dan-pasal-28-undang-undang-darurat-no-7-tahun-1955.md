@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53511"
 bpk_page: "https://peraturan.bpk.go.id/Details/53511"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123356/https://peraturan.bpk.go.id/Details/53511"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 26 Tahun 1960 tentang Perubahan Pasal 27 Dan Pasal 28 Undang-Undang Darurat No. 7 Tahun 1955, Sebagaimana Telah Diubah Dan Dithambah, Terakhir Dengan Peraturan Pemerintah Pengganti Undang-Undang No. 1 Tahun 1960

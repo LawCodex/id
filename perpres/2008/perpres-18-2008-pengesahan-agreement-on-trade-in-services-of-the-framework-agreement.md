@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+18+Tahun+2008.pdf&fl=P15624"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=18&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 2008 tentang Pengesahan Agreement On Trade In Services Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association Of Southeast Asian Nations And The People├Ö├Ç├Ûs Republic Of China (Persetujuan Perdagangan Jasa Dalam Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Negara-Negara Anggota Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik Rakyat China)

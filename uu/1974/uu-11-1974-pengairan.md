@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47422"
 bpk_page: "https://peraturan.bpk.go.id/Details/47422"
 bpk_metadata_archived: "http://web.archive.org/web/20240805224311/https://peraturan.bpk.go.id/Details/47422/uu-no-11-tahun-1974"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1974 tentang Pengairan

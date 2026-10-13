@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40446"
 bpk_page: "https://peraturan.bpk.go.id/Details/40446"
 bpk_metadata_archived: "http://web.archive.org/web/20260905184744/https://peraturan.bpk.go.id/Details/40446/uu-no-1-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara

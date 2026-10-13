@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+65+Tahun+2008.pdf&fl=P16170"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2008 tentang Pengesahan Memorandum Of Understanding On Establishing The Asean-Korea Centre Between The Member Countries Of The Association Of Southeast Asian Nations And The Republic Of Korea (Memorandum Saling Pengertian Mengenai Pendirian Asean-Korea Centre Antara Negara-Negara Anggota Asosiasi Bangsa- Bangsa Asia Tenggara Dan Republik Korea)

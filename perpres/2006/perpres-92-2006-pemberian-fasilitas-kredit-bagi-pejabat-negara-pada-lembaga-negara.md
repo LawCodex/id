@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42026"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082821/https://peraturan.bpk.go.id/Details/42026/perpres-no-92-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=92&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 92 Tahun 2006 tentang Pemberian Fasilitas Kredit bagi Pejabat Negara pada Lembaga Negara untuk Pembelian Kendaraan Perorangan

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25980"
 bpk_page: "https://peraturan.bpk.go.id/Details/25980"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120900/https://peraturan.bpk.go.id/Details/25980"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1950 tentang Penerbitan Lembaran Negara dan Berita Negara RIS dan tentang Mengeluarkan, Mengumumkan dan Mulai Berlakunya Undang-Undang Federal dan Pengumuman Pemerintah

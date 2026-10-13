@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49816"
 bpk_page: "https://peraturan.bpk.go.id/Details/49816"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124933/https://peraturan.bpk.go.id/Details/49816"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1966 tentang Penetapan Anggaran Induk Beserta Tambahan dan Perubahan Anggaran Pendapatan dan Belanja Negara Tahun 1965

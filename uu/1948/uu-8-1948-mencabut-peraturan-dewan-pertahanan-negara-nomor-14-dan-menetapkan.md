@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25545"
 bpk_page: "https://peraturan.bpk.go.id/Details/25545"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120651/https://peraturan.bpk.go.id/Details/25545"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1948 tentang Mencabut Peraturan Dewan Pertahanan Negara Nomor 14 dan Menetapkan Peraturan tentang Pendaftaran dan Pemberian Idzin Pemakaian Senjata Api

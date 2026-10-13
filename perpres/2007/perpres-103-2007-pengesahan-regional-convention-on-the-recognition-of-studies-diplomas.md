@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_103_Tahun_2007.pdf&fl=P16493"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=103&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 103 Tahun 2007 tentang Pengesahan Regional Convention On The Recognition Of Studies, Diplomas And Degrees In Higher Education In Asia And The Pacific (Konvensi Regional Mengenai Pengakuan Studi, Ijazah Dan Gelar Pendidikan Tinggi Di Asia Dan Pasifik)

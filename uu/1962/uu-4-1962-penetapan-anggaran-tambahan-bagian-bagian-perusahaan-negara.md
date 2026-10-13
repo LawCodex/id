@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50672"
 bpk_page: "https://peraturan.bpk.go.id/Details/50672"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124252/https://peraturan.bpk.go.id/Details/50672"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1962 tentang Penetapan Anggaran Tambahan Bagian-Bagian Perusahaan Negara Berdasarkan I.B.W. Dari Anggaran Republik Indonesia Untuk Tahun 1960

@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38601"
 bpk_metadata_archived: "http://web.archive.org/web/20260905185511/https://peraturan.bpk.go.id/Details/38601/%20uu-no-11-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 2009 tentang Kesejahteraan Sosial

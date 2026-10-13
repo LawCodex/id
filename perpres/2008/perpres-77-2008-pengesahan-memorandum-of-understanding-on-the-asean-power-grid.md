@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_77_Th_2008.pdf&fl=P16292"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=77&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 77 Tahun 2008 tentang Pengesahan Memorandum Of Understanding On The Asean Power Grid (Memorandum Saling Pengertian Mengenai Jaringan Transmisi Tenaga Listrik Asean)

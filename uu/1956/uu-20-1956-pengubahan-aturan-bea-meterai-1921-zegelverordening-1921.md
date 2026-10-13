@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51106"
 bpk_page: "https://peraturan.bpk.go.id/Details/51106"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122146/https://peraturan.bpk.go.id/Details/51106"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1956 tentang Pengubahan Aturan Bea Meterai 1921 ("Zegelverordening 1921")

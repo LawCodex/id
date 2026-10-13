@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42448"
 bpk_page: "https://peraturan.bpk.go.id/Details/42448"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124347/https://peraturan.bpk.go.id/Details/42448"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 20 Tahun 1963 tentang Pemberian Fasilitas Bagi Proyek-Proyek yang dibiayai dengan Kredit Luar Negeri Atas Dasar "Production Sharing"

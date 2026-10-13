@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/33348"
 bpk_page: "https://peraturan.bpk.go.id/Details/33348"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120731/https://peraturan.bpk.go.id/Details/33348"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1949 tentang Kedudukan dan Kekuasaan Wakil Perdana Menteri di Sumatera

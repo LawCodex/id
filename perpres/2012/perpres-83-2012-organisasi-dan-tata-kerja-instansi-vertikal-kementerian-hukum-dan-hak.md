@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41328"
 bpk_metadata_archived: "http://web.archive.org/web/20250207134807/https://peraturan.bpk.go.id/Details/41328/perpres-no-83-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=83&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 83 Tahun 2012 tentang Organisasi dan Tata Kerja Instansi Vertikal Kementerian Hukum dan Hak Asasi Manusia

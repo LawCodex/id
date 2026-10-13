@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51079"
 bpk_page: "https://peraturan.bpk.go.id/Details/51079"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122242/https://peraturan.bpk.go.id/Details/51079"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1956 tentang Pengubahan "Overschrijvingstarief" yang Dilampirkan pada Ordonansi yang Mengatur Biaya Balik-Nama Barang-Barang Tetap (Staatsblad 1949 No. 282)

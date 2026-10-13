@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51060"
 bpk_page: "https://peraturan.bpk.go.id/Details/51060"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122053/https://peraturan.bpk.go.id/Details/51060"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1955 tentang Pengubahan Undang-Undang No. 9 Tahun 1953 (Lembaran-Negara No. 36 Tahun 1953 ), tentang Pemberian Tunjangan yang Bersifat Pensiun kepada Bekas Ketua dan Bekas Anggota Dewan Perwakilan Rakyat Republik Indonesia

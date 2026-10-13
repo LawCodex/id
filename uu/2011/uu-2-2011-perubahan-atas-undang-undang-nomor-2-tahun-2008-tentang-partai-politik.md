@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39131"
 bpk_metadata_archived: "http://web.archive.org/web/20250727052013/https://peraturan.bpk.go.id/Details/39131/uu-no-2-tahun-2011n"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2011 tentang Perubahan atas Undang-Undang Nomor 2 Tahun 2008 Tentang Partai Politik

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39054"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143811/https://peraturan.bpk.go.id/Details/39054"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2008 tentang Perubahan atas Undang-Undang Nomor 45 Tahun 2007 Tentang Anggaran Pendapatan dan Belanja Negara Tahun anggaran 2008

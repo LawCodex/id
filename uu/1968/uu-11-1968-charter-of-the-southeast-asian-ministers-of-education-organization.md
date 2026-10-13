@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49169"
 bpk_page: "https://peraturan.bpk.go.id/Details/49169"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125115/https://peraturan.bpk.go.id/Details/49169"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1968 tentang Charter of The Southeast Asian Ministers of Education Organization

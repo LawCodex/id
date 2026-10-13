@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42344"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082611/https://peraturan.bpk.go.id/Details/42344"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 32 Tahun 2009 tentang Perubahan atas Peraturan Presiden Nomor 12 Tahun 2009 tentang Tunjangan Kinerja Pegawai di Lingkungan Sekretariat Negara dan Sekretariat Kabinet

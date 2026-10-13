@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52622"
 bpk_page: "https://peraturan.bpk.go.id/Details/52622"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122509/https://peraturan.bpk.go.id/Details/52622"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 48 Tahun 1957 tentang Penetapan Bagian XIV (Kementrian Agama) Dari Anggaran Republik Indonesia Tahun Dinas 1954

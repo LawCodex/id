@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47025"
 bpk_page: "https://peraturan.bpk.go.id/Details/47025"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132254/https://peraturan.bpk.go.id/Details/47025"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1982 tentang Pembentukan Pengadilan Tinggi Nusa Tenggara Barat di Mataram dan Perubahan Wilayah Hukum Pengadilan Tinggi Denpasar

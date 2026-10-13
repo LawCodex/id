@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_087_2012.pdf&fl=P16385"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=87&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 87 Tahun 2012 tentang Tunjangan Jabatan Fungsional Kepaniteraan Mahkamah Konstitusi

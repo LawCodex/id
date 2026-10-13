@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49191"
 bpk_page: "https://peraturan.bpk.go.id/Details/49191"
 bpk_metadata_archived: "http://web.archive.org/web/20241223010450/https://peraturan.bpk.go.id/Details/49191/uu-no-24-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 1968 tentang Tanda Kehormatan Bintang Swa Bhuwana Paksa

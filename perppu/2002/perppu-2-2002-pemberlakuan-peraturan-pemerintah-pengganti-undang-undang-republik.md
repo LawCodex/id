@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53110"
 bpk_page: "https://peraturan.bpk.go.id/Details/53110"
 bpk_metadata_archived: "http://web.archive.org/web/20240910120151/https://peraturan.bpk.go.id/Details/53110/"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2002 tentang Pemberlakuan Peraturan Pemerintah Pengganti Undang-Undang Republik Indonesia Nomor 1 Tahun 2002 Tentang Pemberantasan Tindak Pidana Terorisme, pada Peristiwa Peledakan BOM di Bali Tanggal 12 Oktober 2002

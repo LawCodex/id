@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38207"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145936/https://peraturan.bpk.go.id/Details/38207"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2015 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Islam Pakistan Tentang Kegiatan Kerja sama di Bidang Pertahanan (Agreement Between The Government of The Republic of Indonesia and The Government of The Islamic Republic of Pakistan on Cooperative Activities in The Field of Defence)

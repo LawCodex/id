@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41185"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083005/https://peraturan.bpk.go.id/Details/41185"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=67&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 67 Tahun 2011 tentang Perubahan Kedua atas Peraturan Presiden Nomor 26 Tahun 2009 tentang Penerapan Kartu Tanda Penduduk Berbasis Nomor Induk Kependudukan Secara Nasional

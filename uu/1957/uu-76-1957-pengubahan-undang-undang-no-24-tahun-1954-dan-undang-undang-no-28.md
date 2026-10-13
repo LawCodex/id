@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52759"
 bpk_page: "https://peraturan.bpk.go.id/Details/52759"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122620/https://peraturan.bpk.go.id/Details/52759"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 76 Tahun 1957 tentang Pengubahan Undang-Undang No. 24 Tahun 1954 dan Undang-Undang No. 28 Tahun 1956 Mengenai Penggantian Perkataan "Menteri Kehakiman" Dengan Perkataan "Menteri Agraria"

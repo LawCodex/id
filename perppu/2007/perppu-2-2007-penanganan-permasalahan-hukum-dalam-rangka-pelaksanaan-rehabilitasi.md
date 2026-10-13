@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2007"
 bpk_page: "https://peraturan.bpk.go.id/Details/53182"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142058/https://peraturan.bpk.go.id/Details/53182"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2007 tentang Penanganan Permasalahan Hukum Dalam Rangka Pelaksanaan Rehabilitasi Dan Rekonstruksi Wilayah Dan Kehidupan Masyarakat Di Provinsi Nanggroe Aceh Darussalam Dan Kepulauan Nias Provinsi Sumatera Utara

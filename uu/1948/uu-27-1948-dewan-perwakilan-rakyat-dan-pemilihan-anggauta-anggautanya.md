@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25858"
 bpk_page: "https://peraturan.bpk.go.id/Details/25858"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120515/https://peraturan.bpk.go.id/Details/25858"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 1948 tentang Dewan Perwakilan Rakyat dan Pemilihan Anggauta-Anggautanya

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52330"
 bpk_page: "https://peraturan.bpk.go.id/Details/52330"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122910/https://peraturan.bpk.go.id/Details/52330"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 63 Tahun 1958 tentang Penetapan "Undang-Undang darurat No. 14 Tahun 1957 Tentang Penetapan Untuk Membebaskan Bank Indonesia Dari Kewajiban Yang Dimaksudkan Dalam Pasal 16 Ayat 1 Undang-Undang Pokok Bank Indonesia 1953 Selama Enam Bulan Setelah Berakhirnya Keputusan Dewan Moneter Tanggal 2 Pebruari 1957 No. 23 Yang Diadakan Berdasarkan Pasal-Pasal 16 Ayat 3 Undang-Undang Pokok Bank Indonesia 1953" (Lembaran-Negara Tahun 1957 No. 61), Sebagai Undang-Undang

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51633"
 bpk_page: "https://peraturan.bpk.go.id/Details/51633"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122928/https://peraturan.bpk.go.id/Details/51633"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 6 Tahun 1957 (Lembaran Negara Tahun 1957 No. 9) tentang Perubahan Undang-Undang Tentang Pokok-Pokok Pemerintahan Daerah 1956" Sebagai Undang-Undang

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42237"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082524/https://peraturan.bpk.go.id/Details/42237"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=73&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 73 Tahun 2008 tentang Penghasilan Bagi Ketua dan Anggota Dewan Pengawas Televisi Republik Indonesia

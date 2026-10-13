@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25259"
 bpk_page: "https://peraturan.bpk.go.id/Details/25259"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120317/https://peraturan.bpk.go.id/Details/25259"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1947 tentang Memperpanjang Waktu Berlakunya Peraturan-Peraturan Dewan Pertahanan Negara

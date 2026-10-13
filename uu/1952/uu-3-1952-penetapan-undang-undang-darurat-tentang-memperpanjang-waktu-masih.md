@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40190"
 bpk_page: "https://peraturan.bpk.go.id/Details/40190"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121350/https://peraturan.bpk.go.id/Details/40190"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1952 tentang Penetapan "Undang-Undang Darurat tentang Memperpanjang Waktu Masih Terbukanya Dinas Tahun-Anggaran 1950" Sebagai Undang-Undang

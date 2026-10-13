@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53415"
 bpk_page: "https://peraturan.bpk.go.id/Details/53415"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123543/https://peraturan.bpk.go.id/Details/53415"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 8 Tahun 1960 tentang Mengubah Dan Menambah Undang-Undang Tentang Penetapan Anggaran Belanja Dan Sumber-Sumber Pendapatan Republik Indonesia Untuk Tahun dinas 1959

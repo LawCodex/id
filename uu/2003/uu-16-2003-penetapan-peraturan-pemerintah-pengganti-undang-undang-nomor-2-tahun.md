@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/43016"
 bpk_metadata_archived: "http://web.archive.org/web/20240910114252/https://peraturan.bpk.go.id/Details/43016/"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2002 Tentang Pemberlakuan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 Tentang Pemberantasan Tindak Pidana Terorisme, Pada Peristiwa Peledakan Bom Di Bali Tanggal 12 Oktober 2002, Menjadi Undang-Undang

@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46607"
 bpk_metadata_archived: "http://web.archive.org/web/20260829232300/https://peraturan.bpk.go.id/Details/46607/uu-no-14-tahun-19"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1992 tentang Lalu Lintas Dan Angkutan Jalan

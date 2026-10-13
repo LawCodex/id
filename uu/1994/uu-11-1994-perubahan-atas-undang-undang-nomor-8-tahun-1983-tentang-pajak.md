@@ -23,7 +23,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1994"
 bpk_page: "https://peraturan.bpk.go.id/Details/46235"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133716/https://peraturan.bpk.go.id/Details/46235"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1994 tentang Perubahan atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan atas Barang Mewah

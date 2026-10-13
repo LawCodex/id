@@ -30,7 +30,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42566"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081749/https://peraturan.bpk.go.id/Details/42566"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 32 Tahun 2005 tentang Perubahan Kedua atas Keputusan Presiden Nomor 80 Tahun 2003 Tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah

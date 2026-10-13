@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25995"
 bpk_page: "https://peraturan.bpk.go.id/Details/25995"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120931/https://peraturan.bpk.go.id/Details/25995"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1950 tentang Permohonan Grasi

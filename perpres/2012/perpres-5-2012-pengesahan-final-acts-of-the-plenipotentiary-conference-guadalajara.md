@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_5_Tahun_2012.pdf&fl=P15465"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=5&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 2012 tentang Pengesahan Final Acts Of The Plenipotentiary Conference, Guadalajara, 2010 (Akta-Akta Akhir Konferensi Yang Berkuasa Penuh, Guadajara, 2010)

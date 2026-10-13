@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42486"
 bpk_page: "https://peraturan.bpk.go.id/Details/42486"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124711/https://peraturan.bpk.go.id/Details/42486"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 1964 tentang Pemberian Penghargaan/Tunjangan Kepada Perintis Pergerakan Kebangsaan/Kemerdekaan

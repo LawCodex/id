@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51240"
 bpk_page: "https://peraturan.bpk.go.id/Details/51240"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123738/https://peraturan.bpk.go.id/Details/51240"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1961 tentang Pembentukan Kejaksaan Tinggi

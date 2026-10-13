@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42542"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082030/https://peraturan.bpk.go.id/Details/42542/perpres-no-1-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=1&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2005 tentang Tunjangan Jabatan Fungsional Pekerja Sosial

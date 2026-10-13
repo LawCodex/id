@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49590"
 bpk_page: "https://peraturan.bpk.go.id/Details/49590"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125029/https://peraturan.bpk.go.id/Details/49590"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1967 tentang Anggaran Pendapatan Dan Belanja Negara Tahun 1968

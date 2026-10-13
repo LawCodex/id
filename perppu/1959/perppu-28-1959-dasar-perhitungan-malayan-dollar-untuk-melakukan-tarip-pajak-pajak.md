@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/54013"
 bpk_page: "https://peraturan.bpk.go.id/Details/54013"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123127/https://peraturan.bpk.go.id/Details/54013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 28 Tahun 1959 tentang Dasar Perhitungan Malayan-Dollar Untuk Melakukan Tarip Pajak-Pajak Negara Di Daerah Kepulauan Riau

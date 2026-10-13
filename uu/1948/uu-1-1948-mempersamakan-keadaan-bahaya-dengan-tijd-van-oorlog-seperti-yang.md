@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25505"
 bpk_page: "https://peraturan.bpk.go.id/Details/25505"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120455/https://peraturan.bpk.go.id/Details/25505"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1948 tentang Mempersamakan "Keadaan Bahaya" dengan "Tijd Van Oorlog" seperti yang Dimaksud Dalam Kitab-Undang-Undang Hukum Pidana Tentara

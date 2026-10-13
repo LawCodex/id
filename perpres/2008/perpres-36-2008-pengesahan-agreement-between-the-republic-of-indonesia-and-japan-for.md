@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+36+2008.pdf&fl=P15839"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=36&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 36 Tahun 2008 tentang Pengesahan Agreement Between The Republic Of Indonesia And Japan For An Economic Partnership (Persetujuan Antara Republik Indonesia Dan Jepang Mengenai Suatu Kemitraan Ekonomi)

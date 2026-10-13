@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38580"
 bpk_metadata_archived: "http://web.archive.org/web/20251210101514/https://peraturan.bpk.go.id/Details/38580/uu-no-5-tahun-2014."
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2014 tentang Aparatur Sipil Negara

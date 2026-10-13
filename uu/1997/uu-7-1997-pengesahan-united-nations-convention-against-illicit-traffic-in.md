@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/56838"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134310/https://peraturan.bpk.go.id/Details/56838"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1997 tentang Pengesahan United Nations Convention Against Illicit Traffic In Narcotic Drugs And Psychotropic Substances, 1988 (Konvensi PBB tentang Pemberantasan Peredaran Gelap Narkotika dan Psikotropika 1988)

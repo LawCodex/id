@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52430"
 bpk_page: "https://peraturan.bpk.go.id/Details/52430"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122333/https://peraturan.bpk.go.id/Details/52430"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1957 tentang Mengubah dan Menambah Undang-Undang Penempatan Bagian XIII Dari Anggaran Republik Indonesia Untuk Tahun Dinas 1953

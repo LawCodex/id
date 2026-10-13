@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39841"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142035/https://peraturan.bpk.go.id/Details/39841"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 2007 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Filipina tentang Kegiatan Kerjasama di Bidang Pertahanan dan Keamanan (Agreement Between The Government of The Republic of Indonesia And The Government of The Republic of The Philippines on Cooperative ActivitiesIn The Field of Defense And Security)

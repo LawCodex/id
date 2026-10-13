@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25876"
 bpk_page: "https://peraturan.bpk.go.id/Details/25876"
 bpk_metadata_archived: "http://web.archive.org/web/20241118065333/https://peraturan.bpk.go.id/Details/25876/uu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1948 tentang Pemberantasan Penimbunan Barang Penting

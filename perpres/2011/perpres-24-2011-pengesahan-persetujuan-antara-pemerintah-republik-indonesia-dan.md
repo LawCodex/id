@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41210"
 bpk_metadata_archived: "http://web.archive.org/web/20250423030048/https://peraturan.bpk.go.id/Details/41210/perpres-no-24-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=24&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 2011 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Slovakia Mengenai Kerja Sama di Bidang Ilmu Pengetahuan, Pendidikan, Kebudayaan, Olahraga, dan Pemuda (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Slovak Republic On Co-operation In The Fields Of Science, Education, Culture, Sports, And Youth)

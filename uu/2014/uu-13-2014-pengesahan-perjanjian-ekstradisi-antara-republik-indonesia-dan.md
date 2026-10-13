@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38605"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145403/https://peraturan.bpk.go.id/Details/38605"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2014 tentang Pengesahan Perjanjian Ekstradisi antara Republik Indonesia dan Republik India (Extradition Treaty Between The Republic Of Indonesia and The Republic Of India)

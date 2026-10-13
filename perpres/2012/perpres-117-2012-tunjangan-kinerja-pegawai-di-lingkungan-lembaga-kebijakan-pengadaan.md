@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41362"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085624/https://peraturan.bpk.go.id/Details/41362/perpres-no-117-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=117&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 117 Tahun 2012 tentang Tunjangan Kinerja Pegawai di Lingkungan Lembaga Kebijakan Pengadaan Barang/jasa Pemerintah

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0302012.pdf&fl=P15771"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=30&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 2012 tentang Pengesahan International Convention Maritime Search And Rescue, 1979 With Annex And 1998 Amendments To The International Convention On Maritime Search And Rescue, 1979 (Resolution Maritime Safety Committee 70 (69)) (Konvensi International Tentang Pencarian Dan Pertolongan Maritim, 1979 Beserta Lampiran Dan Perubahan Tahun 1998 Terhadap Konvensi Internasional Tentang Pencarian Dan Pertolongan Maritim, 1979) (Resolusi Komite Keselamatan Maritim 70 (69))

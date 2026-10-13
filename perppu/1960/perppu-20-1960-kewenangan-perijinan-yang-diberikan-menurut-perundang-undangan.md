@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53475"
 bpk_page: "https://peraturan.bpk.go.id/Details/53475"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123337/https://peraturan.bpk.go.id/Details/53475"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 20 Tahun 1960 tentang Kewenangan Perijinan Yang Diberikan Menurut Perundang-Undangan Mengenai Senjata Api

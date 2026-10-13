@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44434"
 bpk_page: "https://peraturan.bpk.go.id/Details/44434"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141156/https://peraturan.bpk.go.id/Details/44434"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2002 tentang Pembentukan Kabupaten Rote-Ndao Di Provinsi Nusa Tenggara Timur

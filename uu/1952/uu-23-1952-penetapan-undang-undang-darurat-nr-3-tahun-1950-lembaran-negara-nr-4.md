@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40271"
 bpk_page: "https://peraturan.bpk.go.id/Details/40271"
 bpk_metadata_archived: "http://web.archive.org/web/20251120041012/https://peraturan.bpk.go.id/Details/40271/uu-no-14-tahun-2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1952 tentang Penetapan Undang-Undang Darurat Nr 3 Tahun 1950 (Lembaran-Negara Nr 4 Tahun 1950) tentang Pungutan Tambahan Pokok Pajak Mengenai Pajak Kekayaan dan Pajak Perseroan Tahun 1950 Sebagai Undang-Undang

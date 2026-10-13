@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50290"
 bpk_page: "https://peraturan.bpk.go.id/Details/50290"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124723/https://peraturan.bpk.go.id/Details/50290"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 1 tahun 1964 (Lembaran Negara Tahun 1964 No. 1) tentang Perubahan dan Tambahan Undang-Undang No. 21 Tahun 1959 (Lembaran Negara Tahun 1959 No. 65) tentang Penetapan Menjadi Undang-Undang Darurat No. 7 Tahun 1958 (Lembaran Negara Tahun 1958 No. 154) tentang Penggantian Peraturan Tentang Bintang Gerilya Sebagai Termaktub Dalam Peraturan Pemerintah No. 8 tahun1949, Menjadi Undang-Undang

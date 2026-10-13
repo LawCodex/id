@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42562"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085825/https://peraturan.bpk.go.id/Details/42562/perpres-no-28-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=28&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 28 Tahun 2005 tentang Dewan Pertimbangan Otonomi Daerah

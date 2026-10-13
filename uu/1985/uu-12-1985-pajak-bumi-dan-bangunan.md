@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46963"
 bpk_page: "https://peraturan.bpk.go.id/Details/46963"
 bpk_metadata_archived: "http://web.archive.org/web/20260901152930/https://peraturan.bpk.go.id/Details/46963/uu-no-12-tahun-1994"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1985 tentang Pajak Bumi Dan Bangunan

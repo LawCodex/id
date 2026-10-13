@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41167"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082945/https://peraturan.bpk.go.id/Details/41167"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=46&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 46 Tahun 2011 tentang Pembubaran Tim Koordinasi Percepatan Pembangunan Pembangkit Tenaga Listrik

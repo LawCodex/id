@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40518"
 bpk_page: "https://peraturan.bpk.go.id/Details/40518"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141436/https://peraturan.bpk.go.id/Details/40518"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 2004 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan Menjadi Undang-Undang

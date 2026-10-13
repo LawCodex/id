@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37655"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143920/https://peraturan.bpk.go.id/Details/37655"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=42&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 42 Tahun 2008 tentang Pemilihan Umum Presiden dan Wakil Presiden

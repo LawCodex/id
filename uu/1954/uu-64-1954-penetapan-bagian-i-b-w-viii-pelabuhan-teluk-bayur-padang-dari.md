@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50965"
 bpk_page: "https://peraturan.bpk.go.id/Details/50965"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121910/https://peraturan.bpk.go.id/Details/50965"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 64 Tahun 1954 tentang Penetapan Bagian I.B.W. VIII (Pelabuhan Teluk Bayur (Padang) dari Anggaran Republik Indonesia Untuk Tahun-Tahun Dinas 1952 dan 1953

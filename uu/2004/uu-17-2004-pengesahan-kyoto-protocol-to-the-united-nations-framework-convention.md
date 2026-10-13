@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40514"
 bpk_page: "https://peraturan.bpk.go.id/Details/40514"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111403/https://peraturan.bpk.go.id/Details/40514/uu-no-17-tahun-2004"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2004 tentang Pengesahan Kyoto Protocol To The United Nations Framework Convention On Climate Change (Protokol Kyoto Atas Konvensi Kerangka Kerja Perserikatan Bangsa-Bangsa Tentang Perubahan Iklim)

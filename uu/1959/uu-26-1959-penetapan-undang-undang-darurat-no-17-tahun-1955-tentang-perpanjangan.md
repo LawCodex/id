@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51515"
 bpk_page: "https://peraturan.bpk.go.id/Details/51515"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123122/https://peraturan.bpk.go.id/Details/51515"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1959 tentang Penetapan "Undang-Undang Darurat No. 17 Tahun 1955 Tentang Perpanjangan Jangka Waktu Berlakunya Peraturan-Peraturan Daerah Yang Dimaksud Dalam Pasal 6 Undang-Undang Pembentukan Daerah-Daerah Otonom Di Jawa (Lembaran-Negara Tahun 1955 No. 53), Sebagai Undang-Undang

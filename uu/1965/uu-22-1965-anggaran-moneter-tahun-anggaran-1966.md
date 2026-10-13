@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50224"
 bpk_page: "https://peraturan.bpk.go.id/Details/50224"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124812/https://peraturan.bpk.go.id/Details/50224"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1965 tentang Anggaran Moneter Tahun-Anggaran 1966

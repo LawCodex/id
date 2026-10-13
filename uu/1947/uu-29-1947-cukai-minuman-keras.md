@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25357"
 bpk_page: "https://peraturan.bpk.go.id/Details/25357"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120352/https://peraturan.bpk.go.id/Details/25357"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1947 tentang Cukai Minuman Keras

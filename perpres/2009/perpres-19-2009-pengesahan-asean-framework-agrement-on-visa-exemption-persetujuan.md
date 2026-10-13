@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42355"
 bpk_metadata_archived: "http://web.archive.org/web/20250423021445/https://peraturan.bpk.go.id/Details/42355/perpres-no-19-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=19&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 2009 tentang Pengesahan ASEAN Framework Agrement On Visa Exemption (Persetujuan Kerangka Kerja ASEAN Mengenai Pembebasan Visa)

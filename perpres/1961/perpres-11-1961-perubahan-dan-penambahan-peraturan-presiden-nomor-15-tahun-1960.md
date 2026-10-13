@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69414"
 bpk_page: "https://peraturan.bpk.go.id/Details/69414"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123620/https://peraturan.bpk.go.id/Details/69414"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 1961 tentang Perubahan Dan Penambahan Peraturan Presiden Nomor 15 Tahun 1960 Tentang Organisasi Penyelenggaraan Pembangunan Masyarakat Desa

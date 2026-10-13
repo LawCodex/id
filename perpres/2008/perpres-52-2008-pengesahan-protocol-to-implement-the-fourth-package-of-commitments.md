@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+52+2008.pdf&fl=P16023"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=52&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 52 Tahun 2008 tentang Pengesahan Protocol To Implement The Fourth Package Of Commitments Under The Asean Framework Agreement On Services (Protokol Untuk Melaksanakan Paket Komitmen Keempat Dalam Persetujuan Kerangka Kerja Asean Di Bidang Jasa)

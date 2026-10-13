@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44487"
 bpk_page: "https://peraturan.bpk.go.id/Details/44487"
 bpk_metadata_archived: "http://web.archive.org/web/20260322195810/https://peraturan.bpk.go.id/Details/44487/uu-no28-tahun-2002"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 2002 tentang Bangunan Gedung

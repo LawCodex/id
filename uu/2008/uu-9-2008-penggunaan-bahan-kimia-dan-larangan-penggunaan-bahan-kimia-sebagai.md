@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39033"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144050/https://peraturan.bpk.go.id/Details/39033"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2008 tentang Penggunaan Bahan Kimia Dan Larangan Penggunaan Bahan Kimia Sebagai Senjata Kimia

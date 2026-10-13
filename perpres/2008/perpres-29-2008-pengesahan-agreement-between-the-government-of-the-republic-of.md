@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+29+Tahun+2008.pdf&fl=P15755"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=29&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 29 Tahun 2008 tentang Pengesahan Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Finland On The Promotion And The Protection Of Investments (Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Finlandia Mengenai Peningkatan Dan Perlindungan Penanaman Modal)

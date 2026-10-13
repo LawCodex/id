@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47406"
 bpk_page: "https://peraturan.bpk.go.id/Details/47406"
 bpk_metadata_archived: "http://web.archive.org/web/20260904022829/https://peraturan.bpk.go.id/Details/47406/uu-no-1-tahun-1974.DatabasePeraturan%7CJDIH"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan

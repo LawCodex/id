@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38789"
 bpk_metadata_archived: "http://web.archive.org/web/20250806002629/https://peraturan.bpk.go.id/Details/38789/uu-no-44-tahun-200922"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=44&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 44 Tahun 2009 tentang Rumah Sakit

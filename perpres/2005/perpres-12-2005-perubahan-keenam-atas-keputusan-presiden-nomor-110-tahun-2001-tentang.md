@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/81167"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081720/https://peraturan.bpk.go.id/Details/81167"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=12&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 2005 tentang Perubahan Keenam Atas Keputusan Presiden Nomor 110 Tahun 2001 Tentang Unit Organisasi dan Tugas Eselon I Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Di Ubah Terakhir dengan Keputusan Presiden Nomor 11 Tahun 2004

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52876"
 bpk_page: "https://peraturan.bpk.go.id/Details/52876"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122947/https://peraturan.bpk.go.id/Details/52876"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 80 Tahun 1958 tentang Dewan Perancang Nasional

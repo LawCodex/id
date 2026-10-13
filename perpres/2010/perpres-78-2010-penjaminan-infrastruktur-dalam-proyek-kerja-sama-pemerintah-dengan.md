@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41082"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082831/https://peraturan.bpk.go.id/Details/41082"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=78&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 78 Tahun 2010 tentang Penjaminan Infrastruktur dalam Proyek Kerja Sama Pemerintah dengan Badan Usaha yang Dilakukan Melalui Badan Usaha Penjaminan Infrastruktur

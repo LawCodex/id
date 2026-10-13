@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+17+Tahun+2008.pdf&fl=P15613"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=17&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 17 Tahun 2008 tentang Pengesahan Persetujuan Mengenai Kerja Sama Ekonomi Dan Teknik Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Kolombia (Agreement On Economic And Technical Cooperation Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Colombia)

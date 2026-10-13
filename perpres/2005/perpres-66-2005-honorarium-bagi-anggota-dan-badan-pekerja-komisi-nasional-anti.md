@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42593"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082918/https://peraturan.bpk.go.id/Details/42593/perpres-no-66-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=66&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 66 Tahun 2005 tentang Honorarium Bagi Anggota Dan Badan Pekerja Komisi Nasional Anti Kekerasan Terhadap Perempuan

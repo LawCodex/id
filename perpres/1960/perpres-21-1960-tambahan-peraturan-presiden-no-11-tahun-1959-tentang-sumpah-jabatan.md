@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69368"
 bpk_page: "https://peraturan.bpk.go.id/Details/69368"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123340/https://peraturan.bpk.go.id/Details/69368"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 21 Tahun 1960 tentang Tambahan Peraturan Presiden No. 11 Tahun 1959, Tentang Sumpah Jabatan Pegawai Negeri Dan Anggota Angkatan Perang

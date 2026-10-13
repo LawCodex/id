@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39949"
 bpk_page: "https://peraturan.bpk.go.id/Details/39949"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121058/https://peraturan.bpk.go.id/Details/39949"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1951 tentang Menetapkan "Undang-Undang Darurat Tentang Penetapan Kejahatan-Kejahatan dan Pelanggaran-Pelanggaran yang Dilakukan dalam Masa Pekerjaan oleh Para Pejabat yang Menurut Pasal 148 Konstitusi Republik Indonesia Serikat dalam Tingkat Pertama dan Tertinggi Diadili oleh Mahkamah Agung" Sebagai Undang-Undang

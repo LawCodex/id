@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1996"
 bpk_page: "https://peraturan.bpk.go.id/Details/46099"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134131/https://peraturan.bpk.go.id/Details/46099"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1996 tentang Pembentukan Kotamadya Daerah Tingkat II Bekasi

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51647"
 bpk_page: "https://peraturan.bpk.go.id/Details/51647"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122639/https://peraturan.bpk.go.id/Details/51647"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1958 tentang Pengesahan Persetujuan-Persetujuan Pengubahan dan Tambahan antara Republik Indonesia dan Export-Import Bank of Washington

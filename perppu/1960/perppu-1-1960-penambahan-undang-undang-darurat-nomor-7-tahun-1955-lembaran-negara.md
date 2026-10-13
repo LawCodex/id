@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/54028"
 bpk_page: "https://peraturan.bpk.go.id/Details/54028"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123335/https://peraturan.bpk.go.id/Details/54028"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1960 tentang Penambahan Undang-Undang Darurat Nomor 7 Tahun 1955 (Lembaran-Negara Tahun 1955 Nomor 27) Yang Ditambah Dengan Undang-Undang darurat Nomor 8 Tahun 1958 (Lembaran Negara Tahun 1958 Nomor 156) Tentang Pengusutan, Penuntutan Dan Peradilan Tindak Pidana Ekonomi

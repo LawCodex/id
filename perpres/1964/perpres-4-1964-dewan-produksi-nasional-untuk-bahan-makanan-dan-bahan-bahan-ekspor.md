@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42466"
 bpk_page: "https://peraturan.bpk.go.id/Details/42466"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124706/https://peraturan.bpk.go.id/Details/42466"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 1964 tentang Dewan Produksi Nasional untuk Bahan Makanan dan Bahan-Bahan Ekspor Pertanian

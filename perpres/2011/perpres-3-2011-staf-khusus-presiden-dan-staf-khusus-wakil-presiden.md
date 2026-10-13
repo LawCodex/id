@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41139"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082928/https://peraturan.bpk.go.id/Details/41139"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=3&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 3 Tahun 2011 tentang Staf Khusus Presiden dan Staf Khusus Wakil Presiden

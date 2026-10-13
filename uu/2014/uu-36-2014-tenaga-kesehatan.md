@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=36&thn=2014"
 bpk_page: "https://peraturan.bpk.go.id/Details/38770"
 bpk_metadata_archived: "http://web.archive.org/web/20250429232737/https://peraturan.bpk.go.id/Details/38770/uu-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 2014 tentang Tenaga Kesehatan

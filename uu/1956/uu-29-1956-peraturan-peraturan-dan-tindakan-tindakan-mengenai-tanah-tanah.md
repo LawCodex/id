@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51165"
 bpk_page: "https://peraturan.bpk.go.id/Details/51165"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122205/https://peraturan.bpk.go.id/Details/51165"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 1956 tentang Peraturan-Peraturan dan Tindakan-Tindakan Mengenai Tanah-Tanah Perkebunan

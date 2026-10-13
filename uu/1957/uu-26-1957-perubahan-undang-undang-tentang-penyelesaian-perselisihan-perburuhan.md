@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52456"
 bpk_page: "https://peraturan.bpk.go.id/Details/52456"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122406/https://peraturan.bpk.go.id/Details/52456"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1957 tentang Perubahan Undang-Undang tentang Penyelesaian Perselisihan Perburuhan

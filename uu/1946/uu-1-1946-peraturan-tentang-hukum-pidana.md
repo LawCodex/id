@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25029"
 bpk_page: "https://peraturan.bpk.go.id/Details/25029"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120234/https://peraturan.bpk.go.id/Details/25029"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan tentang Hukum Pidana

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50503"
 bpk_page: "https://peraturan.bpk.go.id/Details/50503"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121741/https://peraturan.bpk.go.id/Details/50503"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 1954 tentang Wakil Notaris Dan Wakil Notaris Sementara

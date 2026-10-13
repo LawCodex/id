@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_13_2011.pdf&fl=P15566"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=13&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 2011 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Federal Swiss Mengenai Pembebasan Visa Bersama Bagi Pemegang Paspor Diplomatik Dan Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Swiss Federal Council On Mutual Visa Exemption For Holders Of Diplomatic Or Service Passports)

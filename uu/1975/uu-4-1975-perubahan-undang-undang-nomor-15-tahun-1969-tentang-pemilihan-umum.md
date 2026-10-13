@@ -25,7 +25,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47404"
 bpk_page: "https://peraturan.bpk.go.id/Details/47404"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131606/https://peraturan.bpk.go.id/Details/47404"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1975 tentang Perubahan Undang-Undang Nomor 15 Tahun 1969 tentang Pemilihan Umum Angota-Anggota Badan Permusyawaratan/Perwakilan Rakyat

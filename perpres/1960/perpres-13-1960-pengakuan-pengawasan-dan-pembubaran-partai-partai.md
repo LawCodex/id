@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69352"
 bpk_page: "https://peraturan.bpk.go.id/Details/69352"
 bpk_metadata_archived: "http://web.archive.org/web/20231230104132/https://peraturan.bpk.go.id/Details/69352"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 1960 tentang Pengakuan, Pengawasan dan Pembubaran Partai-Partai

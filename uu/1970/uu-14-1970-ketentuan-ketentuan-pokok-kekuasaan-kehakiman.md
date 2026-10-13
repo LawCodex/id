@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47929"
 bpk_page: "https://peraturan.bpk.go.id/Details/47929"
 bpk_metadata_archived: "http://web.archive.org/web/20260413160914/https://peraturan.bpk.go.id/Details/47929/uu-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1970 tentang Ketentuan-Ketentuan Pokok Kekuasaan Kehakiman

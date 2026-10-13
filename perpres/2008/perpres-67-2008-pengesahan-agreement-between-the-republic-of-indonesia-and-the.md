@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+67+Tahun+2008.pdf&fl=P16191"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=67&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 67 Tahun 2008 tentang Pengesahan Agreement Between The Republic Of Indonesia And The Kingdom Of The Netherlands On Mutual Administrative Assistance For The Proper Application Of Customs Law And For The Prevention, Investigation And Combating Of Customs Offences (Persetujuan Antara Republik Indonesia Dan Kerajaan Belanda Tentang Bantuan Administratif Timbal Balik Untuk Penerapan Undang-Undang Pabean Yang Tepat Dan Untuk Pencegahan, Penyidikan Dan Pemberantasan Pelanggaran Kepabeanan)

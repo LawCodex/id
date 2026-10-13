@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51235"
 bpk_page: "https://peraturan.bpk.go.id/Details/51235"
 bpk_metadata_archived: "http://web.archive.org/web/20250909114939/https://peraturan.bpk.go.id/Details/51235/uu-no-14-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1961 tentang Tanda Kehormatan Bintang Bhayangkara

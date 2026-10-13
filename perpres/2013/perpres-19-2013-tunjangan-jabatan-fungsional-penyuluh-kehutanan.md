@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41389"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083359/https://peraturan.bpk.go.id/Details/41389"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=19&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 2013 tentang Tunjangan Jabatan Fungsional Penyuluh Kehutanan

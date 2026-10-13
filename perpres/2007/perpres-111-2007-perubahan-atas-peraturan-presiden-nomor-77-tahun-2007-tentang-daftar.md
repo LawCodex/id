@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42156"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082330/https://peraturan.bpk.go.id/Details/42156/perpres-no-111-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=111&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 111 Tahun 2007 tentang Perubahan atas Peraturan Presiden Nomor 77 Tahun 2007 tentang Daftar Bidang Usaha yang Tertutup dan Bidang Usaha yang Terbuka dengan Persyaratan di Bidang Penanaman Modal

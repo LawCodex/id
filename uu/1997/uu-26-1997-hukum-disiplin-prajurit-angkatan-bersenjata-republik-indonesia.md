@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/46028"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134217/https://peraturan.bpk.go.id/Details/46028"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=26&thn=1997"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1997 tentang Hukum Disiplin Prajurit Angkatan Bersenjata Republik Indonesia

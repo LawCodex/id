@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41219"
 bpk_metadata_archived: "http://web.archive.org/web/20250430210455/https://peraturan.bpk.go.id/Details/41219/perpres-no-54-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=54&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 54 Tahun 2011 tentang Pengesahan Preferential Trade Agreement Among D-8 Member States (Persetujuan Preferensi Perdagangan Antar Negara-negara Anggota D-8)

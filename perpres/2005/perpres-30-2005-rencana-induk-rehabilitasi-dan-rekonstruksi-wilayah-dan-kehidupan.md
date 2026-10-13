@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42564"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081747/https://peraturan.bpk.go.id/Details/42564"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=30&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 2005 tentang Rencana Induk Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara

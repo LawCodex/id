@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40254"
 bpk_page: "https://peraturan.bpk.go.id/Details/40254"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121257/https://peraturan.bpk.go.id/Details/40254"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1952 tentang Penetapan Undang-Undang Darurat tentang "Bursa" (Lembaran Negara Nr 79 Tahun 1951) Sebagai Undang-Undang

@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49551"
 bpk_page: "https://peraturan.bpk.go.id/Details/49551"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125052/https://peraturan.bpk.go.id/Details/49551"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1967 tentang Penambahan Undang-Undang Nomor 11 Tahun 1966 Tentang Ketentuan-Ketentuan Pokok Pers

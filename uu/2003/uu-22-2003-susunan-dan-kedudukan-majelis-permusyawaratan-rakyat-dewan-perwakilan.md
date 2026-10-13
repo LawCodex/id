@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/43927"
 bpk_page: "https://peraturan.bpk.go.id/Details/43927"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141231/https://peraturan.bpk.go.id/Details/43927"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 2003 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah

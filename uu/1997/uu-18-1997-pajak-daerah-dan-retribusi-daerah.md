@@ -32,7 +32,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/45950"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134151/https://peraturan.bpk.go.id/Details/45950"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1997 tentang Pajak Daerah dan Retribusi Daerah

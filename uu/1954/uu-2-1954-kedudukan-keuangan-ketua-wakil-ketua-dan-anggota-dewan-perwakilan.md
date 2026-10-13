@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47823"
 bpk_page: "https://peraturan.bpk.go.id/Details/47823"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121729/https://peraturan.bpk.go.id/Details/47823"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1954 tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggota Dewan Perwakilan Rakyat

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53572"
 bpk_page: "https://peraturan.bpk.go.id/Details/53572"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123442/https://peraturan.bpk.go.id/Details/53572"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 40 Tahun 1960 tentang Perubahan Dan Tambahan Undang-Undang No. 66 Tahun 1958 (Lembaran Negara Tahun 1958 No. 117) Tentang Wajib Militer

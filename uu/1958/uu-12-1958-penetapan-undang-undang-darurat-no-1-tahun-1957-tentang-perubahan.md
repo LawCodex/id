@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51671"
 bpk_page: "https://peraturan.bpk.go.id/Details/51671"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122644/https://peraturan.bpk.go.id/Details/51671"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 1 Tahun 1957 Tentang Perubahan Jumlah Maksimum Anggota Dewan Pemerintah Daerah Peralihan yang Dimaksud Dalam Pasal 5 Undang-Undang No. 14 TAHUN 1956 Tentang Pembentukan Dewan Perwakilan Rakyat Daerah dan Dewan Pemerintah Daerah Peralihan

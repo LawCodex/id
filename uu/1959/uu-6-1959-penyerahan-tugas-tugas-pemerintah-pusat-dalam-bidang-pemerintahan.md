@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51365"
 bpk_page: "https://peraturan.bpk.go.id/Details/51365"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123244/https://peraturan.bpk.go.id/Details/51365"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1959 tentang Penyerahan Tugas-Tugas Pemerintah Pusat dalam Bidang Pemerintahan Umum, Perbantuan Pegawai Negeri dan Penyerahan Keuangannya, Kepada Pemerintah Daerah

@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1993"
 bpk_page: "https://peraturan.bpk.go.id/Details/46578"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133703/https://peraturan.bpk.go.id/Details/46578"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1993 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1992/93

@@ -12,7 +12,7 @@ status_basis: "Setneg: dicabut"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0202013.pdf&fl=P15654"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=20&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 20 Tahun 2013 tentang Tunjangan Jabatan Fungsional Penata Ruang

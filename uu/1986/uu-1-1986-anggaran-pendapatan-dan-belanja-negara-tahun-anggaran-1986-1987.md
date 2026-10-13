@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46872"
 bpk_page: "https://peraturan.bpk.go.id/Details/46872"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132738/https://peraturan.bpk.go.id/Details/46872"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1986 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1986/1987

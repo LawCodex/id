@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/54051"
 bpk_page: "https://peraturan.bpk.go.id/Details/54051"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133406/https://peraturan.bpk.go.id/Details/54051"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1992 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 14 Tahun 1992 Tentang Lalu Lintas Dan Angkutan Jalan

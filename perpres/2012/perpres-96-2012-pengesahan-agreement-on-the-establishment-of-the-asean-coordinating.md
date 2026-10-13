@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_96_2012.pdf&fl=P16453"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=96&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 96 Tahun 2012 tentang Pengesahan Agreement On The Establishment Of The Asean Coordinating Centre For Humanitarian Assistance On Disaster Management (Persetujuan Mengenai Pembentukan Pusat Koordinasi Asean Untuk Bantuan Kemanusiaan Bagi Penanggulangan Bencana)

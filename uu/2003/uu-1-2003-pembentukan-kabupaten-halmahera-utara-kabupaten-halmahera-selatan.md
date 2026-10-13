@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42820"
 bpk_page: "https://peraturan.bpk.go.id/Details/42820"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105352/https://peraturan.bpk.go.id/Details/42820/uu-no-1-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2003 tentang Pembentukan Kabupaten Halmahera Utara, Kabupaten Halmahera Selatan, Kabupaten Kepulauan Sula, Kabupaten Halmahera Timur, dan Kota Tidore Kepulauan Di Provinsi Maluku Utara

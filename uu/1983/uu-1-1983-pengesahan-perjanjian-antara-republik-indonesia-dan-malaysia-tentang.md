@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46980"
 bpk_page: "https://peraturan.bpk.go.id/Details/46980"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132419/https://peraturan.bpk.go.id/Details/46980"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1983 tentang Pengesahan Perjanjian antara Republik Indonesia dan Malaysia Tentang Rejim Hukum Negara Nusantara dan Hak-Hak Malaysia Di Laut Teritorial dan Perairan Nusantara serta Ruang Udara Diatas Laut Teritorial, Perairan Nusantara dan Wilayah Republik Indonesia yang Terletak di Antara Malaysiatimur dan Malaysia Barat

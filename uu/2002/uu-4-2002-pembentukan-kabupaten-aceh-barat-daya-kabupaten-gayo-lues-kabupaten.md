@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44422"
 bpk_page: "https://peraturan.bpk.go.id/Details/44422"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105400/https://peraturan.bpk.go.id/Details/44422/uu-no-4-tahun-2002"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2002 tentang Pembentukan Kabupaten Aceh Barat Daya, Kabupaten Gayo Lues, Kabupaten Aceh Jaya, Kabupaten Nagan Raya, dan Kabupaten Aceh Tamiang, Di Provinsi Nanggroe Aceh Darussalam

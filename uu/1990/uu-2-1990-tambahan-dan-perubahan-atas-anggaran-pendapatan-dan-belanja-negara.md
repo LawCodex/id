@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1990"
 bpk_page: "https://peraturan.bpk.go.id/Details/46704"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133100/https://peraturan.bpk.go.id/Details/46704"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1990 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1989/1990

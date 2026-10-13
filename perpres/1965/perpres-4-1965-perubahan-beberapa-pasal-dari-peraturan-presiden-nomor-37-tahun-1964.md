@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42524"
 bpk_page: "https://peraturan.bpk.go.id/Details/42524"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124905/https://peraturan.bpk.go.id/Details/42524"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 1965 tentang Perubahan Beberapa Pasal dari Peraturan Presiden Nomor 37 Tahun 1964

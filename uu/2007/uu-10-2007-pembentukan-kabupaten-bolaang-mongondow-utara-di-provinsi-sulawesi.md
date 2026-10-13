@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39816"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142007/https://peraturan.bpk.go.id/Details/39816"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2007 tentang Pembentukan Kabupaten Bolaang Mongondow Utara di Provinsi Sulawesi Utara

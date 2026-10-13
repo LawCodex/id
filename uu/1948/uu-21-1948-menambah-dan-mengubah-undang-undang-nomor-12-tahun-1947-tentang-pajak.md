@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25796"
 bpk_page: "https://peraturan.bpk.go.id/Details/25796"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120501/https://peraturan.bpk.go.id/Details/25796"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1948 tentang Menambah dan Mengubah Undang-Undang Nomor 12 Tahun 1947 tentang Pajak Radio

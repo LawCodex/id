@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45326"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134547/https://peraturan.bpk.go.id/Details/45326"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=21&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1999 tentang Pengesahan ILO Convention No. 111 Concerning Discrimination In Respect of Employment and Occupation (Konvensi ILO mengenai Diskriminasi Dalam Pekerjaan dan Jabatan)

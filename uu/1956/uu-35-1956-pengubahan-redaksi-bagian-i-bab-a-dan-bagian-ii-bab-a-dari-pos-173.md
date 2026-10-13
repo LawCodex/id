@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51182"
 bpk_page: "https://peraturan.bpk.go.id/Details/51182"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122226/https://peraturan.bpk.go.id/Details/51182"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 1956 tentang Pengubahan Redaksi Bagian I Bab A dan Bagian II Bab A dari Pos 173 dari Tarip Bea Masuk dan Kenaikan Jumlah Bea dalam Bagian Pos yang Tersebut Terakhir

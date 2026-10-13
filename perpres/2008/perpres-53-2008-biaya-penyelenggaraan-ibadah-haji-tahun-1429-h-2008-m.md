@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42241"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082458/https://peraturan.bpk.go.id/Details/42241"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=53&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 53 Tahun 2008 tentang Biaya Penyelenggaraan Ibadah Haji Tahun 1429 H/2008 M

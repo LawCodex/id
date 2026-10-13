@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47963"
 bpk_page: "https://peraturan.bpk.go.id/Details/47963"
 bpk_metadata_archived: "http://web.archive.org/web/20231207130849/https://peraturan.bpk.go.id/Details/47963/uu-no-16-tahun-1950"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1950 tentang Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, Jawa Barat Dan Daerah Istimewa Yogyakarta

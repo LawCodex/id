@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_11_2011.pdf&fl=P15542"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=11&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 2011 tentang Pendirian Sekolah Tinggi Agama Budha Negeri Raden Wijaya Wonogiri, Jawa Tengah

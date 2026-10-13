@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44084"
 bpk_page: "https://peraturan.bpk.go.id/Details/44084"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141250/https://peraturan.bpk.go.id/Details/44084"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 2003 tentang Pembentukan Kabupaten Bombana, Kabupaten Wakatobi, dan Kabupaten Kolaka Utara di Provinsi Sulawesi Tenggara

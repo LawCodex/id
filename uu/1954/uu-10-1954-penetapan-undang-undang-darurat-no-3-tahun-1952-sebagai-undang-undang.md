@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47942"
 bpk_page: "https://peraturan.bpk.go.id/Details/47942"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121624/https://peraturan.bpk.go.id/Details/47942"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1954 tentang Penetapan Undang-Undang Darurat No. 3 Tahun 1952 Sebagai Undang-Undang

@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41949"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083312/https://peraturan.bpk.go.id/Details/41949/perpres-no-10-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=10&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 2006 tentang Badan Pertanahan Nasional

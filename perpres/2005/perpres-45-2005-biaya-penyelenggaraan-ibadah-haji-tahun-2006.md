@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42610"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082051/https://peraturan.bpk.go.id/Details/42610/perpres-no-45-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=45&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 45 Tahun 2005 tentang Biaya Penyelenggaraan Ibadah Haji Tahun 2006

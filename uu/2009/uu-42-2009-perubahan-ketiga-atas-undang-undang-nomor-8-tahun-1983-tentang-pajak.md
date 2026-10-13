@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38787"
 bpk_metadata_archived: "http://web.archive.org/web/20251219073559/https://peraturan.bpk.go.id/Details/38787/uu-no-17-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=42&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 42 Tahun 2009 tentang Perubahan Ketiga Atas Undang-Undang Nomor 8 Tahun 1983 tentang Pajak Pertambahan Nilai Barang dan Jasa dan Pajak Penjualan Atas Barang Mewah

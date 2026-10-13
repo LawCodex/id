@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41329"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092231/https://peraturan.bpk.go.id/Details/41329/perpres-no-84-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=84&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 84 Tahun 2012 tentang Pengadaan Barang/jasa Pemerintah dalam Rangka Percepatan Pembangunan Provinsi Papua dan Provinsi Papua Barat

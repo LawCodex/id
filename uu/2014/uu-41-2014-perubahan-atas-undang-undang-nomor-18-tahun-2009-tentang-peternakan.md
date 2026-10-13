@@ -23,7 +23,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=41&thn=2014"
 bpk_page: "https://peraturan.bpk.go.id/Details/38801"
 bpk_metadata_archived: "http://web.archive.org/web/20231207025324/https://peraturan.bpk.go.id/Details/38801"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 41 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 18 Tahun 2009 Tentang Peternakan dan Kesehatan Hewan

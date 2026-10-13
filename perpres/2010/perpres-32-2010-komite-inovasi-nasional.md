@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41050"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083722/https://peraturan.bpk.go.id/Details/41050/perpres-no-32-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 32 Tahun 2010 tentang Komite Inovasi Nasional

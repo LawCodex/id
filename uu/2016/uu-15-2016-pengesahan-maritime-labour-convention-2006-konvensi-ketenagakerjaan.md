@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=2016"
 bpk_page: "https://peraturan.bpk.go.id/Details/37570"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150024/https://peraturan.bpk.go.id/Details/37570"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2016 tentang Pengesahan Maritime Labour Convention, 2006 (Konvensi Ketenagakerjaan Maritim, 2006)

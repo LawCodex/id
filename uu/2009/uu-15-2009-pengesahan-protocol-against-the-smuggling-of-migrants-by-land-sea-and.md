@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38618"
 bpk_metadata_archived: "http://web.archive.org/web/20240813174145/https://peraturan.bpk.go.id/Details/38618"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2009 tentang Pengesahan Protocol Against The Smuggling Of Migrants By Land, Sea And Air, Supplementing The United Nations Convention Against Transnational Organized Crime (Protokol Menentang Penyelundupan Migran Melalui Darat,Laut, Dan Udara, Melengkapi Konvensi Perserikatan Bangsa-Bangsa Menentang Tindak Pidana Transnasional Yang Terorganisasi)

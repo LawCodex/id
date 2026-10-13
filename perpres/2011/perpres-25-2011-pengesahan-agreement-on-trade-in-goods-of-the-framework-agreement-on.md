@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41211"
 bpk_metadata_archived: "http://web.archive.org/web/20250422133108/https://peraturan.bpk.go.id/Details/41211/perpres-no-25-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=25&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 25 Tahun 2011 tentang Pengesahan Agreement On Trade In Goods Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association Of Southeast Asian Nations And The People'S Republic Of China (Persetujuan Perdagangan Barang dalam Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia Tenggara dan Republik Rakyat China)

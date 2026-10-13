@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38596"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144342/https://peraturan.bpk.go.id/Details/38596"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2009 tentang Badan Hukum Pendidikan

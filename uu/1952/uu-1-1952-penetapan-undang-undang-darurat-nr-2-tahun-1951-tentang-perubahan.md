@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40179"
 bpk_page: "https://peraturan.bpk.go.id/Details/40179"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121311/https://peraturan.bpk.go.id/Details/40179"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1952 tentang Penetapan Undang-Undang Darurat Nr 2 Tahun 1951 tentang Perubahan "Rechtnordonnantie" (Staatblad 1882 No. 240 Jo Staatblad 1931 No. 471) Sebagai Undang-Undang

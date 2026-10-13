@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_45_2013.pdf&fl=P15950"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=45&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 45 Tahun 2013 tentang Koordinasi Pemulangan Tenaga Kerja Indonesia

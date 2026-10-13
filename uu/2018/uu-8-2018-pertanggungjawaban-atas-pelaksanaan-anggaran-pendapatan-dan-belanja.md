@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/90040"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150554/https://peraturan.bpk.go.id/Details/90040"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2018 tentang Pertanggungjawaban atas Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2017

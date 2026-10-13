@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50698"
 bpk_page: "https://peraturan.bpk.go.id/Details/50698"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124154/https://peraturan.bpk.go.id/Details/50698"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1962 tentang Ketentuan-Ketentuan Pokok Bank Pembangunan Daerah

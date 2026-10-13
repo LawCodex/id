@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25543"
 bpk_page: "https://peraturan.bpk.go.id/Details/25543"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120649/https://peraturan.bpk.go.id/Details/25543"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1948 tentang Pencabutan Peraturan Pemerintah Nomor 22 Tahun 1947 tentang Susunan dan Acara Pengadilan Tentara

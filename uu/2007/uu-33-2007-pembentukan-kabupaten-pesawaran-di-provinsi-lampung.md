@@ -17,7 +17,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39944"
 bpk_metadata_archived: "http://web.archive.org/web/20240616175708/https://peraturan.bpk.go.id/Details/39944/uu-no-33-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=33&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 2007 tentang Pembentukan Kabupaten Pesawaran Di Provinsi Lampung

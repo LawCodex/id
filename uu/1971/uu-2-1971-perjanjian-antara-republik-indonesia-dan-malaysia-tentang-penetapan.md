@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47556"
 bpk_page: "https://peraturan.bpk.go.id/Details/47556"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125549/https://peraturan.bpk.go.id/Details/47556"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1971 tentang Perjanjian antara Republik Indonesia dan Malaysia Tentang Penetapan Garis Batas Laut Wilayah Kedua Negara Di Selat Malaka

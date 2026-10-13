@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/45929"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134313/https://peraturan.bpk.go.id/Details/45929"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1997 tentang Dokumen Perusahaan

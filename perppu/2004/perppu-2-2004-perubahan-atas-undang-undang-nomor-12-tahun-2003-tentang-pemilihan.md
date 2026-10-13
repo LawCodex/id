@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53116"
 bpk_page: "https://peraturan.bpk.go.id/Details/53116"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141510/https://peraturan.bpk.go.id/Details/53116"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2004 tentang Perubahan Atas Undang-Undang Nomor 12 Tahun 2003 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah

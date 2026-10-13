@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2019"
 bpk_page: "https://peraturan.bpk.go.id/Details/101000"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150646/https://peraturan.bpk.go.id/Details/101000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2019 tentang Pengesahan Nota Kesepahaman antara Kementerian Pertahanan Republic Indonesia dan Kementerian Pertahanan Kerajaan Spanyol tentang Kegiatan Kerja Sama di Bidang Pertahanan (Memorandum of Understanding Between the Ministry of Defence of the Republic of Indonesia and the Ministry of Defence of the Kingdom of Spain on Cooperative Activities in the Field of Defence)

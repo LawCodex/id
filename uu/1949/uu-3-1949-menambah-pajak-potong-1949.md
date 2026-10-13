@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/33380"
 bpk_page: "https://peraturan.bpk.go.id/Details/33380"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120740/https://peraturan.bpk.go.id/Details/33380"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1949 tentang Menambah Pajak Potong 1949

@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25526"
 bpk_page: "https://peraturan.bpk.go.id/Details/25526"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120559/https://peraturan.bpk.go.id/Details/25526"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1948 tentang Naturalisasi Jean Henry Joseph de Quinze

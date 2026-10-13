@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41942"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082301/https://peraturan.bpk.go.id/Details/41942/perpres-no-2-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=2&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 2006 tentang Penyesuaian Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor 12 Tahun 2003 tentang Perubahan atas Peraturan Pemerintah Nomor 8 Tahun 2000 tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, dan Peradilan Agama Sebagaimana Telah diubah dengan Peraturan Pemerintah Nomor 27 Tahun 2001 ke dalam Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor 70 Tahun 2005 tentang Perubahan Ketiga atas Peraturan Pemerintah Nomor 8 Tahun 2000 tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, dan Peradilan Agama

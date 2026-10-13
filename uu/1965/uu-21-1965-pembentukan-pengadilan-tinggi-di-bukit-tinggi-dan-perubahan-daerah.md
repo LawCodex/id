@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50221"
 bpk_page: "https://peraturan.bpk.go.id/Details/50221"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124808/https://peraturan.bpk.go.id/Details/50221"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1965 tentang Pembentukan Pengadilan Tinggi Di Bukit Tinggi Dan Perubahan Daerah Hukum Pengadilan Tinggi Di Medan

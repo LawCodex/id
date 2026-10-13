@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41279"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083159/https://peraturan.bpk.go.id/Details/41279"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=35&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 35 Tahun 2012 tentang Perubahan atas Peraturan Presiden Nomor 10 Tahun 2008 tentang Penggunaan Sistem Elektronik dalam Kerangka Indonesia National Single Window

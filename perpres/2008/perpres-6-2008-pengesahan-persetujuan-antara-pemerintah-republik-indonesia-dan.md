@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42260"
 bpk_metadata_archived: "http://web.archive.org/web/20251203041355/https://peraturan.bpk.go.id/Details/42260/perpres-no-6-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=6&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 2008 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Federasi Rusia tentang Pembebasan Visa Kunjungan Singkat Bagi Pemegang Paspor Diplomatik dan Dinas (Agreement Between The Government Of The Republic Of Indonesia and The Government of The Russian Federation On Visa Exemption for Shortterm Visits of The Holders of Diplomatic and Service Passports)

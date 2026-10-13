@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41347"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085551/https://peraturan.bpk.go.id/Details/41347/perpres-no-102-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=102&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 102 Tahun 2012 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Riset dan Teknologi

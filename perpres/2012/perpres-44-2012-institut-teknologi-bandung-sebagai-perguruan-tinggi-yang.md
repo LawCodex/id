@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0442012.pdf&fl=P15937"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=44&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 44 Tahun 2012 tentang Institut Teknologi Bandung Sebagai Perguruan Tinggi Yang Diselenggarakan Oleh Pemerintah

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47038"
 bpk_page: "https://peraturan.bpk.go.id/Details/47038"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132230/https://peraturan.bpk.go.id/Details/47038"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1981 tentang Pengesahan Konvensi Internasional Mengenai Pemberantasan Uang Palsu Beserta Protokol (International Convention for The Suppression of Counterfeiting Currency and Protocol, Geneve 1929)

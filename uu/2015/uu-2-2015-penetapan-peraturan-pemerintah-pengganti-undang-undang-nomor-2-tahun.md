@@ -27,7 +27,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37678"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145823/https://peraturan.bpk.go.id/Details/37678"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang

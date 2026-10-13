@@ -23,7 +23,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/90037"
 bpk_metadata_archived: "http://web.archive.org/web/20251201020234/https://peraturan.bpk.go.id/Details/90037/uu-no-6-tahun-2018."
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2018 tentang Kekarantinaan Kesehatan

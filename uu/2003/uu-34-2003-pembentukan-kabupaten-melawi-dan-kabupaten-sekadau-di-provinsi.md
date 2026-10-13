@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44153"
 bpk_page: "https://peraturan.bpk.go.id/Details/44153"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141305/https://peraturan.bpk.go.id/Details/44153"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 2003 tentang Pembentukan Kabupaten Melawi Dan Kabupaten Sekadau Di Provinsi Kalimantan Barat

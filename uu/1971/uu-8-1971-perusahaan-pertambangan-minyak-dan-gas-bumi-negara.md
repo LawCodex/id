@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47564"
 bpk_page: "https://peraturan.bpk.go.id/Details/47564"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125703/https://peraturan.bpk.go.id/Details/47564"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1971 tentang Perusahaan Pertambangan Minyak dan Gas Bumi Negara

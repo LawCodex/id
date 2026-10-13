@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41197"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082911/https://peraturan.bpk.go.id/Details/41197"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=27&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 27 Tahun 2011 tentang Penyesuaian Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 25 Tahun 2010 ke dalam Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 11 Tahun 2011

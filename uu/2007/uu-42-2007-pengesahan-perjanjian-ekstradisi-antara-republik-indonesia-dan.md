@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39967"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142137/https://peraturan.bpk.go.id/Details/39967"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=42&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 42 Tahun 2007 tentang Pengesahan Perjanjian Ekstradisi Antara Republik Indonesia dan Republik Korea (Treaty on Extradition Between The Republic of Indonesia and The Republic of Korea)

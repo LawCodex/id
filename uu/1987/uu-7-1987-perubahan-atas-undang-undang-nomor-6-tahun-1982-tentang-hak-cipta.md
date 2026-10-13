@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46826"
 bpk_page: "https://peraturan.bpk.go.id/Details/46826"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132906/https://peraturan.bpk.go.id/Details/46826"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1987 tentang Perubahan atas Undang-Undang Nomor 6 Tahun 1982 tentang Hak Cipta

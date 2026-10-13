@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46715"
 bpk_page: "https://peraturan.bpk.go.id/Details/46715"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133159/https://peraturan.bpk.go.id/Details/46715"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1990 tentang Kepariwisataan

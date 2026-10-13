@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=1.+Salinan+Perpres+Nomor+37+Tahun+2009.pdf&fl=P15852"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=37&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 37 Tahun 2009 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Paraguay Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik Dan Paspor Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Paraguay On Visa Exemption For Diplomatic, Official And Service Passports)

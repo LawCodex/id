@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44503"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140804/https://peraturan.bpk.go.id/Details/44503"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2001 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Hongkong untuk Penyerahan Pelanggar Hukum yang Melarikan Diri (Agreement Between The Government of The Republic of Indonesia and The Government of Hongkong for The Serrender of Fugitive Offenders

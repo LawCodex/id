@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38765"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144147/https://peraturan.bpk.go.id/Details/38765"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=29&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian

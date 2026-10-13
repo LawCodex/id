@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51250"
 bpk_page: "https://peraturan.bpk.go.id/Details/51250"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123847/https://peraturan.bpk.go.id/Details/51250"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1961 tentang Pencabutan Hak-Hak Tanah dan Benda-Benda Yang Ada Diatasnya

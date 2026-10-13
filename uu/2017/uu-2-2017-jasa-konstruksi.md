@@ -24,7 +24,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2017"
 bpk_page: "https://peraturan.bpk.go.id/Details/37637"
 bpk_metadata_archived: "http://web.archive.org/web/20260328122341/https://peraturan.bpk.go.id/Details/37637/uu-no-2-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2017 tentang Jasa Konstruksi

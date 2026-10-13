@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41245"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083138/https://peraturan.bpk.go.id/Details/41245"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=1&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2012 tentang Pengesahan Protocol To Implement The Seventh Package Of Commitments Under The ASEAN Framework Agreement On Services (Protokol Untuk Melaksanakan Komitmen Paket Ketujuh Dalam Persetujuan Kerangka Kerja ASEAN di Bidang Jasa)

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41289"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083213/https://peraturan.bpk.go.id/Details/41289"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=45&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 45 Tahun 2012 tentang Perubahan atas Keputusan Presiden Nomor 86 Tahun 2002 tentang Pembentukan Badan Pengatur Penyediaan dan Pendistribusian Bahan Bakar Minyak dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa

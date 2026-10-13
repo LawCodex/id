@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25175"
 bpk_page: "https://peraturan.bpk.go.id/Details/25175"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120227/https://peraturan.bpk.go.id/Details/25175"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1946 tentang Pernyataan Keadaan Bahaya di Seluruh Indonesia

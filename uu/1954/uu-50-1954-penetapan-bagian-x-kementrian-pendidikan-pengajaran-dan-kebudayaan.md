@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50549"
 bpk_page: "https://peraturan.bpk.go.id/Details/50549"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121832/https://peraturan.bpk.go.id/Details/50549"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 50 Tahun 1954 tentang Penetapan Bagian X (Kementrian Pendidikan, Pengajaran dan Kebudayaan) dari Anggaran Republik Indonesia Untuk Tahun-Tahun Dinas 1952 dan 1953

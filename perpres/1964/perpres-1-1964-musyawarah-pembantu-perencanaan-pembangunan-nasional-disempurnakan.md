@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42472"
 bpk_page: "https://peraturan.bpk.go.id/Details/42472"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081643/https://peraturan.bpk.go.id/Details/42472"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 1964 tentang Musyawarah Pembantu Perencanaan Pembangunan Nasional (Disempurnakan)

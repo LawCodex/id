@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+48+Tahun+2010.pdf&fl=P15980"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=48&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 48 Tahun 2010 tentang Pengesahan Persetujuan Dukungan Penanaman Modal Antara Pemerintah Republik Indonesia Dan Pemerintah Amerika Serikat (Investment Support Agreement Between The Government Of The Republic Of Indonesia And The Government Of The United States Of America) Beserta Pengaturan Pelaksanaan Antara Peme- Rintah Republik Indonesia Dan Pemerintah Amerika Serikat Mengenai Prosedur Notifikasi (Implementing Arrangement Between The Government Of The Republic Of Indonesia And The Government Of The United States Of America Regarding Notification Procedures)

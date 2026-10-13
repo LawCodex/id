@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42214"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085904/https://peraturan.bpk.go.id/Details/42214/perpres-no-30-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=30&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 2008 tentang Dewan Nasional Kawasan Perdagangan Bebas dan Pelabuhan Bebas

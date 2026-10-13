@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46968"
 bpk_page: "https://peraturan.bpk.go.id/Details/46968"
 bpk_metadata_archived: "http://web.archive.org/web/20240714203306/https://peraturan.bpk.go.id/Details/46968/uu-no-17-tahun-1985"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1985 tentang Pengesahan United Nations Convention on The Law of The Sea (Konvensi Perserikatan Bangsa-Bangsa tentang Hukum Laut)

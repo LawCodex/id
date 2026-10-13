@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69364"
 bpk_page: "https://peraturan.bpk.go.id/Details/69364"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081617/https://peraturan.bpk.go.id/Details/69364/perpres-no-18-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 1960 tentang Pemberian Ganjaran (Premi) Kepada Orang-Orang yang Telah Memberikan Jasanya Dalam Pengusutan Beberapa Tindak Pidana

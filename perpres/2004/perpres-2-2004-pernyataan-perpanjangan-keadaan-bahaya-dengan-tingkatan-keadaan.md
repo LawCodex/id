@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41936"
 bpk_page: "https://peraturan.bpk.go.id/Details/41936"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081802/https://peraturan.bpk.go.id/Details/41936/perpres-no-2-tahun-2004"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 2004 tentang Pernyataan Perpanjangan Keadaan Bahaya Dengan Tingkatan Keadaan Darurat Sipil Di Provinsi Nanggroe Aceh Darussalam

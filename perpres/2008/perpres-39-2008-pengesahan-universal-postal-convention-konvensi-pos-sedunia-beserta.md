@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+39+2008.pdf&fl=P15875"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=39&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 39 Tahun 2008 tentang Pengesahan Universal Postal Convention (Konvensi Pos Sedunia)Beserta Final Protocol To The Universal Postal Convention Protokol Akhir Konvensi Pos Sedunia)

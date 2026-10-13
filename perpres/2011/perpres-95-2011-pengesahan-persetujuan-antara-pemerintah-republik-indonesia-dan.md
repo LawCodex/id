@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41242"
 bpk_metadata_archived: "http://web.archive.org/web/20251202060208/https://peraturan.bpk.go.id/Details/41242/perpres-no-95-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=95&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 95 Tahun 2011 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Islam Pakistan Mengenai Pembebasan Visa bagi Pemegang Paspor Diplomatik dan Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Islamic Republic Of Pakistan On Visa Exemption For Holders Of Diplomatic And Service/Official Passports)

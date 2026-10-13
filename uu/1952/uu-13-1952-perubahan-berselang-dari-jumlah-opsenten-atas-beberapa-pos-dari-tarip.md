@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40249"
 bpk_page: "https://peraturan.bpk.go.id/Details/40249"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121251/https://peraturan.bpk.go.id/Details/40249"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1952 tentang Perubahan Berselang dari Jumlah Opsenten atas Beberapa Pos dari Tarip Bea-Bea Masuk

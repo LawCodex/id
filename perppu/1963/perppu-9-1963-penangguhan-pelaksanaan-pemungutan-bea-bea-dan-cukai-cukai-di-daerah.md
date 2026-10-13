@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53749"
 bpk_page: "https://peraturan.bpk.go.id/Details/53749"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124509/https://peraturan.bpk.go.id/Details/53749"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1963 tentang Penangguhan Pelaksanaan Pemungutan Bea-Bea Dan Cukai-Cukai Di Daerah Tingkat II Kepulauan Riau

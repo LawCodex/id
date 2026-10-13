@@ -25,7 +25,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51091"
 bpk_page: "https://peraturan.bpk.go.id/Details/51091"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122254/https://peraturan.bpk.go.id/Details/51091"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Kecil dalam Lingkungan Daerah Propinsi Sumatera Tengah

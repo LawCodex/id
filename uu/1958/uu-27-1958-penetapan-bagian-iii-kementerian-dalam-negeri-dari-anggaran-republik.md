@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51760"
 bpk_page: "https://peraturan.bpk.go.id/Details/51760"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122725/https://peraturan.bpk.go.id/Details/51760"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 1958 tentang Penetapan Bagian III (Kementerian Dalam Negeri) dari Anggaran Republik Indonesia untuk Tahun Dinas 1955

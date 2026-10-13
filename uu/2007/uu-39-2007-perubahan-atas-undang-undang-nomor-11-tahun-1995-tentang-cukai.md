@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39962"
 bpk_metadata_archived: "http://web.archive.org/web/20250525164206/https://peraturan.bpk.go.id/Details/39962/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=39&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 39 Tahun 2007 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 1995 tentang Cukai

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52613"
 bpk_page: "https://peraturan.bpk.go.id/Details/52613"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122503/https://peraturan.bpk.go.id/Details/52613"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 45 Tahun 1957 tentang Penetapan Bagian XI (Kementrian Kesehatan) Dari Anggaran Republik Indonesia Tahun Dinas 1954

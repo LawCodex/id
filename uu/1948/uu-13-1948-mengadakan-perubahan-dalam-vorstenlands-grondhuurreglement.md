@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25735"
 bpk_page: "https://peraturan.bpk.go.id/Details/25735"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120433/https://peraturan.bpk.go.id/Details/25735"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1948 tentang Mengadakan Perubahan Dalam Vorstenlands Grondhuurreglement

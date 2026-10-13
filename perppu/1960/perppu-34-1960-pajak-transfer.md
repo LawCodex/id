@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53550"
 bpk_page: "https://peraturan.bpk.go.id/Details/53550"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123420/https://peraturan.bpk.go.id/Details/53550"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 34 Tahun 1960 tentang Pajak Transfer

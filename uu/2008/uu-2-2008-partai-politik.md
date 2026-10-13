@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38859"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143847/https://peraturan.bpk.go.id/Details/38859"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2008 tentang Partai Politik

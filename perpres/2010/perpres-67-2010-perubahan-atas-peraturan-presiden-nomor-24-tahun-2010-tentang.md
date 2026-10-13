@@ -37,7 +37,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41071"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082816/https://peraturan.bpk.go.id/Details/41071"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=67&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 67 Tahun 2010 tentang Perubahan atas Peraturan Presiden Nomor 24 Tahun 2010 tentang Kedudukan, Tugas, dan Fungsi Kementerian Negara serta Susunan Organisasi, Tugas, dan Fungsi Eselon I Kementerian Negara

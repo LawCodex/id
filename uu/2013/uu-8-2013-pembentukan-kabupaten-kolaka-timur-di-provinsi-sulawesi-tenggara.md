@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38839"
 bpk_metadata_archived: "http://web.archive.org/web/20251222233400/https://peraturan.bpk.go.id/Details/38839/uu-no-8-tahun-2013.html"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2013 tentang Pembentukan Kabupaten Kolaka Timur di Provinsi Sulawesi Tenggara

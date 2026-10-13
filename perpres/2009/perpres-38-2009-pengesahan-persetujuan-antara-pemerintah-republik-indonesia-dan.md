@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42312"
 bpk_metadata_archived: "http://web.archive.org/web/20250423031002/https://peraturan.bpk.go.id/Details/42312/perpres-no-38-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=38&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 38 Tahun 2009 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Azerbaijan Mengenai Pembebasan Visa bagi Pemegang Paspor Diplomatik dan Paspor Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government Of Azerbaijan On Visa Exemption For Diplomatic Official And Service Passports)

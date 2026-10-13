@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51457"
 bpk_page: "https://peraturan.bpk.go.id/Details/51457"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123031/https://peraturan.bpk.go.id/Details/51457"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1959 tentang Penetapan "Undang-Undang darurat No. 1 Tahun 1959 Tentang Badan Perusahaan Produksi Bahan Makanan dan Pembukaan Tanah" (Lembaran-Negara Tahun 1959 No. 1), Sebagai Undang-Undang

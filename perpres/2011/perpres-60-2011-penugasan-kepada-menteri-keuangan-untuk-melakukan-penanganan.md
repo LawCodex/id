@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_60_2011.pdf&fl=P16118"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=60&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 60 Tahun 2011 tentang Penugasan Kepada Menteri Keuangan Untuk Melakukan Penanganan Permohonan Arbitrase Hesham Al-Warraq Di Bawah Organisasi Konferensi Islam

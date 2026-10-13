@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51068"
 bpk_page: "https://peraturan.bpk.go.id/Details/51068"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122109/https://peraturan.bpk.go.id/Details/51068"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1955 tentang Pengubahan Undang-Undang No. 3 Jo. No. 19 Tahun 1950 tentang Pembentukan Daerah Istimewa Yogyakarta

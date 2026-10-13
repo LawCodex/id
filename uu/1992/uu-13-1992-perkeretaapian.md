@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46605"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133351/https://peraturan.bpk.go.id/Details/46605"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1992 tentang Perkeretaapian

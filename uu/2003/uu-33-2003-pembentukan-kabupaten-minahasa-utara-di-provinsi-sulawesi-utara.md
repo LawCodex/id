@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44151"
 bpk_page: "https://peraturan.bpk.go.id/Details/44151"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141302/https://peraturan.bpk.go.id/Details/44151"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 2003 tentang Pembentukan Kabupaten Minahasa Utara di Provinsi Sulawesi Utara

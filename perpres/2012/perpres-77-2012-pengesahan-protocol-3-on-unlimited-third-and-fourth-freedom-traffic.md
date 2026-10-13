@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_077_2012.pdf&fl=P16295"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=77&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 77 Tahun 2012 tentang Pengesahan Protocol 3 On Unlimited Third And Fourth Freedom Traffic Rights Between The Asean Sub-Region (Protokol 3 Tentang Kebebasan Hak Angkut Ketiga Dan Keempat Yang Tidak Terbatas Antar Subkawasan Asean) Dan Protocol 4 On Unlimited Fifth Freedom Traffic Rights Between The Asean Sub-Region (Protokol 4 Tentang Kebebasan Hak Angkut Kelima Yang Tidak Terbatas Antar Subkawasan Asean)

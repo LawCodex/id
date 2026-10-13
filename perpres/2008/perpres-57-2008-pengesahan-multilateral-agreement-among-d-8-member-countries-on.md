@@ -11,7 +11,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+57+2008.pdf&fl=P16082"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=57&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 57 Tahun 2008 tentang Pengesahan Multilateral Agreement Among D-8 Member Countries On Administrative Assistance In Customs Matters (Persetujuan Multilateral Antar Negara-Negara Anggota D-8 Mengenai Bantuan Administratif Di Bidang Kepabeanan)

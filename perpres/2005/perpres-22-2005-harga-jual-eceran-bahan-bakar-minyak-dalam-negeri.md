@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42556"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081735/https://peraturan.bpk.go.id/Details/42556"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=22&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 22 Tahun 2005 tentang Harga Jual Eceran Bahan Bakar Minyak Dalam Negeri

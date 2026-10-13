@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45399"
 bpk_metadata_archived: "http://web.archive.org/web/20240207161450/https://peraturan.bpk.go.id/Details/45399/uu-no-53-tahun-1999"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=53&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 53 Tahun 1999 tentang Pembentukan Kabupaten Pelalawan, Kabupaten Rokan Hulu, Kabupaten Rokan Hilir, Kabupaten Siak, Kabupaten Karimun, Kabupaten Natuna, Kabupaten Kuantan Singingi, dan Kota Batam

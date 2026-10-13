@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53694"
 bpk_page: "https://peraturan.bpk.go.id/Details/53694"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124207/https://peraturan.bpk.go.id/Details/53694"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 17 Tahun 1962 tentang Perubahan Dan Tambahan Undang-Undang No. 21 PRP Tahun 1960 Tentang Bank Pembangunan Indonesia

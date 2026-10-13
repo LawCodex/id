@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46874"
 bpk_page: "https://peraturan.bpk.go.id/Details/46874"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132753/https://peraturan.bpk.go.id/Details/46874"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1986 tentang Peradilan Umum

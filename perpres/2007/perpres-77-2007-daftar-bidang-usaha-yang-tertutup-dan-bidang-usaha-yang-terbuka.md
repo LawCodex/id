@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42133"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082322/https://peraturan.bpk.go.id/Details/42133"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=77&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 77 Tahun 2007 tentang Daftar Bidang Usaha yang Tertutup dan Bidang Usaha yang Terbuka dengan Persyaratan di Bidang Penanaman Modal

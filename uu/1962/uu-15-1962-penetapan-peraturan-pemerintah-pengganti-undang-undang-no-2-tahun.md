@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50978"
 bpk_page: "https://peraturan.bpk.go.id/Details/50978"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124202/https://peraturan.bpk.go.id/Details/50978"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1962 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 2 Tahun 1962 Tentang Kewajiban Perusahaan Minyak Memenuhi Kebutuhan Dalam Negeri Menjadi Undang-Undang

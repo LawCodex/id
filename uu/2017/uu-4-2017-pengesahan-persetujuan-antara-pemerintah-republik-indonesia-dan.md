@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37641"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150355/https://peraturan.bpk.go.id/Details/37641"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2017 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia Dan Pemerintah Republik Filipina mengenai Penetapan Batas Zona Ekonomi Eksklusif, 2014 (Agreement Between The Government Of The Republic Of Indonesia and the Government of The Republic of The Philippines Concerning The Delimitation of The Exclusive Economic Zone Boundary, 2014)

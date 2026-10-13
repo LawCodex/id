@@ -29,7 +29,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42550"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081724/https://peraturan.bpk.go.id/Details/42550"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=15&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 15 Tahun 2005 tentang Perubahan atas Peraturan Presiden Nomor 10 Tahun 2005 Tentang Unit Organisasi dan Tugas Eselon I Kementerian Negara Republik Indonesia

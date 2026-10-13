@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/46012"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134205/https://peraturan.bpk.go.id/Details/46012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=21&thn=1997"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1997 tentang Bea Perolehan atas Tanah dan Bangunan

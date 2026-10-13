@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42456"
 bpk_page: "https://peraturan.bpk.go.id/Details/42456"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124352/https://peraturan.bpk.go.id/Details/42456"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 22 Tahun 1963 tentang Penghapusan Keresidenan dan Kewedanaan

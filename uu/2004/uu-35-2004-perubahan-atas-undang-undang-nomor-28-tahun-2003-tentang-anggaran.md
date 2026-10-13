@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40779"
 bpk_page: "https://peraturan.bpk.go.id/Details/40779"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141530/https://peraturan.bpk.go.id/Details/40779"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 35 Tahun 2004 tentang Perubahan atas Undang-Undang Nomor 28 Tahun 2003 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2004

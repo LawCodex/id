@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52245"
 bpk_page: "https://peraturan.bpk.go.id/Details/52245"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122834/https://peraturan.bpk.go.id/Details/52245"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 50 Tahun 1958 tentang Penetapan Bagian I.B.W. XI (Pelabuhan Tanjung Priuk) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

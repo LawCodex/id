@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49971"
 bpk_page: "https://peraturan.bpk.go.id/Details/49971"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124840/https://peraturan.bpk.go.id/Details/49971"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1965 tentang Perubahan Batas Wilayah Kotapraja Surabaya Dan Daerah Tingkat II Surabaya Dengan mengubah Undang-Undang No. 12 Tahun 1950, tentang Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, Jawa Barat Dan Daerah Istimewa Jogyakarta

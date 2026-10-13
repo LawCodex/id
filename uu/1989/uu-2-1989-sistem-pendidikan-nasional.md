@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46794"
 bpk_page: "https://peraturan.bpk.go.id/Details/46794"
 bpk_metadata_archived: "http://web.archive.org/web/20260904025611/https://peraturan.bpk.go.id/Details/46794/uu-no-2-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1989 tentang Sistem Pendidikan Nasional

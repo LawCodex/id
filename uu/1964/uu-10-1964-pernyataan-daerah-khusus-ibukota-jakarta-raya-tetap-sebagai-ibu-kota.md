@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50294"
 bpk_page: "https://peraturan.bpk.go.id/Details/50294"
 bpk_metadata_archived: "http://web.archive.org/web/20240704092405/https://peraturan.bpk.go.id/Details/50294"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus Ibukota Jakarta Raya Tetap Sebagai Ibu Kota Negera Republik Indonesia Dengan Nama Jakarta

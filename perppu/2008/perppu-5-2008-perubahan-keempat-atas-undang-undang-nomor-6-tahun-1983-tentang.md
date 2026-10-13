@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=5&thn=2008"
 bpk_page: "https://peraturan.bpk.go.id/Details/53229"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143959/https://peraturan.bpk.go.id/Details/53229"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat Atas Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum Dan Tata Cara Perpajakan

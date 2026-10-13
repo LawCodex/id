@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39255"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105247/https://peraturan.bpk.go.id/Details/39255/uu-no-19-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 2011 tentang Pengesahan Convention On The Rights of Persons With Disabilities (Konvensi Mengenai Hak-hak Penyandang Disabilitas)

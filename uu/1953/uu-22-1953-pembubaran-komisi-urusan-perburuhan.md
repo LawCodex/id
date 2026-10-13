@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45328"
 bpk_page: "https://peraturan.bpk.go.id/Details/45328"
 bpk_metadata_archived: "http://web.archive.org/web/20250331075208/https://peraturan.bpk.go.id/Details/45328/pp-no-60-tahun-2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 1953 tentang Pembubaran Komisi Urusan Perburuhan

@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41104"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082843/https://peraturan.bpk.go.id/Details/41104"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=87&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 87 Tahun 2010 tentang Perubahan atas Peraturan Presiden Nomor 23 Tahun 2008 tentang Uang Kehormatan dan Hak-Hak Lainnya bagi Hakim Ad Hoc pada Pengadilan Perikanan di Pengadilan Negeri

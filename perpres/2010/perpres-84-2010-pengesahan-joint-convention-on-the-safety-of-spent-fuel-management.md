@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_84_Th_2010.pdf&fl=P16357"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=84&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 84 Tahun 2010 tentang Pengesahan Joint Convention On The Safety Of Spent Fuel Management And On The Safety Of Radioactive Waste Management (Konvensi Gabungan Tentang Keselamatan Pengelolaan Bahan Bakar Nuklir Bekas Dan Tentang Keselamatan Pengelolaan Limbah Radioaktif)

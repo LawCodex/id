@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1991"
 bpk_page: "https://peraturan.bpk.go.id/Details/46653"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133214/https://peraturan.bpk.go.id/Details/46653"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1991 tentang Pengesahan "Treaty Between The Republic of Indonesia and Australia on The Zone of Cooperation In An Area Between The Indonesian Province of East Timor and Northern Australia" (Perjanjian antara Republik Indonesia dan Australia Mengenai Zona Kerjasama di Daerah Antara Propinsi Timor Timur dan Australia Bagian Utara)

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38782"
 bpk_metadata_archived: "http://web.archive.org/web/20260622021648/https://peraturan.bpk.go.id/Details/38782/uu-no-35-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=38&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 38 Tahun 2014 tentang Keperawatan

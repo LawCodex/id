@@ -33,7 +33,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=54&thn=20
 bpk_page: "https://peraturan.bpk.go.id/Details/41063"
 bpk_metadata_archived: "http://web.archive.org/web/20250624124425/https://peraturan.bpk.go.id/Details/41063/perpres-no-54-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah

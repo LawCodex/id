@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47041"
 bpk_page: "https://peraturan.bpk.go.id/Details/47041"
 bpk_metadata_archived: "http://web.archive.org/web/20250719135544/https://peraturan.bpk.go.id/Details/47041/uu-no-8-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana

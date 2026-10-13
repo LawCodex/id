@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39881"
 bpk_page: "https://peraturan.bpk.go.id/Details/39881"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121018/https://peraturan.bpk.go.id/Details/39881"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1951 tentang Menetapkan "Undang-Undang Darurat tentang Menaikkan Jumlah Maksimum Porto Dan Bea" Sebagai Undang-Undang

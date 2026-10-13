@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42007"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082218/https://peraturan.bpk.go.id/Details/42007/perpres-no-73-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=73&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 73 Tahun 2006 tentang Tunjangan Jabatan Struktural di Lingkungan Kepolisian Negara Republik Indonesia

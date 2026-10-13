@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50496"
 bpk_page: "https://peraturan.bpk.go.id/Details/50496"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121722/https://peraturan.bpk.go.id/Details/50496"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 1954 tentang Penetapan Undang-Undang Darurat No.1 Tahun 1954, tentang Mempersatukan Opsenten yang Berlaku dalam Tahun 1953, atas Cukai dari Beberapa Jenis Barang Dalam Pokoknya Kenaikan Jumlah Cukai atas Alkohol Sulingan Dalam Negeri dan Bir dan Kenaikan Bea Masuk Atas Bir (Lembaran-Negara No.1 Tahun 1954) Sebagai Undang-Undang

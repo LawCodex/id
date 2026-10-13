@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53505"
 bpk_page: "https://peraturan.bpk.go.id/Details/53505"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123352/https://peraturan.bpk.go.id/Details/53505"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 25 Tahun 1960 tentang Perubahan Undang-Undang darurat No. 3 Tahun 1958 (Lembaran Negara 1958 No. 43)

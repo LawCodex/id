@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38539"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144444/https://peraturan.bpk.go.id/Details/38539"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2010 tentang Pengesahan Perjanjian antara Republik Indonesia dan Republik Singapura tentang Penetapan Garis Batas Laut Wilayah Kedua Negara Di Bagian Barat Selat Singapura, 2009 (Treaty Between The Republic of Indonesia and The Republic of Singapore Relating to The Delimitation of The Territorial Seas of The Two Countries In The Western Part of The Strait of Singapore, 2009)

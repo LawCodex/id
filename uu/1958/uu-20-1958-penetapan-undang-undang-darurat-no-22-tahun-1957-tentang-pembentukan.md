@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51717"
 bpk_page: "https://peraturan.bpk.go.id/Details/51717"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122708/https://peraturan.bpk.go.id/Details/51717"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1958 tentang Penetapan Undang-Undang Darurat No. 22 Tahun 1957 tentang Pembentukan Daerah Swatantra Tingkat I Maluku (Lembaran-Negara Tahun 1957 No. 79) Sebagai Undang-Undang

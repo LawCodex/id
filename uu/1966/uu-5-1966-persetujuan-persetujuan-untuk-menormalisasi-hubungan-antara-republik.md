@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49789"
 bpk_page: "https://peraturan.bpk.go.id/Details/49789"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125003/https://peraturan.bpk.go.id/Details/49789"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1966 tentang Persetujuan-Persetujuan Untuk Menormalisasi Hubungan Antara Republik Indonesia dan Malaysia

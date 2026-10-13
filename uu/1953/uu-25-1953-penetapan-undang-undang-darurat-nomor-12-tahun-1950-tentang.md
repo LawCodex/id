@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45407"
 bpk_page: "https://peraturan.bpk.go.id/Details/45407"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121510/https://peraturan.bpk.go.id/Details/45407"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1953 tentang Penetapan "Undang-Undang Darurat Nomor 12 Tahun 1950, tentang Mengadakan Pajak Peredaran 1950" (Lembaran-Negara Nomor 19 Tahun 1950) dan "Undang-Undang Darurat Nomor 38 Tahun 1950 tentang Tambahan dan Perubahan Undang-Undang Pajak Peredaran 1950" (Lembaran-Negara Nomor 80 Tahun 1950), Sebagai Undang-Undang

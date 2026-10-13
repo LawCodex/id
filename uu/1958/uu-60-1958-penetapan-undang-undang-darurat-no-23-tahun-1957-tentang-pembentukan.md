@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52321"
 bpk_page: "https://peraturan.bpk.go.id/Details/52321"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122905/https://peraturan.bpk.go.id/Details/52321"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 60 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 23 Tahun 1957 Tentang Pembentukan Daerah-Daerah Swatantra Tingkat II Dalam Wilayah Daerah Swatantra Tingkat I Maluku" (Lembaran Negara Tahun 1957 No. 80), Sebagai Undang-Undang

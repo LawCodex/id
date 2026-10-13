@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/64024"
 bpk_page: "https://peraturan.bpk.go.id/Details/64024"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120804/https://peraturan.bpk.go.id/Details/64024"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1950 tentang Pemerintahan Daerah Kabupaten di Djawa Timur

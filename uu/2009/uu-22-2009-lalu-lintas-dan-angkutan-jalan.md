@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38654"
 bpk_metadata_archived: "http://web.archive.org/web/20250810060617/https://peraturan.bpk.go.id/Details/38654/uu-no22-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas Dan Angkutan Jalan

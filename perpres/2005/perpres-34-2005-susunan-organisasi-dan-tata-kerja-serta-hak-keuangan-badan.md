@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42567"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082105/https://peraturan.bpk.go.id/Details/42567/perpres-no-34-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=34&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 34 Tahun 2005 tentang Susunan Organisasi dan Tata Kerja Serta Hak Keuangan Badan Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara

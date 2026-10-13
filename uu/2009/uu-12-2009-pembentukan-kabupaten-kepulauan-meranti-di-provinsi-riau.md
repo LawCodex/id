@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38603"
 bpk_metadata_archived: "http://web.archive.org/web/20240207161452/https://peraturan.bpk.go.id/Details/38603/uu-no-12-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2009 tentang Pembentukan Kabupaten Kepulauan Meranti Di Provinsi Riau

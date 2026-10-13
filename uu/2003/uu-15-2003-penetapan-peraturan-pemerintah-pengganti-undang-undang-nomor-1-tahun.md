@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/43015"
 bpk_metadata_archived: "http://web.archive.org/web/20250504044813/https://peraturan.bpk.go.id/Details/43015/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2003 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 Tentang Pemberantasan Tindak Pidana Terorisme, Menjadi Undang-Undang

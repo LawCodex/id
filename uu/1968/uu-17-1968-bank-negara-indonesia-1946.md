@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49177"
 bpk_page: "https://peraturan.bpk.go.id/Details/49177"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125129/https://peraturan.bpk.go.id/Details/49177"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1968 tentang Bank Negara Indonesia 1946

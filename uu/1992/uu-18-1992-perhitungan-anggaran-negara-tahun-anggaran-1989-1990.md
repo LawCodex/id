@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=1992"
 bpk_page: "https://peraturan.bpk.go.id/Details/46615"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133402/https://peraturan.bpk.go.id/Details/46615"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1992 tentang Perhitungan Anggaran Negara Tahun Anggaran 1989/1990

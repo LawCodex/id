@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68857"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082213/https://peraturan.bpk.go.id/Details/68857"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=26&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 26 Tahun 2007 tentang Tunjangan Jabatan Struktural

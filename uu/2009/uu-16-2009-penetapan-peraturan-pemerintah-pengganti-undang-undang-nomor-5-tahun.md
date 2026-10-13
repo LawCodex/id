@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38624"
 bpk_metadata_archived: "http://web.archive.org/web/20250429220333/https://peraturan.bpk.go.id/Details/38624/uu-no"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 Tentang Perubahan Keempat Atas Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan Menjadi Undang-Undang

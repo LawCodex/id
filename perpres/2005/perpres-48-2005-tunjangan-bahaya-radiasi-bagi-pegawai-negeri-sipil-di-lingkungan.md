@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_no_48_th_2005.pdf&fl=P15975"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=48&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 48 Tahun 2005 tentang Tunjangan Bahaya Radiasi Bagi Pegawai Negeri Sipil Di Lingkungan Badan Pengawas Tenaga Nuklir

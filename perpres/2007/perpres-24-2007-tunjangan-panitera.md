@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68841"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082209/https://peraturan.bpk.go.id/Details/68841"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=24&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 2007 tentang Tunjangan Panitera

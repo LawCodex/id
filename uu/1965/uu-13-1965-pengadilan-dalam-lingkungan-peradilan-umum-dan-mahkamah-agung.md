@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50194"
 bpk_page: "https://peraturan.bpk.go.id/Details/50194"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124737/https://peraturan.bpk.go.id/Details/50194"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1965 tentang Pengadilan Dalam Lingkungan Peradilan Umum dan Mahkamah Agung

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_6_Tahun_2013.pdf&fl=P15479"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=6&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 2013 tentang Pengesahan The International Institute For Democracy And Electrocal Assistance (Statuta Institut Internasional Untuk Demokrasi Dan Perbantuan Pemilihan Umum)

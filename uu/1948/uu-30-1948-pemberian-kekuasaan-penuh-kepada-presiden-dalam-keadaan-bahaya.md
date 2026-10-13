@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25879"
 bpk_page: "https://peraturan.bpk.go.id/Details/25879"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120525/https://peraturan.bpk.go.id/Details/25879"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 30 Tahun 1948 tentang Pemberian Kekuasaan Penuh kepada Presiden dalam Keadaan Bahaya

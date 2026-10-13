@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38861"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145121/https://peraturan.bpk.go.id/Details/38861"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2013 tentang Pembentukan Kabupaten Konawe Kepulauan di Provinsi Sulawesi Tenggara

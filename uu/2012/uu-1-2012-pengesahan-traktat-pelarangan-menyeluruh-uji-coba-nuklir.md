@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39007"
 bpk_page: "https://peraturan.bpk.go.id/Details/39007"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144901/https://peraturan.bpk.go.id/Details/39007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2012 tentang Pengesahan Traktat Pelarangan Menyeluruh Uji Coba Nuklir (Comprehensive Nuclear-Test-Ban Treaty)

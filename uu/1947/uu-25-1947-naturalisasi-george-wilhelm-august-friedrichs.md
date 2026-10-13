@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25352"
 bpk_page: "https://peraturan.bpk.go.id/Details/25352"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120344/https://peraturan.bpk.go.id/Details/25352"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1947 tentang Naturalisasi George Wilhelm August Friedrichs

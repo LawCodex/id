@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47420"
 bpk_page: "https://peraturan.bpk.go.id/Details/47420"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131419/https://peraturan.bpk.go.id/Details/47420"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1974 tentang Perubahan Pasal 19 Ayat (1) Undang-Undang Nomor 8 Tahun 1971(Lembaran-Negara Republik Indonesia Tahun 1971 Nomor 76, Tambahan Lembaran-Negara Republik Indonesia Nomor 2971)

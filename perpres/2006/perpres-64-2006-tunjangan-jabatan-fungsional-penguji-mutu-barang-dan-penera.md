@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42000"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082039/https://peraturan.bpk.go.id/Details/42000"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=64&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 64 Tahun 2006 tentang Tunjangan Jabatan Fungsional Penguji Mutu Barang dan Penera

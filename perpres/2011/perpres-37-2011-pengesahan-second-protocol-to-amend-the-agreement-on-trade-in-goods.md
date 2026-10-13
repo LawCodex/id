@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_37_2011.pdf&fl=P15854"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=37&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 37 Tahun 2011 tentang Pengesahan Second Protocol To Amend The Agreement On Trade In Goods Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association Of Southeast Asian Nations And The People├Ö├Ç├Ûs Republic Of China (Protokol Kedua Untuk Mengubah Persetujuan Perdagangan Barang Dalam Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Republik Rakyat China)

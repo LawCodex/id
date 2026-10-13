@@ -19,7 +19,7 @@ source_page: "https://peraturan.bpk.go.id/Details/33340"
 bpk_page: "https://peraturan.bpk.go.id/Details/33340"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120716/https://peraturan.bpk.go.id/Details/33340"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1949 tentang Penggantian Pajak Bumi dengan Pajak Pendapatan

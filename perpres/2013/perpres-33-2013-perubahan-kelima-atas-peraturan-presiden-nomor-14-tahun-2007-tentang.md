@@ -27,7 +27,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41403"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083418/https://peraturan.bpk.go.id/Details/41403"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=33&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 33 Tahun 2013 tentang Perubahan Kelima atas Peraturan Presiden Nomor 14 Tahun 2007 tentang Badan Penanggulangan Lumpur Sidoarjo

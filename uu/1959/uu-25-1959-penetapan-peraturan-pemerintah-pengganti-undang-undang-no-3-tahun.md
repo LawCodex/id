@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51506"
 bpk_page: "https://peraturan.bpk.go.id/Details/51506"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123118/https://peraturan.bpk.go.id/Details/51506"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1959 tentang Penetapan "Peraturan Pemerintah Pengganti Undang-Undang No. 3 Tahun 1950 Tentang Pembentukan Daerah Tingkat I Sumatera Selatan" dan "Undang-Undang Darurat No. 16 Tahun 1955 Tentang Perubahan Peraturan Pemerintah Pengganti Undang-Undang No. 3 Tahun 1950 (Lembaran-Negara Tahun 1955 No. 52), Sebagai Undang-Undang

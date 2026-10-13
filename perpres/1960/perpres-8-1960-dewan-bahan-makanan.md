@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69342"
 bpk_page: "https://peraturan.bpk.go.id/Details/69342"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081604/https://peraturan.bpk.go.id/Details/69342"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 1960 tentang Dewan Bahan Makanan

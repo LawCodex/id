@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0192012.pdf&fl=P15641"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=19&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 2012 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Kroasia Tentang Penghindaran Pajak Berganda Yang Berkenaan Dengan Pajak Atas Penghasilan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Croatia For The Avoidance Of Double Taxation With Respect To Taxes On Income)

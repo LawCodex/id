@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_75_Th_2008.pdf&fl=P16272"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=75&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 75 Tahun 2008 tentang Tata Cara Konsultasi Dan Pemberian Pertimbangan Atas Rencana Persetujuan Internasional, Rencana Pembentukan Undang-Undang, Dan Kebijakan Administratif Yang Berkaitan Langsung Dengan Pemerintahan Aceh

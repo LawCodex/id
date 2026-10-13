@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42446"
 bpk_page: "https://peraturan.bpk.go.id/Details/42446"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124403/https://peraturan.bpk.go.id/Details/42446"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 27 Tahun 1963 tentang Pembentukan Institut Agama Islam Negeri

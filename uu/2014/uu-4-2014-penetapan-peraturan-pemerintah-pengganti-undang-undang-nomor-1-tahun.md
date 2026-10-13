@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/38577"
 bpk_page: "https://peraturan.bpk.go.id/Details/38577"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145534/https://peraturan.bpk.go.id/Details/38577"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2014 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2013 Tentang Perubahan Kedua Atas Undang-Undang Nomor 24 Tahun 2003 Tentang Mahkamah Konstitusi Menjadi Undang-Undang

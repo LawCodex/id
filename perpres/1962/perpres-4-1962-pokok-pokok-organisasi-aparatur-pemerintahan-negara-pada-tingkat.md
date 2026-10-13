@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42436"
 bpk_page: "https://peraturan.bpk.go.id/Details/42436"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081626/https://peraturan.bpk.go.id/Details/42436/perpres-no-4-tahun-1962"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 1962 tentang Pokok-Pokok Organisasi Aparatur Pemerintahan Negara Pada Tingkat Tertinggi

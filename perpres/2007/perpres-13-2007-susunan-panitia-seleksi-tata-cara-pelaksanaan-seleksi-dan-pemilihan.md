@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_no_13_th_2007.pdf&fl=P15562"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=13&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 2007 tentang Susunan Panitia Seleksi, Tata Cara Pelaksanaan Seleksi Dan Pemilihan Calon Anggota Lembaga Perlindungan Saksi Dan Korban

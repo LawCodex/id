@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39898"
 bpk_page: "https://peraturan.bpk.go.id/Details/39898"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121035/https://peraturan.bpk.go.id/Details/39898"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1951 tentang Menetapkan "Undang-Undang Darurat tentang Pengeluaran Uang Kertas atas Tanggungan Republik Indonesia Serikat" Sebagai Undang-Undang

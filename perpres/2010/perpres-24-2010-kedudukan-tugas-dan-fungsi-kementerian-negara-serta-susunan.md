@@ -44,7 +44,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41043"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082715/https://peraturan.bpk.go.id/Details/41043"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=24&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 24 Tahun 2010 tentang Kedudukan, Tugas, dan Fungsi Kementerian Negara Serta Susunan Organisasi, Tugas, dan Fungsi Eselon I Kementerian Negara

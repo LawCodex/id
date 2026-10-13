@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42292"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082655/https://peraturan.bpk.go.id/Details/42292"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=9&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 2009 tentang Lembaga Pembiayaan

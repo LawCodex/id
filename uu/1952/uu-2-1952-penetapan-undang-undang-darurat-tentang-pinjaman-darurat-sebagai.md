@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40188"
 bpk_page: "https://peraturan.bpk.go.id/Details/40188"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121335/https://peraturan.bpk.go.id/Details/40188"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1952 tentang Penetapan "Undang-Undang Darurat tentang Pinjaman Darurat" Sebagai Undang-Undang

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51478"
 bpk_page: "https://peraturan.bpk.go.id/Details/51478"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123052/https://peraturan.bpk.go.id/Details/51478"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1959 tentang Penetapan Undang-Undang Darurat No. 6 Tahun 1958 Tentang Perubahn Undang-Undang dan Tambahan Undang-Undang No. 65 Tahun 1958 Tentang Pemberian Tanda-Tanda Kehormatan Bintang Sakti dan Bintang Darma (Lembaran Negara Tahun 1958 No. 153), Sebagai Undang-Undang

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41404"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083419/https://peraturan.bpk.go.id/Details/41404"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=34&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 34 Tahun 2013 tentang Honorarium Ketua, Wakil Ketua, dan Anggota Komisi Nasional Hak Asasi Manusia

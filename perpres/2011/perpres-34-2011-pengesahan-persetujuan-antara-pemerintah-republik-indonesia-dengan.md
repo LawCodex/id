@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41214"
 bpk_metadata_archived: "http://web.archive.org/web/20250430210828/https://peraturan.bpk.go.id/Details/41214/perpres-no-34-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=34&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 34 Tahun 2011 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dengan Pemerintah Republik Arab Mesir Mengenai Kerja Sama Ekonomi dan Teknik (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Arab Republic Of Egypt On Economic And Technical Cooperation)

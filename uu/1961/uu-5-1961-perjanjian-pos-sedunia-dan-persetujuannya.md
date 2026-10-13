@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51137"
 bpk_page: "https://peraturan.bpk.go.id/Details/51137"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124037/https://peraturan.bpk.go.id/Details/51137"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1961 tentang Perjanjian Pos Sedunia dan Persetujuannya

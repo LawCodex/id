@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47626"
 bpk_page: "https://peraturan.bpk.go.id/Details/47626"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125504/https://peraturan.bpk.go.id/Details/47626"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1970 tentang Perubahan dan Tambahan Ordonansi Pajak Perseroan 1925

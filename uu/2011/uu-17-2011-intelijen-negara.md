@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39236"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105248/https://peraturan.bpk.go.id/Details/39236/uu-no-17-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 2011 tentang Intelijen Negara

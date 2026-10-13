@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52367"
 bpk_page: "https://peraturan.bpk.go.id/Details/52367"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122952/https://peraturan.bpk.go.id/Details/52367"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 84 Tahun 1958 tentang Pengubahan Pasal-Pasal 16 dan 19 Undang-Undang Pokok Bank Indonesia (Undang-Undang No. 11 Tahun 1953)

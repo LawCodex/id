@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_63_Th_2010.pdf&fl=P16150"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=63&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 63 Tahun 2010 tentang Perpanjangan Batas Usia Pensiun Bagi Pegawai Negeri Sipil Yang Menduduki Jabatan Fungsional Penilik

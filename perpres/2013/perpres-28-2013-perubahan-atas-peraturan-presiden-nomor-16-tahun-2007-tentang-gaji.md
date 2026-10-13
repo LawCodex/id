@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41398"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083412/https://peraturan.bpk.go.id/Details/41398"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=28&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 28 Tahun 2013 tentang Perubahan atas Peraturan Presiden Nomor 16 Tahun 2007 tentang Gaji dan Penghasilan Serta Hak Lainnya yang Sah Bagi Ketua dan Anggota Komite Badan Pengatur Penyediaan dan Pendistribusian Bahan Bakar Minyak dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa

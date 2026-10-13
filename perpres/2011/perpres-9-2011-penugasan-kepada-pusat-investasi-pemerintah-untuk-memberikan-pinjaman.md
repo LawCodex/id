@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_9_2011.pdf&fl=P15516"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=9&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 2011 tentang Penugasan Kepada Pusat Investasi Pemerintah Untuk Memberikan Pinjaman Dengan Persyaratan Lunak Kepada Pt. Perusahaan Listrik Negara (Persero)

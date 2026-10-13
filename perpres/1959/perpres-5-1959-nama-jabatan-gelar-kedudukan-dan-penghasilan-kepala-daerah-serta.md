@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42374"
 bpk_page: "https://peraturan.bpk.go.id/Details/42374"
 bpk_metadata_archived: "http://web.archive.org/web/20240923074512/https://peraturan.bpk.go.id/Details/42374"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 1959 tentang Nama Jabatan, Gelar, Kedudukan Dan Penghasilan Kepala Daerah Serta Kepala Dan Wakil Kepala Daerah Istimewa Yogyakarta

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44085"
 bpk_page: "https://peraturan.bpk.go.id/Details/44085"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111438/https://peraturan.bpk.go.id/Details/44085/uu-no-30-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 30 Tahun 2003 tentang Pembentukan Kabupaten Sumbawa Barat Di Provinsi Nusa Tenggara Barat

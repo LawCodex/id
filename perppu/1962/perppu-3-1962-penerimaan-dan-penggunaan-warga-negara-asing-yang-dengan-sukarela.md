@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53648"
 bpk_page: "https://peraturan.bpk.go.id/Details/53648"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124246/https://peraturan.bpk.go.id/Details/53648"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1962 tentang Penerimaan Dan Penggunaan Warga-Negara Asing Yang Dengan Sukarela Turut-Serta Dalam Perjuangan Pembebasan Irian Barat

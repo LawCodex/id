@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45404"
 bpk_page: "https://peraturan.bpk.go.id/Details/45404"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121509/https://peraturan.bpk.go.id/Details/45404"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 1953 tentang Penetapan ”Undang-Undang Darurat Nomor 18 Tahun 1951 untuk Membatasi Masa Berlakunya Undang-Undang Pajak Peredaran 1950” (Lembaran-Negara Nomor 93 Tahun 1951) Sebagai Undang-Undang

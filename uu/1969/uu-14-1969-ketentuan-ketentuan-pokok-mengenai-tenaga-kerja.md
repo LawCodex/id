@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49118"
 bpk_page: "https://peraturan.bpk.go.id/Details/49118"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125245/https://peraturan.bpk.go.id/Details/49118"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1969 tentang Ketentuan-Ketentuan Pokok Mengenai Tenaga Kerja

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42459"
 bpk_page: "https://peraturan.bpk.go.id/Details/42459"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124355/https://peraturan.bpk.go.id/Details/42459"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 1963 tentang Peraturan Penyesuaian Gaji dan Pangkat Pegawai Negeri Sipil dan Anggota Kepolisian Negara di Propinsi Irian Barat Kedalam P.G.P.N.-1961/P.G.-Pol.-1961

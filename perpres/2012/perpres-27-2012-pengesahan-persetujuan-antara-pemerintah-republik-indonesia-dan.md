@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0272012.pdf&fl=P15736"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=27&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 27 Tahun 2012 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Suriname Tentang Penghindaran Pajak Berganda Dan Pencegahan Pengelakan Pajak Atas Penghasilan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Suriname For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion With Respect To Taxes On Income)

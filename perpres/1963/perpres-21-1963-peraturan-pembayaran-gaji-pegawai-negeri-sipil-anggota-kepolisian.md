@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42458"
 bpk_page: "https://peraturan.bpk.go.id/Details/42458"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124350/https://peraturan.bpk.go.id/Details/42458"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 21 Tahun 1963 tentang Peraturan Pembayaran Gaji Pegawai Negeri Sipil, Anggota Kepolisian, Anggota Angkatan Perang Republik Indonesia dan Penjabat-Penjabat Negeri Lainnya di Daerah Kepulauan Riau yang Meliputi Kewedanaan Tanjung Pinang, Lingga, Karimun dan Pulau Tujuh

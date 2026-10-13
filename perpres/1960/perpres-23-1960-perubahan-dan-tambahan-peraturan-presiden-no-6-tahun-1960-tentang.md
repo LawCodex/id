@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69370"
 bpk_page: "https://peraturan.bpk.go.id/Details/69370"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123347/https://peraturan.bpk.go.id/Details/69370"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 1960 tentang Perubahan Dan Tambahan Peraturan Presiden No. 6 Tahun 1960 Tentang Dewan Angkutan Darat

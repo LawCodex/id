@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47958"
 bpk_page: "https://peraturan.bpk.go.id/Details/47958"
 bpk_metadata_archived: "http://web.archive.org/web/20240529031559/https://peraturan.bpk.go.id/Details/47958/uu-no-13-tahun-1954"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1954 tentang Pengubahan Undang-Undang Nr 16 dan 17 Tahun 1950 (Republik Indonesia Dahulu) Tentang Pembentukan Kota-Kota Besar dan Kota-Kota Kecil di Jawa

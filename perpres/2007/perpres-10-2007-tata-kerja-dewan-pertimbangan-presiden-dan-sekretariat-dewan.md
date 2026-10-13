@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68795"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082353/https://peraturan.bpk.go.id/Details/68795/perpres-no-10-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=10&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 2007 tentang Tata Kerja Dewan Pertimbangan Presiden dan Sekretariat Dewan Pertimbangan Presiden

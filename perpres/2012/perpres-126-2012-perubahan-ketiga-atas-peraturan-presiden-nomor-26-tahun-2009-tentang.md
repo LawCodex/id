@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41371"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083126/https://peraturan.bpk.go.id/Details/41371"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=126&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 126 Tahun 2012 tentang Perubahan Ketiga atas Peraturan Presiden Nomor 26 Tahun 2009 tentang Penerapan Kartu Tanda Penduduk Berbasis Nomor Induk Kependudukan Secara Nasional

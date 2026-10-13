@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51097"
 bpk_page: "https://peraturan.bpk.go.id/Details/51097"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122123/https://peraturan.bpk.go.id/Details/51097"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1956 tentang Pembentukan Dewan Perwakilan Rakyat Daerah dan Dewan Pemerintah Daerah Peralihan

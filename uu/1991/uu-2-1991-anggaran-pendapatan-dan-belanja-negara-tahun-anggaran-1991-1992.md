@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1991"
 bpk_page: "https://peraturan.bpk.go.id/Details/46654"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133228/https://peraturan.bpk.go.id/Details/46654"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1991 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1991/1992

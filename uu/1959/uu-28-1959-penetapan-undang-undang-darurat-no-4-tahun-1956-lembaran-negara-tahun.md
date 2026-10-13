@@ -25,7 +25,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51524"
 bpk_page: "https://peraturan.bpk.go.id/Details/51524"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123131/https://peraturan.bpk.go.id/Details/51524"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan Undang-Undang darurat No. 4 Tahun 1956 (Lembaran-Negara Tahun 1956 No. 55), Undang-Undang Darurat No. 5 Tahun 1956 (Lembaran-Negara Tahun 1956 No. 56) dan Undang-Undang Darurat No. 6 Tahun 1956 (Lembaran-Negara Tahun 1956 No. 57) Tentang Pembentukan Daerah Tingkat II Termasuk Kotapraja, Dalam Lingkungan Daerah Tingkat I Sumatera Selatan, Sebagai Undang-Undang

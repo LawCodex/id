@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50215"
 bpk_page: "https://peraturan.bpk.go.id/Details/50215"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124758/https://peraturan.bpk.go.id/Details/50215"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1965 tentang Desapraja Sebagai Bentuk Peralihan Untuk Mempercepat Terwujudnya Daerah Tingkat III Di Seluruh Wilayah Republik Indonesia

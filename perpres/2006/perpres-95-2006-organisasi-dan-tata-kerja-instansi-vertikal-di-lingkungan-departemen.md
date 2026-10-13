@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42029"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082214/https://peraturan.bpk.go.id/Details/42029/perpres-no-95-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=95&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 95 Tahun 2006 tentang Organisasi dan Tata Kerja Instansi Vertikal di Lingkungan Departemen Keuangan

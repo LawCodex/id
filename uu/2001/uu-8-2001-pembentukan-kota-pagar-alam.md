@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44863"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140949/https://peraturan.bpk.go.id/Details/44863"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2001 tentang Pembentukan Kota Pagar Alam

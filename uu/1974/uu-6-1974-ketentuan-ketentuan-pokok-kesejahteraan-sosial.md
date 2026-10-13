@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47414"
 bpk_page: "https://peraturan.bpk.go.id/Details/47414"
 bpk_metadata_archived: "http://web.archive.org/web/20260905183516/https://peraturan.bpk.go.id/Details/47414/uu-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1974 tentang Ketentuan-Ketentuan Pokok Kesejahteraan Sosial

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38821"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111125/https://peraturan.bpk.go.id/Details/38821/uu-no-2-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2013 tentang Pembentukan Kabupaten Mahakam Ulu di Provinsi Kalimantan Timur

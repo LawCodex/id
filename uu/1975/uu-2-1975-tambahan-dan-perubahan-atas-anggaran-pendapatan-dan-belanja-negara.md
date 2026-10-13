@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47401"
 bpk_page: "https://peraturan.bpk.go.id/Details/47401"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131601/https://peraturan.bpk.go.id/Details/47401"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1975 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1974/1975

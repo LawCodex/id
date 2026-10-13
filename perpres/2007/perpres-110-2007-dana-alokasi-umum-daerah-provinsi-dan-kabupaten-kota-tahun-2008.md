@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_110_Tahun_2007.pdf&fl=P16533"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=110&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 110 Tahun 2007 tentang Dana Alokasi Umum Daerah Provinsi Dan Kabupaten/Kota Tahun 2008

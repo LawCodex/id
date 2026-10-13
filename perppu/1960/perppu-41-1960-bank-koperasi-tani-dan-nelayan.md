@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53576"
 bpk_page: "https://peraturan.bpk.go.id/Details/53576"
 bpk_metadata_archived: "http://web.archive.org/web/20240314180958/https://peraturan.bpk.go.id/Details/53576/perpu-no-41-tahun-1960"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 41 Tahun 1960 tentang Bank Koperasi, Tani Dan Nelayan

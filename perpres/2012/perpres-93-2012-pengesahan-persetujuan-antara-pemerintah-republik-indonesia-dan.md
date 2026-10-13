@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_093_2012.pdf&fl=P16430"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=93&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 93 Tahun 2012 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Turki Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik Dan Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Republic Of Turkey On Visa Exemption For Holders Of Diplomatic And Service Passports)

@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52874"
 bpk_page: "https://peraturan.bpk.go.id/Details/52874"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122942/https://peraturan.bpk.go.id/Details/52874"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 79 Tahun 1958 tentang Perkumpulan Koperasi

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39267"
 bpk_metadata_archived: "http://web.archive.org/web/20251224013210/https://peraturan.bpk.go.id/Details/39267/u"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 2011 tentang Pengelolaan Zakat

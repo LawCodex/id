@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50975"
 bpk_page: "https://peraturan.bpk.go.id/Details/50975"
 bpk_metadata_archived: "http://web.archive.org/web/20251225023317/https://peraturan.bpk.go.id/Details/50975/uu-no-1-tahun-1974"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1962 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 1 Tahun 1962, Tentang Pemanggilan dan Pengerahan Warga Negara Dalam Rangka Mobilisasi Umum Untuk Kepentingan Keamnan dan Pertahanan Negara (Lembaran Negara Tahun 1962 No. 8) Menjadi Undang-Undang

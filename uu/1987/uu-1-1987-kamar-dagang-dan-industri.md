@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46815"
 bpk_page: "https://peraturan.bpk.go.id/Details/46815"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132846/https://peraturan.bpk.go.id/Details/46815"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1987 tentang Kamar Dagang dan Industri

@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68865"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082223/https://peraturan.bpk.go.id/Details/68865"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=34&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 34 Tahun 2007 tentang Tunjangan Jabatan Fungsional Pengendali Ekosistem Hutan

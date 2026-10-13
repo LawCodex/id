@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46814"
 bpk_page: "https://peraturan.bpk.go.id/Details/46814"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132949/https://peraturan.bpk.go.id/Details/46814"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1988 tentang Perhitungan Anggaran Negara Tahun Anggaran 1985/1986

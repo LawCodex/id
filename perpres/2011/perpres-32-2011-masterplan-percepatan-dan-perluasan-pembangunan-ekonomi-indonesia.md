@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41157"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085346/https://peraturan.bpk.go.id/Details/41157/perpres-no-32-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 32 Tahun 2011 tentang Masterplan Percepatan dan Perluasan Pembangunan Ekonomi Indonesia 2011-2025

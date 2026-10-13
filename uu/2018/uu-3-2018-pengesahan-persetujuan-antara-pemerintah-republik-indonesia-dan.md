@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/78647"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150515/https://peraturan.bpk.go.id/Details/78647"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2018 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Kerajaan Thailand tentang Kerja Sama di Bidang Pertahanan (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The Kingdom Of Thailand On Cooperation In The Field Of Defence)

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44511"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140908/https://peraturan.bpk.go.id/Details/44511"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2001 tentang Pembentukan Kota Tanjung Pinang

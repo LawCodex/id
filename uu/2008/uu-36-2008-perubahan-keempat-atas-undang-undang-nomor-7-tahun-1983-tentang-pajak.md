@@ -26,7 +26,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39704"
 bpk_metadata_archived: "http://web.archive.org/web/20260107175304/https://peraturan.bpk.go.id/Details/39704/uu-no-36-tahun-2008."
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=36&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 2008 tentang Perubahan Keempat Atas Undang-Undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan

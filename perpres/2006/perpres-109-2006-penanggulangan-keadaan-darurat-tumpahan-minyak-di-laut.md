@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42038"
 bpk_metadata_archived: "http://web.archive.org/web/20241108212020/https://peraturan.bpk.go.id/Details/42038/perpres-no-109-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=109&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 109 Tahun 2006 tentang Penanggulangan Keadaan Darurat Tumpahan Minyak di Laut

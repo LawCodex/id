@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68835"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082206/https://peraturan.bpk.go.id/Details/68835"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=22&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 22 Tahun 2007 tentang Perubahan Atas Peraturan Presiden Nomor 95 Tahun 2006 Tentang Organisasi Dan Tata Kerja Instansi Vertikal Di Lingkungan Departemen Keuangan

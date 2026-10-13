@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38663"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111052/https://peraturan.bpk.go.id/Details/38663/uu-no-20-tahun-2014"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 2014 tentang Standardisasi dan Penilaian Kesesuaian

@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/46002"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134156/https://peraturan.bpk.go.id/Details/46002"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1997 tentang Penagihan Pajak Dengan Surat Paksa

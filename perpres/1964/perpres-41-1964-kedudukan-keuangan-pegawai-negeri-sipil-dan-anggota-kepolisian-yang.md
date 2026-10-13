@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42469"
 bpk_page: "https://peraturan.bpk.go.id/Details/42469"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124657/https://peraturan.bpk.go.id/Details/42469"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 41 Tahun 1964 tentang Kedudukan Keuangan Pegawai Negeri Sipil dan Anggota Kepolisian yang dipindahkan/diperbantukan di Propinsi Irian Barat.

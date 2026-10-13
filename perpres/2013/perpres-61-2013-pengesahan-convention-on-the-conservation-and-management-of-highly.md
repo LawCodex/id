@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41431"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083458/https://peraturan.bpk.go.id/Details/41431"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=61&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 61 Tahun 2013 tentang Pengesahan Convention On The Conservation And Management Of Highly Migratory Fish Stocks In The Western And Centeral Pacific Ocean (Konvensi Tentang Konservasi Dan Pengelolaan Sediaan Ikan Beruaya Jauh Di Samudera Pasifik Barat Dan Tengah)

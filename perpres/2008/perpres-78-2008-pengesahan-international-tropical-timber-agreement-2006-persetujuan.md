@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_78_Th_2008.pdf&fl=P16302"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=78&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 78 Tahun 2008 tentang Pengesahan International Tropical Timber Agreement, 2006 (Persetujuan Kayu Tropis Internasional, 2006)

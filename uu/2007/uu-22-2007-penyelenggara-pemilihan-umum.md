@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39892"
 bpk_metadata_archived: "http://web.archive.org/web/20241206162223/https://peraturan.bpk.go.id/Details/39892/uu-no-22-tahun-2007.%E2%80%94%E2%80%94%E2%80%94"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 22 Tahun 2007 tentang Penyelenggara Pemilihan Umum

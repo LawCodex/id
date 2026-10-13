@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2005"
 bpk_page: "https://peraturan.bpk.go.id/Details/40229"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141645/https://peraturan.bpk.go.id/Details/40229"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2005 tentang Perubahan atas Undang-Undang Nomor 36 Tahun 2004 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2005

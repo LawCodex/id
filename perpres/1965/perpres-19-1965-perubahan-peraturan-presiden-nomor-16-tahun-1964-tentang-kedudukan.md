@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42525"
 bpk_page: "https://peraturan.bpk.go.id/Details/42525"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081706/https://peraturan.bpk.go.id/Details/42525"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 1965 tentang Perubahan Peraturan Presiden Nomor 16 Tahun 1964, Tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggota Dewan Perwakilan Rakyat Gotong Royong (Lembaran-Negara Tahun 1964 Nomor 47)

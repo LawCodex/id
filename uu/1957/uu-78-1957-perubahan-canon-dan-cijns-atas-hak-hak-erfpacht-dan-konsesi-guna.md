@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52770"
 bpk_page: "https://peraturan.bpk.go.id/Details/52770"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122622/https://peraturan.bpk.go.id/Details/52770"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 78 Tahun 1957 tentang Perubahan Canon dan CIJNS Atas Hak-Hak Erfpacht dan Konsesi Guna Perusahaan Kebun Besar

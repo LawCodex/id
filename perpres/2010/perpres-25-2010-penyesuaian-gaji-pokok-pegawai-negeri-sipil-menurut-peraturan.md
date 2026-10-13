@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41101"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082717/https://peraturan.bpk.go.id/Details/41101"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=25&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 25 Tahun 2010 tentang Penyesuaian Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 8 Tahun 2009 ke dalam Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 25 Tahun 2010

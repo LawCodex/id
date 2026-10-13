@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39810"
 bpk_metadata_archived: "http://web.archive.org/web/20231104181928/https://peraturan.bpk.go.id/Details/39810/uu-no-7-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2007 tentang Pembentukan Kabupaten Pidie Jaya di Provinsi Nanggroe Aceh Darussalam

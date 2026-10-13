@@ -11,7 +11,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES1112006.pdf&fl=P16538"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=111&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 111 Tahun 2006 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Ambon Menjadi Institut Agama Islam Negeri Ambon

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42148"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082529/https://peraturan.bpk.go.id/Details/42148/perpres-no-98-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=98&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 98 Tahun 2007 tentang Penghasilan Bagi Ketua dan Anggota Dewan Pengawas Televisi Republik Indonesia

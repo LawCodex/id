@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42360"
 bpk_metadata_archived: "http://web.archive.org/web/20250423022202/https://peraturan.bpk.go.id/Details/42360/perpres-no-36-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=36&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 36 Tahun 2009 tentang Pengesahan Persetujuan Perdagangan antara Pemerintah Republik Indonesia dan Pemerintah Republik Uzbekistan (Trade Agreement Between The Government Of The Republik Indonesia And The Government Of The Republic Of Uzbekistan)

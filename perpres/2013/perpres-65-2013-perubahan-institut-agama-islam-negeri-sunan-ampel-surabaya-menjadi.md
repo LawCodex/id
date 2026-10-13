@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_65_2013.pdf&fl=P16174"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2013 tentang Perubahan Institut Agama Islam Negeri Sunan Ampel Surabaya Menjadi Universitas Islam Negeri Sunan Ampel Surabaya

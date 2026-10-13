@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53496"
 bpk_page: "https://peraturan.bpk.go.id/Details/53496"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123349/https://peraturan.bpk.go.id/Details/53496"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 24 Tahun 1960 tentang Pengusutan, Penuntutan, Dan Pemeriksaan Tindak Pidana Korupsi

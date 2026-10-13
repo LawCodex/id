@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52174"
 bpk_page: "https://peraturan.bpk.go.id/Details/52174"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122747/https://peraturan.bpk.go.id/Details/52174"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 1958 tentang Penetapan Bagian VI (Kementerian Pertahanan) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

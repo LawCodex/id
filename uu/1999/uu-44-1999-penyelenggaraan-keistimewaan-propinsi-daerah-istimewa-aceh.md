@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45380"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111618/https://peraturan.bpk.go.id/Details/45380/uu-no-44-tahun-1999"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=44&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 44 Tahun 1999 tentang Penyelenggaraan Keistimewaan Propinsi Daerah Istimewa Aceh

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/46018"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134210/https://peraturan.bpk.go.id/Details/46018"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=1997"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1997 tentang Pengelolaan Lingkungan Hidup

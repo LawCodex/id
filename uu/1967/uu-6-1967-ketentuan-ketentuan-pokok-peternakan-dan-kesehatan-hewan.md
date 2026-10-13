@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49567"
 bpk_page: "https://peraturan.bpk.go.id/Details/49567"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125058/https://peraturan.bpk.go.id/Details/49567"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1967 tentang Ketentuan-Ketentuan Pokok Peternakan dan Kesehatan Hewan

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45000"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140532/https://peraturan.bpk.go.id/Details/45000"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=29&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 29 Tahun 2000 tentang Perlindungan Varietas Tanaman

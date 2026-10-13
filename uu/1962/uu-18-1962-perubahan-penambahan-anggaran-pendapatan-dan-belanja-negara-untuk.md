@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50983"
 bpk_page: "https://peraturan.bpk.go.id/Details/50983"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124212/https://peraturan.bpk.go.id/Details/50983"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1962 tentang Perubahan/Penambahan Anggaran Pendapatan dan Belanja Negara Untuk Tahun 1961

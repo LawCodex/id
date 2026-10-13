@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42553"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082900/https://peraturan.bpk.go.id/Details/42553/perpres-no-18-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=18&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 2005 tentang Komisi Kejaksaan Republik Indonesia

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52187"
 bpk_page: "https://peraturan.bpk.go.id/Details/52187"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122758/https://peraturan.bpk.go.id/Details/52187"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 38 Tahun 1958 tentang Penetapan bagian X (Kementerian Pendidikan, Pengajaran dan Kebudayaan) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

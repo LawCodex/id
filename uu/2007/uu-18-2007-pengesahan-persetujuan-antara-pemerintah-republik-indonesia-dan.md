@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39832"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142028/https://peraturan.bpk.go.id/Details/39832"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2007 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Sosialis Vietnam tentang Penetapan Batas Landas Kontinen, 2003 (Agreement Between The Government of The Republic of Indonesia and The Government of The Socialist Republic of Vietnam Concerning The Delimitationof The Continental Shelf Boundary, 2003)

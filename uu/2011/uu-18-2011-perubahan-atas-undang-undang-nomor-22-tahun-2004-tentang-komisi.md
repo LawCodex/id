@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39237"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144614/https://peraturan.bpk.go.id/Details/39237"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2011 tentang Perubahan Atas Undang-Undang Nomor 22 Tahun 2004 Tentang Komisi Yudisial

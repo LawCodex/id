@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53566"
 bpk_page: "https://peraturan.bpk.go.id/Details/53566"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123430/https://peraturan.bpk.go.id/Details/53566"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 38 Tahun 1960 tentang Penggunaan Dan Penetapan Luas Tanah Untuk Tanaman-Tanaman Tertentu

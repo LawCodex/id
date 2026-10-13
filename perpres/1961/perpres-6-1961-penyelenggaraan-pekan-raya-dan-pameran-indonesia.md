@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69409"
 bpk_page: "https://peraturan.bpk.go.id/Details/69409"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081613/https://peraturan.bpk.go.id/Details/69409"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 1961 tentang Penyelenggaraan Pekan Raya Dan Pameran Indonesia

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/53235"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144149/https://peraturan.bpk.go.id/Details/53235"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 13 Tahun 2008 Tentang Penyelenggaraan Ibadah Haji

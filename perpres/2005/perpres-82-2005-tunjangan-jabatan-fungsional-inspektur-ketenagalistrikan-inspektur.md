@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42608"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082323/https://peraturan.bpk.go.id/Details/42608/perpres-no-82-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=82&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 82 Tahun 2005 tentang Tunjangan Jabatan Fungsional Inspektur Ketenagalistrikan, Inspektur Tambang, dan Inspektur Minyak dan Gas Bumi

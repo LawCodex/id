@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+0362012.pdf&fl=P15843"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=36&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 36 Tahun 2012 tentang Penugasan Kepada Pt Pelabuhan Indonesia Ii (Persero) Untuk Membangun Dan Mengoperasikan Terminal Kalibaru Pelabuhan Tanjung Priok

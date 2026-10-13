@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45427"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134352/https://peraturan.bpk.go.id/Details/45427"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1998"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1998 tentang Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1997/1998

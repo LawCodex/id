@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49094"
 bpk_page: "https://peraturan.bpk.go.id/Details/49094"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125257/https://peraturan.bpk.go.id/Details/49094"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1969 tentang Pembentukan Pengadilan Tinggi di Bandung dan Perubahan Daerah Hukum Pengadilan Tinggi di Jakarta

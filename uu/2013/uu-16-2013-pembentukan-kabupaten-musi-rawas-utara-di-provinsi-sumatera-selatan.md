@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38874"
 bpk_metadata_archived: "http://web.archive.org/web/20250804083532/https://peraturan.bpk.go.id/Details/38874/uu-no-40-tahun-2004"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2013 tentang Pembentukan Kabupaten Musi Rawas Utara di Provinsi Sumatera Selatan

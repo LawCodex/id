@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+56+Tahun+2010.pdf&fl=P16073"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=56&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 56 Tahun 2010 tentang Pengesahan Agreement On Trade In Services Under The Framework Agreement On Comprehensive Economic Cooperation Among The Governments Of The Member Countries Of The Association Of Southeast Asian Nations And The Republic Of Korea (Persetujuan Perdagangan Jasa Dalam Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antar Pemerintah Negara-Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Republik Korea)

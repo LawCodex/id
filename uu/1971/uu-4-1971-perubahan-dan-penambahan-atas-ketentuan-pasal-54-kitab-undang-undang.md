@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47559"
 bpk_page: "https://peraturan.bpk.go.id/Details/47559"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125622/https://peraturan.bpk.go.id/Details/47559"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1971 tentang Perubahan dan Penambahan atas Ketentuan Pasal 54 Kitab Undang-Undang Hukum Dagang

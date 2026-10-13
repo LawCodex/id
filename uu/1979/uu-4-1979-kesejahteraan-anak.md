@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47148"
 bpk_page: "https://peraturan.bpk.go.id/Details/47148"
 bpk_metadata_archived: "http://web.archive.org/web/20260905185357/https://peraturan.bpk.go.id/Details/47148/uu-no-4-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak

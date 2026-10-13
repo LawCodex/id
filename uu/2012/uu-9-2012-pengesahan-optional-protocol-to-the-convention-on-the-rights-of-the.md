@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39051"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145109/https://peraturan.bpk.go.id/Details/39051"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2012 tentang Pengesahan Optional Protocol to The Convention on The Rights of The Child on The Involvement of Children in Armed Conflict (Protokol Opsional Konvensi Hak-Hak Anak Mengenai Keterlibatan Anak dalam Konflik Bersenjata)

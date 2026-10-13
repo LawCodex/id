@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51231"
 bpk_page: "https://peraturan.bpk.go.id/Details/51231"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123606/https://peraturan.bpk.go.id/Details/51231"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1961 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1961 Tentang Barang Menjadi Undang-Undang

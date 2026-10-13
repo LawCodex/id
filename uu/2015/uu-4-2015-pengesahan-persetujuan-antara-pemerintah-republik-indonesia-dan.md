@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37688"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145854/https://peraturan.bpk.go.id/Details/37688"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 2015 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Republik Demokratik Timor-Leste tentang Kegiatan Kerja Sama di Bidang Pertahanan (Agreement Between The Government of The Republic Of Indonesia And The Government of The Democratic Republic of Timor-Leste Concerning Cooperative Activities In The Field of Defence)

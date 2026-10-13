@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47549"
 bpk_page: "https://peraturan.bpk.go.id/Details/47549"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125749/https://peraturan.bpk.go.id/Details/47549"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1972 tentang Ketentuan-Ketentuan Pokok Transmigrasi

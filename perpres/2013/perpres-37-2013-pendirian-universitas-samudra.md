@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0372013.pdf&fl=P15856"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=37&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 37 Tahun 2013 tentang Pendirian Universitas Samudra

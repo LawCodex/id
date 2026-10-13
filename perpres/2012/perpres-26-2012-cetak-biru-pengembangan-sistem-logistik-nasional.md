@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41270"
 bpk_metadata_archived: "http://web.archive.org/web/20250803182458/https://peraturan.bpk.go.id/Details/41270/perpres-no-26-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=26&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 26 Tahun 2012 tentang Cetak Biru Pengembangan Sistem Logistik Nasional

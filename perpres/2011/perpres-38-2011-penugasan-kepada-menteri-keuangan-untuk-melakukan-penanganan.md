@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41161"
 bpk_metadata_archived: "http://web.archive.org/web/20250318045332/https://peraturan.bpk.go.id/Details/41161/perpres-no-38-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=38&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 38 Tahun 2011 tentang Penugasan kepada Menteri Keuangan untuk Melakukan Penanganan Permohonan Arbitase di International Centre For Settlement Of Investment Disputes (ICSID) oleh Rafat Ali Rizvi

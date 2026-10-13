@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42319"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082629/https://peraturan.bpk.go.id/Details/42319"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=45&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 45 Tahun 2009 tentang Perubahan atas Peraturan Presiden Nomor 71 Tahun 2005 tentang Penyediaan dan Pendistribusian Jenis Minyak Bahan Bakar Tertentu

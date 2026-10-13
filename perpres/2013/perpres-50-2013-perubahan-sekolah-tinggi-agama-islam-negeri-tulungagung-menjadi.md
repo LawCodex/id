@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41420"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092925/https://peraturan.bpk.go.id/Details/41420/perpres-no-50-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=50&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 50 Tahun 2013 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Tulungagung Menjadi Institut Agama Islam Negeri Tulungagung

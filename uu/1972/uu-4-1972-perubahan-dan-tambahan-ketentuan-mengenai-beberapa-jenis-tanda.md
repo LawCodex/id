@@ -29,7 +29,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47551"
 bpk_page: "https://peraturan.bpk.go.id/Details/47551"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125752/https://peraturan.bpk.go.id/Details/47551"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1972 tentang Perubahan dan Tambahan Ketentuan Mengenai Beberapa Jenis Tanda Kehormatan Republik Indonesia Yang Berbentuk Bintang dan Tentang Urutan Derajat/Tingkat Jenis Tanda Kehormatan Republik Indonesia yang Berbentuk Bintang

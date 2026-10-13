@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39117"
 bpk_metadata_archived: "http://web.archive.org/web/20260907212635/https://peraturan.bpk.go.id/Details/39117/uu-no-7-tahun-2017"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 2012 tentang Pembentukan Kabupaten Manokwari Selatan di Provinsi Papua Barat

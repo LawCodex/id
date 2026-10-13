@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42617"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081814/https://peraturan.bpk.go.id/Details/42617"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=4&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 2005 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Bolivar Venezuela Mengenai Kerjasama Kebudayaan, Ilmu Pengetahuan dan Pendidikan

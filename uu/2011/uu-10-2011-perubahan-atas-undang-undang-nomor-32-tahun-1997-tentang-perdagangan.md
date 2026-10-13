@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39186"
 bpk_metadata_archived: "http://web.archive.org/web/20250517153753/https://peraturan.bpk.go.id/Details/39186/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 2011 tentang Perubahan atas Undang-Undang Nomor 32 Tahun 1997 Tentang Perdagangan Berjangka Komoditi

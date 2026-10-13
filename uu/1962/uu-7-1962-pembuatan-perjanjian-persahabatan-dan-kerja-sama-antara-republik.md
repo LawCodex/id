@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50680"
 bpk_page: "https://peraturan.bpk.go.id/Details/50680"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124304/https://peraturan.bpk.go.id/Details/50680"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1962 tentang Pembuatan Perjanjian Persahabatan Dan Kerja-Sama Antara Republik Indonesia Dan Republik Sosialis Cekoslovakia

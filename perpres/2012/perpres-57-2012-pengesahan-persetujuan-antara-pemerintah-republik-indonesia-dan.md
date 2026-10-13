@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41301"
 bpk_metadata_archived: "http://web.archive.org/web/20251206180313/https://peraturan.bpk.go.id/Details/41301/perpres-no-57-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=57&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 57 Tahun 2012 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Republik Belarus tentang Pembebasan Visa bagi Paspor Diplomatik dan Paspor Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government of The Republic of Belarus On Visa Exemption For Diplomatic And Service Passports)

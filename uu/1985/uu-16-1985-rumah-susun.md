@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46967"
 bpk_page: "https://peraturan.bpk.go.id/Details/46967"
 bpk_metadata_archived: "http://web.archive.org/web/20251124093712/https://peraturan.bpk.go.id/Details/46967/uu-no-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1985 tentang Rumah Susun

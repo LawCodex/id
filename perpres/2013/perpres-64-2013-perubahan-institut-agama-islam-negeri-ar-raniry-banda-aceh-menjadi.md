@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PerpreS_64_2013.pdf&fl=P16163"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=64&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 64 Tahun 2013 tentang Perubahan Institut Agama Islam Negeri Ar-Raniry Banda Aceh Menjadi Universitas Islam Negeri Ar-Raniry Banda Aceh

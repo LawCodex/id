@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51063"
 bpk_page: "https://peraturan.bpk.go.id/Details/51063"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122057/https://peraturan.bpk.go.id/Details/51063"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1955 tentang Biaya Surat Kenal Lahir dan Surat Kenal Mati

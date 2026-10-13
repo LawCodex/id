@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39088"
 bpk_metadata_archived: "http://web.archive.org/web/20250401225310/https://peraturan.bpk.go.id/Details/39088/uu-no-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2012 tentang Industri Pertahanan

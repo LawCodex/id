@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46993"
 bpk_page: "https://peraturan.bpk.go.id/Details/46993"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132304/https://peraturan.bpk.go.id/Details/46993"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1982 tentang Pengesahan Konvensi Wina Mengenai Hubungan Diplomatik Beserta Protokol Opsionalnya Mengenai Hal Memperoleh Kewarganegaraan (Vienna Convention on Diplomatic Relations and Optional Protocol to The Vienna Convention on Diplomatic Relations Concerning Acquisition of Nationality, 1961) dan Pengesahan Konvensi Wina Mengenai Hubungan Konsuler Beserta Protokol Opsionalnya mengenai Hal Memperoleh Kewarganegaraan (Vienna Convention on Consular Relations and Optional Protocol to The Vienna Convention on Consular Relations Concerning Acquisition of Nationality, 1963).

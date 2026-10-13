@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53754"
 bpk_page: "https://peraturan.bpk.go.id/Details/53754"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124618/https://peraturan.bpk.go.id/Details/53754"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1964 tentang Pembentukan Daerah Tingkat I Sulawesi Tengah Dan Daerah Tingkat I Sulawesi Tenggara Dengan Mengubah Undang-Undang No. 47 PRP Tahun 1960 Tentang Pembentukan Daerah Tingkat I Sulawesi Utara-Tengah Dan daerah Tingkat I Sulawesi Selatan-Tenggara

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45428"
 bpk_page: "https://peraturan.bpk.go.id/Details/45428"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121527/https://peraturan.bpk.go.id/Details/45428"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 30 Tahun 1953 tentang Penetapan "Undang-Undang Darurat Nomor 4 Tahun 1953, tentang Pengenaan Tambahan Opsenten atas Bensin dan Sebagainya" (Lembaran-Negara Nomor 11 Tahun 1953), Sebagai Undang-Undang

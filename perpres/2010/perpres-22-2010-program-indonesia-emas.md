@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41041"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085919/https://peraturan.bpk.go.id/Details/41041/perpres-no-22-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=22&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 22 Tahun 2010 tentang Program Indonesia Emas

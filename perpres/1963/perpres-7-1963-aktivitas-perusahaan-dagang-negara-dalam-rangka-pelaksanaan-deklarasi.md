@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42437"
 bpk_page: "https://peraturan.bpk.go.id/Details/42437"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124500/https://peraturan.bpk.go.id/Details/42437"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 7 Tahun 1963 tentang Aktivitas Perusahaan Dagang Negara dalam Rangka Pelaksanaan Deklarasi Ekonomi

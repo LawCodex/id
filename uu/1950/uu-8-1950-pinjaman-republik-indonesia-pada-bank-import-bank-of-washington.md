@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/38108"
 bpk_page: "https://peraturan.bpk.go.id/Details/38108"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120959/https://peraturan.bpk.go.id/Details/38108"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1950 tentang Pinjaman Republik Indonesia pada Bank Import Bank of Washington

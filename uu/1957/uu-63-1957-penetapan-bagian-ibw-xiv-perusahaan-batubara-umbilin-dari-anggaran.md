@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52704"
 bpk_page: "https://peraturan.bpk.go.id/Details/52704"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122557/https://peraturan.bpk.go.id/Details/52704"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 63 Tahun 1957 tentang Penetapan Bagian IBW XIV (Perusahaan Batubara Umbilin) Dari Anggaran Republik Indonesia Tahun Dinas 1954

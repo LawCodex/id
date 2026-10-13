@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_52_2011.pdf&fl=P16026"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=52&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 52 Tahun 2011 tentang Penetapan Pembayaran Gaji Pegawai Negeri, Pejabat Negara, Dan Pembayaran Pensiun Bulan September 2011

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38884"
 bpk_metadata_archived: "http://web.archive.org/web/20250813005252/https://peraturan.bpk.go.id/Details/38884/uu-no-35-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2013 tentang Pencegahan dan Pemberantasan Perusakan Hutan

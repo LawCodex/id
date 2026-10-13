@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45490"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134321/https://peraturan.bpk.go.id/Details/45490"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1998"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1998 tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 tentang Ketenagakerjaan

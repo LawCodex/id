@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40452"
 bpk_page: "https://peraturan.bpk.go.id/Details/40452"
 bpk_metadata_archived: "http://web.archive.org/web/20250430043808/https://peraturan.bpk.go.id/Details/40452/uu-no-2-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial

@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52337"
 bpk_page: "https://peraturan.bpk.go.id/Details/52337"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122916/https://peraturan.bpk.go.id/Details/52337"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 65 Tahun 1958 tentang Pemberian Tanda-Tanda Kehormatan Bintang Sakti dan Bintang Darma

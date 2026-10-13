@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38835"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111128/https://peraturan.bpk.go.id/Details/38835/uu-no-6-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2013 tentang Pembentukan Kabupaten Pulau Taliabu di Provinsi Maluku Utara

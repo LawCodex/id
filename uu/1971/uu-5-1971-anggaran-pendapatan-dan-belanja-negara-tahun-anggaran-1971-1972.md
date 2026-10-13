@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47560"
 bpk_page: "https://peraturan.bpk.go.id/Details/47560"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125637/https://peraturan.bpk.go.id/Details/47560"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1971 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1971/1972

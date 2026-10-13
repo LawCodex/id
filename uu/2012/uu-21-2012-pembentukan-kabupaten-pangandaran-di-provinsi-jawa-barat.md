@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39113"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144906/https://peraturan.bpk.go.id/Details/39113"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=21&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 2012 tentang Pembentukan Kabupaten Pangandaran di Provinsi Jawa Barat

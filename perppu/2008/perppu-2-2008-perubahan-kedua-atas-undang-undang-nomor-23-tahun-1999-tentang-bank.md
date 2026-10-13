@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2008"
 bpk_page: "https://peraturan.bpk.go.id/Details/53214"
 bpk_metadata_archived: "http://web.archive.org/web/20240919143843/https://peraturan.bpk.go.id/Details/53214"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 1999 Tentang Bank Indonesia

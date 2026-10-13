@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41201"
 bpk_metadata_archived: "http://web.archive.org/web/20250212150259/https://peraturan.bpk.go.id/Details/41201/perpres-no-8-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=8&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 8 Tahun 2011 tentang Tarif Tenaga Listrik yang Disediakan oleh Perusahaan Perseroan (Persero) PT Perusahaan Listrik Negara

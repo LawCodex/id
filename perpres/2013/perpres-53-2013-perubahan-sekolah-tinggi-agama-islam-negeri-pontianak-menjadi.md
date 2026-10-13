@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41423"
 bpk_metadata_archived: "http://web.archive.org/web/20250512015221/https://peraturan.bpk.go.id/Details/41423/perpres-no-53-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=53&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 53 Tahun 2013 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Pontianak Menjadi Institut Agama Islam Negeri Pontianak

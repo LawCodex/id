@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39821"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111238/https://peraturan.bpk.go.id/Details/39821/uu-no-13-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2007 tentang Pembentukan Kabupaten Konawe Utara di Provinsi Sulawesi Tenggara

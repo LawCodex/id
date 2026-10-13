@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42538"
 bpk_page: "https://peraturan.bpk.go.id/Details/42538"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125005/https://peraturan.bpk.go.id/Details/42538"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 6 Tahun 1966 tentang Penghapusan Pengadilan Adat/Swapraja dan Pembentukan Pengadilan Pengadilan Negeri di Irian Barat

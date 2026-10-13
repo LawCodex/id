@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_66_Th_2010.pdf&fl=P16182"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=66&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 66 Tahun 2010 tentang Pengesahan Protocol To Implement The Sixth Package Of Commitments On Air Transport Services Under The Asean Framework Agreement On Services (Protokol Untuk Melaksanakan Paket Keenam Komitmen Jasa Angkutan Udara Dalam Persetujuan Kerangka Kerja Asean Di Bidang Jasa)

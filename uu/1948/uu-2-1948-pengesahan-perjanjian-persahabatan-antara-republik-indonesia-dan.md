@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25514"
 bpk_page: "https://peraturan.bpk.go.id/Details/25514"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120522/https://peraturan.bpk.go.id/Details/25514"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1948 tentang Pengesahan Perjanjian Persahabatan antara Republik Indonesia dan Negara Kerajaan Mesir

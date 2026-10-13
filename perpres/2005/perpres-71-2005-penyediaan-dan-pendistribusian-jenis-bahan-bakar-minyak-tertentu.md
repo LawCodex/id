@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42598"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082631/https://peraturan.bpk.go.id/Details/42598/perpres-no-71-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=71&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 71 Tahun 2005 tentang Penyediaan dan Pendistribusian Jenis Bahan Bakar Minyak Tertentu

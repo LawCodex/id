@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES+0622012.pdf&fl=P16141"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=62&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 62 Tahun 2012 tentang Pengesahan Asean Plus Three Emergency Rice Reserve Agreement (Persetujuan Cadangan Beras Darurat Asean Plus Tiga)

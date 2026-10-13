@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/41250"
 bpk_page: "https://peraturan.bpk.go.id/Details/41250"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083302/https://peraturan.bpk.go.id/Details/41250"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 7 Tahun 2012 tentang Pengelolaan Gedung Pusat Kehutanan dan Taman Hutan

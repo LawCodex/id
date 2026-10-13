@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42444"
 bpk_page: "https://peraturan.bpk.go.id/Details/42444"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081638/https://peraturan.bpk.go.id/Details/42444/perpres-no-5-tahun-1963"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 5 Tahun 1963 tentang Pelaksanaan Deklarasi Ekonomi dibidang Ekspor

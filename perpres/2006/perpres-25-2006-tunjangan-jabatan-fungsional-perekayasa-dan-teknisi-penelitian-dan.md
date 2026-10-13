@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41961"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082224/https://peraturan.bpk.go.id/Details/41961/perpres-no-25-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=25&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 25 Tahun 2006 tentang Tunjangan Jabatan Fungsional Perekayasa dan Teknisi Penelitian dan Perekayasaan

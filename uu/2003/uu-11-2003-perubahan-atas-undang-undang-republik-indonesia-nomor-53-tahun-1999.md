@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/43011"
 bpk_page: "https://peraturan.bpk.go.id/Details/43011"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141201/https://peraturan.bpk.go.id/Details/43011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 2003 tentang Perubahan atas Undang-Undang Republik Indonesia Nomor 53 Tahun 1999 tentang Pembentukan Kabupaten Pelalawan, Kabupaten Rokan Hulu, Kabupaten Rokan Hilir, Kabupaten Siak, Kabupaten Karimun, Kabupaten Natuna, Kabupaten Kuantan Singingi, Dan Kota Batam

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52670"
 bpk_page: "https://peraturan.bpk.go.id/Details/52670"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122530/https://peraturan.bpk.go.id/Details/52670"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 54 Tahun 1957 tentang Penetapan Bagian IBW V (Jawatan Pos, Telegrap dan Telepon) Dari Anggaran Republik Indonesia Tahun Dinas 1954

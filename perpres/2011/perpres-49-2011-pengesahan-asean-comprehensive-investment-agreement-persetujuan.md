@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41218"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082943/https://peraturan.bpk.go.id/Details/41218"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=49&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 49 Tahun 2011 tentang Pengesahan ASEAN Comprehensive Investment Agreement (Persetujuan Penanaman Modal Menyeluruh ASEAN)

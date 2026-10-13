@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53746"
 bpk_page: "https://peraturan.bpk.go.id/Details/53746"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124505/https://peraturan.bpk.go.id/Details/53746"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 8 Tahun 1963 tentang Pemasukan Daerah Tingkat II Kepulauan Riau Ke Dalam Daerah Pabean Indonesia

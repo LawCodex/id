@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44483"
 bpk_page: "https://peraturan.bpk.go.id/Details/44483"
 bpk_metadata_archived: "http://web.archive.org/web/20260725214215/https://peraturan.bpk.go.id/Details/44483/uu-no-26-tahun-2002.html"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 2002 tentang Pembentukan Kabupaten Sarmi, Kabupaten Keerom,Kabupaten Sorong Selatan, Kabupaten Raja Ampat,Kabupaten Pegunungan Bintang, Kabupaten Yahukimo,Kabupaten Tolikara, Kabupaten Waropen,Kabupaten Kaimana, Kabupaten Boven Digoel, KabupatenMappi, Kabupaten Asmat, Kabupaten Teluk Bintuni, Dan Kabupaten Teluk Wondama Di Provinsi Papua

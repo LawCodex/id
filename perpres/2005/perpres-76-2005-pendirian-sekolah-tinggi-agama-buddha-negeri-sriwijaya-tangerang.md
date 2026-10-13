@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES_NO_76_TAHUN_2005.pdf&fl=P16280"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=76&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 76 Tahun 2005 tentang Pendirian Sekolah Tinggi Agama Buddha Negeri Sriwijaya Tangerang Banten

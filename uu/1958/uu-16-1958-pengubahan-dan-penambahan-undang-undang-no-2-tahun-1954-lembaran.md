@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51678"
 bpk_page: "https://peraturan.bpk.go.id/Details/51678"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122654/https://peraturan.bpk.go.id/Details/51678"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1958 tentang Pengubahan dan Penambahan Undang-Undang No. 2 Tahun 1954 (Lembaran-Negara No. 9 Tahun 1954) Tentang Kedudukan Keuangan Ketua, Wakil Ketua, dan Anggota Dewan Perwakilan Rakyat

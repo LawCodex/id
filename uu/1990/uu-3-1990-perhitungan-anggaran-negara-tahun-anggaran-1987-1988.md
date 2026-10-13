@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1990"
 bpk_page: "https://peraturan.bpk.go.id/Details/46706"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133115/https://peraturan.bpk.go.id/Details/46706"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 1990 tentang Perhitungan Anggaran Negara Tahun Anggaran 1987/1988

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51329"
 bpk_page: "https://peraturan.bpk.go.id/Details/51329"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123139/https://peraturan.bpk.go.id/Details/51329"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1959 tentang Penetapan Undang-Undang Darurat No. 19 Tahun 1950 Tentang Peraturan Pemberian Pensiun dan Onderstand Kepada Para Anggota Tentara Angkatan Darat (Lembaran-Negara Tahun 1950 No. 28) Sebagaimana Kemudian Telah Diubah/Ditambah, Pun Undang-Undang Darurat No. 28 Tahun 1950 (Lembaran-Negara Tahun 1950 No. 50), Undang-Undang Darurat No. 11 Tahun 1951 (Lembaran-Negara Tahun 1951 No. 76), Undang Undang Darurat No. 10 Tahun 1952 (Lembaran-Negara No. 75 Tahun 1952) dan Undang Undang darurat No. 6 Tahun 1954 (Lembaran-Negara Tahun 1954 No. 50), Sebagai Undang-Undang

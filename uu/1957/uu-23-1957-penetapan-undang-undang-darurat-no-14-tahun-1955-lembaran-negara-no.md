@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52446"
 bpk_page: "https://peraturan.bpk.go.id/Details/52446"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122356/https://peraturan.bpk.go.id/Details/52446"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1957 tentang Penetapan Undang-Undang Darurat No. 14 Tahun 1955 (Lembaran-Negara No. 42 Tahun 1955) Tentang Penunjukan Bagian Pembikinan Sera dan Vaksin Dari PDA Lembaga Pasteur Di Bandung Menjadi Perusahaan Negara Dalam Arti "Indische Bedrijven Wet" (Staatsblad 1927 No. 419) Sebagai Undang-Undang

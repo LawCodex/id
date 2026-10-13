@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45244"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140558/https://peraturan.bpk.go.id/Details/45244"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=37&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 37 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang Menjadi Undang-Undang

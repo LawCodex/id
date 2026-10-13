@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40210"
 bpk_page: "https://peraturan.bpk.go.id/Details/40210"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121415/https://peraturan.bpk.go.id/Details/40210"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1952 tentang Penetapan “Undang-undang Nr 6 Tahun 1951 Untuk Mengubah “Grondhuur Ordonantie” (Stbl 1918 Nr 88) Dan “Vorstenlandsch Grondhuurreglement” (Stbl 1918 Nr 20)” Sebagai Undang-Undang

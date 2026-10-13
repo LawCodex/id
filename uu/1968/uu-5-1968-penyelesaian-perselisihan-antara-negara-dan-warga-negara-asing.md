@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49141"
 bpk_page: "https://peraturan.bpk.go.id/Details/49141"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125221/https://peraturan.bpk.go.id/Details/49141"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1968 tentang Penyelesaian Perselisihan antara Negara dan Warga Negara Asing Mengenai Penanaman Modal

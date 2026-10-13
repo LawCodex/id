@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52594"
 bpk_page: "https://peraturan.bpk.go.id/Details/52594"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122456/https://peraturan.bpk.go.id/Details/52594"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 42 Tahun 1957 tentang Penetapan Bagian VIIIB (Kementrian Perhubungan Jawatan Pelayaran) dari Anggaran Republik Indonesia Tahun Dinas 1954

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40228"
 bpk_page: "https://peraturan.bpk.go.id/Details/40228"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121423/https://peraturan.bpk.go.id/Details/40228"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1952 tentang Pemungutan Pajak Verponding Tahun 1952

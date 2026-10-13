@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39889"
 bpk_page: "https://peraturan.bpk.go.id/Details/39889"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121025/https://peraturan.bpk.go.id/Details/39889"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 1951 tentang Penetapan Undang-Undang Darurat tentang Perubahan Ordonansi Pajak Peralihan 1944, Ordonansi Pajak Upah dan Ordonansi Pajak Kekayaan 1932 (Undang-Undang Darurat Nr 37 Tahun 1950 Seperti Ditambah dengan Undang-Undang Darurat Nr 5 Tahun 1951) Sebagai Undang-Undang

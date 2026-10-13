@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50985"
 bpk_page: "https://peraturan.bpk.go.id/Details/50985"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124214/https://peraturan.bpk.go.id/Details/50985"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1962 tentang Penetapan Anggaran Bagian-Bagian Perusahaan Negara I.B.W. dari Anggaran Negara Republik Indonesia Untuk Tahun 1961

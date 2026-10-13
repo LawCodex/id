@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44995"
 bpk_metadata_archived: "http://web.archive.org/web/20260720210036/https://peraturan.bpk.go.id/Details/44995/uu-no-31-tahun-2000World"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=27&thn=2000"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 2000 tentang Pembentukan Propinsi Kepulauan Bangka Belitung

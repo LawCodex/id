@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25711"
 bpk_page: "https://peraturan.bpk.go.id/Details/25711"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120428/https://peraturan.bpk.go.id/Details/25711"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1948 tentang Memperpanjang Waktu Lagi untuk Mengajukan Pernyataan Berhubung dengan Kewarganegaraan Negara Indonesia

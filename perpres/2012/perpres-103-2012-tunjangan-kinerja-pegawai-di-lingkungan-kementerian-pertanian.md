@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41348"
 bpk_metadata_archived: "http://web.archive.org/web/20240923085548/https://peraturan.bpk.go.id/Details/41348/perpres-no-103-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=103&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 103 Tahun 2012 tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pertanian

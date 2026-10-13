@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45405"
 bpk_page: "https://peraturan.bpk.go.id/Details/45405"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140221/https://peraturan.bpk.go.id/Details/45405"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 56 Tahun 1999 tentang Rakyat Terlatih

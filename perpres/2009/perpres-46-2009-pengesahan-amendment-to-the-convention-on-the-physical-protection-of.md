@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=1.+Salinan+Perpres+Nomor+46+Tahun+2009.pdf&fl=P15958"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=46&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 46 Tahun 2009 tentang Pengesahan Amendment To The Convention On The Physical Protection Of Nuclear Material (Perubahan Konvensi Proteksi Fisik Bahan Nuklir)

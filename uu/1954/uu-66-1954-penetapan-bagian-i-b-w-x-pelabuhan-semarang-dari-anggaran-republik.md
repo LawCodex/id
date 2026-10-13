@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50968"
 bpk_page: "https://peraturan.bpk.go.id/Details/50968"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121914/https://peraturan.bpk.go.id/Details/50968"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 66 Tahun 1954 tentang Penetapan Bagian I.B.W. X (Pelabuhan Semarang) dari Anggaran Republik Indonesia Untuk Tahun-Tahun Dinas 1952 dan 1953

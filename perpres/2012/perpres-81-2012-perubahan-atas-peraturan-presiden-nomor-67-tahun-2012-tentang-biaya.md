@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41325"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083304/https://peraturan.bpk.go.id/Details/41325"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=81&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 81 Tahun 2012 tentang Perubahan atas Peraturan Presiden Nomor 67 Tahun 2012 tentang Biaya Penyelenggaraan Ibadah Haji Tahun 1433H/2012M

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+30+Tahun+2009.pdf&fl=P15768"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=30&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 30 Tahun 2009 tentang Tata Cara Pengangkatan Dan Pemberhentian Anggota Lembaga Perlindungan Saksi Dan Korban

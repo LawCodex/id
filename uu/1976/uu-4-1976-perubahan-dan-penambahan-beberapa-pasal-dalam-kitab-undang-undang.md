@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47208"
 bpk_page: "https://peraturan.bpk.go.id/Details/47208"
 bpk_metadata_archived: "http://web.archive.org/web/20240919131654/https://peraturan.bpk.go.id/Details/47208"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1976 tentang Perubahan dan Penambahan Beberapa Pasal Dalam Kitab Undang-Undang Hukum Pidana Bertalian Dengan Perluasan Berlakunya Ketentuan Perundang-Undangan Pidana, Kejahatan Penerbangan, dan Kejahatan Terhadap Sarana/Prasarana Penerbangan

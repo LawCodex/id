@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38790"
 bpk_metadata_archived: "http://web.archive.org/web/20250505215658/https://peraturan.bpk.go.id/Details/38790/uu-no-45-tahun-2009.ITLOS"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=45&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 45 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 31 Tahun 2004 Tentang Perikanan

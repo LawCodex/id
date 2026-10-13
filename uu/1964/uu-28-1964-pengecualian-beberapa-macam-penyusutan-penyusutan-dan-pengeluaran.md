@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50382"
 bpk_page: "https://peraturan.bpk.go.id/Details/50382"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124613/https://peraturan.bpk.go.id/Details/50382"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1964 tentang Pengecualian Beberapa Macam Penyusutan-Penyusutan Dan Pengeluaran-Pengeluaran Tertentu Dari Laba Perusahaan

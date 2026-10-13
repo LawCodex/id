@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25884"
 bpk_page: "https://peraturan.bpk.go.id/Details/25884"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120527/https://peraturan.bpk.go.id/Details/25884"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 31 Tahun 1948 tentang Naturalisasi Joseph Cornelis De Groot

@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42022"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082928/https://peraturan.bpk.go.id/Details/42022/perpres-no-88-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=88&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 88 Tahun 2006 tentang Tunjangan Risiko Bahaya Keselamatan dan Kesehatan dalam Penyelenggaraan Pemasyarakatan Bagi Pegawai Negeri Sipil yang diangkat Sebagai Petugas Pemasyarakatan

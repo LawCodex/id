@@ -25,7 +25,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49575"
 bpk_page: "https://peraturan.bpk.go.id/Details/49575"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125107/https://peraturan.bpk.go.id/Details/49575"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 1967 tentang Perubahan dan Penyempurnaan Tata Cara Pemungutan Pajak Pendapatan 1944, Pajak Kekayaan 1932 dan Pajak Perseroan 1925

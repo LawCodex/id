@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41295"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092902/https://peraturan.bpk.go.id/Details/41295/perpres-no-51-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=51&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 51 Tahun 2012 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Bengkulu Menjadi Institut Agama Islam Negeri Bengkulu

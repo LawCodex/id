@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38651"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144124/https://peraturan.bpk.go.id/Details/38651"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=21&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 2009 tentang Pengesahan Agreement for The Implementation of The Provisions of The United Nations Convention on The Law of The Sea Of 10 December 1982 Relating To The Conservation And Management Of Straddling Fish Stocks And Highly Migratory Fish Stocks (Persetujuan Pelaksanaan Ketentuan-Ketentuan Konvensi Perserikatan Bangsa-Bangsa Tentang Hukum Laut Tanggal 10 Desember 1982 Yang Berkaitan Dengan Konservasi Dan Pengelolaan Sediaan Ikan Yang Beruaya Terbatas Dan Sediaan Ikan Yang Beruaya Jauh)

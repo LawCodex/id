@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/68863"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082225/https://peraturan.bpk.go.id/Details/68863"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 32 Tahun 2007 tentang Tunjangan Jabatan Fungsional Penyuluh Pertanian, Pengendali Organisme, Pengganggu Tumbuhan, Pengawas Benih Tanaman, Pengawas Bibit Ternak, Medik Veteriner, Paramedik Veteriner, Pengawas Perikanan, Pengendali Hama dan Penyakit Ikan, dan Pengawas Benih Ikan

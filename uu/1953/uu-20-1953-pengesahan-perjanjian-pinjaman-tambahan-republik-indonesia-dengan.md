@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45320"
 bpk_page: "https://peraturan.bpk.go.id/Details/45320"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121458/https://peraturan.bpk.go.id/Details/45320"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1953 tentang Pengesahan Perjanjian Pinjaman Tambahan Republik Indonesia dengan Export-Import Bank of Washington

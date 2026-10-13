@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0212012.pdf&fl=P15665"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=21&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 21 Tahun 2012 tentang Pengesahan Persetujuan Kerangka Kerja Mengenai Kemitraan Dan Kerja Sama Menyeluruh Antara Republik Indonesia, Di Satu Pihak, Dan Komunitas Eropa Beserta Negara-Negara Anggotanya, Di Pihak Lainnya (Framework Agreement On Comprehensive Partnership And Cooperation Between The Republic Of Indonesia, Of The One Part, And The European Community And Its Member States, Of The Other Part)

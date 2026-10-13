@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51674"
 bpk_page: "https://peraturan.bpk.go.id/Details/51674"
 bpk_metadata_archived: "http://web.archive.org/web/20240822112518/https://peraturan.bpk.go.id/Details/51674/uu-no-13-tahun-1958"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1958 tentang Perjanjian Perdamaina dan Persetujuan Pampasan Antara Republik Indonesia dan Jepang

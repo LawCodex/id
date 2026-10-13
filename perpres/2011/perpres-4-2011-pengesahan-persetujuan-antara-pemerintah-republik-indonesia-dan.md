@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+4+Tahun+2011.pdf&fl=P15451"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=4&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 4 Tahun 2011 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Amerika Serikat Tentang Kerja Sama Ilmiah Dan Teknologi (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The United States Of America On Scientific And Technological Cooperation)

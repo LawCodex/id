@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42116"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082300/https://peraturan.bpk.go.id/Details/42116"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=60&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 60 Tahun 2007 tentang Tunjangan Jabatan Fungsional Penyuluh Perindustrian dan Perdagangan

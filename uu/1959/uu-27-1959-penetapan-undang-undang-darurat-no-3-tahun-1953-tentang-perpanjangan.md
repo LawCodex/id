@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51518"
 bpk_page: "https://peraturan.bpk.go.id/Details/51518"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123126/https://peraturan.bpk.go.id/Details/51518"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 1959 tentang Penetapan Undang-Undang Darurat No. 3 Tahun 1953 Tentang Perpanjangan Pembentukan Daerah Tingkat II di Kalimantan (Lembaran-Negara Tahun 1953 No. 9), Sebagai Undang-Undang

@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41049"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083145/https://peraturan.bpk.go.id/Details/41049/perpres-no-31-tahun-2010"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=31&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 31 Tahun 2010 tentang Komite Ekonomi Nasional

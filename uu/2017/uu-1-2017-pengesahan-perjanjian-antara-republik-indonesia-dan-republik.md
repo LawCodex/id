@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/11963"
 bpk_metadata_archived: "http://web.archive.org/web/20240822102143/https://peraturan.bpk.go.id/Details/11963/uu-no-1-tahun-2017"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2017 tentang Pengesahan Perjanjian antara Republik Indonesia dan Republik Singapura tentang Penetapan Garis Batas Laut Wilayah Kedua Negara di Bagian Timur Selat Singapura, 2014 (Treaty Between The Republic of Singapore Relating to The Delimtation of The Territorial Seas of The Two Contries in The Eastern Part of The Strait of Singapore 2014)

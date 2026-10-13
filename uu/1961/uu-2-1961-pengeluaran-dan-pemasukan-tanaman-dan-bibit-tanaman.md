@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51104"
 bpk_page: "https://peraturan.bpk.go.id/Details/51104"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123948/https://peraturan.bpk.go.id/Details/51104"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1961 tentang Pengeluaran dan Pemasukan Tanaman dan Bibit Tanaman

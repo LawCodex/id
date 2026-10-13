@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49808"
 bpk_page: "https://peraturan.bpk.go.id/Details/49808"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125015/https://peraturan.bpk.go.id/Details/49808"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 1966 tentang Keanggotaan Kembali Republik Indonesia Dalam Dana Moneter Inernasional (International Monetary Fund) dan Bank Internasional Untuk Rekonstruksi dan Pembangunan (International Bank For Reconstruction And Development)

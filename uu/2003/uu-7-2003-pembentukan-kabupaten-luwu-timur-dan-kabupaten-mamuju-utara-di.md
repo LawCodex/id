@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/43007"
 bpk_page: "https://peraturan.bpk.go.id/Details/43007"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141402/https://peraturan.bpk.go.id/Details/43007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 2003 tentang Pembentukan Kabupaten Luwu Timur dan Kabupaten Mamuju Utara di Provinsi Sulawesi Selatan

@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42197"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083201/https://peraturan.bpk.go.id/Details/42197/perpres-no-10-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=10&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 2008 tentang Penggunaan Sistem Elektronik dalam Kerangka Indonesia National Single Window

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52460"
 bpk_page: "https://peraturan.bpk.go.id/Details/52460"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122411/https://peraturan.bpk.go.id/Details/52460"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 1957 tentang Persetujuan Perjanjian Persahabatan antara Republik Indonesia dan Kerajaan Irak

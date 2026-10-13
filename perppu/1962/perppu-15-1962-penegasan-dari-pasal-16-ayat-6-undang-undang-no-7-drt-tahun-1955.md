@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53689"
 bpk_page: "https://peraturan.bpk.go.id/Details/53689"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124200/https://peraturan.bpk.go.id/Details/53689"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 15 Tahun 1962 tentang Penegasan dari Pasal 16 Ayat (6) Undang-Undang No. 7 DRT Tahun 1955 (Lembaran-Negara Tahun 1955 No. 27) Tentang Pengusutan, Penuntutan Dan Peradilan Tindak Pidana Ekonomi

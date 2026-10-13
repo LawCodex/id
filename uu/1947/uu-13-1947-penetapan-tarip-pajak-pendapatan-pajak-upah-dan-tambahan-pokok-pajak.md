@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25255"
 bpk_page: "https://peraturan.bpk.go.id/Details/25255"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120312/https://peraturan.bpk.go.id/Details/25255"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1947 tentang Penetapan Tarip Pajak Pendapatan, Pajak Upah dan Tambahan Pokok Pajak Tahun Pajak 1947/1948

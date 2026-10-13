@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39103"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144858/https://peraturan.bpk.go.id/Details/39103"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 2012 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2013

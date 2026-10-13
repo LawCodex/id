@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+40+Tahun+2010.pdf&fl=P15889"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=40&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 40 Tahun 2010 tentang Pengesahan Agreement On Trade In Goods Under The Framework Agreement On Comprehensive Economic Cooperation Between The Association Of Southeast Asian Nations And The Republic Of India (Persetujuan Mengenai Perdagangan Barang Dalam Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Republik India)

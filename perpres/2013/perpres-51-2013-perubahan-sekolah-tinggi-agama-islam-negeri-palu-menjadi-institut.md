@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41421"
 bpk_metadata_archived: "http://web.archive.org/web/20240923094627/https://peraturan.bpk.go.id/Details/41421/perpres-no-51-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=51&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 51 Tahun 2013 tentang Perubahan Sekolah Tinggi Agama Islam Negeri Palu Menjadi Institut Agama Islam Negeri Palu

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44179"
 bpk_page: "https://peraturan.bpk.go.id/Details/44179"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111448/https://peraturan.bpk.go.id/Details/44179/uu-no-41-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 41 Tahun 2003 tentang Pembentukan Kabupaten Bener Meriah di Provinsi Nanggroe Aceh Darussalam

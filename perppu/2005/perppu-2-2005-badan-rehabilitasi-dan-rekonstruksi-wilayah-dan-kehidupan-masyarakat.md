@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2005"
 bpk_page: "https://peraturan.bpk.go.id/Details/53141"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141659/https://peraturan.bpk.go.id/Details/53141"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2005 tentang Badan Rehabilitasi Dan Rekonstruksi Wilayah Dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam Dan Kepulauan Nias Provinsi Sumatera Utara

@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42203"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082935/https://peraturan.bpk.go.id/Details/42203/perpres-no-16-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=16&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 16 Tahun 2008 tentang Perubahan Kedua atas Keputusan Presiden Nomor 18 Tahun 2003 Tentang Bebas Visa Kunjungan Singkat

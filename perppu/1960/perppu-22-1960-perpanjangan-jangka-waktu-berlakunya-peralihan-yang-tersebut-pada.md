@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53491"
 bpk_page: "https://peraturan.bpk.go.id/Details/53491"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123344/https://peraturan.bpk.go.id/Details/53491"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 22 Tahun 1960 tentang Perpanjangan Jangka Waktu Berlakunya Peralihan Yang Tersebut Pada Pasal 61 Peraturan Pemerintah Pengganti Undang-Undang No. 23 Tahun 1959 (Lembaran Negara Tahun 1959 No. 139) Tentang Keadaan Bahaya

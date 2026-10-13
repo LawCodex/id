@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39954"
 bpk_page: "https://peraturan.bpk.go.id/Details/39954"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121101/https://peraturan.bpk.go.id/Details/39954"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 23 Tahun 1951 tentang Penyerahan Urusan Penilikan Pilem Kepada Kementrian Pendidikan, Pengajaran dan Kebudayaan

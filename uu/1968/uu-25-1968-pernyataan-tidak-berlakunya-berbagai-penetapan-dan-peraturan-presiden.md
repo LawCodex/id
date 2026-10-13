@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49192"
 bpk_page: "https://peraturan.bpk.go.id/Details/49192"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125153/https://peraturan.bpk.go.id/Details/49192"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1968 tentang Pernyataan Tidak Berlakunya Berbagai Penetapan dan Peraturan Presiden Republik Indonesia

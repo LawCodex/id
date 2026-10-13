@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39823"
 bpk_page: "https://peraturan.bpk.go.id/Details/39823"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121147/https://peraturan.bpk.go.id/Details/39823"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1951 tentang Memberikan Persetujuan kepada Perjanjian Pinjaman antara Pemerintah Kerajaan Nederland dan Pemerintah Republik Indonesia Serikat

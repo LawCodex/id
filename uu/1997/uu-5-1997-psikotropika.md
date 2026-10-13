@@ -22,7 +22,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/45926"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134305/https://peraturan.bpk.go.id/Details/45926"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1997 tentang Psikotropika

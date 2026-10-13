@@ -21,7 +21,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=25&thn=20
 bpk_page: "https://peraturan.bpk.go.id/Details/41395"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083408/https://peraturan.bpk.go.id/Details/41395"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 25 Tahun 2013 tentang Perubahan Kedua atas Peraturan Presiden Nomor 66 Tahun 2011 tentang Unit Percepatan Pembangunan Provinsi Papua dan Provinsi Papua Barat

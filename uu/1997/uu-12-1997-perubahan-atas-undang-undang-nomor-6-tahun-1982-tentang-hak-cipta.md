@@ -23,7 +23,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1997"
 bpk_page: "https://peraturan.bpk.go.id/Details/45936"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134138/https://peraturan.bpk.go.id/Details/45936"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1997 tentang Perubahan atas Undang-Undang Nomor 6 Tahun 1982 tentang Hak Cipta sebagaimana Telah Diubah dengan Undang-Undang Nomor 7 Tahun 1987

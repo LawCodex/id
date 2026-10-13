@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41225"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083018/https://peraturan.bpk.go.id/Details/41225"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=76&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 76 Tahun 2011 tentang Perubahan atas Peraturan Presiden Nomor 47 Tahun 2009 tentang Pembentukan dan Organisasi Kementerian Negara

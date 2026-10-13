@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_28_2011.pdf&fl=P15746"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=28&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 28 Tahun 2011 tentang Penggunaan Kawasan Hutan Lindung Untuk Penambangan Bawah Tanah

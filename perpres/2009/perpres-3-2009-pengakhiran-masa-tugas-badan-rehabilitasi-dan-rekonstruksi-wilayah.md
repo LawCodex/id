@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42289"
 bpk_metadata_archived: "http://web.archive.org/web/20250114103921/https://peraturan.bpk.go.id/Details/42289/perpres-no-3-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=3&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 3 Tahun 2009 tentang Pengakhiran Masa Tugas Badan Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara dan Kesinambungan Rehabilitasi dan Rekonstruksi di Wilayah Provinsi Nanggroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara

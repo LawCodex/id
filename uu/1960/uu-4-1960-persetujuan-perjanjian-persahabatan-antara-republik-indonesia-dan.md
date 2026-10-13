@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51308"
 bpk_page: "https://peraturan.bpk.go.id/Details/51308"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123511/https://peraturan.bpk.go.id/Details/51308"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1960 tentang Persetujuan Perjanjian Persahabatan Antara Republik Indonesia dan Persekutuan Tanah Melayu

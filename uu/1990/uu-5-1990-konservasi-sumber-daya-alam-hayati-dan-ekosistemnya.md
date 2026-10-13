@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1990"
 bpk_page: "https://peraturan.bpk.go.id/Details/46710"
 bpk_metadata_archived: "http://web.archive.org/web/20250412224628/https://peraturan.bpk.go.id/Details/46710/uu-no-5-tahun-199097"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya

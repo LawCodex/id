@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41331"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083310/https://peraturan.bpk.go.id/Details/41331"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=86&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 86 Tahun 2012 tentang Perubahan atas Peraturan Presiden Nomor 90 Tahun 2007 tentang Badan Koordinasi Penanaman Modal

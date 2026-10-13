@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38758"
 bpk_metadata_archived: "http://web.archive.org/web/20250919040454/https://peraturan.bpk.go.id/Details/38758/uu-no-18-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=27&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 27 Tahun 2009 tentang Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat,Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah

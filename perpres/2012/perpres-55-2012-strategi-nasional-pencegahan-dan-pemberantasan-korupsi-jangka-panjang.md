@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41299"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092122/https://peraturan.bpk.go.id/Details/41299/perpres-no-55-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=55&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 55 Tahun 2012 tentang Strategi Nasional Pencegahan dan Pemberantasan Korupsi Jangka Panjang Tahun 2012-2025 dan Jangka Menengah Tahun 2012-2014

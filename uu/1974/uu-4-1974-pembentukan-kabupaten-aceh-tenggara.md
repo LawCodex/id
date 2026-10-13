@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47412"
 bpk_page: "https://peraturan.bpk.go.id/Details/47412"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105629/https://peraturan.bpk.go.id/Details/47412/uu-no-4-tahun-1974"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1974 tentang Pembentukan Kabupaten Aceh Tenggara

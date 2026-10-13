@@ -24,7 +24,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51466"
 bpk_page: "https://peraturan.bpk.go.id/Details/51466"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123043/https://peraturan.bpk.go.id/Details/51466"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1959 tentang Penetapan "Undang-Undang Darurat No. 27 Tahun 1957 Tentang Penagihan Pajak Negara Dengan Surat Paksa (Lembaran-Negara Tahun 1957 No. 84)" Sebagai Undang-Undang

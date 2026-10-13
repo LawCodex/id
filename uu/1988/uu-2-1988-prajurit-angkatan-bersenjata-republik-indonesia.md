@@ -30,7 +30,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46808"
 bpk_page: "https://peraturan.bpk.go.id/Details/46808"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132939/https://peraturan.bpk.go.id/Details/46808"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 1988 tentang Prajurit Angkatan Bersenjata Republik Indonesia

@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53906"
 bpk_page: "https://peraturan.bpk.go.id/Details/53906"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123024/https://peraturan.bpk.go.id/Details/53906"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 15 Tahun 1959 tentang Kenaikan Tarif Cukai Atas Bir Dan Alkohol Sulingan Dan Kenaikan Bea-Masuk Atas Bir

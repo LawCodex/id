@@ -17,7 +17,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=2018"
 bpk_page: "https://peraturan.bpk.go.id/Details/99211"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150433/https://peraturan.bpk.go.id/Details/99211"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 2018 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2019

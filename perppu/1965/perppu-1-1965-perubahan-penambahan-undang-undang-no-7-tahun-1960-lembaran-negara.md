@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53793"
 bpk_page: "https://peraturan.bpk.go.id/Details/53793"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124800/https://peraturan.bpk.go.id/Details/53793"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1965 tentang Perubahan/Penambahan Undang-Undang No. 7 Tahun 1960 (Lembaran-Negara Tahun 1960 No. 109)

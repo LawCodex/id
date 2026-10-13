@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38586"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144306/https://peraturan.bpk.go.id/Details/38586"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 2009 tentang Pengesahan United Nations Convention Against Transnational Organized Crime (Konvensi Perserikatan Bangsa-Bangsa Menentang Tindak Pidana Transnasional yang TerorganisasI)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47947"
 bpk_page: "https://peraturan.bpk.go.id/Details/47947"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121628/https://peraturan.bpk.go.id/Details/47947"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 1954 tentang Penetapan Undang-Undang Darurat No. 24 Tahun 1950 tentang Peraturan Tambahan Perjalanan Ke Luar Negeri (Lembaran Negara No. 39 Tahun 1950) Sebagai Undang-Undang

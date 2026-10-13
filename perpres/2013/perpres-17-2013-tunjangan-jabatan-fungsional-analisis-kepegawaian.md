@@ -24,7 +24,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41387"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083356/https://peraturan.bpk.go.id/Details/41387"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=17&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 17 Tahun 2013 tentang Tunjangan Jabatan Fungsional Analisis Kepegawaian

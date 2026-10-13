@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46800"
 bpk_page: "https://peraturan.bpk.go.id/Details/46800"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133019/https://peraturan.bpk.go.id/Details/46800"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1989 tentang Tambahan dan Perubahan Atas Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1988/1989

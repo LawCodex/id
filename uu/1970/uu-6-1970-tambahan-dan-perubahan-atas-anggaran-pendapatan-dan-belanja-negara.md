@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47623"
 bpk_page: "https://peraturan.bpk.go.id/Details/47623"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125454/https://peraturan.bpk.go.id/Details/47623"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1970 tentang Tambahan dan Perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun 1969/1970

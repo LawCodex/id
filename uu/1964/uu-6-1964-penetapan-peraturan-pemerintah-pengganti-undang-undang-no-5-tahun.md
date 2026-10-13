@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50247"
 bpk_page: "https://peraturan.bpk.go.id/Details/50247"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124718/https://peraturan.bpk.go.id/Details/50247"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 5 tahun 1963 Tentang Surat Hutang Landreform (Lembaran Negara Tahun 1963 No. 63) Menjadi Undang-Undang

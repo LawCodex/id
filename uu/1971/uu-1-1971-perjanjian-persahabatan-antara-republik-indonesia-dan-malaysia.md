@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47555"
 bpk_page: "https://peraturan.bpk.go.id/Details/47555"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125533/https://peraturan.bpk.go.id/Details/47555"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1971 tentang Perjanjian Persahabatan Antara Republik Indonesia dan Malaysia

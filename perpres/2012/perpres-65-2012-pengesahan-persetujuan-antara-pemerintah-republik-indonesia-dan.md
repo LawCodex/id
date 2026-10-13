@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41309"
 bpk_metadata_archived: "http://web.archive.org/web/20251127061844/https://peraturan.bpk.go.id/Details/41309/perpres-no-65-tahun-2012"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2012 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Persatuan Emirat Arab Mengenai Pembebasan Visa bagi Pemegang Paspor Diplomatik, Dinas, dan Khusus (Agreement Between The Government Of The Republic Of Indonesia And The Government Of The United Arab Emirates On Visa Exemption For Holders Of Diplomatic, Service, And Special Passports)

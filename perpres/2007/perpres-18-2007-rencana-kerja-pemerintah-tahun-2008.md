@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_18_th_2007.pdf&fl=P15623"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=18&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 18 Tahun 2007 tentang Rencana Kerja Pemerintah Tahun 2008

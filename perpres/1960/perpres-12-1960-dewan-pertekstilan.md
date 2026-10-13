@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69351"
 bpk_page: "https://peraturan.bpk.go.id/Details/69351"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123307/https://peraturan.bpk.go.id/Details/69351"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 12 Tahun 1960 tentang Dewan Pertekstilan

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/46822"
 bpk_page: "https://peraturan.bpk.go.id/Details/46822"
 bpk_metadata_archived: "http://web.archive.org/web/20240919132901/https://peraturan.bpk.go.id/Details/46822"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 5 Tahun 1987 tentang Perhitungan Anggaran Negara Tahun Anggaran 1983/1984

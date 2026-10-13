@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25369"
 bpk_page: "https://peraturan.bpk.go.id/Details/25369"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120359/https://peraturan.bpk.go.id/Details/25369"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 1947 tentang menetapkan Berlakunya " Undang-Undang Kecelakaan 1947" Bagi Kecelakaan-Kecelakaan Karena Perang yang Menimpah Buruh Berhubung Dengan Hubungan Kerja

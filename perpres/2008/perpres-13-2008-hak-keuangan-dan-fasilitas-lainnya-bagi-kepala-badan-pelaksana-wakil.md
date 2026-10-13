@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES+NO+13+TH+2008.pdf&fl=P15563"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=13&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 13 Tahun 2008 tentang Hak Keuangan Dan Fasilitas Lainnya Bagi Kepala Badan Pelaksana, Wakil Kepala Badan Pelaksana, Sekretaris Badan Pelaksana, Dan Deputi Badan Pelaksana Pada Badan Penanggulangan Lumpur Sidoarjo

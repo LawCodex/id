@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50414"
 bpk_page: "https://peraturan.bpk.go.id/Details/50414"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121717/https://peraturan.bpk.go.id/Details/50414"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 25 Tahun 1954 tentang Perjanjian-Perjanjian Pos Sedunia

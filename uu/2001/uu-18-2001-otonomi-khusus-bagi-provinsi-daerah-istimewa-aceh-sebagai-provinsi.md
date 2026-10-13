@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/44898"
 bpk_metadata_archived: "http://web.archive.org/web/20251226002227/https://peraturan.bpk.go.id/Details/44898/uu-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=2001"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 2001 tentang Otonomi Khusus Bagi Provinsi Daerah Istimewa Aceh Sebagai Provinsi Nanggroe Aceh Darussalam

@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53979"
 bpk_page: "https://peraturan.bpk.go.id/Details/53979"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123106/https://peraturan.bpk.go.id/Details/53979"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 24 Tahun 1959 tentang Perubahan/Tambahan Peraturan-Peraturan Pemerintah Pengganti Undang-Undang NO. 7, 12, 13, 15, 16, 17, 18, 19 Dan 20 Tahun 1959

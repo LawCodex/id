@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38785"
 bpk_metadata_archived: "http://web.archive.org/web/20250927090923/https://peraturan.bpk.go.id/Details/38785/uu-no-25-tahun-2007"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=40&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42484"
 bpk_page: "https://peraturan.bpk.go.id/Details/42484"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124642/https://peraturan.bpk.go.id/Details/42484"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 36 Tahun 1964 tentang Pemberian Bantuan Berupa Uang Kepada Abdidalem dan Pensiunan Abdidalem Istana Mangkunegaran

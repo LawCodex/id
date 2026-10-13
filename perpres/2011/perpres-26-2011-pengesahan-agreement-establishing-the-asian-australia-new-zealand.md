@@ -11,7 +11,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_no_26_2011.pdf&fl=P15723"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=26&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 26 Tahun 2011 tentang Pengesahan Agreement Establishing The Asian - Australia - New Zealand Free Trade Area (Persetujuan Kawasan Perdagangan Bebas Asean - Australia - Selandia Baru)

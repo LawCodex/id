@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50327"
 bpk_page: "https://peraturan.bpk.go.id/Details/50327"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124533/https://peraturan.bpk.go.id/Details/50327"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1964 tentang Larangan Penarikan Cek Kosong

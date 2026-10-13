@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_72_Th_2008.pdf&fl=P16244"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=72&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 72 Tahun 2008 tentang Rincian Anggaran Belanja Pemerintah Pusat Tahun Anggaran 2009

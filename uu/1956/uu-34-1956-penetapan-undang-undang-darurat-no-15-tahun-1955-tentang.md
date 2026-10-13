@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51180"
 bpk_page: "https://peraturan.bpk.go.id/Details/51180"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122223/https://peraturan.bpk.go.id/Details/51180"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 1956 tentang Penetapan "Undang-Undang Darurat No.15 Tahun 1955 tentang Memberhentikan Berlakunya Undang-Undang Darurat No. 5 Tahun 1955 tentang Mengadakan Opsenten atas Cukai Bensin (Lembaran-Negara Tahun 1955 No. 51)" Sebagai Undang-Undang

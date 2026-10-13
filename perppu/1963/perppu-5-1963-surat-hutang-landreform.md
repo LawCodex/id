@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53736"
 bpk_page: "https://peraturan.bpk.go.id/Details/53736"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124452/https://peraturan.bpk.go.id/Details/53736"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1963 tentang Surat Hutang Landreform

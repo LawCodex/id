@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1993"
 bpk_page: "https://peraturan.bpk.go.id/Details/46587"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133709/https://peraturan.bpk.go.id/Details/46587"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1993 tentang Perhitungan Anggaran Negara Tahun Anggaran 1990/1991

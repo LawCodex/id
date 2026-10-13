@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42506"
 bpk_page: "https://peraturan.bpk.go.id/Details/42506"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081645/https://peraturan.bpk.go.id/Details/42506"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 26 Tahun 1964 tentang Perubahan/Tambahan Peraturan Presiden Nomor 10 Tahun 1963 Tentang Distribusi Bahan/Barang Pokok Keperluan Hidup Bagi Pegawai Negeri

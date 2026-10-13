@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53889"
 bpk_page: "https://peraturan.bpk.go.id/Details/53889"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123017/https://peraturan.bpk.go.id/Details/53889"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 13 Tahun 1959 tentang Pengubahan Dan Tambahan Ordonansi Pajak Perseroan 1925 (Staatsblad 1925 NO. 319)

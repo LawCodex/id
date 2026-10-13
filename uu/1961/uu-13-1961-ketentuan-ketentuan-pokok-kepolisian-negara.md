@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51233"
 bpk_page: "https://peraturan.bpk.go.id/Details/51233"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123654/https://peraturan.bpk.go.id/Details/51233"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 1961 tentang Ketentuan-Ketentuan Pokok Kepolisian Negara

@@ -16,7 +16,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25276"
 bpk_page: "https://peraturan.bpk.go.id/Details/25276"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120334/https://peraturan.bpk.go.id/Details/25276"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1947 tentang Pemeriksaan Perkara Pidana diluar Hadir Terdakwa

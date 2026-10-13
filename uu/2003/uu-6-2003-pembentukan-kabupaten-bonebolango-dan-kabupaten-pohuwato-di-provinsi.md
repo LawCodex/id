@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42830"
 bpk_page: "https://peraturan.bpk.go.id/Details/42830"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111423/https://peraturan.bpk.go.id/Details/42830/uu-no-6-tahun-2003"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 6 Tahun 2003 tentang Pembentukan Kabupaten Bonebolango dan Kabupaten Pohuwato di Provinsi Gorontalo

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/25906"
 bpk_page: "https://peraturan.bpk.go.id/Details/25906"
 bpk_metadata_archived: "http://web.archive.org/web/20240919120535/https://peraturan.bpk.go.id/Details/25906"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 34 Tahun 1948 tentang Daerah Pendudukan Buat Sementara Waktu Tidak Masuk Dalam Daerah Pabean

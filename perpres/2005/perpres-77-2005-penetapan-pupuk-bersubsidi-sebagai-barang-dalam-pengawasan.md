@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42603"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082857/https://peraturan.bpk.go.id/Details/42603/perpres-no-77-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=77&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 77 Tahun 2005 tentang Penetapan Pupuk Bersubsidi Sebagai Barang dalam Pengawasan

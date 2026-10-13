@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2000"
 bpk_page: "https://peraturan.bpk.go.id/Details/53099"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140534/https://peraturan.bpk.go.id/Details/53099"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang

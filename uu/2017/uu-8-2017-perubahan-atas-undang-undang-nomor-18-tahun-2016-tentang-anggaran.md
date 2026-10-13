@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/53602"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150423/https://peraturan.bpk.go.id/Details/53602"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 8 Tahun 2017 tentang Perubahan Atas Undang-Undang Nomor 18 Tahun 2016 Tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 2017
@@ -49,8 +49,6 @@ PRESIDEN REPUBLIK INDONESIA,
 Menimbang : a. bahwa Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2017 disusun sesuai dengan kebutuhan penyelenggaraan pemerintahan negara dan kemampuan dalam menghimpun pendapatan negara dalam rangka mewujudkan perekonomian nasional yang berdasarkan atas demokrasi ekonomi dengan prinsip kebersamaan, berkeadilan, efisiensi, berkelanjutan, berwawasan lingkungan, dan kemandirian, guna mencapai Indonesia yang aman dan damai, adil dan demokratis, meningkatkan kesejahteraan rakyat serta dengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional;
 
 b. bahwa sejak diundangkannya Undang-Undang Nomor 18 Tahun 2016 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2017, telah terjadi perkembangan Asumsi Dasar Ekonomi Makro serta perubahan pokok-pokok kebijakan fiskal yang mempunyai dampak cukup signifikan terhadap besaran
-
-2017, No.186 -2-
 
 Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2017;
 
@@ -96,8 +94,6 @@ Beberapa ketentuan dalam Undang-Undang Nomor 18 Tahun 2016 tentang Anggaran Pend
 
 1. Ketentuan Pasal 3 diubah sehingga berbunyi sebagai berikut:
 
-2017, No.186 -4-
-
 **Pasal 3**
 
 Anggaran Pendapatan Negara Tahun Anggaran 2017 diperkirakan sebesar Rp1.736.060.149.915.000,00 (satu kuadriliun tujuh ratus tiga puluh enam triliun enam puluh miliar seratus empat puluh sembilan juta sembilan ratus lima belas ribu rupiah), yang diperoleh dari sumber:
@@ -138,9 +134,7 @@ a. komoditas panas bumi sebesar Rp1.646.361.470.000,00 (satu triliun enam ratus 
 
 b. bunga, imbal hasil, dan penghasilan pihak ketiga atas jasa yang diberikan kepada Pemerintah dalam penerbitan dan/atau pembelian kembali/penukaran SBN di pasar internasional, tetapi tidak termasuk jasa konsultan hukum lokal, sebesar Rp7.230.485.435.000,00 (tujuh triliun dua ratus tiga puluh miliar empat ratus delapan puluh lima juta empat ratus tiga puluh lima ribu rupiah) yang pelaksanaannya diatur dengan Peraturan Menteri Keuangan;
 
-c. penghasilan dari penghapusan secara mutlak piutang negara nonpokok yang bersumber dari Pemberian Pinjaman, Rekening Dana Investasi, dan Rekening Pembangunan Daerah yang diterima oleh Perusahaan Daerah Air Minum (PDAM) sebesar Rp59.269.019.000,00 (lima puluh sembilan miliar dua ratus enam puluh sembilan juta sembilan belas ribu rupiah) termasuk di dalamnya kekurangan untuk
-
-2017, No.186 -6-tahun anggaran sebelumnya sesuai dengan hasil audit Badan Pemeriksa Keuangan yang pelaksanaannya diatur dengan Peraturan Menteri Keuangan; dan
+c. penghasilan dari penghapusan secara mutlak piutang negara nonpokok yang bersumber dari Pemberian Pinjaman, Rekening Dana Investasi, dan Rekening Pembangunan Daerah yang diterima oleh Perusahaan Daerah Air Minum (PDAM) sebesar Rp59.269.019.000,00 (lima puluh sembilan miliar dua ratus enam puluh sembilan juta sembilan belas ribu rupiah) termasuk di dalamnya kekurangan untuk tahun anggaran sebelumnya sesuai dengan hasil audit Badan Pemeriksa Keuangan yang pelaksanaannya diatur dengan Peraturan Menteri Keuangan; dan
 
 d. pembayaran Recurrent Cost SPAN yang dibiayai oleh rupiah murni sebesar Rp614.786.000,00 (enam ratus empat belas juta tujuh ratus delapan puluh enam ribu rupiah) yang pelaksanaannya diatur dengan Peraturan Menteri Keuangan.
 
@@ -184,9 +178,7 @@ d. pendapatan BLU.
 
 (2) Penerimaan SDA sebagaimana dimaksud pada ayat
 
-(1) huruf a diperkirakan sebesar Rp95.643.149.163.000,00 (sembilan puluh lima triliun enam ratus empat puluh tiga miliar seratus
-
-2017, No.186 -8-empat puluh sembilan juta seratus enam puluh tiga ribu rupiah), yang terdiri atas:
+(1) huruf a diperkirakan sebesar Rp95.643.149.163.000,00 (sembilan puluh lima triliun enam ratus empat puluh tiga miliar seratus empat puluh sembilan juta seratus enam puluh tiga ribu rupiah), yang terdiri atas:
 
 a. penerimaan sumber daya alam minyak bumi dan gas bumi (SDA migas); dan
 
@@ -234,9 +226,7 @@ b. anggaran Transfer ke Daerah dan Dana Desa.
 
 (1) Anggaran Belanja Pemerintah Pusat sebagaimana dimaksud dalam Pasal 7 huruf a diperkirakan sebesar Rp1.366.956.572.312.000,00 (satu kuadriliun tiga ratus enam puluh enam triliun sembilan ratus lima puluh enam miliar lima ratus tujuh puluh dua juta tiga ratus dua belas ribu rupiah).
 
-(2) Anggaran Belanja Pemerintah Pusat sebagaimana dimaksud pada ayat (1) termasuk program pengelolaan hibah negara sebesar Rp5.509.342.531.000,00 (lima triliun lima ratus
-
-2017, No.186 -10-sembilan miliar tiga ratus empat puluh dua juta lima ratus tiga puluh satu ribu rupiah), yang dihibahkan dan/atau diterushibahkan ke daerah.
+(2) Anggaran Belanja Pemerintah Pusat sebagaimana dimaksud pada ayat (1) termasuk program pengelolaan hibah negara sebesar Rp5.509.342.531.000,00 (lima triliun lima ratus sembilan miliar tiga ratus empat puluh dua juta lima ratus tiga puluh satu ribu rupiah), yang dihibahkan dan/atau diterushibahkan ke daerah.
 
 (3) Anggaran Belanja Pemerintah Pusat sebagaimana dimaksud pada ayat (1) dikelompokkan atas:
 
@@ -294,8 +284,6 @@ b. Dana Transfer Khusus.
 
 (tiga) ayat, yakni ayat (13A), ayat (13B), dan ayat (13C), sehingga Pasal 11 berbunyi sebagai berikut:
 
-2017, No.186 -12-
-
 **Pasal 11**
 
 (1) Dana Transfer Umum sebagaimana dimaksud dalam Pasal 10 huruf a diperkirakan sebesar Rp493.959.535.082.000,00 (empat ratus sembilan puluh tiga triliun sembilan ratus lima puluh sembilan miliar lima ratus tiga puluh lima juta delapan puluh dua ribu rupiah), yang terdiri atas:
@@ -349,8 +337,6 @@ dilaksanakan       dengan      memperhatikan        prognosis
 ```
 
 realisasi DBH Tahun Anggaran 2017 dan/atau kebijakan pengendalian pelaksanaan APBN Tahun Anggaran 2017. (4C) Ketentuan lebih lanjut mengenai tata cara penyelesaian Kurang Bayar DBH Tahun Anggaran 2016 sebagaimana dimaksud pada ayat (4A) diatur dengan Peraturan Menteri Keuangan.
-
-2017, No.186 -14-
 
 (5) DBH Kehutanan sebagaimana dimaksud pada ayat
 
@@ -416,8 +402,6 @@ c. DBH Kehutanan dari Dana Reboisasi yang merupakan bagian kabupaten/kota, baik 
 
 (8) DAU sebagaimana dimaksud pada ayat (1) huruf b diperkirakan sebesar Rp398.582.314.748.000,00
 
-2017, No.186 -16-
-
 (tiga ratus sembilan puluh delapan triliun lima ratus delapan puluh dua miliar tiga ratus empat belas juta tujuh ratus empat puluh delapan ribu rupiah), yang terdiri atas:
 
 a. DAU murni yang dialokasikan berdasarkan formula sebesar Rp375.276.936.242.000,00 (tiga ratus tujuh puluh lima triliun dua ratus tujuh puluh enam miliar sembilan ratus tiga puluh enam juta dua ratus empat puluh dua ribu rupiah) atau setara dengan 28,7% (dua puluh delapan koma tujuh persen) dari PDN Neto;
@@ -457,8 +441,6 @@ a. kabupaten/kota dengan ruang fiskal sangat terbatas;
 b. kabupaten/kota yang mengalami penurunan DBH yang sangat besar; dan
 
 c. batas penurunan alokasi DAU kabupaten/kota yang disepakati antara Pemerintah Pusat dan Dewan Perwakilan Rakyat Republik Indonesia. (13B) Kabupaten/kota yang memenuhi kriteria ruang fiskal sangat terbatas dan penurunan DBH yang sangat besar sebagaimana dimaksud pada ayat (13A) huruf a dan huruf b, besaran alokasi DAU kabupaten/kota ditetapkan sama dengan besaran alokasi DAU kabupaten/kota dalam APBN Tahun Anggaran 2017.
-
-2017, No.186 -18-
 
 (13C) Batas penurunan alokasi DAU kabupaten/kota sebagaimana dimaksud pada ayat (13A) huruf c ditetapkan antara 0,8% (nol koma delapan persen) sampai dengan 1,8% (satu koma delapan persen) dibanding dengan besaran alokasi DAU kabupaten/kota dalam APBN Tahun Anggaran 2017.
 
@@ -504,9 +486,7 @@ a. Bidang Pendidikan sebesar Rp6.107.100.000.000,00 (enam triliun seratus tujuh 
 
 b. Bidang Kesehatan sebesar Rp10.021.820.000.000,00 (sepuluh triliun dua puluh satu miliar delapan ratus dua puluh juta rupiah);
 
-c. Bidang Perumahan dan Permukiman sebesar Rp654.890.000.000,00 (enam ratus lima puluh
-
-2017, No.186 -20-empat miliar delapan ratus sembilan puluh juta rupiah);
+c. Bidang Perumahan dan Permukiman sebesar Rp654.890.000.000,00 (enam ratus lima puluh empat miliar delapan ratus sembilan puluh juta rupiah);
 
 d. Bidang Pertanian sebesar Rp1.650.038.563.000,00 (satu triliun enam ratus lima puluh miliar tiga puluh delapan juta lima ratus enam puluh tiga ribu rupiah);
 
@@ -544,9 +524,7 @@ a. Bidang Perumahan dan Permukiman sebesar Rp383.300.000.000,00 (tiga ratus dela
 
 b. Bidang Transportasi sebesar Rp844.100.000.000,00 (delapan ratus empat puluh empat miliar seratus juta rupiah); dan
 
-c. Bidang Kesehatan sebesar Rp2.251.798.883.000,00 (dua triliun dua ratus lima puluh satu miliar tujuh ratus sembilan puluh delapan juta delapan ratus delapan puluh tiga ribu rupiah). (6A) Tambahan DAK Fisik sebagaimana dimaksud pada ayat (3) huruf d digunakan untuk menyelesaikan kegiatan DAK Fisik Tahun Anggaran 2016 yang output-nya telah tercapai 100% (seratus persen), namun belum disalurkan oleh Pemerintah Pusat karena tidak terpenuhinya persyaratan penyaluran oleh Pemerintah Daerah, dan untuk percepatan penyediaan infrastruktur publik daerah. (6B) Dalam rangka menjaga capaian output DAK Fisik sebagaimana dimaksud pada ayat (3) huruf a, huruf b, dan huruf c, Pemerintah Daerah menyampaikan rencana kegiatan anggaran sesuai dengan proposal DAK Fisik yang telah disepakati antara Pemerintah dan Dewan Perwakilan Rakyat dan petunjuk teknis
-
-2017, No.186 -22-yang ditetapkan dalam peraturan perundang-undangan. (6C) Ketentuan lebih lanjut mengenai tata cara penyaluran DAK Fisik sebagaimana dimaksud pada ayat (3) dan penyampaian rencana kegiatan anggaran sebagaimana dimaksud pada ayat (6B) diatur dengan Peraturan Menteri Keuangan.
+c. Bidang Kesehatan sebesar Rp2.251.798.883.000,00 (dua triliun dua ratus lima puluh satu miliar tujuh ratus sembilan puluh delapan juta delapan ratus delapan puluh tiga ribu rupiah). (6A) Tambahan DAK Fisik sebagaimana dimaksud pada ayat (3) huruf d digunakan untuk menyelesaikan kegiatan DAK Fisik Tahun Anggaran 2016 yang output-nya telah tercapai 100% (seratus persen), namun belum disalurkan oleh Pemerintah Pusat karena tidak terpenuhinya persyaratan penyaluran oleh Pemerintah Daerah, dan untuk percepatan penyediaan infrastruktur publik daerah. (6B) Dalam rangka menjaga capaian output DAK Fisik sebagaimana dimaksud pada ayat (3) huruf a, huruf b, dan huruf c, Pemerintah Daerah menyampaikan rencana kegiatan anggaran sesuai dengan proposal DAK Fisik yang telah disepakati antara Pemerintah dan Dewan Perwakilan Rakyat dan petunjuk teknis yang ditetapkan dalam peraturan perundang-undangan. (6C) Ketentuan lebih lanjut mengenai tata cara penyaluran DAK Fisik sebagaimana dimaksud pada ayat (3) dan penyampaian rencana kegiatan anggaran sebagaimana dimaksud pada ayat (6B) diatur dengan Peraturan Menteri Keuangan.
 
 (7) DAK Nonfisik sebagaimana dimaksud pada ayat (1) huruf b diperkirakan sebesar Rp115.104.999.600.000,00 (seratus lima belas triliun seratus empat miliar sembilan ratus sembilan puluh sembilan juta enam ratus ribu rupiah), yang terdiri atas:
 
@@ -584,9 +562,7 @@ b. Dana Keistimewaan Daerah Istimewa Yogyakarta.
 
 (2) Dana Otonomi Khusus sebagaimana dimaksud pada ayat (1) huruf a diperkirakan sebesar Rp19.443.292.590.000,00 (sembilan belas triliun empat ratus empat puluh tiga miliar dua ratus sembilan puluh dua juta lima ratus sembilan puluh ribu rupiah), yang terdiri atas:
 
-a. Alokasi Dana Otonomi Khusus Provinsi Papua dan Provinsi Papua Barat sebesar Rp7.971.646.295.000,00 (tujuh triliun sembilan ratus tujuh puluh satu miliar enam ratus empat puluh enam juta dua ratus sembilan puluh lima ribu rupiah) yang dibagi masing-masing dengan proporsi 70% (tujuh puluh
-
-2017, No.186 -24-persen) untuk Provinsi Papua dan 30% (tiga puluh persen) untuk Provinsi Papua Barat dengan rincian sebagai berikut:
+a. Alokasi Dana Otonomi Khusus Provinsi Papua dan Provinsi Papua Barat sebesar Rp7.971.646.295.000,00 (tujuh triliun sembilan ratus tujuh puluh satu miliar enam ratus empat puluh enam juta dua ratus sembilan puluh lima ribu rupiah) yang dibagi masing-masing dengan proporsi 70% (tujuh puluh persen) untuk Provinsi Papua dan 30% (tiga puluh persen) untuk Provinsi Papua Barat dengan rincian sebagai berikut:
 
 1. Dana Otonomi Khusus Provinsi Papua sebesar Rp5.580.152.407.000,00 (lima triliun lima ratus delapan puluh miliar seratus lima puluh dua juta empat ratus tujuh ribu rupiah); dan
 
@@ -626,8 +602,6 @@ a. perubahan anggaran belanja yang bersumber dari PNBP;
 
 b. perubahan anggaran belanja yang bersumber dari pinjaman dan hibah termasuk pinjaman dan hibah yang diterushibahkan;
 
-2017, No.186 -26-
-
 c. pergeseran Bagian Anggaran 999.08 (Bendahara Umum Negara Pengelola Belanja Lainnya) ke Bagian Anggaran kementerian negara/lembaga atau antar subbagian anggaran dalam Bagian Anggaran 999 (BA BUN);
 
 d. perubahan anggaran belanja yang bersumber dari SBSN untuk pembiayaan kegiatan/proyek kementerian negara/lembaga;
@@ -664,8 +638,6 @@ h. pergeseran anggaran dalam rangka penyediaan dana untuk penyelesaian restruktu
 
 (3) Ketentuan lebih lanjut mengenai rincian Anggaran Pendidikan sebagaimana dimaksud pada ayat (1), diatur dalam Peraturan Presiden.
 
-2017, No.186 -28-
-
 15. Ketentuan ayat (1) Pasal 22 diubah, sehingga berbunyi sebagai berikut:
 
 **Pasal 22**
@@ -693,8 +665,6 @@ h. pergeseran anggaran dalam rangka penyediaan dana untuk penyelesaian restruktu
 **Pasal 40**
 
 Postur APBN Perubahan Tahun Anggaran 2017 yang memuat rincian besaran Pendapatan Negara, Belanja
-
-2017, No.186 -30-
 
 Negara, Surplus/Defisit Anggaran, dan Pembiayaan Anggaran tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Undang-Undang ini.
 
@@ -730,11 +700,7 @@ ttd.
 
 YASONNA H. LAOLY
 
-2017, No.186 -32-
-
 2017, No.186
-
-2017, No.186 -34-
 
 2017, No.186
 

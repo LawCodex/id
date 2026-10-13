@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47986"
 bpk_page: "https://peraturan.bpk.go.id/Details/47986"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121650/https://peraturan.bpk.go.id/Details/47986"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 18 Tahun 1954 tentang Penetapan "Undang-Undang Darurat No. 4 Tahun 1954 (Lembaran-Negara No. 12 Tahun 1954) Guna Menetapkan Waktu Berlakunya Aturan Hukuman Termaksud dalam Pasal 3 Ayat 2 Ordonansi (Staatsblad Untuk Indonesia Tahun 1948 No. 141)" Sebagai Undang-Undang

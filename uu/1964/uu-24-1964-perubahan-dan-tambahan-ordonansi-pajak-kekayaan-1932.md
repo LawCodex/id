@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50342"
 bpk_page: "https://peraturan.bpk.go.id/Details/50342"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124600/https://peraturan.bpk.go.id/Details/50342"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 1964 tentang Perubahan Dan Tambahan Ordonansi Pajak Kekayaan 1932

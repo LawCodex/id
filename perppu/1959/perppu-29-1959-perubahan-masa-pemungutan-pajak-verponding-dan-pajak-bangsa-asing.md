@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/54014"
 bpk_page: "https://peraturan.bpk.go.id/Details/54014"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123129/https://peraturan.bpk.go.id/Details/54014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 29 Tahun 1959 tentang Perubahan Masa Pemungutan Pajak Verponding Dan Pajak Bangsa Asing

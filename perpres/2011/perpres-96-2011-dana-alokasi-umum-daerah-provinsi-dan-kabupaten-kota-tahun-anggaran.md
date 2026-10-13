@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41205"
 bpk_metadata_archived: "http://web.archive.org/web/20250423020126/https://peraturan.bpk.go.id/Details/41205/perpres-no-96-tahun-2011"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=96&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 96 Tahun 2011 tentang Dana Alokasi Umum Daerah Provinsi dan Kabupaten/Kota Tahun Anggaran 2012

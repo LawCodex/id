@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41953"
 bpk_metadata_archived: "http://web.archive.org/web/20250803030604/https://peraturan.bpk.go.id/Details/41953/perpres-no-14-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=14&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 2006 tentang Tunjangan Umum Bagi Anggota Tentara Nasional Indonesia di Lingkungan Tentara Nasional Indonesia

@@ -20,7 +20,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1995"
 bpk_page: "https://peraturan.bpk.go.id/Details/46205"
 bpk_metadata_archived: "http://web.archive.org/web/20240714155949/https://peraturan.bpk.go.id/Details/46205"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1995 tentang Pemasyarakatan

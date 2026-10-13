@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50392"
 bpk_page: "https://peraturan.bpk.go.id/Details/50392"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124629/https://peraturan.bpk.go.id/Details/50392"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 32 Tahun 1964 tentang Peraturan Lalu-Lintas Devisa

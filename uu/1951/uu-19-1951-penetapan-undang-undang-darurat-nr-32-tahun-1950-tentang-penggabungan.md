@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39930"
 bpk_page: "https://peraturan.bpk.go.id/Details/39930"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121043/https://peraturan.bpk.go.id/Details/39930"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1951 tentang Penetapan "Undang-Undang Darurat Nr 32 Tahun 1950 tentang Penggabungan Pulau Weh ke dalam Daerah Pabean Indonesia" Sebagai Undang-Undang

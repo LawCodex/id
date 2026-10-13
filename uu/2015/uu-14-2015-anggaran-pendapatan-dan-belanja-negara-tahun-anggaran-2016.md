@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/37505"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145756/https://peraturan.bpk.go.id/Details/37505"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2015 tentang Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 2016

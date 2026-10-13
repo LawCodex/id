@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47989"
 bpk_page: "https://peraturan.bpk.go.id/Details/47989"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121659/https://peraturan.bpk.go.id/Details/47989"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 20 Tahun 1954 tentang Penetapan Undang-Undang Darurat No. 8 Tahun 1953 (Lembaran negara No. 54 Tahun 1953) Tentang Memperpanjang Waktu Berlakunya Peraturan-Peraturan Militer Termaksud dalam Pasal 34 Ayat 5 Staatsblad 1939 No. 582, Sebagaimana Telah Diubah dan/atau Ditambah Kemudian, Sepanjang Mengenai Urusan Perumahan Sebagai Undang-Undang

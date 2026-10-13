@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES982006.pdf&fl=P16464"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=98&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 98 Tahun 2006 tentang Pengesahan Seventh Additional Protocol To The Constitution Of The Universal Postal Union (Protokol Tambahan Ketujuh Konstitusi Perhimpunan Pos Sedunia)

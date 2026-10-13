@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51676"
 bpk_page: "https://peraturan.bpk.go.id/Details/51676"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122649/https://peraturan.bpk.go.id/Details/51676"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 5 Tahun 1957 Tentang Pengubahan Kedudukan Wilayah Daerah-Daerah Enclave Imogiri, Kota Gede dan Ngawen" (Lembaran-Negara Tahun 1957 No. 5), Sebagai Undang-Undang

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39133"
 bpk_metadata_archived: "http://web.archive.org/web/20240919144658/https://peraturan.bpk.go.id/Details/39133"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2011 tentang Transfer Dana

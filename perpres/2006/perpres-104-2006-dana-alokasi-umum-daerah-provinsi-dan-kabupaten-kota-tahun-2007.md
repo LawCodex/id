@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES1042006.pdf&fl=P16498"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=104&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 104 Tahun 2006 tentang Dana Alokasi Umum Daerah Provinsi Dan Kabupaten/Kota Tahun 2007

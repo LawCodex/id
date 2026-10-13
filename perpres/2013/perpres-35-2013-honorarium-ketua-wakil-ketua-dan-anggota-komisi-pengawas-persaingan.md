@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41405"
 bpk_metadata_archived: "http://web.archive.org/web/20240923092032/https://peraturan.bpk.go.id/Details/41405/perpres-no-35-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=35&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 35 Tahun 2013 tentang Honorarium Ketua, Wakil Ketua, dan Anggota Komisi Pengawas Persaingan Usaha

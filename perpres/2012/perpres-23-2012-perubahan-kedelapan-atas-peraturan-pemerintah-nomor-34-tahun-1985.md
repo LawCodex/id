@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP0232012.pdf&fl=P15689"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=23&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 23 Tahun 2012 tentang Perubahan Kedelapan Atas Peraturan Pemerintah Nomor 34 Tahun 1985 Tentang Pemberian Tunjangan Veteran Kepada Veteran Republik Indonesia

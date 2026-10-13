@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40187"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141844/https://peraturan.bpk.go.id/Details/40187"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 2006 tentang Sistem Penyuluhan Pertanian, Perikanan, Dan Kehutanan

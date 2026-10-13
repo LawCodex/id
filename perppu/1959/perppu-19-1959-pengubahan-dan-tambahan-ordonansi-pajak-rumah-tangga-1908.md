@@ -17,7 +17,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53922"
 bpk_page: "https://peraturan.bpk.go.id/Details/53922"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123039/https://peraturan.bpk.go.id/Details/53922"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 19 Tahun 1959 tentang Pengubahan Dan Tambahan Ordonansi Pajak Rumah Tangga 1908

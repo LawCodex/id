@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52539"
 bpk_page: "https://peraturan.bpk.go.id/Details/52539"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122430/https://peraturan.bpk.go.id/Details/52539"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 33 Tahun 1957 tentang Penetapan Bagian III (Kementerian Dalam Negeri) Dari Anggaran Republik Indonesia Untuk Tahun Dinas 1954

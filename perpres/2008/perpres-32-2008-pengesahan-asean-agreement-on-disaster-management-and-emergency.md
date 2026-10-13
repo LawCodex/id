@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+32+Tahun+2008.pdf&fl=P15791"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=32&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 32 Tahun 2008 tentang Pengesahan Asean Agreement On Disaster Management And Emergency Response (Persetujuan Asean Mengenai Penanggulangan Bencana Dan Penanganan Darurat)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53495"
 bpk_page: "https://peraturan.bpk.go.id/Details/53495"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123348/https://peraturan.bpk.go.id/Details/53495"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 23 Tahun 1960 tentang Rahasia Bank

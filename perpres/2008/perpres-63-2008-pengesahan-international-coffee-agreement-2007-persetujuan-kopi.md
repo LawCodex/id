@@ -12,7 +12,7 @@ status_basis: "Setneg: sebagian"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+63+Tahun+2008.pdf&fl=P16149"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=63&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 63 Tahun 2008 tentang Pengesahan International Coffee Agreement 2007 (Persetujuan Kopi Internasional 2007)

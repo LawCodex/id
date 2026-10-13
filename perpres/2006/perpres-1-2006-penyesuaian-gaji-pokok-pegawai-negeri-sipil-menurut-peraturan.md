@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41941"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082250/https://peraturan.bpk.go.id/Details/41941/perpres-no-1-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=1&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 1 Tahun 2006 tentang Penyesuaian Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 11 Tahun 2003 tentang Perubahan Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil Sebagaimana Telah Beberapa Kali diubah Terakhir dengan Peraturan Pemerintah Nomor 26 Tahun 2001 ke dalam Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 66 Tahun 2005 tentang Perubahan Ketujuh atas Peraturan Pemerintah Nomor 7 Tahun 1977 tentang Peraturan Gaji Pegawai Negeri Sipil

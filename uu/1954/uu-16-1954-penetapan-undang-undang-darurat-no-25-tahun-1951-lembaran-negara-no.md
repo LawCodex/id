@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47982"
 bpk_page: "https://peraturan.bpk.go.id/Details/47982"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121645/https://peraturan.bpk.go.id/Details/47982"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1954 tentang Penetapan "Undang-Undang Darurat No. 25 Tahun 1951 (Lembaran-Negara No. 122 Tahun 1951) untuk Memperpanjang Waktu Berlakunya Aturan Hukuman Termaksud dalam Pasal 3 Ayat 2 Ordonansi (Staatsblad Untuk Indonesia Tahun 1948 No.141)" Sebagai Undang-Undang

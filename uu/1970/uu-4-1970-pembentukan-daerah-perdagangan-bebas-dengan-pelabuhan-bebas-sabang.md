@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/47618"
 bpk_page: "https://peraturan.bpk.go.id/Details/47618"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125439/https://peraturan.bpk.go.id/Details/47618"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1970 tentang Pembentukan Daerah Perdagangan Bebas dengan Pelabuhan Bebas Sabang

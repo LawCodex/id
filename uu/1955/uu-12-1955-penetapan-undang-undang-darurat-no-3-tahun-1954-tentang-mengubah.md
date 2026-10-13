@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51074"
 bpk_page: "https://peraturan.bpk.go.id/Details/51074"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121949/https://peraturan.bpk.go.id/Details/51074"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 12 Tahun 1955 tentang Penetapan Undang-Undang Darurat No. 3 Tahun 1954 (Tentang Mengubah "Indonesische Comptabilteitswet" (Staatsblad 1925 No. 448) dan "Indonesische Bedrijvenwet" (Staatsblad 1927 No. 419) Sebagai Undang-Undang)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/69343"
 bpk_page: "https://peraturan.bpk.go.id/Details/69343"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123545/https://peraturan.bpk.go.id/Details/69343"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 9 Tahun 1960 tentang Pengganti Kerugian Kepada Pegawai Negeri Sipil yang Berkedudukan Pelaut

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39978"
 bpk_metadata_archived: "http://web.archive.org/web/20240919142147/https://peraturan.bpk.go.id/Details/39978"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=46&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 46 Tahun 2007 tentang Pertanggungjawaban atas Pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2005

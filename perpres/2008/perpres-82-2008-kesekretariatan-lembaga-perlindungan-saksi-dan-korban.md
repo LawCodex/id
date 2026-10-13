@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres_No_82_Th_2008.pdf&fl=P16339"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=82&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 82 Tahun 2008 tentang Kesekretariatan Lembaga Perlindungan Saksi Dan Korban

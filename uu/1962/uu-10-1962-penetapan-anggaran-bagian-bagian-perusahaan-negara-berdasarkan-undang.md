@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50690"
 bpk_page: "https://peraturan.bpk.go.id/Details/50690"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124143/https://peraturan.bpk.go.id/Details/50690"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1962 tentang Penetapan Anggaran Bagian-Bagian Perusahaan Negara Berdasarkan Undang-Undang Perusahaan Indonesia dari Anggaran Negara Republik Indonesia Untuk Tahun 1962

@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PERPRES1032006.pdf&fl=P16492"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=103&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 103 Tahun 2006 tentang Pemberian Jaminan Pemerintah Untuk Pembangunan Proyek Monorail Jakarta

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53785"
 bpk_page: "https://peraturan.bpk.go.id/Details/53785"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124712/https://peraturan.bpk.go.id/Details/53785"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1964 tentang Nilai Transaksi Rupiah Dan Pembebasan Atas Impor

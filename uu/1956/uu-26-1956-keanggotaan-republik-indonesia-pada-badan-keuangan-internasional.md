@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51159"
 bpk_page: "https://peraturan.bpk.go.id/Details/51159"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122159/https://peraturan.bpk.go.id/Details/51159"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 1956 tentang Keanggotaan Republik Indonesia pada Badan Keuangan Internasional (International Finance Corporation)

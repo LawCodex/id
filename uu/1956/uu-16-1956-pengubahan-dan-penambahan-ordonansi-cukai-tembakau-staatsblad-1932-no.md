@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/51099"
 bpk_page: "https://peraturan.bpk.go.id/Details/51099"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122128/https://peraturan.bpk.go.id/Details/51099"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 16 Tahun 1956 tentang Pengubahan dan Penambahan Ordonansi Cukai Tembakau (Staatsblad 1932 No. 517)

@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53869"
 bpk_page: "https://peraturan.bpk.go.id/Details/53869"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123004/https://peraturan.bpk.go.id/Details/53869"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 10 Tahun 1959 tentang Penambahan Bea Balik Nama

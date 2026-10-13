@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38591"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145651/https://peraturan.bpk.go.id/Details/38591"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 9 Tahun 2014 tentang Pengesahan Perjanjian antara Republik Indonesia dan Republik India Tentang Bantuan Hukum Timbal Balik dalam Masalah Pidana (Treaty Between The Republic Of Indonesia And The Republic Of India On Mutual Legal Assistance In Criminal Matters)

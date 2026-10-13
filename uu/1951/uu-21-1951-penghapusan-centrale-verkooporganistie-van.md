@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/39941"
 bpk_page: "https://peraturan.bpk.go.id/Details/39941"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121054/https://peraturan.bpk.go.id/Details/39941"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1951 tentang Penghapusan "Centrale Verkooporganistie Van Ondernemingslandbouwproducten (C.V.O.)"

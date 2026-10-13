@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42329"
 bpk_metadata_archived: "http://web.archive.org/web/20240923083435/https://peraturan.bpk.go.id/Details/42329/perpres-no-15-tahun-2009"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=15&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 15 Tahun 2009 tentang Kedudukan Keuangan bagi Anggota Badan Pengawas Pemilihan Umum

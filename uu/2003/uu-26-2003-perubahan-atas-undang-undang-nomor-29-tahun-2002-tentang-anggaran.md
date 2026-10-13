@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44078"
 bpk_page: "https://peraturan.bpk.go.id/Details/44078"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141243/https://peraturan.bpk.go.id/Details/44078"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 2003 tentang Perubahan Atas Undang-Undang Nomor 29 Tahun 2002 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2003

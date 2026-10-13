@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38521"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145420/https://peraturan.bpk.go.id/Details/38521"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 27 Tahun 2007 Tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil

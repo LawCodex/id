@@ -23,7 +23,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40268"
 bpk_page: "https://peraturan.bpk.go.id/Details/40268"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121317/https://peraturan.bpk.go.id/Details/40268"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 21 Tahun 1952 tentang Menetapkan "Undang-Undang Darurat tentang Hak Pengangkatan dan Pemberhentian Pegawai-Pegawai Republik Indonesia Serikat" (Undang-Undang Darurat Nr 25 Dan 34 Tahun 1950) Sebagai Undang-Undang Republik Indonesia

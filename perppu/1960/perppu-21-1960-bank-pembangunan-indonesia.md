@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53482"
 bpk_page: "https://peraturan.bpk.go.id/Details/53482"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123342/https://peraturan.bpk.go.id/Details/53482"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 21 Tahun 1960 tentang Bank Pembangunan Indonesia

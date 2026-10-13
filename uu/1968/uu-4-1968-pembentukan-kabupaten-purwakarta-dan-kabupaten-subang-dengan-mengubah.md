@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49136"
 bpk_page: "https://peraturan.bpk.go.id/Details/49136"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125220/https://peraturan.bpk.go.id/Details/49136"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan Mengubah Undang-Undang No.14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Provinsi Jawa Barat

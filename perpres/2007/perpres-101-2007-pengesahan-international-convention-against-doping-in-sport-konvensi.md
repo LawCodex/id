@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Peraturan_Presiden_No_101_Tahun_2007.pdf&fl=P16483"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=101&thn=2007"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 101 Tahun 2007 tentang Pengesahan International Convention Against Doping In Sport (Konvensi International Menentang Doping Dalam Olahraga)

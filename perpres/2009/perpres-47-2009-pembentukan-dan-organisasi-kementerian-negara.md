@@ -28,7 +28,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42320"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082631/https://peraturan.bpk.go.id/Details/42320"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=47&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 47 Tahun 2009 tentang Pembentukan dan Organisasi Kementerian Negara

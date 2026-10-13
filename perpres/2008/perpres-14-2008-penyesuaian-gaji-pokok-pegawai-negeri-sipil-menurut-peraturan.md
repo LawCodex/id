@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42201"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082400/https://peraturan.bpk.go.id/Details/42201"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=14&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 14 Tahun 2008 tentang Penyesuaian Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 9 Tahun 2007 ke Dalam Gaji Pokok Pegawai Negeri Sipil Menurut Peraturan Pemerintah Nomor 10 Tahun 2008

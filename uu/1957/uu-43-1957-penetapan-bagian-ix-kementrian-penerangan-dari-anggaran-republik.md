@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52596"
 bpk_page: "https://peraturan.bpk.go.id/Details/52596"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122458/https://peraturan.bpk.go.id/Details/52596"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 43 Tahun 1957 tentang Penetapan Bagian IX (Kementrian Penerangan) Dari Anggaran Republik Indonesia Tahun Dinas 1954

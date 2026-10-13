@@ -18,7 +18,7 @@ source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=2013"
 bpk_page: "https://peraturan.bpk.go.id/Details/38872"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145125/https://peraturan.bpk.go.id/Details/38872"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 15 Tahun 2013 tentang Perubahan atas Undang-Undang Nomor 19 Tahun 2012 tentang Anggaran dan Pendapatan Belanja Negara Tahun Anggaran 2013

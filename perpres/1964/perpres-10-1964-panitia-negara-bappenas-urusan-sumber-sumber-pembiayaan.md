@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42479"
 bpk_page: "https://peraturan.bpk.go.id/Details/42479"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081630/https://peraturan.bpk.go.id/Details/42479"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 10 Tahun 1964 tentang Panitia Negara BAPPENAS Urusan Sumber-Sumber Pembiayaan

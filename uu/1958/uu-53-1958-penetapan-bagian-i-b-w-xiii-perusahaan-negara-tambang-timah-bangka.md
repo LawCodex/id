@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52259"
 bpk_page: "https://peraturan.bpk.go.id/Details/52259"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122842/https://peraturan.bpk.go.id/Details/52259"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 53 Tahun 1958 tentang Penetapan Bagian I.B.W. XIII (Perusahaan Negara Tambang Timah Bangka) dari Anggaran Republik Indonesia Untuk Tahun Dinas 1955

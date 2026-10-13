@@ -18,7 +18,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/41946"
 bpk_metadata_archived: "http://web.archive.org/web/20260519110236/https://peraturan.bpk.go.id/Details/41946/perpres-no-7-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=7&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 7 Tahun 2006 tentang Komite Nasional Pengendalian Flu Burung (Avian Influenza) dan Kesiapsiagaan Menghadapi Pandemi Influenza

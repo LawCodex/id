@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/50982"
 bpk_page: "https://peraturan.bpk.go.id/Details/50982"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124209/https://peraturan.bpk.go.id/Details/50982"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 17 Tahun 1962 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang No. 3 Tahun 1962 Tentang Penerimaan dan Penggunaan Warga Negara Asing Yang Dengan Sukarela Turut-Serat Dalam Perjuangan Pembebasan Irian barat (Lembaran Negara Tahun 1962 No. 21) Menjadi Undang-Undang

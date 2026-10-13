@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53431"
 bpk_page: "https://peraturan.bpk.go.id/Details/53431"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123304/https://peraturan.bpk.go.id/Details/53431"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 11 Tahun 1960 tentang Perubahan Modal Bank Indonesia

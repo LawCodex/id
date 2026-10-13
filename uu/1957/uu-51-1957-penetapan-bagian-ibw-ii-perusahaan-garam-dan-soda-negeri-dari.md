@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52631"
 bpk_page: "https://peraturan.bpk.go.id/Details/52631"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122523/https://peraturan.bpk.go.id/Details/52631"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 51 Tahun 1957 tentang Penetapan Bagian IBW II (Perusahaan Garam dan Soda Negeri) Dari Anggaran Republik Indonesia Tahun Dinas 1954

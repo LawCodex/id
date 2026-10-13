@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42001"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082040/https://peraturan.bpk.go.id/Details/42001"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=65&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 65 Tahun 2006 tentang Perubahan Peraturan Presiden Nomor 36 Tahun 2005 Tentang Pengadaan Tanah Bagi Pelaksanaan Pembangunan Untuk Kepentingan Umum

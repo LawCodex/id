@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44161"
 bpk_page: "https://peraturan.bpk.go.id/Details/44161"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141311/https://peraturan.bpk.go.id/Details/44161"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 36 Tahun 2003 tentang Pembentukan Kabupaten Samosir dan Kabupaten Serdang Bedagai Di Provinsi Sumatera Utara

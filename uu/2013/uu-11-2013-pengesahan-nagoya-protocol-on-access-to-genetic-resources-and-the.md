@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38848"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111131/https://peraturan.bpk.go.id/Details/38848/uu-no-11-tahun-2013"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=2013"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 11 Tahun 2013 tentang Pengesahan Nagoya Protocol on Access to Genetic Resources and The Fair and Equitable Sharing of Benefits Arising from Their Utilization to The Convention on Biological Diversity (Protokol, Nagoya Tentang Akses pada Sumber Daya Genetik dan Pembagian Keuntungan yang Adil dan Seimbang yang Timbul dari Pemanfaatannya atas Konvensi Keanekaragaman Hayati)

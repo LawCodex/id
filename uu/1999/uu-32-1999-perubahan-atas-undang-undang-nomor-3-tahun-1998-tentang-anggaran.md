@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45353"
 bpk_metadata_archived: "http://web.archive.org/web/20240919140121/https://peraturan.bpk.go.id/Details/45353"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=32&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 32 Tahun 1999 tentang Perubahan atas Undang-Undang Nomor 3 Tahun 1998 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1998/1999 Sebagaimana telah Diubah dengan Undang-Undang Nomor 7 Tahun 1998

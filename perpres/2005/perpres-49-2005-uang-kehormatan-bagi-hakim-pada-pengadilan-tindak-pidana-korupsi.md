@@ -22,7 +22,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42578"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082844/https://peraturan.bpk.go.id/Details/42578/perpres-no-49-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=49&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 49 Tahun 2005 tentang Uang Kehormatan Bagi Hakim Pada Pengadilan Tindak Pidana Korupsi

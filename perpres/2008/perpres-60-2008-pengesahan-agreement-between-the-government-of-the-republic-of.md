@@ -11,7 +11,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres+60+2008.pdf&fl=P16115"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=60&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 60 Tahun 2008 tentang Pengesahan Agreement Between The Government Of The Republic Of Indonesia And The Austrian Federal Government On Visa Exemption For Holders Of Diplomatic And Service Passports (Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Federal Austria Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik Dan Dinas)

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/39223"
 bpk_metadata_archived: "http://web.archive.org/web/20240909070205/https://peraturan.bpk.go.id/Details/39223/u"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2011"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2011 tentang Penanganan Fakir Miskin

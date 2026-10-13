@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42494"
 bpk_page: "https://peraturan.bpk.go.id/Details/42494"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124705/https://peraturan.bpk.go.id/Details/42494"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 47 Tahun 1964 tentang Penyempurnaan Aparatur Distribusi

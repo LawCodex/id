@@ -22,7 +22,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42491"
 bpk_page: "https://peraturan.bpk.go.id/Details/42491"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081649/https://peraturan.bpk.go.id/Details/42491/perpres-no-19-tahun-1964"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 19 Tahun 1964 tentang Pengaturan dan Pengapalan Muatan Ekspor dan Impor Indonesia

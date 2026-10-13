@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52717"
 bpk_page: "https://peraturan.bpk.go.id/Details/52717"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122608/https://peraturan.bpk.go.id/Details/52717"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 69 Tahun 1957 tentang Persetujuan Kebudayaan dan Pendidikan Antara Negara-Negara Republik Indonesia dan Republik India

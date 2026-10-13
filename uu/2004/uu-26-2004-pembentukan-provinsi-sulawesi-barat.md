@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/40696"
 bpk_page: "https://peraturan.bpk.go.id/Details/40696"
 bpk_metadata_archived: "http://web.archive.org/web/20250525173818/https://peraturan.bpk.go.id/Details/40696/uu-no-26-tahun-"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 26 Tahun 2004 tentang Pembentukan Provinsi Sulawesi Barat

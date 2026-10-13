@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52706"
 bpk_page: "https://peraturan.bpk.go.id/Details/52706"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122558/https://peraturan.bpk.go.id/Details/52706"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 64 Tahun 1957 tentang Penetapan Bagian IBW XV (Perusahaan Batubara Bukit Asam) dari Anggaran Republik Indonesia Tahun Dinas 1954

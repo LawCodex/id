@@ -26,8 +26,8 @@ instrument. Part of [LawCodex](https://github.com/LawCodex).
 | Undang-Undang Darurat | `uu-darurat/` | 0 | 0 | 174 |
 | Peraturan Pemerintah Pengganti Undang-Undang | `perppu/` | 165 | 149 | 7 |
 | Peraturan Pemerintah | `pp/` | 0 | 0 | 0 |
-| Peraturan Presiden | `perpres/` | 929 | 543 | 1711 |
-| **Total** | | **2743** | **1973** | **2178** |
+| Peraturan Presiden | `perpres/` | 2347 | 1574 | 293 |
+| **Total** | | **4161** | **3004** | **760** |
 <!-- /COUNTS -->
 
 ## Structure
@@ -160,7 +160,7 @@ python id_convert.py --kinds uud,uu,uudrt,perppu,pp,perpres
 ```
 
 `id_plan.py` merges the three catalogues on (form, number, year). Text source preference: BPK
-PDF, then Setneg; when the first text looks like poor OCR (more than 2% of tokens mixing letters
+PDF, then Setneg; when the first text looks like poor OCR (more than 5% of tokens mixing letters
 and digits), the other source is also tried and the cleaner text is kept.
 
 Retrieved: 2026-10-12.

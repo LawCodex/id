@@ -12,7 +12,7 @@ status_basis: "Setneg: berlaku"
 source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpres0612012.pdf&fl=P16130"
 source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=61&thn=2012"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 61 Tahun 2012 tentang Pengesahan Second Protocol To Amend The Agreement On Trade In Goods Under The Framework Agreement On Comprehensive Economic Cooperation Among The Governments Of The Member Countries Of The Association Of Southeast Asian Nations And The Republic Of Korea (Protokol Kedua Untuk Mengubah Persetujuan Perdagangan Barang Dari Persetujuan Kerangka Kerja Mengenai Kerjasama Ekonomi Menyeluruh Antar Pemerintah Negara-Negara Anggota Perhimpunan Bangsabangsa Asia Tenggara Dan Republik Korea),

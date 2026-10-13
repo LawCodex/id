@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/64499"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150252/https://peraturan.bpk.go.id/Details/64499"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=2017"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2017 tentang Pengesahan Persetujuan antara Pemerintah Republik Indonesia dan Pemerintah Negara Merdeka Papua Nugini tentang Kegiatan Kerja Sama di Bidang Pertahanan (Agreement Between The Government of The Republic of Indonesia and The Government of The Independent State of Papua New Guinea Concerning Cooperation Activities In The Field of Defence)

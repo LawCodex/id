@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38535"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145749/https://peraturan.bpk.go.id/Details/38535"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=2015"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 13 Tahun 2015 tentang Pengesahan Perjanjian Bantuan Timbal Balik Dalam Masalah Pidana Antara Republik Indonesia dan Republik Sosialis Viet Nam (Treaty on Mutual Legal Assistance in Criminal Matters Between The Republic of Indonesia and The Socialist Republic of Viet Nam)

@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/45317"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134537/https://peraturan.bpk.go.id/Details/45317"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=1999"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 19 Tahun 1999 tentang Pengesahan ILO Convention No. 105 Concerning The Abolition of Forced Labour (Konvensi ILO mengenai Penghapusan Kerja Paksa)

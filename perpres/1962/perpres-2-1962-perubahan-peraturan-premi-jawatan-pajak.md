@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/42435"
 bpk_page: "https://peraturan.bpk.go.id/Details/42435"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124230/https://peraturan.bpk.go.id/Details/42435"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 2 Tahun 1962 tentang Perubahan Peraturan Premi Jawatan Pajak

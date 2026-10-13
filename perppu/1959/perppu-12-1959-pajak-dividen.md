@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53885"
 bpk_page: "https://peraturan.bpk.go.id/Details/53885"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123013/https://peraturan.bpk.go.id/Details/53885"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 12 Tahun 1959 tentang Pajak Dividen

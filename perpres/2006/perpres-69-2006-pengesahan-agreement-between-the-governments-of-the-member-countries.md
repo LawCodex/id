@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42057"
 bpk_metadata_archived: "http://web.archive.org/web/20241209203955/https://peraturan.bpk.go.id/Details/42057/perpres-no-69-tahun-2006"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=69&thn=2006"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 69 Tahun 2006 tentang Pengesahan Agreement Between The Governments Of The Member Countries Of The Association Of Southeast Asian Nations And The Government Of The Russian Federation On Economic And Development Cooperation (Persetujuan Antara Pemerintah Negara-Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara dan Pemerintah Federasi Rusia Tentang Kerjasama Ekonomi dan Pembangunan)

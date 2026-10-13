@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/45424"
 bpk_page: "https://peraturan.bpk.go.id/Details/45424"
 bpk_metadata_archived: "http://web.archive.org/web/20240919121518/https://peraturan.bpk.go.id/Details/45424"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 28 Tahun 1953 tentang Penetapan "Undang-Undang Darurat Nomor 9 Tahun 1951, tentang Memperpanjang Waktu Berlakunya Opsenten atas Beberapa Macam Cukai" (Lembaran-Negara Nomor 43 Tahun 1951) Sebagai Undang-Undang

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38661"
 bpk_metadata_archived: "http://web.archive.org/web/20250903065309/https://peraturan.bpk.go.id/Details/38661/uu-no-24-tahun-2009%20"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=24&thn=2009"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan

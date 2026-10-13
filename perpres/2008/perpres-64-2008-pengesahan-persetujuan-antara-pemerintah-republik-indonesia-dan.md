@@ -19,7 +19,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42278"
 bpk_metadata_archived: "http://web.archive.org/web/20251126201444/https://peraturan.bpk.go.id/Details/42278/perpres-no-64-tahun-2008"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=64&thn=2008"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 64 Tahun 2008 tentang Pengesahan Persetujuan Antara Pemerintah Republik Indonesia dan Pemerintah Federasi Brasil Mengenai Pembebasan Visa Untk Paspor Diplomatik dan Dinas (Agreement Between The Government Of Indonesia And The Government Of The Federation Republic Of Brazil On Visa Exemption For Diplomatic And Official Or Service Passports)

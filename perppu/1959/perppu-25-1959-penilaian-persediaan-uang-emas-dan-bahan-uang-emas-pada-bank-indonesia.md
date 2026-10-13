@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/53982"
 bpk_page: "https://peraturan.bpk.go.id/Details/53982"
 bpk_metadata_archived: "http://web.archive.org/web/20240919123115/https://peraturan.bpk.go.id/Details/53982"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 25 Tahun 1959 tentang Penilaian Persediaan Uang Emas Dan Bahan Uang Emas Pada Bank Indonesia

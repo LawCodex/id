@@ -18,7 +18,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49964"
 bpk_page: "https://peraturan.bpk.go.id/Details/49964"
 bpk_metadata_archived: "http://web.archive.org/web/20240919124803/https://peraturan.bpk.go.id/Details/49964"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 1 Tahun 1965 tentang Pembentukan Pengadilan Tinggi Di Denpasar Dan Perubahan Daerah Hukum Pengadilan Tinggi Di Makasar

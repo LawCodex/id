@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/44449"
 bpk_page: "https://peraturan.bpk.go.id/Details/44449"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141004/https://peraturan.bpk.go.id/Details/44449"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 14 Tahun 2002 tentang Pengadilan Pajak

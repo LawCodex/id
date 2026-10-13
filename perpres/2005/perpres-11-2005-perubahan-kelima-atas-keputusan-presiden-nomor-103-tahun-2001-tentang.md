@@ -25,7 +25,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42547"
 bpk_metadata_archived: "http://web.archive.org/web/20240923081719/https://peraturan.bpk.go.id/Details/42547"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=11&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 11 Tahun 2005 tentang Perubahan Kelima Atas Keputusan Presiden Nomor 103 Tahun 2001 Tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi, dan Tata Kerja Lembaga Pemerintah Non Departemen sebagaimana Telah Beberapa Kali diubah Terakhir dengan Keputusan Presiden Nomor 9 Tahun 2004

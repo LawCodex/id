@@ -20,7 +20,7 @@ source_page: "https://peraturan.bpk.go.id/Details/52871"
 bpk_page: "https://peraturan.bpk.go.id/Details/52871"
 bpk_metadata_archived: "http://web.archive.org/web/20240919122940/https://peraturan.bpk.go.id/Details/52871"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 77 Tahun 1958 tentang Penetapan "Undang-Undang Darurat No. 18 Tahun 1957 Tentang Bank Tani dan Nelayan (Lembaran-Negara Tahun 1957 No. 70)" Sebagai Undang-Undang

@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/38565"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145450/https://peraturan.bpk.go.id/Details/38565"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=2014"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 30 Tahun 2004 Tentang Jabatan Notaris

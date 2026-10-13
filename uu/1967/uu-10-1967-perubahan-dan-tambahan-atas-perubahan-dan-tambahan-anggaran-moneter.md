@@ -21,7 +21,7 @@ source_page: "https://peraturan.bpk.go.id/Details/49583"
 bpk_page: "https://peraturan.bpk.go.id/Details/49583"
 bpk_metadata_archived: "http://web.archive.org/web/20240919125018/https://peraturan.bpk.go.id/Details/49583"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 10 Tahun 1967 tentang Perubahan dan Tambahan Atas Perubahan dan Tambahan Anggaran Moneter Tahun Anggaran 1966

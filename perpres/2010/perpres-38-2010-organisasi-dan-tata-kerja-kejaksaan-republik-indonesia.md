@@ -23,7 +23,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40173"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082735/https://peraturan.bpk.go.id/Details/40173"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=38&thn=2010"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 38 Tahun 2010 tentang Organisasi dan Tata Kerja Kejaksaan Republik Indonesia

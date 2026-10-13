@@ -20,7 +20,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/42563"
 bpk_metadata_archived: "http://web.archive.org/web/20240923082055/https://peraturan.bpk.go.id/Details/42563/perpres-no-29-tahun-2005"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPRES&no=29&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Peraturan Presiden Nomor 29 Tahun 2005 tentang Rincian Anggaran Belanja Pemerintah Pusat Tahun Anggaran 2005

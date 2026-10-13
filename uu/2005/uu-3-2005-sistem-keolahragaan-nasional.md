@@ -21,7 +21,7 @@ bpk_page: "https://peraturan.bpk.go.id/Details/40234"
 bpk_metadata_archived: "http://web.archive.org/web/20250806082518/https://peraturan.bpk.go.id/Details/40234/Uu-No-3-Tahun-"
 setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=2005"
 consolidated: false
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 3 Tahun 2005 tentang Sistem Keolahragaan Nasional
