@@ -160,7 +160,7 @@ python id_convert.py --kinds uud,uu,uudrt,perppu,pp,perpres
 ```
 
 `id_plan.py` merges the three catalogues on (form, number, year). Text source preference: BPK
-PDF, then Setneg; when the first text looks like poor OCR (more than 1% of tokens mixing letters
+PDF, then Setneg; when the first text looks like poor OCR (more than 2% of tokens mixing letters
 and digits), the other source is also tried and the cleaner text is kept.
 
 Retrieved: 2026-10-12.

@@ -27,6 +27,7 @@ RE_PARAGRAF = re.compile(r"^Paragraf\s+(\d+[A-Z]?|Ke[a-z]+)\s*$", re.I)
 RE_PASAL = re.compile(r"^Pasa[l1]\s+(\d+[A-Z]?|[IVXLC]+)\s*\.?$")
 RE_HDR1 = re.compile(r"^PRES[A-Z1]{0,3}[DO0]?EN$")
 RE_HDR2 = re.compile(r"^REP[A-Z1]{2,6}IND[O0][A-Z0-9]{2,6}$")
+RE_LNHDR = re.compile(r"^(\d{4}\s*,\s*No\.?\s*\d+\s*-\s*\d+\s*-|-\s*\d+\s*-\s*\d{4}\s*,\s*No\.?\s*\d+)$")
 RE_PAGENUM = re.compile(r"^[-–—]?\s*\d{1,4}\s*[-–—]?$")
 RE_WEB = re.compile(r"^(www\.|https?://)\S+$|^\S+\.go\.id\s*$", re.I)
 RE_CATCH = re.compile(r"(…|\.\s?\.\s?\.)\s*$")
@@ -43,7 +44,7 @@ def is_upper_line(s):
 def clean_lines(text):
     """Return list of (indent, stripped_line) with page furniture removed; '' marks blank."""
     out = []
-    text = text.replace("\u00ad", "-")
+    text = text.replace("\u00ad", "-").replace("\t", " ")
     pages = text.split("\f")
     # running headers/footers: upper-case lines recurring in the top/bottom 4 lines of many pages
     from collections import Counter
@@ -85,7 +86,7 @@ def clean_lines(text):
                     and not re.match(r"^\d+\.$", s)):
                 i += 1
                 continue
-            if RE_WEB.match(s) or s in ("SALINAN", "Salinan"):
+            if RE_WEB.match(s) or RE_LNHDR.match(s) or s in ("SALINAN", "Salinan"):
                 i += 1
                 continue
             if RE_CATCH.search(s) and len(s) <= 60 and ind >= 20:
@@ -415,7 +416,8 @@ def main():
         tx = C.jload(tp)
         outdir = os.path.join(C.REPO, C.KIND_DIR[it["kind"]], it["year"])
         if not tx or not tx.get("parts"):
-            reason = "not fetched" if tx is None else (
+            has = bool((it.get("bpk") or {}).get("files") or (it.get("setneg") or {}).get("files"))
+            reason = ("not fetched" if has else "no PDF listed by any source") if tx is None else (
                 "; ".join(f"{t['source']}: {t['error']}" for t in tx.get("tried", [])) or
                 "no PDF listed by any source")
             missing.append((it, reason))

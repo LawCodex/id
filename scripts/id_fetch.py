@@ -25,6 +25,7 @@ Usage: python id_fetch.py STEP [--kinds uu,perppu,...] [--limit N]
 import argparse
 import os
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -261,7 +262,20 @@ def step_dpr(args):
 MAX_PDF = 80 * 1024 * 1024
 
 
+def doc_to_text(data):
+    with tempfile.TemporaryDirectory(dir=os.path.join(C.RAW, "tmp")) as td:
+        p = os.path.join(td, "in.doc")
+        with open(p, "wb") as f:
+            f.write(data)
+        r = subprocess.run(["textutil", "-convert", "txt", "-encoding", "UTF-8", "-stdout", p],
+                           capture_output=True, timeout=300)
+        txt = r.stdout.decode("utf-8", "replace")
+        return txt, max(1, len(txt) // 2500)
+
+
 def pdf_to_text(data):
+    if data.startswith(b"\xd0\xcf\x11\xe0") or data.startswith(b"{\\rtf"):
+        return doc_to_text(data)
     with tempfile.TemporaryDirectory(dir=os.path.join(C.RAW, "tmp")) as td:
         p = os.path.join(td, "in.pdf")
         with open(p, "wb") as f:
@@ -303,17 +317,29 @@ def garbage_ratio(txt):
     return bad / len(toks)
 
 
-def download(url, host_delay):
-    r = C.http("GET", url, delay=host_delay, timeout=600, stream=True)
-    if r is None or r.status_code != 200:
-        return None, (r.status_code if r is not None else "error")
-    buf = bytearray()
-    for chunk in r.iter_content(1 << 16):
-        buf.extend(chunk)
-        if len(buf) > MAX_PDF:
-            r.close()
-            return None, "too large"
+def download(url, host_delay, tries=4):
+    for attempt in range(tries):
+        r = C.http("GET", url, delay=host_delay, timeout=600, stream=True)
+        if r is None or r.status_code != 200:
+            return None, (r.status_code if r is not None else "error")
+        buf = bytearray()
+        try:
+            for chunk in r.iter_content(1 << 16):
+                buf.extend(chunk)
+                if len(buf) > MAX_PDF:
+                    r.close()
+                    return None, "too large"
+            break
+        except Exception as e:  # connection broken mid-transfer: retry
+            print(f"  broken transfer {url}: {e}", file=sys.stderr)
+            time.sleep(10 * (attempt + 1))
+    else:
+        return None, "transfer failed"
     data = bytes(buf)
+    if data.startswith(b"\xd0\xcf\x11\xe0") or data.startswith(b"{\\rtf"):
+        if shutil.which("textutil"):
+            return data, 200  # legacy Word / RTF file - converted with macOS textutil
+        return None, "not a pdf (Word/RTF)"
     if not data.startswith(b"%PDF") and b"%PDF" not in data[:1024]:
         return None, "not a pdf"
     return data, 200
@@ -379,7 +405,7 @@ def process_item(item, max_files=12):
             cand = {"source": src, "parts": parts, "skipped": skipped, "garbage": round(g, 4)}
             if best is None or g < best["garbage"]:
                 best = cand
-            if g < 0.01:
+            if g < 0.02:
                 break  # good enough; otherwise also try the next source and keep the cleaner text
     res = {"key": key, "tried": tried, "compared": len(cands) > 1}
     if best:
@@ -439,7 +465,7 @@ def step_text(args):
             if not r.get("parts") and any("scanned" not in t.get("error", "") for t in r.get("tried", [])):
                 return False
             # poor OCR text and an untried alternative source
-            if r.get("parts") and r.get("garbage", 1) >= 0.01 and len(candidates(it)) > 1 \
+            if r.get("parts") and r.get("garbage", 1) >= 0.02 and len(candidates(it)) > 1 \
                     and len(r.get("tried", [])) + 1 < len(candidates(it)) and not r.get("compared"):
                 return False
             # retry if a source that was not tried is now available
@@ -453,7 +479,12 @@ def step_text(args):
     # two workers: Setneg- and BPK-sourced items interleave, so each host sees ~1-2 requests at once
     done = 0
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
-        for _ in ex.map(lambda it: process_item(it), todo):
+        def safe(it):
+            try:
+                process_item(it)
+            except Exception as e:  # never let one item stop the run
+                print(f"  ERROR {it['key']}: {e!r}", file=sys.stderr)
+        for _ in ex.map(safe, todo):
             done += 1
             if done % 50 == 0:
                 print(f"  text {done}/{len(todo)}", flush=True)
