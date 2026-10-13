@@ -1,0 +1,348 @@
+---
+title: "Peraturan Pemerintah Nomor 48 Tahun 1961 tentang Pendirian Perusahaan Perikanan Negara Kalimantan Selatan"
+identifier: "PP No. 48 Tahun 1961"
+type: regulation
+jurisdiction: id
+language: id
+number: "48"
+year: 1961
+date: 1961-03-29
+promulgated: 1961-03-29
+in_force_from: 1961-01-01
+status: in_force
+status_basis: "BPK: Berlaku"
+gazette: "LN. 1961/No. 69, TLN. No. 2203, LL : 7 HLM"
+subject: "PERIKANAN DAN KELAUTAN - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN"
+source: "https://peraturan.bpk.go.id/Download/63283/pp%20no%20048%20tahun%201961.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/72799"
+bpk_page: "https://peraturan.bpk.go.id/Details/72799"
+bpk_metadata_archived: "http://web.archive.org/web/20240919124016/https://peraturan.bpk.go.id/Details/72799"
+consolidated: false
+retrieved: 2026-10-13
+---
+
+# Peraturan Pemerintah Nomor 48 Tahun 1961 tentang Pendirian Perusahaan Perikanan Negara Kalimantan Selatan
+
+PERATURAN PEMERINTAH REPUBLIK INDONESIA
+
+NOMOR 48 TAHUN 1961
+
+TENTANG
+
+PENDIRIAN PERUSAHAAN PERIKANAN NEGARA KALIMANTAN SELATAN
+
+Presiden Republik Indonesia,
+
+Menimbang:
+
+a. bahwa perlu segera melaksanakan Undang-undang No. 19 Prp Tahun 1960 terhadap usaha perikanan yang berada di bawah lingkungan Departemen Pertanian;
+
+b. bahwa berhubung dengan itu perlu didirikan suatu Perusahaan Negara menurut Undang-undang No. 19 Prp Tahun 1960, yang berusaha dalam lapangan perikanan di Wilayah Daerah tingkat I Kalimantan Selatan;
+
+Mengingat:
+
+1. Pasal 5 ayat (2) Undang-Undang Dasar;
+
+2. Pasal 3 ayat (1) dan Pasal 27 Undang-undang No. 19 Prp Tahun 1960 (Lembaran Negara Tahun 1960 No. 59);
+
+Mendengar : Musyawarah Kabinet Kerja pada tanggal 6 Oktober 1960;
+
+MEMUTUSKAN:
+
+Menetapkan:
+
+"PERATURAN PEMERINTAH TENTANG PENDIRIAN PERIKANAN NEGARA
+
+KALIMANTAN SELATAN".
+
+## BAB I — PENDIRIAN
+
+##### Pasal 1.
+
+(1) Dengan nama "PERUSAHAAN PERIKANAN NEGARA KALIMANTAN SELATAN", disingkap "PERIKANI KALIMANTAN SELATAN", didirikan suatu perusahaan Negara sebagai termaksud pada Pasal 3 ayat (1) undang-undang No 19 Prp Tahun 1960, di bidang perikanan.
+
+(2) Perusahaan Negara "FISHERY COMMUNITY PROYECT KOTA BARU" di Kotabaru, dengan ini diserahkan kepada Perikanan Kalimantan Selatan termaksud dalam ayat (1) di atas.
+
+(3) Segala hak dan kewajiban, perlengkapan dan kekayaan termasuk pegawai/pekerja serta usaha dari perusahaan termaksud dalam ayat (2) pasal ini, beralih kepada Perikani Kalimantan Selatan.
+
+(4) Pelaksanaan penyerahan dan peralihan termaksud dalam ayat (2)dan (3) di atas diatur oleh Menteri Pertanian.
+
+## BAB II — ANGGARAN DASAR.
+
+KETENTUAN UMUM.
+
+##### Pasal 2.
+
+(1) Perikani Kalimantan Selatan adalah badan hukum yang berhak melakukan usaha-usaha berdasarkan Peraturan Pemerintah ini.
+
+(2) Dalam Peraturan Pemerintah ini yang dimaksud:
+
+a. "Pemerintah" ialah Presiden Republik Indonesia;
+
+b. "Menteri " ialah Menteri Pertanian;
+
+c. "Perusahaan" ialah Perikani Kalimantan Selatan;
+
+d. "Direksi" ialah Direksi Perusahaan;
+
+e. "B.P.U." ialah Badan Pimpinan Umum sebagaimana termaksud dalam Peraturan Pemerintah No 44 Tahun 1961.
+
+##### Pasal 3.
+
+Dengan tidak mengurangi ketentuan-ketentuan dalam Peraturan Pemerintah ini, maka terhadap Perusahaan berlaku segala macam hukum Indonesia.
+
+TEMPAT DAN KEDUDUKAN.
+
+##### Pasal 4.
+
+Perusahaan berkedudukan di Kota Baru dan dapat mempunyai cabang perwakilan didalam Daerah tingkat I Kalimantan Selatan.
+
+TUJUAN DAN LAPANGAN USAHA.
+
+##### Pasal 5.
+
+(1) Perusahaan adalah suatu kesatuan produksi yang berusaha dibidang perikanan untuk turut membangun ekonomi nasional sesuai dengan ekonomi terpimpin dengan mengutamakan kebutuhan rakyat dan ketentraman serta kesenangan kerja dalam perusahaan, menuju masyarakat yang adil dan makmur, materiil dan spiritual.
+
+(2) Untuk mencapai tujuan termaktub dalam ayat (1), Perusahaan, dengan berpedoman kepada dasar-dasar komersiil yang sehat, bertugas menyelenggarakan produksi, pengolahan dan dimana perlu juga pemasaran hasil-hasil perikanan segala sesuatu menurut petunjuk-petunjuk Menteri.
+
+MODAL.
+
+##### Pasal 6.
+
+(1) Modal Perusahaan ditetapkan Rp. 39.875.000,--
+
+(2) Modal ini dapat ditambah dengan ketentuan Peraturan Pemerintah.
+
+(3) Perusahaan mempunyai cadangan umum yang dibentuk dan, dipupuk menurut ketentuan dalam Pasal 21 ayat (1) Peraturan Pemerintah ini.
+
+(4) Perusahaan tidak mengadakan cadangan diam dan/atau cadangan rahasia.
+
+PIMPINAN.
+
+##### Pasal 7.
+
+(1) Perusahaan dipimpin oleh suatu Direksi yang terdiri dari seorang Presiden Direktur dan dibantu- oleh seorang Direktur, yang bertanggung jawab atas bidangnya masing-masing.
+
+(2) Presiden Direktur bertanggung jawab kepada Menteri dan Direktur bertanggung jawab kepada Presiden Direktur.
+
+(3) Gaji dan penghasilan lain anggota. Direksi ditetapkan oleh Menteri dengan mengingat ketentuan yang ditetapkan dengan atau berdasarkan Peraturan Pemerintah.
+
+##### Pasal 8.
+
+Anggota Direksi adalah warga negara Indonesia.
+
+##### Pasal 9.
+
+(1) Antara anggota Direksi tidak boleh ada hubungan keluarga sampai derajat ketiga, baik menurut garis lurus maupun garis kesamping termasuk menantu dan ipar, kecuali jika diizinkan oleh Pemerintah.
+
+Jika sesudah pengangkatan mereka masuk periparan yang terlarang itu, maka untuk dapat melanjutkan jabatannya diperlukan ijin Pemerintah.
+
+(2) Anggota Direksi tidak boleh merangkap jabatan lain, kecuali dengan ijin Menteri.
+
+Tidak termasuk dalam hal ini ialah jabatan yang dipikulkan oleh Pemerintah kepadanya.
+
+(3) Anggota Direksi tidak boleh mempunyai kepentingan pribadi, langsung atau tidak langsung pada perkumpulan/perusahaan lain yang berusaha dalam lapangan yang bertujuan mencari laba.
+
+##### Pasal 10.
+
+(1) Anggota Direksi diangkat oleh Pemerintah untuk selama-lamanya lima tahun.
+
+Pengangkatan Presiden Direktur dilakukan atas usul Menteri dan Direktur atas usul Gubernur Kepala Daerah tingkat I Kalimantan Selatan. Setelah waktu itu berakhir anggota yang bersangkutan dapat diangkat kembali.
+
+(2) Dalam hal-hal dibawah ini Pemerintah dapat memberhentikan anggota Direksi, meskipun waktu tersebut dalam ayat (1) belum berakhir:
+
+a. atas permintaan sendiri;
+
+b. karena tindakan yang merugikan Perusahaan;
+
+c. karena tindakan atau sikap yang bertentangan dengan kepentingan Negara;
+
+d. karena meninggal dunia.
+
+(3) Pemberhentian karena alasan tersebut ayat (2) sub b dan sub c jika merupakan suatu pelanggaran dari peraturan hukum pidana, merupakan pemberhentian tidak dengan hormat.
+
+(4) Sebelum pemberhentian karena alasan tersebut dalam ayat (2) sub b dan c dilakukan, anggota Direksi yang bersangkutan diberi kesempatan untuk membela diri, hal mana harus dilaksanakan dalam waktu satu bulan setelah anggota Direksi yang bersangkutan diberitahukan tentang niat akan pemberhentian itu oleh Menteri.
+
+(5) Selama persoalan tersebut dalam ayat (4) belum diputus, maka Menteri dapat memberhentikan untuk sementara waktu anggota Direksi yang bersangkutan.
+
+Jika dalam waktu dua bulan setelah pemberhentian sementara dijatuhkan belum ada keputusan mengenai pemberhentian anggota Direksi berdasarkan ayat (3), maka pemberhentian sementara itu menjadi batal dan anggota Direksi yang bersangkutan dapat segera menjalankan jabatannya lagi, kecuali bilamana untuk keputusan pemberhentian tersebut diperlukan keputusan pengadilan dan hal itu harus diberitahukan kepada yang bersangkutan.
+
+##### Pasal 11.
+
+(1) Direksi mewakili Perusahaan didalam dan diluar pengadilan.
+
+(2) Direksi dapat menyerahkan kekuasaan mewakili tersebut dalam ayat (1) kepada seorang anggota Direksi yang khusus ditunjuk untuk itu atau kepada seorang/beberapa orang pegawai perusahaan tersebut baik sendiri maupun bersama-sama atau kepada orang/badan lain.
+
+##### Pasal 12.
+
+(1) Direksi menentukan kebijaksanaan Perusahaan.
+
+(2) Direksi mengurus dan menguasai kekayaan Perusahaan.
+
+HUBUNGAN PERUSAHAAN DENGAN
+
+BADAN PIMPINAN UMUM.
+
+##### Pasal 13.
+
+(1) Sifat hubungan, pembagian tugas dan pekerjaan antara perusahaan dan B.P.U. ditetapkan oleh B.P.U., segala sesuatunya menurut petunjuk Menteri.
+
+(2) Keputusan B.P.U. termaktub dalam ayat (1) mengikat Perusahaan.
+
+##### Pasal 14.
+
+Perusahaan memberikan iuran wajib/pembayaran jasa kepada B.P.U., menurut jumlah yang ditentukan oleh Direksi B.P.U. dengan persetujuan Menteri.
+
+TANGGUNG JAWAB DAN TUNTUTAN GANTI RUGI PEGAWAI.
+
+##### Pasal 15.
+
+(1) Semua pegawai perusahaan, termasuk anggota Direksi dalam kedudukan selaku demikian, yang tidak dibebani tugas penyimpanan uang, surat-surat berharga dan barang-barang persediaan, yang karena tindakan melawan hukum atau karena melalaikan kewajiban dan tugas yang dibebankan kepada mereka dengan langsung atau tidak langsung telah menimbulkan kerugian bagi Perusahaan, diwajibkan mengganti kerugian tersebut.
+
+(2) Ketentuan-ketentuan tentang tuntutan ganti rugi terhadap pegawai negeri berlaku sepenuhnya terhadap pegawai Perusahaan.
+
+(3) Semua pegawai Perusahaan yang dibebani tugas penyimpanan pembayaran atau penyerahan uang dan surat-surat berharga milik perusahaan dan barang-barang persedian milik perusahaan. yang disimpan didalam gudang atau tempat penyimpanan yang khusus dan semata-mata digunakan untuk keperluan itu, diwajibkan mengirimkan pertanggungan jawab tentang pelaksanaan, tugasnya kepada Badan pemeriksa Keuangan.
+
+(4) Pegawai termaksud pada ayat (3) tidak perlu mengirimkan pertanggungan jawab mengenai cara pengurusannya kepada Badan Pemeriksa Keuangan. Tuntutan terhadap pegawai tersebut dilakukan menurut ketentuan yang ditetapkan bagi pegawai bendaharawan yang oleh Badan Pemeriksa Keuangan dibebaskan dari kewajiban mengirimkan pertanggungan jawab mengenai cara mengurusnya.
+
+(5) Semua surat bukti dan surat lainnya bagaimanapun juga sifatnya, yang termasuk bilangan tata buku dan administrasi Perusahaan, disimpan ditempat Perusahaan atau ditempat lain yang ditunjuk oleh Menteri, kecuali jika untuk sementara dipindahkan ke Badan Pemeriksa Keuangan dalam hal dianggapnya perlu untuk kepentingan suatu pemeriksaan.
+
+(6) Untuk keperluan pemeriksaan bertalian dengan penetapan pajak dan kontrol akuntan pada umumnya surat bukti dan surat lainnya termaksud pada ayat (5) untuk sementara dipindahkan ke Jawatan Akuntan Negara.
+
+KEPEGAWAIAN.
+
+##### Pasal 16.
+
+Direksi mengangkat dan memberhentikan pegawai pekerja Perusahaan menurut peraturan kepegawaian yang disetujui oleh Menteri berdasarkan peraturan kepegawaian perusahaan Negara yang ditetapkan oleh Pemerintah.
+
+TAHUN BUKU.
+
+##### Pasal 17.
+
+Tahun buku Perusahaan adalah tahun takwim.
+
+ANGGARAN PERUSAHAAN.
+
+##### Pasal 18.
+
+(1) Selambat-lambatnya tiga bulan sebelum tahun buku baru mulai berlaku maka oleh Direksi dikirimkan anggaran perusahaan kepada B.P.U. untuk dimintakan persetujuan kepada Menteri.
+
+(2) Kecuali apabila Menteri mengemukakan keberatan atau menolak proyek yang dimuat didalam anggaran perusahaan sebelum menginjak tahun buku baru maka anggaran tersebut berlaku sepenuhnya.
+
+(3) Anggaran tambahan atau perubahan anggaran yang terjadi dalam tahun buku yang bersangkutan harus mendapat persetujuan terlebih dahulu dari Menteri.
+
+LAPORAN PERHITUNGAN HASIL USAHA BERKALA
+
+DAN KEGIATAN PERUSAHAAN.
+
+##### Pasal 19.
+
+Laporan perhitungan hasil usaha berkala dan kegiatan perusahaan dikirim oleh Direksi kepada Menteri, menurut cara dan waktu yang ditentukan oleh Menteri.
+
+LAPORAN PERHITUNGAN TAHUNAN.
+
+##### Pasal 20.
+
+(1) Untuk tiap tahun buku, oleh Direksi disusun perhitungan tahunan, yang terdiri dari neraca dan perhitungan laba rugi. Neraca dan perhitungan laba rugi tersebut dikirimkan kepada B.P.U. untuk disampaikan kepada Menteri dan Badan Pemeriksa Keuangan menurut cara dan waktu yang ditetapkan oleh
+
+B.P.U.
+
+(2) Cara penilaian pos dalam perhitungan tahunan harus disebutkan.
+
+(3) Jika dalam waktu dua bulan sesudah menerima perhitungan tahunan itu oleh Menteri tidak diajukan keberatan tertulis maka perhitungan tahunan itu dianggap telah disahkan.
+
+(4) Perhitungan tahunan disahkan oleh Menteri; pengesahan termaksud memberi pembebasan kepada Direksi terhadap segala sesuatu yang termuat dalam perhitungan tahunan tersebut.
+
+PENGGUNAAN LABA.
+
+##### Pasal 21.
+
+(1) Dari laba bersih yang telah disahkan menurut Pasal 20, disisihkan untuk:
+
+a. dana pembangunan semesta sebesar 55%;
+
+b. untuk cadangan umum sebesar 20%, sampai cadangan umum tersebut mencapai jumlah dua kali modal perusahaan, sedangkan sisanya dipisahkan untuk sumbangan dana pensiun dan sokongan pegawai, sosial dan pendidikan, dan jasa produksi, yang jumlah persentasinya masing-masing akan ditetapkan oleh Pemerintah.
+
+(2) Penggunaan laba untuk cadangan umum, bilamana telah tercapai tujuannya, dapat dialihkan kepada penggunaan lain dengan Peraturan Pemerintah.
+
+(3) Cara mengurus, dan menggunakan dana penyusutan dan cadangan tujuan termaksud pada Pasal 18 ayat (2) Undang- undang No. 19 Prp Tahun 1960 ditentukan dengan Peraturan Menteri.
+
+##### Pasal 22.
+
+Separo dari laba bersih yang menurut ketentuan dalam Pasal 21 ayat (1) sub a disisihkan untuk dana pembangunan semesta, diserahkan kepada Daerah tingkat I Kalimantan Selatan.
+
+PEMBUBARAN.
+
+##### Pasal 23.
+
+(1) Pembubaran perusahaan dan penunjukan likuidaturnya ditetapkan dengan
+
+Peraturan Pemerintah.
+
+(2) Semua kekayaan Perusahaan setelah diadakan likuidasi menjadi milik Negara.
+
+(3) Pertanggungan jawab likuidasi oleh likuidatur dilakukan kepada Menteri yang memberi pembebasan tanggung jawab tentang pekerjaan yang telah diselesaikan olehnya.
+
+KETENTUAN PERALIHAN.
+
+##### Pasal 24.
+
+Pemasaran hasil-hasil perikanan dari Perusahaan termaksud dalam Pasal 1 sepanjang usaha ini belum dilakukan atau belum dapat ditampung oleh Perusahaan Negara lain, dilakukan oleh Perusahaan dengan memperhatikan petunjuk-petunjuk dari Menteri Perdagangan.
+
+## BAB III — KETENTUAN PENUTUP.
+
+##### Pasal 25.
+
+Hal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini ditetapkan oleh Menteri.
+
+##### Pasal 26.
+
+Peraturan Pemerintah ini mulai berlaku pada hari ditetapkan dan berlaku surut hingga tanggal 1 Januari 1961.
+
+Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatan dalam Lembaran Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 29 Maret 1961
+
+PRESIDEN REPUBLIK INDONESIA
+
+SUKARNO
+
+Diundangkan di Jakarta pada tanggal 29 Maret 1961.
+
+SEKRETARIS NEGARA
+
+MOHD. ICHSAN
+
+## PENJELASAN
+
+ATAS
+
+PERATURAN PEMERINTAH NOMOR 48 TAHUN 1961
+
+tentang
+
+PENDIRIAN PERUSAHAAN PERIKANAN NEGARA
+
+KALIMANTAN SELATAN
+
+I. UMUM.
+
+Dalam rangka pelaksanaan Undang-undang Nomor 19 Prp. tahun 1960 perlu memberikan status dan bentuk baru kepada perusahaan-perusahaan/usaha-usaha perikanan Negara.
+
+Perusahaan/usaha perikanan termaksud dijadikan satu Perusahaan Negara dengan status badan hukum sendiri.
+
+Dengan bentuk baru ini cara pengurusan dari perusahaan/usaha tersebut dapat diperlancar: demikian pula pengawasan dan pengamanannya dapat dilakukan lebih saksama.
+
+Untuk mengadakan kerja-sama dan kesatuan tindakan dalam mengurus perusahaan-perusahaan perikanan Negara, maka diadakan "Badan Pimpinan Umum Perusahaan Perikanan Negara" sebagaimana termaksud dalam Peraturan Pemerintah Nomor 44 tahun 1961.
+
+II PASAL DEMI PASAL
+
+Pasal 1 sampai dengan 26 Cukup jelas.
+
+CATATAN
+
+Kutipan: LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA TAHUN
+
+1961 YANG TELAH DI CETAK ULANG
+
+SUMBER : LN 1961/69; TLN NO. 2203

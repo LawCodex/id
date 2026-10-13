@@ -25,9 +25,9 @@ instrument. Part of [LawCodex](https://github.com/LawCodex).
 | Undang-Undang | `uu/` | 1643 | 1275 | 286 |
 | Undang-Undang Darurat | `uu-darurat/` | 0 | 0 | 174 |
 | Peraturan Pemerintah Pengganti Undang-Undang | `perppu/` | 165 | 149 | 7 |
-| Peraturan Pemerintah | `pp/` | 0 | 0 | 0 |
+| Peraturan Pemerintah | `pp/` | 2554 | 1561 | 2454 |
 | Peraturan Presiden | `perpres/` | 2347 | 1574 | 293 |
-| **Total** | | **4161** | **3004** | **760** |
+| **Total** | | **6715** | **4565** | **3214** |
 <!-- /COUNTS -->
 
 ## Structure

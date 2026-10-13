@@ -1,0 +1,145 @@
+---
+title: "Peraturan Pemerintah Nomor 11 Tahun 1971 tentang Pengalihan Bentuk Perusahaan Negara (P.N) Zatas Dan Perusahaan Negara (P.N) Asam Arang Menjadi Perusahaan Perseroan (Persero)"
+identifier: "PP No. 11 Tahun 1971"
+type: regulation
+jurisdiction: id
+language: id
+number: "11"
+year: 1971
+date: 1971-02-16
+promulgated: 1971-02-16
+in_force_from: 1971-02-16
+status: in_force
+status_basis: "BPK: Berlaku"
+repeals:
+  - "PP No. 217 Tahun 1961"
+  - "PP No. 134 Tahun 1961"
+gazette: "LN. 1971/ No 11, LL Bphn : 4 HLM"
+subject: "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN"
+source: "https://peraturan.bpk.go.id/Download/59837/PP%20NO%2011%20TH%201971.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/69399"
+bpk_page: "https://peraturan.bpk.go.id/Details/69399"
+bpk_metadata_archived: "http://web.archive.org/web/20240919125511/https://peraturan.bpk.go.id/Details/69399"
+consolidated: false
+retrieved: 2026-10-13
+---
+
+# Peraturan Pemerintah Nomor 11 Tahun 1971 tentang Pengalihan Bentuk Perusahaan Negara (P.N) Zatas Dan Perusahaan Negara (P.N) Asam Arang Menjadi Perusahaan Perseroan (Persero)
+
+PERATURAN PEMERINTAH REPUBLIK INDONESIA
+
+NOMOR 11 TAHUN 1971
+
+TENTANG
+
+PENGALIHAN BENTUK PERUSAHAAN NEGARA (P.N.) ZATAS DAN PERUSAHAAN
+
+NEGARA (P.N.) ASAM ARANG MENJADI PERUSAHAAN PERSEROAN (PERSERO)
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang:
+
+a. bahwa Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara (P.N.) Asam Arang yang masing-masingnya didirikan dengan Peraturan Pemerintah Nomor 134 tahun 1961 (Lembaran-Negara Republik Indonesia tahun 1961 Nomor 158) jo. Peraturan Pemerintah Nomor 34 tahun 1970 (Lembaran-Negara Republik Indonesia tahun 1970 Nomor 51) dan Peraturan Pemerintah Nomor 217 tahun 1961 (Lembaran-Negara Republik Indonesia tahun 1961 Nomor 266) setelah melalui penelitian dan penilaian, dapat memenuhi ketentuan-ketentuan untuk dialihkan bentuknya menjadi Perusahaan Perseroan (PERSERO) sebagaimana termaktub dalam Peraturan Pemerintah Nomor 12 tahun 1969 (Lembaran-Negara Republik Indonesia tahun 1969 Nomor 21; Tambahan Lembaran-Negara Republik Indonesia Nomor 2894).
+
+b. bahwa berdasarkan pertimbangan effisiensi dan effektivitas usaha, dipandang perlu untuk menjadikan kedua Perusahaan Negara tersebut di atas sebagai satu Perusahaan Perseroan
+
+(PERSERO).
+
+Mengingat:
+
+1. Pasal 5 ayat (2) Undang-Undang Dasar 1945;
+
+2. Kitab Undang-undang Hukum Dagang Stbl. 1847: 23 sebagaimana yang telah beberapa kali dirobah dan ditambah;
+
+3. Undang-undang Nomor 19 Prp. tahun 1960 (Lembaran-Negara Republik Indonesia tahun 1960 Nomor 59; Tambahan Lembaran-Negara Republik Indonesia Nomor 1989);
+
+4. Undang-undang Nomor 9 tahun 1969 (Lembaran-Negara Republik Indonesia tahun 1969 Nomor 40; Tambahan Lembaran-Negara Republik Indonesia Nomor 2904);
+
+5. Peraturan Pemerintah Nomor 12 tahun 1969 (Lembaran-Negara Republik Indonesia tahun 1969 Nomor 21; Tambahan Lembaran-Negara Republik Indonesia Nomor 2894).
+
+MEMUTUSKAN:
+
+Menetapkan:
+
+Peraturan Pemerintah Republik Indonesia tentang pengalihan bentuk Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara (P.N.) Asam Arang menjadi Perusahaan Perseroan (PERSERO).
+
+## BAB I — PENGALIHAN BENTUK DAN PEMBUBARAN
+
+##### Pasal 1
+
+(1) Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara
+
+(P.N.) Asam Arang yang masing-masingnya didirikan dengan Peraturan Pemerintah Nomor 134 tahun 1961 (Lembaran-Negara Republik Indonesia tahun 1961 Nomor 158) jo. Peraturan Pemerintah Nomor 34 tahun 1970 (Lembaran-Negara Republik Indonesia tahun 1970 Nomor
+
+51) dan Peraturan Pemerintah Nomor 217 tahun 1961 (Lembaran-Negara Republik Indonesia tahun 1961 Nomor 266) dialihkan bentuknya menjadi satu Perusahaan Perseroan (PERSERO) sebagaimana yang dimaksudkan dalam Pasal 2 ayat (3) Undang-undang Nomor 9 tahun 1969 (Lembaran-Negara Republik Indonesia tahun 1969 Nomor 40;
+
+Tambahan Lembaran-Negara Republik Indonesia Nomor 2904).
+
+(2) Dengan dialihkannya bentuk Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara (P.N.) Asam Arang menjadi Perusahaan Perseroan (PERSERO) sebagaimana yang dimaksudkan dalam ayat (1) Pasal ini, Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara (P.N.) Asam Arang dinyatakan bubar atas pada saat pendirian Perusahaan Perseroan (PERSERO) tersebut.
+
+(3) Semua hal yang bertalian dengan pelaksanaan pembubaran Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara (P.N.) Asam Arang sebagaimana yang dimaksudkan dalam ayat (2) Pasal ini akan diatur lebih lanjut oleh Menteri Perindustrian berdasarkan peraturan perundangan yang berlaku.
+
+## BAB II — MODAL PERUSAHAAN
+
+##### Pasal 2
+
+(1) Modal dari Perusahaan Perseroan (PERSERO) tersebut pada ayat (1) Pasal 1 Peraturan Pemerintah ini berasal dari kekajaan Negara yang tertanam sebagai modal dalam Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara (P.N.) Asam Arang sampai saat pembubarannya, yang jumlahnya akan ditetapkan oleh Menteri Keuangan.
+
+(2) Modal Perusahaan Perseroan (PERSERO) sebagaimana yang dimaksudkan dalam ayat (1) Pasal ini terbagi atas saham prioritas dan saham biasa, dengan ketentuan bahwa pada saat pendirian Perusahaan Perseroan (PERSERO) tesebut seluruh sahamnya dimiliki oleh Negara Republik Indonesia.
+
+(3) Neraca pembukaan Perusahaan Perseroan (PERSERO)
+
+ditetapkan oleh Menteri Keuangan.
+
+## BAB III — PELAKSANAAN PENDIRIAN PERUSAHAAN
+
+##### Pasal 3
+
+Pelaksanaan pendirian Perusahaan Perseroan (PERSERO) tersebut pada ayat (1) Pasal 1 Peraturan Pemerintah ini dilakukan menurut ketentuan-ketentuan Kitab Undang-undang Hukum Dagang Stbl. 1947: 23 sebagaimana yang telah beberapa kali dirobah dan ditambah dengan memperhatikan ketentuan-ketentuan yang termaktub dalam Peraturan Pemerintah Nomor 12 tahun 1969 (Lembaran-Negara Republik
+
+Indonesia tahun 1969 Nomor 21; Tambahan Lembaran-Negara Republik Indonesia Nomor 2894).
+
+##### Pasal 4
+
+(1) Penyelesaian pendirian Perusahaan Perseroan (PERSERO) sebagaimana yang dimaksudkan dalam Pasal 3 Peraturan Pemerintah ini dikuasakan kepada Menteri Keuangan.
+
+(2) Menteri Keuangan dapat menyerahkan kekuasaan tersebut pada ayat (1) Pasal ini, dengan disertai hak-substitusi, kepada Menteri Perindustrian, dengan ketentuan bahwa Rancangan Anggaran Dasar Perusahaan Perseroan (PERSERO) tersebut harus mendapat persetujuan terlebih dahulu dari Menteri Keuangan.
+
+(3) Kepada Menteri Perindustrian diberikan kekuasaan untuk menunjuk seseorang untuk ikut serta mendirikan Perusahaan Perseroan (PERSERO) tersebut, sesuai dengan ketentuan yang termaktub dalam Pasal 6 Peraturan Pemerintah Nomor 12 tahun 1969 (Lembaran-Negara Republik Indonesia tahun 1969 Nomor 21; Tambahan Lembaran-Negara Republik Indonesia Nomor 2894).
+
+## BAB IV — KETENTUAN PENUTUP
+
+##### Pasal 5
+
+Terhitung mulai saat berdirinya Perusahaan Perseroan (PERSERO) serta dibubarkannya Perusahaan Negara (P.N.) Zatas dan Perusahaan Negara (P.N.) Asam Arang sebagaimana yang dimaksudkan dalam ayat (2) Pasal I Peraturan Pemerintah ini Peraturan Pemerintah Nomor 134 tahun 1961 (Lembaran-Negara Republik Indonesia tahun 1961 Nomor 158) jo. Peraturan Pemerintah Nomor 34 tahun 1970 (Lembaran-Negara Republik Indonesia tahun 1970 Nomor
+
+51) dan Peraturan Pemerintah Nomor 217 tahun 1961 (Lembaran-Negara Republik Indonesia tahun 1961 Nomor 266) dan semua peraturan pelaksanaannya dinyatakan tidak berlaku lagi.
+
+##### Pasal 6
+
+Hal-hal yang belum cukup diatur dalam Peraturan Pemerintah ini akan diatur tersendiri.
+
+##### Pasal 7
+
+Peraturan Pemerintah ini mulai berlaku pada hari, tanggal diundangkannya.
+
+Agar supaya setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran-Negara Republik Indonesia.
+
+Ditetapkan di Jakarta, pada tanggal 16 Pebruari 1971, Presiden Republik Indonesia,
+
+SOEHARTO
+
+Jenderal T.N.I.
+
+Diundangkan di Jakarta, pada tanggal 16 Pebruari 1971.
+
+Sekretaris Negara Republik Indonesia,
+
+ALAMSJAH
+
+Mayor Jenderal T.N.I.
+
+Kutipan: LEMBARAN NEGARA TAHUN 1971 YANG TELAH DICETAK ULANG
+
+Sumber: LN 1971/11
