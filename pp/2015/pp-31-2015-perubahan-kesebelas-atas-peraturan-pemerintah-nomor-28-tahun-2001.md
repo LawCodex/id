@@ -1,0 +1,192 @@
+---
+title: "Peraturan Pemerintah Nomor 31 Tahun 2015 tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 28 Tahun 2001 Tentang Peraturan Gaji Anggota Tentara Nasional Indonesia"
+identifier: "PP No. 31 Tahun 2015"
+type: regulation
+jurisdiction: id
+language: id
+number: "31"
+year: 2015
+date: 2015-06-04
+promulgated: 2015-06-05
+in_force_from: 2015-06-05
+status: in_force
+status_basis: "BPK: Berlaku; Setneg: sebagian"
+amended_by:
+  - "PP No. 6 Tahun 2024"
+  - "PP No. 16 Tahun 2019"
+amends:
+  - "PP No. 35 Tahun 2014"
+  - "PP No. 23 Tahun 2013"
+  - "PP No. 16 Tahun 2012"
+  - "PP No. 12 Tahun 2011"
+  - "PP No. 26 Tahun 2010"
+  - "PP No. 20 Tahun 2009"
+  - "PP No. 12 Tahun 2008"
+  - "PP No. 11 Tahun 2007"
+  - "PP No. 67 Tahun 2005"
+  - "PP No. 13 Tahun 2003"
+  - "PP No. 28 Tahun 2001"
+gazette: "LN. 2015 No. 124, LL SETNEG : 5 HLM"
+subject: "HONORARIUM, GAJI, PENGHASILAN, UANG KEHORMATAN, TUNJANGAN, PENGHARGAAN, HAK LAINNYA - PERTAHANAN DAN KEAMANAN, MILITER"
+source: "https://peraturan.bpk.go.id/Download/28751/PP%20Nomor%2031%20Tahun%202015.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/5597"
+bpk_page: "https://peraturan.bpk.go.id/Details/5597"
+bpk_metadata_archived: "http://web.archive.org/web/20240919145827/https://peraturan.bpk.go.id/Details/5597"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PP&no=31&thn=2015"
+consolidated: false
+retrieved: 2026-10-13
+---
+
+# Peraturan Pemerintah Nomor 31 Tahun 2015 tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 28 Tahun 2001 Tentang Peraturan Gaji Anggota Tentara Nasional Indonesia
+
+PERATURAN PEMERINTAH REPUBLIK INDONESIA
+
+NOMOR 31 TAHUN 2015
+
+TENTANG
+
+PERUBAHAN KESEBELAS ATAS PERATURAN PEMERINTAH NOMOR 28
+
+TAHUN 2001 TENTANG PERATURAN GAJI ANGGOTA
+
+TENTARA NASIONAL INDONESIA
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang : a. bahwa dalam rangka meningkatkan daya guna dan hasil guna serta kesejahteraan Anggota Tentara Nasional Indonesia, perlu menaikkan gaji pokok Anggota Tentara Nasional Indonesia;
+
+b. bahwa besaran gaji pokok Anggota Tentara Nasional Indonesia sebagaimana tercantum dalam Lampiran Peraturan Pemerintah Nomor 28 Tahun 2001 tentang Peraturan Gaji Anggota Tentara Nasional Indonesia yang telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 35 Tahun 2014 tentang Perubahan Kesepuluh Atas Peraturan Pemerintah Nomor 28 Tahun 2001 tentang Peraturan Gaji Anggota Tentara Nasional Indonesia perlu diubah;
+
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Pemerintah tentang Perubahan Kesebelas Atas Peraturan Pemerintah Nomor 28 Tahun 2001 tentang Peraturan Gaji Anggota Tentara Nasional Indonesia;
+
+Mengingat : 1. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+2. Undang-Undang Nomor 19 Tahun 1958 tentang Penetapan Undang-Undang Darurat Nomor 26 Tahun 1957 tentang Anggota Angkatan Perang berdasarkan Ikatan Dinas Sukarela (Militer Sukarela) (Lembaran Negara Republik Indonesia Tahun 1957 Nomor 83) sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 60, Tambahan Lembaran Negara Republik Indonesia Nomor 1616);
+
+3. Undang-Undang Nomor 34 Tahun 2004 tentang Tentara Nasional Indonesia (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 127, Tambahan Lembaran Negara Republik Indonesia Nomor 4439);
+
+4. Peraturan Pemerintah Nomor 24 Tahun 1973 tentang Kepangkatan Militer/Polisi Dalam Angkatan Bersenjata Republik Indonesia (Lembaran Negara Republik Indonesia Tahun 1973 Nomor 30, Tambahan Lembaran Negara Republik Indonesia Nomor 3006);
+
+5. Peraturan Pemerintah Nomor 28 Tahun 2001 tentang Peraturan Gaji Anggota Tentara Nasional Indonesia (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 4093) sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Pemerintah Nomor 35 Tahun 2014 (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 109);
+
+6. Peraturan Pemerintah Nomor 39 Tahun 2010 tentang Administrasi Prajurit Tentara Nasional Indonesia (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 50, Tambahan Lembaran Negara Republik Indonesia Nomor 5120);
+
+MEMUTUSKAN:
+
+Menetapkan : PERATURAN PEMERINTAH TENTANG PERUBAHAN
+
+KESEBELAS ATAS PERATURAN PEMERINTAH NOMOR 28
+
+TAHUN 2001 TENTANG PERATURAN GAJI ANGGOTA
+
+TENTARA NASIONAL INDONESIA.
+
+##### Pasal I
+
+1. Mengubah Lampiran Peraturan Pemerintah Nomor 28 Tahun 2001 tentang Peraturan Gaji Anggota Tentara Nasional Indonesia (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 4093) yang telah beberapa kali diubah dengan Peraturan Pemerintah:
+
+a. Nomor 13 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 19);
+
+b. Nomor 67 Tahun 2005 (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 152);
+
+c. Nomor 11 Tahun 2007 (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 27);
+
+d. Nomor 12 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 25);
+
+e. Nomor 20 Tahun 2009 (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 37);
+
+f. Nomor 26 Tahun 2010 (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 32);
+
+g. Nomor 12 Tahun 2011 (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 25);
+
+h. Nomor 16 Tahun 2012 (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 33);
+
+i. Nomor 23 Tahun 2013 (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 58); dan
+
+j. Nomor 35 Tahun 2014 (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 109), sehingga menjadi sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Pemerintah ini.
+
+2. Ketentuan sebagaimana dimaksud pada angka 1 mulai berlaku pada tanggal 1 Januari 2015.
+
+##### Pasal II
+
+Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Pemerintah ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
+Ditetapkan di Jakarta pada tanggal 4 Juni 2015
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+JOKO WIDODO
+
+Diundangkan di Jakarta pada tanggal 5 Juni 2015
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+
+REPUBLIK INDONESIA,
+
+ttd.
+
+YASONNA HAMONANGAN LAOLY
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 124
+
+## LAMPIRAN
+
+PERATURAN PEMERINTAH REPUBLIK INDONESIA
+
+NOMOR 31 TAHUN 2015
+
+TENTANG
+
+PERUBAHAN KESEBELAS ATAS PERATURAN PEMERINTAH NOMOR 28
+
+TAHUN 2001 TENTANG PERATURAN GAJI ANGGOTA TENTARA
+
+NASIONAL INDONESIA
+
+DAFTAR GAJI POKOK ANGGOTA TENTARA NASIONAL INDONESIA
+
+```
+                       GOLONGAN I                                                                   GOLONGAN II                                                   GOLONGAN III                                                           GOLONGAN IV
+                        TAMTAMA                                                                       BINTARA                                                   PERWIRA PERTAMA                      PERWIRA MENENGAH                                     PERWIRA TINGGI
+a           b           c            d           e           f               a           b            c           d            e           f                a            b           c               a            b             c           d             e             f              g
+```
+
+BRIGADIR
+
+```
+                                                                                                                                                                                                                                                 JENDERAL       MAYOR         LETNAN
+M    PRAJURIT    PRAJURIT    PRAJURIT                                         M   SERSAN      SERSAN       SERSAN      SERSAN      PEMBANTU PEMBANTU M           LETNAN       LETNAN                M                  LETNAN                       LAKS.     JENDERAL       JENDERAL       JENDERAL
+K      DUA         SATU       KEPALA      KOPRAL      KOPRAL      KOPRAL      K     DUA        SATU        KEPALA      MAYOR        LETNAN   LETNAN  K            DUA          SATU       KAPTEN    K     MAYOR       KOLONEL        KOLONEL      PERTAMA     LAKS.MUDA     LAKS.MADYA     LAKSAMANA
+G     KELASI      KELASI      KELASI       DUA         SATU       KEPALA      G                                                      DUA      SATU   G                                              G                                              MARS.      MARS.MUDA     MARS.MADYA      MARSEKAL
+       DUA         SATU       KEPALA                                                                                                                                                                                                              PERTAMA
+ 1      2           3            4           5           6           7      8        9          10           11           12          13          14        15     16           17          18     19       20           21            22           23           24             25            26
+```
+
+0 1.565.200 1.614.100 1.664.600 1.716.600 1.770.300 1.825.600 2 1.614.500 1.665.000 1.717.100 1.770.700 1.826.100 1.883.200 4 1.665.500 1.717.500 1.771.200 1.826.600 1.883.700 1.942.600 0 2.003.300 2.065.900 2.130.500 2.197.100 2.265.800 2.336.600 5 1 6 1.718.000 1.771.700 1.827.100 1.884.200 1.943.100 2.003.800 2 2.066.500 2.131.000 2.197.700 2.266.400 2.337.200 2.410.300 7 3 8 1.772.100 1.827.500 1.884.700 1.943.600 2.004.300 2.067.000 4 2.131.600 2.198.200 2.267.000 2.337.800 2.410.900 2.486.300 9 5 0 2.604.400 2.685.800 2.769.800 0 2.856.400 2.945.700 3.037.700 3.132.700 3.230.600
+
+```
+10   1.828.000   1.885.200    1.944.100   2.004.900   2.067.500   2.132.200 6     2.198.800   2.267.600    2.338.400   2.411.500    2.486.900   2.564.700 1      2.644.800                           1
+11                                                                           7                                                                             2                  2.770.500   2.857.100 2     2.946.400    3.038.500     3.133.500    3.231.500     3.332.500
+12   1.885.700   1.944.600    2.005.400   2.068.100   2.132.700   2.199.400 8     2.268.200   2.339.100    2.412.200   2.487.600    2.565.300   2.645.500 3      2.728.200                           3
+13                                                                           9                                                                             4                  2.857.900   2.947.200 4     3.039.300    3.134.300     3.232.300    3.333.400     3.437.600
+14   1.945.100   2.005.900    2.068.600   2.133.300   2.200.000   2.268.800 10    2.339.700   2.412.800    2.488.200   2.566.000    2.646.200   2.729.000 5      2.814.300                           5
+15                                                                          11                                                                             6                  2.948.000   3.040.100 6     3.135.200    3.233.200     3.334.200    3.438.500     3.546.000
+16   2.006.500   2.069.200    2.133.900   2.200.600   2.269.400   2.340.300 12    2.413.500   2.488.900    2.566.700   2.646.900    2.729.700   2.815.000 7      2.903.000                           7
+17                                                                          13                                                                             8                  3.040.900   3.136.000 8     3.234.000    3.335.100     3.439.400    3.546.900     3.657.800
+18   2.069.700   2.134.400    2.201.100   2.270.000   2.340.900   2.414.100 14    2.489.600   2.567.400    2.647.600   2.730.400    2.815.700   2.903.800 9      2.994.500                           9
+19                                                                          15                                                                            10                  3.136.800   3.234.900 10    3.336.000    3.440.300     3.547.800    3.658.700     3.773.100
+```
+
+20 2.135.000 2.201.700 2.270.600 2.341.500 2.414.700 2.490.200 16 2.568.100 2.648.300 2.731.100 2.816.500 2.904.500 2.995.300 11 3.089.000 11 21 17 12 3.235.700 3.336.900 12 3.441.200 3.548.800 3.659.700 3.774.100 3.892.100 22 2.202.300 2.271.200 2.342.100 2.415.400 2.490.900 2.568.700 18 2.649.000 2.731.800 2.817.200 2.905.300 2.996.100 3.089.800 13 3.186.400 13 23 19 14 3.337.800 3.442.100 14 3.549.700 3.660.700 3.775.100 3.893.100 4.014.800 24 2.271.800 2.342.800 2.416.000 2.491.500 2.569.400 2.649.700 20 2.732.600 2.818.000 2.906.100 2.996.900 3.090.600 3.187.200 15 3.286.800 15 25 21 16 3.443.000 3.550.600 16 3.661.600 3.776.100 3.894.100 4.015.900 4.141.400 26 2.343.400 2.416.600 2.492.200 2.570.100 2.650.400 2.733.300 22 2.818.700 2.906.800 2.997.700 3.091.400 3.188.000 3.287.700 17 3.390.500 17 27 23 18 3.551.600 3.662.600 18 3.777.100 3.895.200 4.016.900 4.142.500 4.272.000 28 2.417.300 2.492.800 2.570.800 2.651.100 2.734.000 2.819.500 24 2.907.600 2.998.500 3.092.200 3.188.900 3.288.600 3.391.400 19 3.497.400 19 25 20 3.663.600 3.778.100 20 3.896.200 4.018.000 4.143.600 4.273.100 4.406.700 26 2.999.300 3.093.000 3.189.700 3.289.400 3.392.300 3.498.300 21 3.607.700 21 27 22 3.779.100 3.897.200 22 4.019.100 4.144.700 4.274.200 4.407.900 4.545.600 28 3.093.900 3.190.600 3.290.300 3.393.200 3.499.200 3.608.600 23 3.721.400 23 29 24 3.898.300 4.020.100 24 4.145.800 4.275.400 4.409.000 4.546.800 4.689.000 4.835.600 4.986.700 30 3.191.400 3.291.200 3.394.100 3.500.200 3.609.600 3.722.400 25 3.838.800 25 31 26 4.021.200 4.146.900 26 4.276.500 4.410.200 4.548.000 4.690.200 4.836.800 4.988.000 5.144.000 32 3.292.000 3.395.000 3.501.100 3.610.500 3.723.400 3.839.800 27 3.959.800 27 28 4.148.000 4.277.600 28 4.411.400 4.549.300 4.691.500 4.838.100 4.989.400 5.145.300 5.306.200 29 4.084.700 29 30 4.278.800 4.412.500 30 4.550.500 4.692.700 4.839.400 4.990.700 5.146.700 5.307.600 5.473.500 31 4.213.500 31 32 4.413.700 4.551.700 32 4.693.900 4.840.700 4.992.000 5.148.000 5.309.000 5.474.900 5.646.100
+
+PRESIDEN REPUBLIK INDONESIA,
+
+ttd.
+
+JOKO WIDODO
