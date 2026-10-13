@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1996/ No. 100, TLN NO. 3657, LL SETNEG : 4HLM"
 subject: "PENGESAHAN DAN/ATAU PEMBATALAN PERSETUJUAN/KONVENSI/ PERJANJIAN INTERNASIONAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0081996.pdf&fl=P00985"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1996"
+source: "https://peraturan.bpk.go.id/Download/34653/UU%20Nomor%208%20Tahun%201996.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46098"
 bpk_page: "https://peraturan.bpk.go.id/Details/46098"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134130/https://peraturan.bpk.go.id/Details/46098"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1996"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 11 Tahun 2012"
 gazette: "LN. 1997/ No. 3, TLN NO. 3668, LL SETNEG : 23 HLM"
 subject: "HUKUM ACARA DAN PERADILAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0031997.pdf&fl=P00989"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34476/UU%20Nomor%203%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45923"
 bpk_page: "https://peraturan.bpk.go.id/Details/45923"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134249/https://peraturan.bpk.go.id/Details/45923"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

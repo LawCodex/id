@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: sebagian"
 gazette: "LN. 2017 No. 138, TLN. No. 6084, LL SETNEG : 9 HLM"
 subject: "DASAR PEMBENTUKAN KEMENTERIAN/LEMBAGA/BADAN/ORGANISASI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpu+Nomor+2+Tahun+2017.pdf&fl=P14902"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2017"
+source: "https://peraturan.bpk.go.id/Download/42660/Perpu%20Nomor%202%20Tahun%202017.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/53279"
 bpk_page: "https://peraturan.bpk.go.id/Details/53279"
 bpk_metadata_archived: "http://web.archive.org/web/20241116083904/https://peraturan.bpk.go.id/Details/53279/perpu-no-2-"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2017"
 consolidated: false
 retrieved: 2026-10-13
 ---

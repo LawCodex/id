@@ -15,10 +15,11 @@ amended_by:
   - "UU No. 4 Tahun 1995"
 gazette: "LN. 1994/ No. 18, TLN NO. 3543, LL SETNEG : 16 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0011994.pdf&fl=P00953"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34775/UU%20Nomor%201%20Tahun%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46212"
 bpk_page: "https://peraturan.bpk.go.id/Details/46212"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133729/https://peraturan.bpk.go.id/Details/46212"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---

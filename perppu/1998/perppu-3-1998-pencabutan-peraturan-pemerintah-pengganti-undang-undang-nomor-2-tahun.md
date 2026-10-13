@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: sebagian"
 gazette: "LN. 1998 No. 165, TLN. No. 3784, LL SETNEG : 4 HLM"
 subject: "HAK ASASI MANUSIA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=perpu0031998.pdf&fl=P01443"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=3&thn=1998"
+source: "https://peraturan.bpk.go.id/Download/43430/perpu%20No.%20003%20Tahun%201998.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/54026"
 bpk_page: "https://peraturan.bpk.go.id/Details/54026"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134405/https://peraturan.bpk.go.id/Details/54026"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=3&thn=1998"
 consolidated: false
 retrieved: 2026-10-13
 ---

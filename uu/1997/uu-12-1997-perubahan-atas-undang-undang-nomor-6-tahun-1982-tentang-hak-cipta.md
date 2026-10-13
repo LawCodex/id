@@ -18,10 +18,11 @@ amends:
   - "UU No. 6 Tahun 1982"
 gazette: "LN. 1997, LL SETNEG : 16 HLM"
 subject: "HAK ATAS KEKAYAAN INTELEKTUAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0121997.pdf&fl=P00998"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34489/UU%20Nomor%2012%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45936"
 bpk_page: "https://peraturan.bpk.go.id/Details/45936"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134138/https://peraturan.bpk.go.id/Details/45936"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

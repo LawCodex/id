@@ -18,10 +18,11 @@ repeals:
   - "UU No. 15 Tahun 1961"
 gazette: "LN. 1991, LL SETNEG : 17 HLM"
 subject: "DASAR PEMBENTUKAN KEMENTERIAN/LEMBAGA/BADAN/ORGANISASI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_5_TH_1991.pdf&fl=P00918"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1991"
+source: "https://peraturan.bpk.go.id/Download/35395/UU%20Nomor%205%20Tahun%201991.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46657"
 bpk_page: "https://peraturan.bpk.go.id/Details/46657"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133312/https://peraturan.bpk.go.id/Details/46657"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1991"
 consolidated: false
 retrieved: 2026-10-13
 ---

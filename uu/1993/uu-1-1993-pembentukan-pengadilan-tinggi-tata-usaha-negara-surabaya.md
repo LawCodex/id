@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1993/ No. 10, TLN NO. 3513, LL SETNEG : 5 HLM"
 subject: "HUKUM ACARA DAN PERADILAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0011993.pdf&fl=P00946"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1993"
+source: "https://peraturan.bpk.go.id/Download/35185/UU%20Nomor%201%20Tahun%201993.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46493"
 bpk_page: "https://peraturan.bpk.go.id/Details/46493"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133611/https://peraturan.bpk.go.id/Details/46493"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1993"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 32 Tahun 2014"
 gazette: "LN. 1996, LL SETNEG : 19 HLM"
 subject: "TERITORIAL INDONESIA - KETATANEGARAAN, KENEGARAAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0061996.pdf&fl=P00983"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1996"
+source: "https://peraturan.bpk.go.id/Download/34652/UU%20Nomor%206%20Tahun%201996.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46096"
 bpk_page: "https://peraturan.bpk.go.id/Details/46096"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134115/https://peraturan.bpk.go.id/Details/46096"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1996"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 40 Tahun 2007"
 gazette: "LN. 1995/ No. 13, TLN NO. 3587, LL SETNEG : 65 HLM"
 subject: "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI - PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0011995.pdf&fl=P00965"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34657/UU%20Nomor%201%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46102"
 bpk_page: "https://peraturan.bpk.go.id/Details/46102"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133850/https://peraturan.bpk.go.id/Details/46102"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -13,15 +13,22 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: sebagian"
 gazette: "LN. 2015 No. 31, TLN No.5661, peraturan.go.id : 3 hlm."
 subject: "PEMBENTUKAN, PERUBAHAN, DAN PEMBUBARAN KOMISI/KOMITE/BADAN/DEWAN/STAF KHUSUS/TIM/PANITIA - TINDAK PIDANA KORUPSI, PENCEGAHAN KORUPSI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpu+Nomor+1+Tahun+2015.pdf&fl=P14893"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2015"
+source: "https://peraturan.bpk.go.id/Download/225090/Perpu%20Nomor%201%20Tahun%202015_.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/53266"
 bpk_page: "https://peraturan.bpk.go.id/Details/53266"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145803/https://peraturan.bpk.go.id/Details/53266"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2015"
 consolidated: false
 retrieved: 2026-10-13
 ---
 
 # Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi
+
+LEMBARAN NEGARA
+
+REPUBLIK INDONESIA
+
+No.31, 2015 HUKUM. Pidana. Korupsi. KPK. Perubahan. (Penjelasan Dalam Tambahan Lembaran Negara Republik Indonesia Nomor 5661)
 
 PERATURAN PEMERINTAH
 
@@ -41,48 +48,25 @@ PRESIDEN REPUBLIK INDONESIA,
 
 Menimbang : a. bahwa terjadinya kekosongan keanggotaan Pimpinan Komisi Pemberantasan Korupsi telah mengganggu kinerja Komisi Pemberantasan Korupsi;
 
-```
-b. bahwa       untuk      menjaga     keberlangsungan         dan
-      kesinambungan         upaya        pencegahan           dan
-      pemberantasan      tindak     pidana       korupsi    perlu
-      pengaturan       mengenai      pengisian      keanggotaan
-```
-
-sementara Pimpinan Komisi Pemberantasan Korupsi;
+b. bahwa untuk menjaga keberlangsungan dan kesinambungan upaya pencegahan dan pemberantasan tindak pidana korupsi perlu pengaturan mengenai pengisian keanggotaan sementara Pimpinan Komisi Pemberantasan Korupsi;
 
 c. bahwa ketentuan mengenai pengisian keanggotaan sementara Pimpinan Komisi Pemberantasan Korupsi belum diatur dalam Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi;
 
-d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk mengatasi timbulnya kegentingan yang diakibatkan terjadinya kekosongan keanggotaan
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, serta untuk mengatasi timbulnya kegentingan yang
 
-Pimpinan Komisi Pemberantasan Korupsi, perlu menetapkan Peraturan Pemerintah Pengganti Undang-
+2015, No.31 2 diakibatkan terjadinya kekosongan keanggotaan Pimpinan Komisi Pemberantasan Korupsi, perlu menetapkan Peraturan Pemerintah Pengganti Undang-Undang tentang Perubahan Atas Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi;
 
-Undang tentang Perubahan Atas Undang-Undang
+Mengingat : 1. Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
-Nomor 30 Tahun 2002 tentang Komisi Pemberantasan
+2. Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 137, Tambahan Lembaran Negara Republik Indonesia Nomor 4250);
 
-Tindak Pidana Korupsi;
-
-Mengingat : 1. Pasal 22 ayat (1) Undang-Undang Dasar Negara
-
-Republik Indonesia Tahun 1945;
-
-2. Undang-Undang Nomor 30 Tahun 2002 tentang
-
-Komisi Pemberantasan Tindak Pidana Korupsi
-
-(Lembaran Negara Republik Indonesia Tahun 2002
-
-Nomor 137, Tambahan Lembaran Negara Republik
-
-Indonesia Nomor 4250);
-
-MEMUTUSKAN :
+MEMUTUSKAN:
 
 Menetapkan : PERATURAN PEMERINTAH PENGGANTI UNDANG-
 
-UNDANG TENTANG PERUBAHAN ATAS UNDANG-
+UNDANG TENTANG PERUBAHAN ATAS UNDANG-UNDANG
 
-UNDANG NOMOR 30 TAHUN 2002 TENTANG KOMISI
+NOMOR 30 TAHUN 2002 TENTANG KOMISI
 
 PEMBERANTASAN TINDAK PIDANA KORUPSI.
 
@@ -97,6 +81,8 @@ Ketentuan dalam Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan T
 (2) Anggota sementara Pimpinan Komisi Pemberantasan Korupsi sebagaimana dimaksud pada ayat (1) mempunyai tugas, wewenang, kewajiban, dan hak yang sama dengan Pimpinan Komisi Pemberantasan Korupsi.
 
 (3) Calon anggota sementara Pimpinan Komisi Pemberantasan Korupsi harus memenuhi persyaratan sebagaimana dimaksud dalam Pasal 29 kecuali huruf e yang berkaitan dengan syarat usia setinggi-tingginya 65 (enam puluh lima) tahun.
+
+3 2015, No.31
 
 (4) Pengangkatan dan pemberhentian anggota sementara Pimpinan Komisi Pemberantasan Korupsi ditetapkan oleh Presiden.
 
@@ -122,8 +108,6 @@ Ditetapkan di Jakarta pada tanggal 18 Februari 2015
 
 PRESIDEN REPUBLIK INDONESIA,
 
-ttd.
-
 JOKO WIDODO
 
 Diundangkan di Jakarta pada tanggal 18 Februari 2015
@@ -132,11 +116,13 @@ MENTERI HUKUM DAN HAK ASASI MANUSIA
 
 REPUBLIK INDONESIA,
 
-ttd.
-
 YASONNA H. LAOLY
 
-LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 31
+TAMBAHAN
+
+LEMBARAN NEGARA RI
+
+No.5661 HUKUM. Pidana. Korupsi. KPK. Perubahan. (Penjelasan Atas Lembaran Negara Republik Indonesia Tahun 2015 Nomor 31)
 
 ## PENJELASAN
 
@@ -160,7 +146,9 @@ Komisi Pemberantasan Korupsi merupakan lembaga negara yang mempunyai tugas dan w
 
 Komisi Pemberantasan Korupsi saat ini dipimpin kurang dari 3 (tiga) orang Komisioner. Sedangkan Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi mengatur bahwa Pimpinan Komisi Pemberantasan Korupsi bekerja secara kolektif.
 
-Untuk tetap mempertahankan keberlanjutan kepemimpinan Komisi Pemberantasan Korupsi perlu dilakukan pengisian kekosongan keanggotaan Pimpinan Komisi Pemberantasan Korupsi secara cepat agar tidak menghambat proses pemberantasan korupsi. Di samping itu, pengisian keanggotaan sementara Komisi Pemberantasan Korupsi sangat diperlukan untuk tetap menjamin kinerja Komisi Pemberantasan Korupsi sebagai lembaga negara.
+Untuk tetap mempertahankan keberlanjutan kepemimpinan Komisi Pemberantasan Korupsi perlu dilakukan pengisian kekosongan keanggotaan Pimpinan Komisi Pemberantasan Korupsi secara cepat agar tidak menghambat proses pemberantasan korupsi. Di samping itu,
+
+No.5661 2 pengisian keanggotaan sementara Komisi Pemberantasan Korupsi sangat diperlukan untuk tetap menjamin kinerja Komisi Pemberantasan Korupsi sebagai lembaga negara.
 
 Berdasarkan Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi, pemilihan dan penetapan Pimpinan Komisi Pemberantasan Korupsi dilakukan melalui seleksi dan penilaian oleh Dewan Perwakilan Rakyat Republik Indonesia dan hasilnya disampaikan kepada Presiden untuk ditetapkan, namun mekanisme tersebut membutuhkan waktu yang cukup lama.
 
@@ -181,5 +169,3 @@ Cukup jelas.
 #### Pasal II
 
 Cukup jelas.
-
-TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 5661

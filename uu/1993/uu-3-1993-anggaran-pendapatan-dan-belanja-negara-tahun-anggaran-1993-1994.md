@@ -15,10 +15,11 @@ amended_by:
   - "UU No. 2 Tahun 1994"
 gazette: "LN. 1993/ No. 29, TLN NO. 3521, LL SETNEG : 6 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0031993.pdf&fl=P00948"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1993"
+source: "https://peraturan.bpk.go.id/Download/35187/UU%20Nomor%203%20Tahun%201993.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46495"
 bpk_page: "https://peraturan.bpk.go.id/Details/46495"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133640/https://peraturan.bpk.go.id/Details/46495"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1993"
 consolidated: false
 retrieved: 2026-10-13
 ---

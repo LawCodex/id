@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1992, LL SETNEG : 4 HLM"
 subject: "PENGESAHAN DAN/ATAU PEMBATALAN PERSETUJUAN/KONVENSI/ PERJANJIAN INTERNASIONAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_1_TH_1991.pdf&fl=P00914"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1991"
+source: "https://peraturan.bpk.go.id/Download/35391/UU%20Nomor%201%20Tahun%201991.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46653"
 bpk_page: "https://peraturan.bpk.go.id/Details/46653"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133214/https://peraturan.bpk.go.id/Details/46653"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1991"
 consolidated: false
 retrieved: 2026-10-13
 ---

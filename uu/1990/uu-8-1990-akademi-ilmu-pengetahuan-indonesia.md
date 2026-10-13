@@ -16,10 +16,11 @@ repeals:
   - "UU No. 6 Tahun 1956"
 gazette: "website peraturan.go.id : 7 hlm"
 subject: "ILMU PENGETAHUAN DAN TEKNOLOGI - PENDIDIKAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_8_TH_1990.pdf&fl=P00910"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1990"
+source: "https://peraturan.bpk.go.id/Download/35459/UU%20Nomor%208%20Tahun%201990.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46713"
 bpk_page: "https://peraturan.bpk.go.id/Details/46713"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133157/https://peraturan.bpk.go.id/Details/46713"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1990"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -34,13 +35,13 @@ TENTANG
 
 AKADEMI ILMU PENGETAHUAN INDONESIA
 
-DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RACHMAT TUHAN YANG MAHA ESA
 
 PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : a. bahwa Tuhan Yang Maha Esa menciptakan alam semesta dengan segala isinya untuk kepentingan umat manusia dan dalam pengelolaannya perlu diupayakan pembangunan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi guna meningkatkan kesejahteraan lahir dan batin serta kelestarian lingkungan;
+Menimbang : a. bahwa Tuhan Yang Maha Esa menciptakan alam semesta dengan segala isinya untuk kepentingan umat manusia dan dalam ru pengelolaannya perlu diupayakan pembangunan, pengembangan, nd an g-dan pemanfaatan ilmu pengetahuan dan teknologi guna un da ng meningkatkan kesejahteraan lahir dan batin serta kelestarian an Pe lingkungan; ra n tura Pe
 
-b. bahwa pembangunan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi dalam pembangunan nasional sangat penting artinya bagi kehidupan dan kemajuan bangsa Indonesia, khususnya dalam upaya untuk meningkatkan kesejahteraan, kemandirian, dan ketahanannya;
+b. bahwa pembangunan, pengembangan, dan pemanfaatan ilmu di tje n pengetahuan dan teknologi dalam pembangunan nasional sangat penting artinya bagi kehidupan dan kemajuan bangsa Indonesia, khususnya dalam upaya untuk meningkatkan kesejahteraan, kemandirian, dan ketahanannya;
 
 c. bahwa dalam penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi perlu tetap menjunjung tinggi harkat, martabat, dan keutuhan kepribadian manusia dan bangsa Indonesia serta kelestarian lingkungan hidupnya dalam keterpaduan pelaksanaan sesuai dengan nilai-nilai luhur bangsa berdasarkan Pancasila;
 
@@ -56,17 +57,11 @@ Dengan persetujuan
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN :
+MEMUTUSKAN:
 
-Menetapkan : UNDANG-UNDANG TENTANG AKADEMI ILMU PENGETAHUAN
+Menetapkan : UNDANG-UNDANG TENTANG AKADEMI ILMU PENGETAHUAN INDONESIA. ru nd an g-un BAB I da ng an KETENTUAN UMUM Pe n ratura di Pasal 1 Pe
 
-INDONESIA.
-
-## BAB I — KETENTUAN UMUM
-
-##### Pasal 1
-
-Dalam Undang-undang ini yang dimaksud dengan:
+Dalam Undang-undang ini yang dimaksud dengan: tje n
 
 1. Akademi adalah wadah ilmuwan terkemuka.
 
@@ -92,17 +87,21 @@ AIPI bertujuan menghimpun ilmuwan Indonesia terkemuka untuk memberikan pendapat,
 
 a. nilai dan cita-cita yang terkandung dalam Pancasila dan Undang-undang Dasar 1945;
 
-b. nilai kemanusiaan;
+b. nilai kemanusiaan; ru nd
 
-c. kesadaran dan tanggung jawab etik,
+c. kesadaran dan tanggung jawab etik, an g-un
 
-d. peningkatan kualitas manusia dan kehidupan masyarakat,
+d. peningkatan kualitas manusia dan kehidupan masyarakat, da ng an
 
-c. keutuhan kepribadian bangsa,
+c. keutuhan kepribadian bangsa, Pe
 
-f. keseimbangan lingkungan hidup dalam Pembangunan yang berkelanjutan.
+f. keseimbangan lingkungan hidup dalam Pembangunan yang berkelanjutan. n ratura Pe di
 
-## BAB III — SIFAT DAN KEDUDUKAN
+BAB III
+
+tje n
+
+SIFAT DAN KEDUDUKAN
 
 ##### Pasal 4
 
@@ -132,11 +131,13 @@ d. melakukan upaya lain yang bersifat mendasar dalam bidang ilmu pengetahuan dan
 
 ##### Pasal 7
 
-(1) Susunan organisasi, peran, fungsi, tata kerja AIPI serta tata cara pemilihan, pengangkatan, pemberhentian anggota AIPI, dan tata cara perubahan Anggaran Dasar dan Anggaran Rumah Tangga serta kelengkapan lainnya diatur lebih lanjut dalam Anggaran Dasar dan Anggaran Rumah Tangga AIPI.
+(1) Susunan organisasi, peran, fungsi, tata kerja AIPI serta tata cara pemilihan, pengangkatan, pemberhentian anggota AIPI, dan tata cara perubahan Anggaran Dasar dan Anggaran Rumah Tangga serta kelengkapan lainnya diatur lebih lanjut dalam Anggaran Dasar dan Anggaran Rumah Tangga AIPI. ru nd an g-un
 
-(2) Anggaran Dasar dan Anggaran Rumah Tangga AIPI disusun oleh anggota AIPI sebagaimana dimaksud dalam Pasal 12 ayat (3).
+(2) Anggaran Dasar dan Anggaran Rumah Tangga AIPI disusun oleh anggota AIPI da ng an sebagaimana dimaksud dalam Pasal 12 ayat (3). Pe n ratura
 
-(3) Anggaran dasar dan Anggaran Rumah Tangga AIPI disahkan dengan Keputusan Presiden.
+(3) Anggaran dasar dan Anggaran Rumah Tangga AIPI disahkan dengan Keputusan di Pe
+
+Presiden. tje n
 
 ##### Pasal 8
 
@@ -168,17 +169,11 @@ c. diajukan dan didukung paling sedikit oleh 1/4 (satu perempat) jumlah anggota 
 
 d. disetujuai paling sedikit oleh 2/3 (dua pertiga) jumlah anggota AIPI;
 
-e. syarat lain yang diatur dalam Anggaran Dasar dan Anggaran Rumah Tangga AIPI.
+e. syarat lain yang diatur dalam Anggaran Dasar dan Anggaran Rumah Tangga
 
-##### Pasal 10
+AIPI.
 
-Keanggotaan AIPI dapat berlaku seumur hidup.
-
-##### Pasal 11
-
-Keanggotaan AIPI terdiri atas anggota biasa dan anggota kehormatan.
-
-##### Pasal 12
+Pasal 10 ru nd Keanggotaan AIPI dapat berlaku seumur hidup. an g-un da ng an Pasal 11 Pe Keanggotaan AIPI terdiri atas anggota biasa dan anggota kehormatan. n ratura Pe di Pasal 12 tje n
 
 (1) Anggota AIPI diangkat dan diberhentikan oleh Sidang Paripurna AIPI dan disahkan oleh Presiden.
 
@@ -212,13 +207,13 @@ Di dalam AIPI dibentuk komisi bidang ilmu pengetahuan yang jumlahnya dapat ditet
 
 (1) Untuk dapat melaksanakan peran dan fungsinya, AIPI memperoleh dana dari :
 
-a. bantuan Pemerintah dan sumbangan masyarakat yang tidak mengikat;
+a. bantuan Pemerintah dan sumbangan masyarakat yang tidak mengikat; ru nd
 
-b. sumbangan luar negeri yang tidak mengikat;
+b. sumbangan luar negeri yang tidak mengikat; an g-un
 
-c. usaha lain yang sah.
+c. usaha lain yang sah. da ng an Pe
 
-(2) Pengelolaan bantuan Pemerintah sebagaimana dimaksud dalam ayat (1) butir a ditetapkan lebih lanjut dengan Keputusan Presiden.
+(2) Pengelolaan bantuan Pemerintah sebagaimana dimaksud dalam ayat (1) butir a n ratura ditetapkan lebih lanjut dengan Keputusan Presiden. di Pe tje n
 
 (3) Penerimaan dan pengeluaran dana AIPI, baik yang berasal dari dalam maupun luar negeri, dipertanggungjawabkan setiap tahun kepada Sidang Paripurna AIPI.
 
@@ -236,17 +231,17 @@ Disahkan di Jakarta pada tanggal 13 Oktober 1990
 
 PRESIDEN REPUBLIK INDONESIA
 
-ttd
-
 SOEHARTO
 
 Diundangkan di Jakarta pada tanggal 13 Oktober,1990
 
 MENTERI/SEKRETARIS NEGARA
 
-ttd
+REPUBLIK INDONESIA
 
 MOERDIONO
+
+ru nd an g-un da ng an Pe n ratura Pe di tje n
 
 ## PENJELASAN
 
@@ -264,11 +259,9 @@ UMUM
 
 Bahwa Tuhan Yang Maha Esa menciptakan alam semesta dengan segala isinya untuk kepentingan kesejahteraan umat manusia. Oleh karena itu pengelolaan sumber daya alam, sumber daya manusia, dan lingkungan hidup bagi kemajuan dan kesejahteraan bangsa Indonesia perlu dilaksanakan secara terencana dengan memanfaatkan ilmu pengetahuan dan teknologi sesuai dengan arah kebijaksanaan pembangunan nasional.
 
-Pembangunan nasional pada hakikatnya merupakan pembangunan manusia Indonesia seutuhnya dan masyarakat Indonesia seluruhnya. Sejalan dengan hakikat pembangunan tersebut, bangsa Indonesia berusaha untuk melaksanakan pembangunan di segala bidang kehidupan demi terwujudnya cita-cita nasional, yaitu masyarakat yang adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945.
+Pembangunan nasional pada hakikatnya merupakan pembangunan manusia Indonesia seutuhnya dan masyarakat Indonesia seluruhnya. Sejalan dengan hakikat pembangunan tersebut, bangsa Indonesia berusaha untuk melaksanakan pembangunan di segala bidang kehidupan demi terwujudnya cita-cita nasional, yaitu masyarakat yang adil dan makmur berdasarkan Pancasila dan Undang-Undang Dasar 1945. ru nd Sehubungan dengan hal tersebut di atas, agar dapat memasuki proses lepas landas an g-un untuk memacu pembangunan di segala bidang dengan kekuatan sendiri, diperlukan da ng an adanya peran serta setiap warga negara, khususnya para ilmuwan Indonesia terkemuka Pe guna memberikan sumbangan pemikiran mengenai penguasaan, pengembangan, n ratura pemanfaatan, dan pemecahan masalah ilmu pengetahuan dan teknologi. di Pe
 
-Sehubungan dengan hal tersebut di atas, agar dapat memasuki proses lepas landas untuk memacu pembangunan di segala bidang dengan kekuatan sendiri, diperlukan adanya peran serta setiap warga negara, khususnya para ilmuwan Indonesia terkemuka guna memberikan sumbangan pemikiran mengenai penguasaan, pengembangan, pemanfaatan, dan pemecahan masalah ilmu pengetahuan dan teknologi.
-
-Meskipun Indonesia kaya akan sumber daya, jika tanpa didukung oleh penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi yang memadai, tidak akan dapat dicapai hasil yang maksimal. Untuk itu para ilmuwan Indonesia terkemuka dari berbagai disiplin ilmu yang ada perlu dihimpun dalam satu wadah agar dapat memberikan sumbangan pemikiran dan penelahaan ilmiah bagi terselenggaranya penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi yang dapat menunjang pelaksanaan pembangunan nasional. Oleh karena itu, untuk dapat mencapai tujuan yang diharapkan oleh bangsa dan negara Indonesia yang berdasarkan Pancasila dan Undang-Undang Dasar 1945, penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi tidak meninggalkan nilai moral dan martabat kemanusiaan. Selain itu, penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi harus tetap menjunjung tinggi keutuhan kepribadian manusia, etika, peningkatan kualitas manusia, dan dinamika masyarakat, serta harus tetap memperhatikan kebutuhan dan keseimbangan ekologi.
+Meskipun Indonesia kaya akan sumber daya, jika tanpa didukung oleh penguasaan, tje n pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi yang memadai, tidak akan dapat dicapai hasil yang maksimal. Untuk itu para ilmuwan Indonesia terkemuka dari berbagai disiplin ilmu yang ada perlu dihimpun dalam satu wadah agar dapat memberikan sumbangan pemikiran dan penelahaan ilmiah bagi terselenggaranya penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi yang dapat menunjang pelaksanaan pembangunan nasional. Oleh karena itu, untuk dapat mencapai tujuan yang diharapkan oleh bangsa dan negara Indonesia yang berdasarkan Pancasila dan Undang-Undang Dasar 1945, penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi tidak meninggalkan nilai moral dan martabat kemanusiaan. Selain itu, penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi harus tetap menjunjung tinggi keutuhan kepribadian manusia, etika, peningkatan kualitas manusia, dan dinamika masyarakat, serta harus tetap memperhatikan kebutuhan dan keseimbangan ekologi.
 
 Hal tersebut mempunyai pengertian sebagai berikut
 
@@ -278,9 +271,9 @@ b. Penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi untu
 
 c. Penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi dalam pembangunan nasional diarahkan pada peningkatan kesejahteraan lahir dan batin untuk membentuk kualitas fisik dan mental spiritual dalam kehidupan masyarakat yang menjunjung tinggi harkat dan martabatnya sesuai dengan Pancasila. Melalui penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi dalam pembangunan nasional diharapkan mampu mengangkat derajat, martabat, dan harkat bangsa Indonesia ditengah-tengah pergaulan antar bangsa.
 
-d. Penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi untuk pendayagunaan sumber daya bagi pembangunan nasional hendaklah berwawasan lingkungan dan dengan memperhatikan kelestariannya bagi kepentingan generasi selanjutnya. Ilmu pengetahuan dan teknologi diharapkan juga mampu mengatasi kerusakan serta turunnya daya dukung lingkungan dan dapat memberikan nilai tambah dari pengolahan sumber daya itu dalam rangka lebih meningkatkan kesejahteraan bangsa dan memantapkan terjaminnya pembangunan nasional yang berkelanjutan. Penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan. dan teknologi diharapkan mampu menjalin interaksi dengan sistem pendidikan nasional guna mencerdaskan kehidupan bangsa sebagaimana diamanatkan oleh Pasal 31 Undang-Undang Dasar 1945. Tanpa itu semua penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi tidak akan dapat memberikan manfaat bagi peningkatan kesejahteraan dan kemakmuran umat manusia.
+d. Penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi untuk pendayagunaan sumber daya bagi pembangunan nasional hendaklah ru nd berwawasan lingkungan dan dengan memperhatikan kelestariannya bagi an g-un kepentingan generasi selanjutnya. Ilmu pengetahuan dan teknologi diharapkan da ng an juga mampu mengatasi kerusakan serta turunnya daya dukung lingkungan dan Pe dapat memberikan nilai tambah dari pengolahan sumber daya itu dalam rangka n ratura lebih meningkatkan kesejahteraan bangsa dan memantapkan terjaminnya di Pe pembangunan nasional yang berkelanjutan. Penguasaan, pengembangan, dan tje n pemanfaatan ilmu pengetahuan. dan teknologi diharapkan mampu menjalin interaksi dengan sistem pendidikan nasional guna mencerdaskan kehidupan bangsa sebagaimana diamanatkan oleh Pasal 31 Undang-Undang Dasar 1945.
 
-Untuk keperluan tersebut, dalam tahun 1967 telah tercetus ide perlunya pembentukan wadah atau organisasi para ilmuwan terkemuka yang disebut Akademi Ilmu Pengetahuan Indonesia (AIPI) yang bertujuan memberikan pemikiran yang bersifat ilmiah dan konseptual terhadap penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi dalam usaha menunjang pelaksanaan pembangunan nasional. Demikian pula, AIPI diharapkan menjadi mitra dalam pembangunan, yang mampu menyusun arah penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi yang paling sesuai dengan kebutuhan pembangunan dalam mengisi kemerdekaan. Ide pembentukan AIPI tersebut selanjutnya dituangkan dalam Surat Keputusan Pimpinan Majelis Permusyawaratan Rakyat Sementara Nomor 18/B/1967, kemudian diikuti dengan diterbitkannya Keputusan Presiden Nomor 128 Tahun 1967 yang menetapkan bahwa tugas pokok Lembaga Ilmu Pengetahuan Indonesia antara lain mempersiapkan pembentukan Akademi Ilmu Pengetahuan Indonesia (Academy of Sciences) berdasarkan Undang-undang negara. Dalam kerangka inilah disusun Undang-undang tentang Akademi Ilmu Pengetahuan Indonesia. AIPI, sebagai lembaga yang bersifat mandiri dan nonstruktural, memberikan saran, pendapat, dan pertimbangan dalam bidang ilmu pengetahuan dan teknologi kepada Pemerintah dan masyarakat, baik atas prakarsa sendiri dan/atau atas permintaan. Dengan demikian, AIPI tidak melakukan kegiatan yang bersifat teknik operasional.
+Tanpa itu semua penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi tidak akan dapat memberikan manfaat bagi peningkatan kesejahteraan dan kemakmuran umat manusia. Untuk keperluan tersebut, dalam tahun 1967 telah tercetus ide perlunya pembentukan wadah atau organisasi para ilmuwan terkemuka yang disebut Akademi Ilmu Pengetahuan Indonesia (AIPI) yang bertujuan memberikan pemikiran yang bersifat ilmiah dan konseptual terhadap penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi dalam usaha menunjang pelaksanaan pembangunan nasional. Demikian pula, AIPI diharapkan menjadi mitra dalam pembangunan, yang mampu menyusun arah penguasaan, pengembangan, dan pemanfaatan ilmu pengetahuan dan teknologi yang paling sesuai dengan kebutuhan pembangunan dalam mengisi kemerdekaan. Ide pembentukan AIPI tersebut selanjutnya dituangkan dalam Surat Keputusan Pimpinan Majelis Permusyawaratan Rakyat Sementara Nomor 18/B/1967, kemudian diikuti dengan diterbitkannya Keputusan Presiden Nomor 128 Tahun 1967 yang menetapkan bahwa tugas pokok Lembaga Ilmu Pengetahuan Indonesia antara lain mempersiapkan pembentukan Akademi Ilmu Pengetahuan Indonesia (Academy of Sciences) berdasarkan Undang-undang negara. Dalam kerangka inilah disusun Undang-undang tentang Akademi Ilmu Pengetahuan Indonesia. AIPI, sebagai lembaga yang bersifat mandiri dan nonstruktural, memberikan saran, pendapat, dan pertimbangan dalam bidang ilmu pengetahuan dan teknologi kepada Pemerintah dan masyarakat, baik atas prakarsa sendiri dan/atau atas permintaan. Dengan demikian, AIPI tidak melakukan kegiatan yang bersifat teknik operasional.
 
 Sesuai dengan peran dan fungsi di atas, maka pengangkatan anggota AIPI harus memenuhi persyaratan umum dan persyaratan khusus yang diatur dalam Undang-undang ini.
 
@@ -288,11 +281,7 @@ Sejalan dengan penjelasan di atas, maka Undang-undang Nomor 6 Tahun 1956 tentang
 
 PASAL DEMI PASAL
 
-#### Pasal I
-
-Butir I
-
-Yang dimaksud dengan akademi dalam Undang-undang ini adalah wadah ilmuwan terkemuka, bukan akademi dalam pengertian salah satu bentuk perguruan tinggi. Ilmuwan terkemuka adalah ilmuwan yang mempunyai integritas tinggi, baik dalam bidang ilmu pengetahuan dan teknologi maupun dalam kehidupan pribadinya.
+ru nd Pasal I an g-un Butir I da ng an Yang dimaksud dengan akademi dalam Undang-undang ini adalah wadah Pe ilmuwan terkemuka, bukan akademi dalam pengertian salah satu bentuk n ratura perguruan tinggi. Ilmuwan terkemuka adalah ilmuwan yang mempunyai di Pe integritas tinggi, baik dalam bidang ilmu pengetahuan dan teknologi tje n maupun dalam kehidupan pribadinya.
 
 Butir 2
 
@@ -326,9 +315,11 @@ Yang dimaksud dengan Pemerintah dalam pasal ini adalah Presiden, Menteri, Pimpin
 
 Pendapat, saran, dan pertimbangan kepada Pemerintah dan masyarakat diajukan AIPI atas prakarsa sendiri dan/atau permintaan, sesuai dengan kebutuhan atau sifat permasalahannya. Pedapat, saran, dan pertimbangan serta karya lain AIPI pada umumnya bersifat terbuka untuk masyarakat luas.
 
-#### Pasal 4
+Pasal 4 ru nd Mandiri dalam pasal ini berarti bahwa dalam memberikan pendapat, saran, dan an g-un pertimbangan dalam bidang ilmu pengetahuan dan teknologi, AIPI da ng an merumuskannya berdasarkan kebenaran dan obyektivitas ilmiah sesuai dengan Pe kebebasan akademik yang bertanggungjawab. Nonstruktural berarti bahwa AIPI n ratura tidak memiliki susunan organisasi yang berjenjang. AIPI bukan merupakan badan di Pe
 
-Mandiri dalam pasal ini berarti bahwa dalam memberikan pendapat, saran, dan pertimbangan dalam bidang ilmu pengetahuan dan teknologi, AIPI merumuskannya berdasarkan kebenaran dan obyektivitas ilmiah sesuai dengan kebebasan akademik yang bertanggungjawab. Nonstruktural berarti bahwa AIPI tidak memiliki susunan organisasi yang berjenjang. AIPI bukan merupakan badan Pemerintah, berarti secara organisasi AIPI bukan merupakan bagian dari badan tersebut dan bukan pula merupakan lembaga negara yang setingkat dengan itu. AIPI bukan merupakan organisasi sosial politik, organisasi kemasyarakatan, dan organisasi ekonomi. AIPI juga bukan merupakan suatu organisasi yang mencari keuntungan.
+Pemerintah, berarti secara organisasi AIPI bukan merupakan bagian dari badan tje n tersebut dan bukan pula merupakan lembaga negara yang setingkat dengan itu.
+
+AIPI bukan merupakan organisasi sosial politik, organisasi kemasyarakatan, dan organisasi ekonomi. AIPI juga bukan merupakan suatu organisasi yang mencari keuntungan.
 
 #### Pasal 5
 
@@ -364,17 +355,15 @@ Cukup jelas
 
 #### Pasal 7
 
-Ayat ( 1) Anggaran Dasar dan Anggaran Rumah Tangga AIPI, selain mengatur hal yang telah ditetapkan dalam ayat ini, juga memuat antara lain pengaturan tentang cara pemilihan Ketua dan Wakil Ketua, pembentukan komisi bidang ilmu pengetahuan, penyelenggaraan sidang dan rapat, penyusunan anggaran, dan lain-lain yang berkaitan dengan AIPI. Perubahan Anggaran Dasar dan Anggaran Rumah Tangga AIPI disahkan dengan Keputusan Presiden.
+Ayat ( 1) Anggaran Dasar dan Anggaran Rumah Tangga AIPI, selain mengatur hal yang telah ditetapkan dalam ayat ini, juga memuat antara lain pengaturan tentang cara pemilihan Ketua dan Wakil Ketua, pembentukan komisi bidang ilmu pengetahuan, penyelenggaraan sidang dan rapat, penyusunan anggaran, dan lain-lain yang berkaitan dengan AIPI. ru nd Perubahan Anggaran Dasar dan Anggaran Rumah Tangga AIPI disahkan an g-un dengan Keputusan Presiden. da ng an Pe
 
 Ayat (2)
 
-Cukup jelas
+n ratura Cukup jelas di Pe tje n
 
 Ayat (3)
 
-Cukup jelas
-
-#### Pasal 8
+Cukup jelas Pasal 8
 
 Ayat (1)
 
@@ -406,11 +395,9 @@ Cukup jelas
 
 Butir e
 
-Yang dimaksud dengan kegiatan/gerakan yang bertentangan dengan Pancasila dan Undang-Undang Dasar 1945 dalam Undang-undang ini adalah kegiatan/gerakan apa pun dan kapan pun yang secara nyata-nyata bertentangan dengan Pancasila dan Undang-Undang Dasar 1945.
+Yang dimaksud dengan kegiatan/gerakan yang bertentangan dengan Pancasila dan Undang-Undang Dasar 1945 dalam Undang-undang ini adalah kegiatan/gerakan apa pun dan kapan pun yang secara nyata-nyata bertentangan dengan Pancasila dan Undang-Undang Dasar 1945. G. 30. S/PKI merupakan bahaya laten dan akan tetap merupakan ru nd bahaya bagi Pancasila dan Undang-Undang Dasar 1945 di masa an g-un mendatang. da ng an Yang dimaksud dengan tidak pernah menjadi anggota organisasi Pe terlarang dalam Undang-undang ini adalah sebagaimana yang n ratura diatur dalam TAP MPRS Nomor XXV/MPRS/1966 tentang di Pe
 
-G. 30. S/PKI merupakan bahaya laten dan akan tetap merupakan bahaya bagi Pancasila dan Undang-Undang Dasar 1945 di masa mendatang.
-
-Yang dimaksud dengan tidak pernah menjadi anggota organisasi terlarang dalam Undang-undang ini adalah sebagaimana yang diatur dalam TAP MPRS Nomor XXV/MPRS/1966 tentang Pembubaran Partai Komunis Indonesia, pernyataan sebagai organisasi terlarang di seluruh wilayah Republik Indonesia, bagi Partai Komunis Indonesia dan larangan setiap kegiatan untuk menyebarkan atau mengembangkan paham ajaran Komunisme/Marxisme-Leninisme serta Undang-undang Nomor 5 Tahun 1985 tentang Referendum - Penjelasan Umum yang berbunyi : yang dimaksud dengan organisasi terlarang ialah organisasi yang tegas-tegas dinyatakan terlarang dengan peraturan perundang-undangan; ketentuan-ketentuan tersebut di atas tidak berlaku bagi mereka yang telah mendapat Amnesti, Abolisi, atau Grasi berdasarkan peraturan perundang-undangan yang berlaku.
+Pembubaran Partai Komunis Indonesia, pernyataan sebagai tje n organisasi terlarang di seluruh wilayah Republik Indonesia, bagi Partai Komunis Indonesia dan larangan setiap kegiatan untuk menyebarkan atau mengembangkan paham ajaran Komunisme/Marxisme-Leninisme serta Undang-undang Nomor 5 Tahun 1985 tentang Referendum - Penjelasan Umum yang berbunyi : yang dimaksud dengan organisasi terlarang ialah organisasi yang tegas-tegas dinyatakan terlarang dengan peraturan perundang-undangan; ketentuan-ketentuan tersebut di atas tidak berlaku bagi mereka yang telah mendapat Amnesti, Abolisi, atau Grasi berdasarkan peraturan perundang-undangan yang berlaku.
 
 Ayat (2)
 
@@ -418,23 +405,17 @@ Cukup jelas Pasal 10 Sebagaimana dimaksud dalam penjelasan Pasal 8 ayat (2), kea
 
 #### Pasal 11
 
-Yang dimaksud dengan anggota biasa adalah anggota yang diangkat atas usul anggota AIPI dengan hak suara. Anggota biasa yang telah mencapai batas usia tertentu tetapi secara fisik dan mental masih memenuhi persyaratan, dengan sendirinya statusnya beralih menjadi anggota kehormatan. Anggota kehormatan tidak mempunyai hak suara.
-
-Untuk efektivitas peran dan fungsi AIPI, keanggotaan AIPI perlu ditinjau secara berkala yang akan ditentukan dalam Anggaran Dasar dan Anggaran Rumah Tangga AIPI.
-
-Peninjauan ini dihubungkan dengan faktor usia anggota AIPI dan faktor lain. Ilmuwan terkemuka negara lain dapat ditetapkan sebagai mitra AIPI berdasarkan jasanya yang luar biasa terhadap pengembangan ilmu pengetahuan dan teknologi di Indonesia dan/atau terhadap pembangunan nasional. Prosedur pemilihan anggota biasa dan anggota kehormatan serta penetapan mitra AIPI diatur dalam Anggaran Dasar dan Anggaran Rumah Tangga AIPI.
+Yang dimaksud dengan anggota biasa adalah anggota yang diangkat atas usul anggota AIPI dengan hak suara. Anggota biasa yang telah mencapai batas usia tertentu tetapi secara fisik dan mental masih memenuhi persyaratan, dengan sendirinya statusnya beralih menjadi anggota kehormatan. Anggota kehormatan tidak mempunyai hak suara. Untuk efektivitas peran dan fungsi AIPI, keanggotaan AIPI perlu ditinjau secara berkala yang akan ditentukan dalam Anggaran Dasar dan Anggaran Rumah Tangga AIPI. Peninjauan ini dihubungkan dengan faktor usia anggota AIPI dan faktor lain. Ilmuwan terkemuka negara lain dapat ditetapkan sebagai mitra AIPI berdasarkan jasanya yang luar biasa terhadap pengembangan ilmu pengetahuan dan teknologi di Indonesia dan/atau terhadap pembangunan nasional. Prosedur pemilihan anggota biasa dan anggota kehormatan serta penetapan mitra AIPI diatur dalam Anggaran Dasar dan Anggaran Rumah Tangga AIPI.
 
 #### Pasal 12
 
 Ayat (1)
 
-Pengesahan oleh Presiden sebagaimana dimaksud dalam ayat ini ditetapkan dengan Keputusan Presiden.
-
-Ayat (2)
-
-Cukup jelas
+Pengesahan oleh Presiden sebagaimana dimaksud dalam ayat ini ru nd ditetapkan dengan Keputusan Presiden. an g-un da ng an Ayat (2) Pe Cukup jelas n ratura Pe di
 
 Ayat (3)
+
+tje n
 
 Usul keanggotaan AIPI untuk pertama kali diajukan oleh Menteri Negara Riset dan Teknologi, Menteri Pendidikan dan Kebudayaan, dan Ketua lembaga Ilmu Pengetahuan Indonesia (LIPI).
 
@@ -458,13 +439,19 @@ Di antara syarat lain yang diatur dalam Anggaran Dasar dan Anggaran Rumah Tangga
 
 Butir e
 
-Cukup jelas Pasal 14 Komisi bidang ilmu pengetahuan dibentuk sebagai kelengkapan organisasi AIPI. Jumlah komisi dapat terdiri atas satu atau lebih cabang ilmu pengetahuan. Komisi bidang ilmu pengetahuan memprakarsai terbentuknya akademi untuk mewadahi ilmuwan dalam bidang ilmu pengetahuan tertentu, apabila perkembangan ilmu pengetahuan menghendakinya, misalnya akademi dalam bidang ilmu rekayasa, akademi dalam bidang ilmu kedokteran, akademi dalam bidang ilmu sosial, akademi dalam bidang ilmu pengetahuan dasar, dan akademi dalam bidang kebudayaan. Akademi ini tetap bernaung di bawah AIPI. Pembentukan akademi tersebut ditetapkan dengan Keputusan Presiden.
+Cukup jelas Pasal 14 Komisi bidang ilmu pengetahuan dibentuk sebagai kelengkapan organisasi AIPI.
+
+Jumlah komisi dapat terdiri atas satu atau lebih cabang ilmu pengetahuan.
+
+Komisi bidang ilmu pengetahuan memprakarsai terbentuknya akademi untuk mewadahi ilmuwan dalam bidang ilmu pengetahuan tertentu, apabila perkembangan ilmu pengetahuan menghendakinya, misalnya akademi dalam bidang ilmu rekayasa, akademi dalam bidang ilmu kedokteran, akademi dalam bidang ilmu sosial, akademi dalam bidang ilmu pengetahuan dasar, dan akademi dalam bidang kebudayaan. Akademi ini tetap bernaung di bawah AIPI.
+
+Pembentukan akademi tersebut ditetapkan dengan Keputusan Presiden.
 
 #### Pasal 15
 
 Ayat (1)
 
-Untuk dapat mewujudkan peran dan fungsi AIPI secara optimal, AIPI memerlukan dana operasional secara tetap. AIPI memperoleh dana bantuan Pemerintah antara lain bersumber dari Anggaran Pendapatan dan Belanja Negara. Bantuan Pemerintah tersebut dapat pula berasal dari sumber lain, dan/atau luar negeri untuk kepentingan pengembangan ilmu pengetahuan dan teknologi di Indonesia. Bantuan luar negeri tersebut disalurkan melalui Pemerintah. Di samping itu, AIPI dapat mengusahakan dana dengan memberikan jasa ilmiah kepada masyarakat.
+Untuk dapat mewujudkan peran dan fungsi AIPI secara optimal, AIPI memerlukan dana operasional secara tetap. AIPI memperoleh dana bantuan Pemerintah antara lain bersumber dari Anggaran Pendapatan ru nd dan Belanja Negara. Bantuan Pemerintah tersebut dapat pula berasal an g-un dari sumber lain, dan/atau luar negeri untuk kepentingan pengembangan da ng an ilmu pengetahuan dan teknologi di Indonesia. Bantuan luar negeri Pe tersebut disalurkan melalui Pemerintah. Di samping itu, AIPI dapat n ratura mengusahakan dana dengan memberikan jasa ilmiah kepada masyarakat. di Pe tje n
 
 Ayat (2)
 

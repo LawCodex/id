@@ -16,10 +16,11 @@ repeals:
   - "UU No. 6 Tahun 1960"
 gazette: "LN. 1997/ No. 39, TLN NO. 3683, LL SETNEG : 20 HLM"
 subject: "ADMINISTRASI DAN TATA USAHA NEGARA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0161997.pdf&fl=P01002"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34497/UU%20Nomor%2016%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45944"
 bpk_page: "https://peraturan.bpk.go.id/Details/45944"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134150/https://peraturan.bpk.go.id/Details/45944"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=16&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

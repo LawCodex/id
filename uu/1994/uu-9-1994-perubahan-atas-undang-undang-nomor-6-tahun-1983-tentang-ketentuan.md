@@ -19,10 +19,11 @@ amends:
   - "UU No. 6 Tahun 1983"
 gazette: "LN. 1994/ No. 59, TLN NO. 3566, LL SETNEG : 31 HLM"
 subject: "PERPAJAKAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0091994.pdf&fl=P00961"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34818/UU%20Nomor%209%20tahun%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46230"
 bpk_page: "https://peraturan.bpk.go.id/Details/46230"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133829/https://peraturan.bpk.go.id/Details/46230"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---

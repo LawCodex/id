@@ -18,10 +18,11 @@ repeals:
   - "UU No. 31 Tahun 1964"
 gazette: "LN. 1997/ No. 23, TLN NO. 3676, LL SETNEG : 17 HLM"
 subject: "ILMU PENGETAHUAN DAN TEKNOLOGI - PERTAMBANGAN MIGAS, MINERAL DAN ENERGI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0101997.pdf&fl=P00996"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34484/UU%20Nomor%2010%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45931"
 bpk_page: "https://peraturan.bpk.go.id/Details/45931"
 bpk_metadata_archived: "http://web.archive.org/web/20240124050052/https://peraturan.bpk.go.id/Details/45931"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

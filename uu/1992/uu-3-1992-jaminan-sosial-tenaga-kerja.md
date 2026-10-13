@@ -21,10 +21,11 @@ repeals:
   - "UU No. 33 Tahun 1947"
 gazette: "LN. 1992, LL SETNEG : 19 HLM"
 subject: "KETENAGAKERJAAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_3_TH_1992.pdf&fl=P00923"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35313/UU%20Nomor%203%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46595"
 bpk_page: "https://peraturan.bpk.go.id/Details/46595"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133442/https://peraturan.bpk.go.id/Details/46595"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

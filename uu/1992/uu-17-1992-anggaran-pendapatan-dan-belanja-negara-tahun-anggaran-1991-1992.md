@@ -15,10 +15,11 @@ amends:
   - "UU No. 2 Tahun 1991"
 gazette: "LN. 1992, LL SETNEG : 4 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_17_TH_1992.pdf&fl=P00937"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35338/UU%20Nomor%2017%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46614"
 bpk_page: "https://peraturan.bpk.go.id/Details/46614"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133400/https://peraturan.bpk.go.id/Details/46614"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

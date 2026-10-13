@@ -12,10 +12,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1998 No. 87, TLN. No. 3761, LL SETNEG : 72 HLM"
 subject: "HUKUM ACARA DAN PERADILAN - HUKUM PIDANA, PERDATA, DAN DAGANG"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=perpu0011998.pdf&fl=P01441"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=1998"
+source: "https://peraturan.bpk.go.id/Download/43422/perpu%20No.%20001%20Tahun%201998.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/54018"
 bpk_page: "https://peraturan.bpk.go.id/Details/54018"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134334/https://peraturan.bpk.go.id/Details/54018"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=1998"
 consolidated: false
 retrieved: 2026-10-13
 ---

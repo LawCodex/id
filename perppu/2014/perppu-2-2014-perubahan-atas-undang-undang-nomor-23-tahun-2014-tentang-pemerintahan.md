@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: sebagian"
 gazette: "LN. 2014 No. 246, LL SETNEG : 6 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpu+Nomor+2+Tahun+2014.pdf&fl=P14901"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2014"
+source: "https://peraturan.bpk.go.id/Download/42641/Perpu%20Nomor%202%20Tahun%202014.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/53262"
 bpk_page: "https://peraturan.bpk.go.id/Details/53262"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145447/https://peraturan.bpk.go.id/Details/53262"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2014"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -142,6 +143,8 @@ ttd.
 AMIR SYAMSUDIN
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 246
+
+## Berkas: Perpu Nomor 2 Tahun 2014 - Penjelasan.pdf
 
 ## PENJELASAN
 

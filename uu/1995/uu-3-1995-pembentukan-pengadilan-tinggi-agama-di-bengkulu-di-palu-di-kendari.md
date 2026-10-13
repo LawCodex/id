@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1995/ No. 20, LL SETNEG : 5 HLM"
 subject: "HUKUM ACARA DAN PERADILAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0031995.pdf&fl=P00967"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34732/UU%20Nomor%203%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46172"
 bpk_page: "https://peraturan.bpk.go.id/Details/46172"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133923/https://peraturan.bpk.go.id/Details/46172"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

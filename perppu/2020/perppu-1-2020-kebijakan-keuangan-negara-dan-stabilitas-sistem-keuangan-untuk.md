@@ -30,10 +30,11 @@ amends:
   - "UU No. 6 Tahun 1983"
 gazette: "LN.2020/NO.87, TLN NO.6485, JDIH.SETNEG.GO.ID : 31 HLM."
 subject: "APBD - APBN - KESEHATAN - PENGELOLAAN KEUANGAN NEGARA / DAERAH - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA - PERPAJAKAN - COVID-19 / CORONA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpu+Nomor+1+Tahun+2020.pdf&fl=P18845"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2020"
+source: "https://peraturan.bpk.go.id/Download/125897/Perpu%20Nomor%201%20Tahun%202020.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/135060"
 bpk_page: "https://peraturan.bpk.go.id/Details/135060"
 bpk_metadata_archived: "http://web.archive.org/web/20251223045045/https://peraturan.bpk.go.id/Details/135060/perpu-no-1-tahun-2020."
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2020"
 consolidated: false
 retrieved: 2026-10-13
 ---

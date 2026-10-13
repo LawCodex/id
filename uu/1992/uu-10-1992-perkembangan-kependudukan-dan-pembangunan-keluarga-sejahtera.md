@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 52 Tahun 2009"
 gazette: "LN. 1992, LL SETNEG : 18 HLM"
 subject: "KEPENDUDUKAN DAN PERKAWINAN - BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_10_TH_1992.pdf&fl=P00930"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35320/UU%20Nomor%2010%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46602"
 bpk_page: "https://peraturan.bpk.go.id/Details/46602"
 bpk_metadata_archived: "http://web.archive.org/web/20260904021110/https://peraturan.bpk.go.id/Details/46602/uu-no-10-"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

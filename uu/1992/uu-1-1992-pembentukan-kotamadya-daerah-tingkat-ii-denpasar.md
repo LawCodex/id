@@ -15,10 +15,11 @@ repeals:
   - "PP No. 20 Tahun 1978"
 gazette: "LN. 1993, LL SETNEG : 11 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_1_TH_1992.pdf&fl=P00921"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35308/UU%20Nomor%201%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46590"
 bpk_page: "https://peraturan.bpk.go.id/Details/46590"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133408/https://peraturan.bpk.go.id/Details/46590"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 33 Tahun 2009"
 gazette: "LN. 1992, LL SETNEG : 22 HLM"
 subject: "PERS, POS, DAN PERIKLANAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU__NO_8_TH_1992.pdf&fl=P00928"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35318/UU%20Nomor%208%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46600"
 bpk_page: "https://peraturan.bpk.go.id/Details/46600"
 bpk_metadata_archived: "http://web.archive.org/web/20240615210851/https://peraturan.bpk.go.id/Details/46600"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

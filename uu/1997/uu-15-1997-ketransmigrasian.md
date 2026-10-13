@@ -17,10 +17,11 @@ repeals:
   - "UU No. 3 Tahun 1972"
 gazette: "LN. 1997/ No. 37, TLN NO. 3682, LL SETNEG : 15 HLM"
 subject: "BANTUAN, SUMBANGAN, BENCANA/KEBENCANAAN, DAN PENANGGULANGAN BENCANA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0151997.pdf&fl=P01001"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34495/UU%20Nomor%2015%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45942"
 bpk_page: "https://peraturan.bpk.go.id/Details/45942"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134146/https://peraturan.bpk.go.id/Details/45942"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=15&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

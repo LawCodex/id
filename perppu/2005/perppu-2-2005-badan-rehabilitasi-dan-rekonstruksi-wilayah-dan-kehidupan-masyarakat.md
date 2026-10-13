@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 2005 No. 35, TLN. No. 4492, LL SETNEG : 10 HLM"
 subject: "BANTUAN, SUMBANGAN, BENCANA/KEBENCANAAN, DAN PENANGGULANGAN BENCANA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP_Pengganti_UU+No.+2+Tahun+2005.pdf&fl=P14896"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2005"
+source: "https://peraturan.bpk.go.id/Download/42519/PP_Pengganti_UU%20No.%202%20Tahun%202005.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/53141"
 bpk_page: "https://peraturan.bpk.go.id/Details/53141"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141659/https://peraturan.bpk.go.id/Details/53141"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2005"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -446,8 +447,6 @@ Ttd
 YUSRIL IHZA MAHENDRA
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2005 NOMOR 35
-
-## Berkas: PP_Pengganti_UU No. 2 Tahun 2005_Lampiran.pdf
 
 ## PENJELASAN
 

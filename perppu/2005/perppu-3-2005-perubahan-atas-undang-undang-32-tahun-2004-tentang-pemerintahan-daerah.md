@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: sebagian"
 gazette: "LN. 2005 No. 38, TLN. No. 4493, LL SETNEG : 3 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=PP_Pengganti_UU+No.+3+Tahun+2005.pdf&fl=P14903"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=3&thn=2005"
+source: "https://peraturan.bpk.go.id/Download/42522/PP_Pengganti_UU%20No.%203%20Tahun%202005.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/53144"
 bpk_page: "https://peraturan.bpk.go.id/Details/53144"
 bpk_metadata_archived: "http://web.archive.org/web/20240919141715/https://peraturan.bpk.go.id/Details/53144"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=3&thn=2005"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -118,8 +119,6 @@ SEKRETARIAT NEGARA RI
 Kepala Biro Tata Usaha,
 
 Sugiri, S.H
-
-## Berkas: PP_Pengganti_UU No. 3 Tahun 2005_Lampiran.pdf
 
 ## PENJELASAN
 

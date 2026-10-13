@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 9 Tahun 2018"
 gazette: "LN. 1997, LL SETNEG : 18 HLM"
 subject: "APBN - PNBP / PENERIMAAN NEGARA BUKAN PAJAK"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0201997.pdf&fl=P01006"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34560/UU%20Nomor%2020%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46006"
 bpk_page: "https://peraturan.bpk.go.id/Details/46006"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134203/https://peraturan.bpk.go.id/Details/46006"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

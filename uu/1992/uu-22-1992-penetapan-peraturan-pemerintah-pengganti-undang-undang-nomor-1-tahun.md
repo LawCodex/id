@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1992, LL SETNEG : 3 HLM"
 subject: "TRANSPORTASI DARAT/LAUT/UDARA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_22_TH_1922.pdf&fl=P00942"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35353/UU%20Nomor%2022%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46619"
 bpk_page: "https://peraturan.bpk.go.id/Details/46619"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133415/https://peraturan.bpk.go.id/Details/46619"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=22&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

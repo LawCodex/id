@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: sebagian"
 gazette: "LN. 2016 No.99/TLN. No.5882 : 7 HLM"
 subject: "HAK ASASI MANUSIA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpu+Nomor+1+Tahun+2016.pdf&fl=P14894"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2016"
+source: "https://peraturan.bpk.go.id/Download/51923/Perpu%20Nomor%201%20Tahun%202016.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/61883"
 bpk_page: "https://peraturan.bpk.go.id/Details/61883"
 bpk_metadata_archived: "http://web.archive.org/web/20240919150035/https://peraturan.bpk.go.id/Details/61883"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2016"
 consolidated: false
 retrieved: 2026-10-13
 ---

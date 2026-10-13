@@ -15,10 +15,11 @@ amended_by:
   - "UU No. 32 Tahun 2024"
 gazette: "website peraturan.go.id : 14 hlm"
 subject: "KEHUTANAN DAN PERKEBUNAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_5_TH_1990.pdf&fl=P00907"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1990"
+source: "https://peraturan.bpk.go.id/Download/35455/UU%20Nomor%205%20Tahun%201990.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46710"
 bpk_page: "https://peraturan.bpk.go.id/Details/46710"
 bpk_metadata_archived: "http://web.archive.org/web/20250412224628/https://peraturan.bpk.go.id/Details/46710/uu-no-5-tahun-199097"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1990"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -37,9 +38,9 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : a. bahwa sumber daya alam hayati Indonesia dan ekosistemnya yang mempunyai kedudukan serta peranan penting bagi kehidupan adalah karunia Tuhan Yang Maha Esa, oleh karena itu perlu dikelola dan dimanfaatkan secara lestari, selaras, serasi dan seimbang bagi kesejahteraan masyarakat Indonesia pada khususnya dan umat manusia pada umumnya, baik masa kini maupun masa depan;
+Menimbang : a. bahwa sumber daya alam hayati Indonesia dan ekosistemnya yang mempunyai kedudukan serta peranan penting bagi kehidupan ru adalah karunia Tuhan Yang Maha Esa, oleh karena itu perlu dikelola nd an g-dan dimanfaatkan secara lestari, selaras, serasi dan seimbang bagi un da ng kesejahteraan masyarakat Indonesia pada khususnya dan umat an Pe manusia pada umumnya, baik masa kini maupun masa depan; ra n tu
 
-b. bahwa pembangunan sumber daya alam hayati dan ekosistemnya pada hakikatnya adalah bagian integral dari pembangunan nasional yang berkelanjutan sebagai pengamalan Pancasila;
+b. bahwa pembangunan sumber daya alam hayati dan ekosistemnya Pe ra pada hakikatnya adalah bagian integral dari pembangunan nasional di tje n yang berkelanjutan sebagai pengamalan Pancasila;
 
 c. bahwa unsur-unsur sumber daya alam hayati dan ekosistemnya pada dasarnya saling tergantung antara satu dengan yang lainnya dan saling mempengaruhi sehingga kerusakan dan kepunahan salah satu unsur akan berakibat terganggunya ekosistem;
 
@@ -57,19 +58,21 @@ Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 33 Undang-Undang D
 
 3. Undang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pengelolaan Lingkungan Hidup (Lembaran Negara Tahun 1982 Nomor 12, Tambahan Lembaran Negara Nomor 3215);
 
-4. Undang-undang Nomor 20 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia (Lembaran Negara Tahun 1982 Nomor 51, Tambahan Lembaran Negara Nomor 3234) sebagaimana telah diubah dengan Undang-undang Nomor 1 Tahun 1988 (Lembaran Negara Tahun 1988 Nomor 3, Tambahan Lembaran Negara Nomor 3368);
+4. Undang-undang Nomor 20 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pertahanan Keamanan Negara Republik Indonesia (Lembaran Negara Tahun 1982 Nomor 51, Tambahan Lembaran Negara Nomor 3234) sebagaimana telah diubah dengan Undang-undang Nomor 1 Tahun 1988 (Lembaran Negara Tahun 1988 Nomor 3, Tambahan Lembaran Negara Nomor 3368); ru nd
 
-5. Undang-undang Nomor 9 Tahun 1985 tentang Perikanan (Lembaran Negara Tahun 1985 Nomor 46, Tambahan Lembaran Negara Nomor 3299);
+5. Undang-undang Nomor 9 Tahun 1985 tentang Perikanan (Lembaran an g-un Negara Tahun 1985 Nomor 46, Tambahan Lembaran Negara Nomor da ng an 3299); Pe n ratura
 
-Dengan persetujuan
+Dengan persetujuan di Pe
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN :
+tje n
 
-Menetapkan : UNDANG-UNDANG REPUBLIK INDONESIA TENTANG KONSERVASI
+MEMUTUSKAN:
 
-SUMBER DAYA ALAM HAYATI DAN EKOSISTEMNYA.
+Menetapkan : UNDANG-UNDANG REPUBLIK INDONESIA TENTANG KONSERVASI SUMBER
+
+DAYA ALAM HAYATI DAN EKOSISTEMNYA.
 
 ## BAB I — KETENTUAN UMUM
 
@@ -93,11 +96,11 @@ Dalam Undang-undang ini yang dimaksud dengan:
 
 8. Habitat adalah lingkungan tempat tumbuhan atau satwa dapat hidup dan berkembang secara alami.
 
-9. Kawasan suaka alam adalah kawasan dengan ciri khas tertentu, baik di darat maupun di perairan yang mempunyai fungsi pokok sebagai kawasan pengawetan keanekaragaman tumbuhan dan satwa serta ekosistemnya yang juga berfungsi sebagai wilayah sistem penyangga kehidupan.
+9. Kawasan suaka alam adalah kawasan dengan ciri khas tertentu, baik di darat maupun di perairan yang mempunyai fungsi pokok sebagai kawasan pengawetan ru nd keanekaragaman tumbuhan dan satwa serta ekosistemnya yang juga berfungsi an g-un sebagai wilayah sistem penyangga kehidupan. da ng an
 
-10. Cagar alam adalah kawasan suaka alam yang karena keadaan alamnya mempunyai kekhasan tumbuhan, satwa, dan ekosistemnya atau ekosistem tertentu yang perlu dilindungi dan perkembangannya berlangsung secara alami.
+10. Cagar alam adalah kawasan suaka alam yang karena keadaan alamnya Pe mempunyai kekhasan tumbuhan, satwa, dan ekosistemnya atau ekosistem n ratura tertentu yang perlu dilindungi dan perkembangannya berlangsung secara alami. di Pe
 
-11. Suaka margasatwa adalah kawasan suaka alam yang mempunyai ciri khas berupa keanekaragaman dan/atau keunikan jenis satwa yang untuk kelangsungan hidupnya dapat dilakukan pembinaan terhadap habitatnya.
+11. Suaka margasatwa adalah kawasan suaka alam yang mempunyai ciri khas tje n berupa keanekaragaman dan/atau keunikan jenis satwa yang untuk kelangsungan hidupnya dapat dilakukan pembinaan terhadap habitatnya.
 
 12. Cagar biosfer adalah suatu kawasan yang terdiri dari ekosistem asli, ekosistem unik, dan/atau ekosistem yang telah mengalami degradasi yang keseluruhan unsur alamnya dilindungi dan dilestarikan bagi kepentingan penelitian dan pendidikan.
 
@@ -119,17 +122,13 @@ Konservasi sumber daya alam hayati dan ekosistemnya bertujuan mengusahakan terwu
 
 ##### Pasal 4
 
-Konservasi sumber daya alam hayati dan ekosistemnya merupakan tanggung jawab dan kewajiban Pemerintah serta masyarakat.
+Konservasi sumber daya alam hayati dan ekosistemnya merupakan tanggung jawab dan kewajiban Pemerintah serta masyarakat. ru nd Pasal 5 an g-un Konservasi sumber daya alam hayati dan ekosistemnya dilakukan melalui kegiatan : da ng an
 
-##### Pasal 5
+a. perlindungan sistem penyangga kehidupan; Pe
 
-Konservasi sumber daya alam hayati dan ekosistemnya dilakukan melalui kegiatan :
+b. pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya; n ratura
 
-a. perlindungan sistem penyangga kehidupan;
-
-b. pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya;
-
-c. pemanfaatan secara lestari sumber daya alami hayati dan ekosistemnya.
+c. pemanfaatan secara lestari sumber daya alami hayati dan ekosistemnya. di Pe tje n
 
 ## BAB II — PERLINDUNGAN SISTEM PENYANGGA KEHIDUPAN
 
@@ -159,13 +158,13 @@ c. pengaturan cara pemanfaatan wilayah perlindungan sistem penyangga kehidupan.
 
 (2) Dalam rangka pelaksanaan perlindungan sistem penyangga kehidupan, Pemerintah mengatur serta melakukan tindakan penertiban terhadap penggunaan dan pengelolaan tanah dan hak pengusahaan di perairan yang terletak dalam wilayah perlindungan sistem penyangga kehidupan sebagaimana dimaksud dalam Pasal 8.
 
-(3) Tindakan penertiban sebagaimana dimaksud dalam ayat (2) dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku.
+(3) Tindakan penertiban sebagaimana dimaksud dalam ayat (2) dilaksanakan sesuai dengan peraturan perundang-undangan yang berlaku. ru nd Pasal 10 an g-un Wilayah sistem penyangga kehidupan yang mengalami kerusakan secara alami da ng an dan/atau oleh karena peinanfaatannya serta oleh sebab-sebab lainnya diikuti dengan Pe upaya rehabilitasi secara berencana dan berkesinambungan. n ratura Pe di
 
-##### Pasal 10
+BAB III
 
-Wilayah sistem penyangga kehidupan yang mengalami kerusakan secara alami dan/atau oleh karena peinanfaatannya serta oleh sebab-sebab lainnya diikuti dengan upaya rehabilitasi secara berencana dan berkesinambungan.
+tje n
 
-## BAB III — PENGAWETAN KEANEKARAGAMAN JENIS TUMBUHAN
+PENGAWETAN KEANEKARAGAMAN JENIS TUMBUHAN
 
 DAN SATWA BESERTA EKOSISTEMNYA
 
@@ -197,11 +196,7 @@ Kawasan suaka alam sebagaimana dimaksud dalam Pasal 12 terdiri dari:
 
 a. cagar alam;
 
-b. suaka margasatwa.
-
-##### Pasal 15
-
-Kawasan suaka alam selain mempunyai fungsi pokok sebagai kawasan pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya, juga berfungsi sebagai wilayah perlindungan sistem penyangga kehidupan sebagaimana dimaksud dalam Pasal 8 ayat (1).
+b. suaka margasatwa. ru nd Pasal 15 an g-un Kawasan suaka alam selain mempunyai fungsi pokok sebagai kawasan pengawetan da ng an keanekaragaman tumbuhan dan satwa beserta ekosistemnya, juga berfungsi sebagai Pe wilayah perlindungan sistem penyangga kehidupan sebagaimana dimaksud dalam Pasal n ratura 8 ayat (1). di Pe tje n
 
 ##### Pasal 16
 
@@ -233,15 +228,17 @@ Kawasan suaka alam selain mempunyai fungsi pokok sebagai kawasan pengawetan kean
 
 ## BAB V — PENGAWETAN JENIS TUMBUHAN DAN SATWA
 
-##### Pasal 20
+ru nd an g-un Pasal 20 da ng an
 
-(1) Tumbuhan dan satwa digolongkan dalam jenis:
+(1) Tumbuhan dan satwa digolongkan dalam jenis: Pe
 
-a. tumbuhan dan satwa yang dilindungi;
+a. tumbuhan dan satwa yang dilindungi; n ratura
 
-b. tumbuhan dan satwa yang tidak dilindungi.
+b. tumbuhan dan satwa yang tidak dilindungi. di Pe
 
-(2) Jenis tumbuhan dan satwa yang dilindungi sebagaimana dimaksud dalam ayat (1) digolongkan dalam :
+(2) Jenis tumbuhan dan satwa yang dilindungi sebagaimana dimaksud dalam ayat tje n
+
+(1) digolongkan dalam :
 
 a. tumbuhan dan satwa dalam bahaya kepunahan;
 
@@ -273,11 +270,11 @@ e. mengambil, merusak, memusnahkan, memperniagakan, menyimpan atau memiliki telu
 
 (1) Pengecualian dari larangan sebagaimana dimaksud dalam Pasal 21 hanya dapat dilakukan untuk keperluan penelitian, ilmu pengetahuan, dan/atau penyelamatan jenis tumbuhan dan satwa yang bersangkutan.
 
-(2) Termasuk dalam penyelamatan sebagaimana dimaksud dalam ayat (1) adalah pemberian atau penukaran jenis tumbuhan dan satwa kepada pihak lain di luar negeri dengan izin Pemerintah.
+(2) Termasuk dalam penyelamatan sebagaimana dimaksud dalam ayat (1) adalah pemberian atau penukaran jenis tumbuhan dan satwa kepada pihak lain di luar ru nd negeri dengan izin Pemerintah. an g-un
 
-(3) Pengecualian dari larangan menangkap, melukai, dan membunuh satwa yang dilindungi dapat pula dilakukan dalam hal oleh karena suatu sebab satwa yang dilindungi membahayakan kehidupan manusia.
+(3) Pengecualian dari larangan menangkap, melukai, dan membunuh satwa yang da ng an dilindungi dapat pula dilakukan dalam hal oleh karena suatu sebab satwa yang Pe dilindungi membahayakan kehidupan manusia. n ratura
 
-(4) Ketentuan lebih lanjut sebagaimana diinaksud dalam ayat (1), ayat (2), dan ayat (3) diatur dengan Peraturan Pemerintah.
+(4) Ketentuan lebih lanjut sebagaimana diinaksud dalam ayat (1), ayat (2), dan di Pe ayat (3) diatur dengan Peraturan Pemerintah. tje n
 
 ##### Pasal 23
 
@@ -307,15 +304,9 @@ Pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya dilakukan me
 
 a. pemanfaatan kondisi lingkungan kawasan pelestarian alam;
 
-b. pemanfaatan jenis tumbuhan dan satwa liar.
+b. pemanfaatan jenis tumbuhan dan satwa liar. ru nd Pasal 27 an g-un Pemanfaatan kondisi lingkungan kawasan pelestarian alam dilakukan dengan tetap da ng an menjaga kelestarian fungsi kawasan. Pe n ratura Pasal 28 di Pe
 
-##### Pasal 27
-
-Pemanfaatan kondisi lingkungan kawasan pelestarian alam dilakukan dengan tetap menjaga kelestarian fungsi kawasan.
-
-##### Pasal 28
-
-Pemanfaatan jenis tumbuhan dan satwa liar dilakukan dengan memperhatikan kelangsungan potensi, daya dukung, dan keanekaragaman jenis tumbuhan dan satwa liar.
+Pemanfaatan jenis tumbuhan dan satwa liar dilakukan dengan memperhatikan tje n kelangsungan potensi, daya dukung, dan keanekaragaman jenis tumbuhan dan satwa liar.
 
 ## BAB VII — KAWASAN PELESTARIAN ALAM
 
@@ -345,15 +336,13 @@ Kawasan pelestarian alam mempunyai fungsi perlindungan sistem penyangga kehidupa
 
 Kawasan taman nasional dikelola dengan sistem zonasi yang terdiri dari zona inti, zona pemanfaatan, dan zona lain sesuai dengan keperluan.
 
-##### Pasal 33
+Pasal 33 ru nd
 
-(1) Setiap orang dilarang melakukan kegiatan yang dapat mengakibatkan perubahan terhadap keutuhan zona inti taman nasional.
+(1) Setiap orang dilarang melakukan kegiatan yang dapat mengakibatkan perubahan an g-un terhadap keutuhan zona inti taman nasional. da ng an
 
-(2) Perubahan terhadap keutuhan zona inti taman nasional sebagaimana dimaksud dalam ayat
+(2) Perubahan terhadap keutuhan zona inti taman nasional sebagaimana dimaksud Pe dalam ayat (1) meliputi mengurangi, menghilangkan fungsi dan luas zona inti n ratura taman nasional, serta menambah jenis tumbuhan dan satwa lain yang tidak asli. di Pe
 
-(1) meliputi mengurangi, menghilangkan fungsi dan luas zona inti taman nasional, serta menambah jenis tumbuhan dan satwa lain yang tidak asli.
-
-(3) Setiap orang dilarang melakukan kegiatan yang tidak sesuai dengan fungsi zona pemanfaatan dan zona lain dari taman nasional, taman hutan raya, dan taman wisata alam.
+(3) Setiap orang dilarang melakukan kegiatan yang tidak sesuai dengan fungsi zona tje n pemanfaatan dan zona lain dari taman nasional, taman hutan raya, dan taman wisata alam.
 
 ##### Pasal 34
 
@@ -387,13 +376,19 @@ e. peragaan;
 
 f. pertukaran;
 
-g. budidaya tanaman obat-obatan;
+g. budidaya tanaman obat-obatan; ru nd
 
-h. pemeliharaan untuk kesenangan.
+h. pemeliharaan untuk kesenangan. an g-un
 
-(2) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah.
+(2) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan da ng an Peraturan Pemerintah. Pe n ratura di
 
-## BAB IX — PERANSERTA RAKYAT
+BAB IX
+
+Pe
+
+PERANSERTA RAKYAT
+
+tje n
 
 ##### Pasal 37
 
@@ -407,9 +402,7 @@ h. pemeliharaan untuk kesenangan.
 
 ##### Pasal 38
 
-(1) Dalam rangka pelaksanaan konservasi sumberdaya alam hayati dan ekosistemnya,
-
-Pemerintah dapat menyerahkan sebagian urusan di bidang tersebut kepada Pemerintah Daerah sebagaimana dimaksud dalam Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan di Daerah.
+(1) Dalam rangka pelaksanaan konservasi sumberdaya alam hayati dan ekosistemnya, Pemerintah dapat menyerahkan sebagian urusan di bidang tersebut kepada Pemerintah Daerah sebagaimana dimaksud dalam Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan di Daerah.
 
 (2) Ketentuan lebih lanjut sebagaimana dimaksud dalam ayat (1) diatur dengan Peraturan Pemerintah.
 
@@ -417,9 +410,9 @@ Pemerintah dapat menyerahkan sebagian urusan di bidang tersebut kepada Pemerinta
 
 ##### Pasal 39
 
-(1) Selain Pejabat Penyidik Kepolisian Negara Republik Indonesia, juga pejabat Pegawai Negeri Sipil tertentu di lingkungan departemen yang lingkup tugas dan tanggung jawabnya meliputi pembinaan konservasi sumber daya alam hayati dan ekosistemnva, diberi wewenang khusus sebagai penyidik sebagaimana dimaksud dalam Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana, untuk melakukan penyidikan tindak pidana di bidang konservasi sumber daya alam hayati dan ekosistemnya.
+(1) Selain Pejabat Penyidik Kepolisian Negara Republik Indonesia, juga pejabat Pegawai Negeri Sipil tertentu di lingkungan departemen yang lingkup tugas dan ru nd tanggung jawabnya meliputi pembinaan konservasi sumber daya alam hayati an g-un dan ekosistemnva, diberi wewenang khusus sebagai penyidik sebagaimana da ng an dimaksud dalam Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pe Pidana, untuk melakukan penyidikan tindak pidana di bidang konservasi sumber n ratura daya alam hayati dan ekosistemnya. di Pe
 
-(2) Kewenangan penyidik sebagaimana dimaksud dalam ayat (1), tidak mengurangi kewenangan penyidik sebagaimana diatur dalam Undang-undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia dan Undang-undang Nomor 9 Tahun 1985 tentang Perikanan.
+(2) Kewenangan penyidik sebagaimana dimaksud dalam ayat (1), tidak mengurangi tje n kewenangan penyidik sebagaimana diatur dalam Undang-undang Nomor 5 Tahun 1983 tentang Zona Ekonomi Eksklusif Indonesia dan Undang-undang Nomor 9 Tahun 1985 tentang Perikanan.
 
 (3) Penyidik sebagaimana dimaksud dalam ayat (1), berwenang untuk:
 
@@ -445,11 +438,17 @@ g. menghentikan penyidikan apabila tidak terdapat cukup bukti tentang adanya tin
 
 (1) Barangsiapa dengan sengaja melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 19 ayat (1) dan Pasal 33 ayat (1) dipidana dengan pidana penjara paling lama 10 (sepuluh) tahun dan denda paling banyak Rp 200.000.000,00 (dua ratus juta rupiah).
 
-(2) Barangsiapa dengan sengaja melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 21 ayat (1) dan ayat (2) serta Pasal 33 ayat (3) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling banyak Rp 100.000.000,00(seratusjuta rupiah).
+(2) Barangsiapa dengan sengaja melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 21 ayat (1) dan ayat (2) serta Pasal 33 ayat ru nd
 
-(3) Barangsiapa karena kelalaiannya melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 19 ayat (1) dan Pasal 32 ayat (1) dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan denda paling banyak Rp. 100.000.000,00 (seratusjuta rupiah).
+(3) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan denda paling an g-un banyak Rp 100.000.000,00(seratusjuta rupiah). da ng an
 
-(4) Barangsiapa karena kelalaiannya melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 21 ayat (1) dan ayat (2) serta Pasal 33 ayat (3) dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan denda paling banyak Rp 50.000.000,00 (lima puluh juta rupiah).
+(3) Barangsiapa karena kelalaiannya melakukan pelanggaran terhadap ketentuan Pe sebagaimana dimaksud dalam Pasal 19 ayat (1) dan Pasal 32 ayat (1) dipidana n ratura dengan pidana kurungan paling lama 1 (satu) tahun dan denda paling banyak di Pe
+
+Rp. 100.000.000,00 (seratusjuta rupiah). tje n
+
+(4) Barangsiapa karena kelalaiannya melakukan pelanggaran terhadap ketentuan sebagaimana dimaksud dalam Pasal 21 ayat (1) dan ayat (2) serta Pasal 33 ayat
+
+(3) dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan denda paling banyak Rp 50.000.000,00 (lima puluh juta rupiah).
 
 (5) Tindak pidana sebagaimana dimaksud dalam ayat (1) dan ayat (2) adalah kejahatan dan tindak pidana sebagaimana dimaksud dalam ayat (2) dan ayat (4) adalah pelanggaran.
 
@@ -475,15 +474,7 @@ Pada saat mulai berlakunya Undang-undang ini maka:
 
 3. Ordonansi Perburuan Jawa dan Madura (Jachtcrdonnantie Java en Madoera 1940 Staatsblad 1939 Nummer 733);
 
-4. Ordonansi Perlindungan Alam (Natuurbeschermingsordonnantie 1941 Staatsblad 1941 Nummer 167);
-
-dinyatakan tidak berlaku lagi.
-
-##### Pasal 44
-
-Undang-undang ini dapat disebut Undang-undang Konservasi Hayati.
-
-##### Pasal 45
+4. Ordonansi Perlindungan Alam (Natuurbeschermingsordonnantie 1941 Staatsblad 1941 Nummer 167); ru nd dinyatakan tidak berlaku lagi. an g-un da ng an Pasal 44 Pe Undang-undang ini dapat disebut Undang-undang Konservasi Hayati. n ratura Pe di Pasal 45 tje n
 
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
@@ -493,14 +484,410 @@ Disahkan di Jakarta pada tanggal 10 Agustus 1990
 
 PRESIDEN REPUBLIK INDONESIA
 
-ttd
-
 SOEHARTO
 
 Diundangkan di Jakarta pada tanggal 10 Agustus 1990
 
 MENTERI/SEKRETARIS NEGARA
 
-ttd
+REPUBLIK INDONESIA
 
 MOERDIONO
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 5 TAHUN 1990
+
+TENTANG
+
+KONSERVASI SUMBER DAYA ALAM HAYATI DAN EKOSISTEMNYA
+
+UMUM
+
+Bangsa Indonesia dianugerahi Tuhan Yang Maha Esa kekayaan berupa sumber daya alam yang berlimpah, baik di darat, di perairan maupun di udara yang merupakan modal dasar pembangunan nasional di segala bidang. Modal dasar sumber daya alam tersebut harus dilindungi, dipelihara, dilestarikan, dan dimanfaatkan secara optimal bagi kesejahteraan masyarakat Indonesia pada khususnya dan mutu kehidupan manusia pada umumnya menurut cara yang menjamin keserasian, keselarasan dan keseimbangan, baik antara manusia dengan Tuhan penciptanya, antara manusia dengan masyarakat maupun antara manusia dengan ekosistemnya. Oleh karena itu, pengelolaan sumber daya alam hayati dan ekosistemnya sebagai bagian dari modal dasar tersebut pada hakikatnya merupakan bagian integral dari pembangunan nasional ru nd yang berkelanjutan sebagai pengamalan Pancasila. an g-un Sumber daya alam hayati dan ekosistemnya merupakan bagian terpenting dari da ng an sumber daya alam yang terdiri dari alam hewani, alam nabati ataupun berupa Pe fenomena alam, baik secara masing-masing maupun bersama-sama mempunyai fungsi n ratura dan manfaat sebagai unsur pembentuk lingkungan hidup, yang kehadirannya tidak di Pe dapat diganti. Mengingat sifatnya yang tidak dapat diganti dan mempunyai kedudukan tje n serta peranan penting bagi kehidupan manusia, maka upaya konservasi sumber daya alam hayati dan ekosistemnya adalah menjadi kewajiban mutlak dari tiap generasi.
+
+Tindakan yang tidak bertanggung jawab yang dapat menimbulkan kerusakan pada kawasan suaka alam dan kawasan pelestarian alam ataupun tindakan yang melanggar ketentuan tentang perlindungan tumbuhan dan satwa yang dilindungi, diancam dengan pidana yang berat berupa pidana badan dan denda. Pidana yang berat tersebut dipandang perlu karena kerusakan atau kepunahan salah satu unsur sumber daya alam hayati dan ekosistemnya akan mengakibatkan kerugian besar bagi masyarakat yang tidak dapat dinilai dengan materi, sedangkan pemulihannya kepada keadaan semula tidak mungkin lagi.
+
+Oleh karena sifatnya yang luas dan menyangkut kepentingan masyarakat secara keseluruhan, maka upaya konservasi sumber daya alam hayati dan ekosistemnya merupakan tanggung jawab dan kewajiban Pemerintah serta masyarakat. Peranserta rakyat akan diarahkan dan digerakkan oleh Pemerintah melalui kegiatan yang berdaya guna dan berhasil guna. Untuk itu, Pemerintah berkewajiban meningkatkan pendidikan dan penyuluhan bagi masyarakat dalam rangka sadar konservasi.
+
+Berhasilnya konservasi sumber daya alam hayati dan ekosistemnya berkaitan erat dengan tercapainya tiga sasaran konservasi, yaitu :
+
+1. menjamin terpeliharanya proses ekologis yang menunjang sistem penyangga kehidupan bagi kelangsungan pembangunan dan kesejahteraan manusia (perlindungan sistem penyangga kehidupan);
+
+2. menjamin terpeliharanya keanekaragaman sumber genetik dan tipe-tipe ekosistemnya sehingga mampu menunjang pembangunan, ilmu pengetahuan, dan teknologi yang memungkinkan pemenuhan kebutuhan manusia yang menggunakan sumber daya alam hayati bagi kesejahteraan (pengawetan sumber plasma nutfah);
+
+3. mengendalikan cara-cara pemanfaatan sumber daya alam hayati sehingga terjamin kelestariannya. Akibat sampingan ilmu pengetahuan dan teknologi yang kurang bijaksana, belum harmonisnya penggunaan dan peruntukan tanah serta belum berhasilnya sasaran konservasi secara optimal, baik di darat maupun di perairan dapat mengakibatkan timbulnya gejala erosi genetik, polusi, dan penurunan potensi sumber daya alam hayati (pemanfaatan secara lestari).
+
+Mengingat Negara Republik Indonesia adalah negara berdasar atas hukum, maka pengelolaan konservasi sumber daya alam hayati beserta ekosistemnya perlu diberi ru nd dasar hukum yang jelas, tegas, dan menyeluruh guna menjamin kepastian hukum bagi an g-un usaha pengelolaan tersebut. da ng an Dewasa ini kenyataan menunjukkan bahwa peraturan perundang-undangan yang Pe mengatur konservasi sumber daya alam hayati dan ekosistemnya yang bersifat nasional n ratura belum ada. Peraturan perundang-undangan warisan pemerintah kolonial yang di Pe beranekaragam coraknya, sudah tidak sesuai lagi dengan tingkat perkembangan hukum tje n dan kebutuhan bangsa Indonesia.
+
+Perubahan-perubahan yang menyangkut aspek-aspek pemerintahan, perkembangan kependudukan, ilmu pengetahuan, dan tuntutan keberhasilan pembangunan pada saat ini menghendaki peraturan perundang-undangan di bidang konservasi sumber daya alam hayati dan ekosistemnya yang bersifat nasional sesuai dengan aspirasi bangsa Indonesia.
+
+Upaya pemanfaatan secara lestari sebagai salah satu aspek konservasi sumber daya alam hayati dan ekosistenmya, belum sepenuhnya dikembangkan sesuai dengan kebutuhan. Demikian pula pengelolaan kawasan pelestarian alam dalam bentuk taman nasional, taman hutan raya, dan taman wisata alam, yang menyatukan fungsi perlindungan sistem penyangga kehidupan, pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya, dan pemanfaatan secara lestari.
+
+Peraturan perundang-undangan yang bersifat nasional yang ada kaitannya dengan konservasi sumber daya alam hayati dan ekosistemnya seperti Undang-undang Nomor 5 Tahun 1967 tentang ketentuan-ketentuan Pokok Kehutanan, Undang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pengelolaan Lingkungan Hidup, Undang-undang Nomor 20 Tahun 1982 tentang Ketentuan-ketentuan Pokok
+
+Pertahanan Keamanan Negara Republik Indonesia sebagaimana telah diubah dengan Undang-undang Nomor 1 Tahun 1988, dan Undang-undang Nomor 9 Tahun 1985 tentang Perikanan belum mengatur secara lengkap dan belum sepenuhnya dapat dipakai sebagai dasar hukum untuk pengaturan lebih lanjut.
+
+Undang-undang konservasi sumber daya alam hayati dan ekosistemnya yang bersifat nasional dan menyeluruh sangat diperlukan sebagai dasar hukum untuk mengatur perlindungan sistem penyangga kehidupan, pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya, dan pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya agar dapat menjamin pemanfaatannya bagi kesejahteraan masyarakat dan peningkatan mutu kehidupan manusia.
+
+Undang-undang ini memuat ketentuan-ketentuan yang bersifat pokok dan mencakup semua segi di bidang konservasi sumber daya alam hayati dan ekosistemnya, sedangkan pelaksanaannya diatur dengan Peraturan Pemerintah.
+
+PASAL DEMI PASAL
+
+#### Pasal 1
+
+Angka 1 ru nd Cukup jelas an g-un Angka 2 da ng an Cukup jelas Pe
+
+Angka 3
+
+n ratura Cukup jelas di Pe
+
+Angka 4
+
+tje n
+
+Cukup jelas
+
+Angka 5
+
+Cukup jelas
+
+Angka 6
+
+Cukup jelas
+
+Angka 7
+
+Ikan dan ternak tidak termasuk di dalam pengertian satwa liar, tetapi termasuk di dalam pengertian satwa.
+
+Angka 8
+
+Cukup jelas
+
+Angka 9
+
+Cukup jelas
+
+Angka 10
+
+Cukup jelas
+
+Angka 11
+
+Cukup jelas
+
+Angka 12
+
+Cukup jelas
+
+Angka 13
+
+Cukup jelas
+
+Angka 14
+
+Cukup jelas
+
+Angka 15
+
+Cukup jelas
+
+Angka 16
+
+Cukup jelas
+
+#### Pasal 2
+
+Pada dasarnya semua sumber daya alam termasuk sumber daya alam hayati harus dimanfaatkan untuk kesejahteraan masyarakat dan umat manusia sesuai dengan kemampuan dan fungsinya.
+
+Namun, pemanfaatannya harus sedemikian rupa sesuai dengan Undangundang ini sehingga dapat berlangsung secara lestari untuk masa kini dan masa depan.
+
+Pemanfaatan dan pelestarian seperti tersebut di atas harus dilaksanakan secara ru nd serasi dan seimbang sebagai perwujudan dari asas konservasi sumber daya alam an g-un hayati dan ekosistemnya. da ng an Pasal 3 Pe Sumber daya alam hayati merupakan unsur ekosistem yang dapat dimanfaatkan n ratura untuk meningkatkan kesejahteraan masyarakat dan mutu kehidupan manusia. di Pe
+
+Namun, keseimbangan ekosistem harus tetap terjamin. tje n
+
+#### Pasal 4
+
+Mengingat pentingnya konservasi sumber daya alam hayati dan ekosistemnya bagi peningkatan kesejahteraan masyarakat dan mutu kehidupan manusia, maka masyarakat juga mempunyai kewajiban dan tanggung jawab dalam kegiatan konservasi.
+
+#### Pasal 5
+
+Konservasi sumber daya alam hayati dan ekosistemnya dilakukan melalui tiga kegiatan :
+
+a. Perlindungan sistem penyangga kehidupan. Kehidupan adalah merupakan suatu sistem yang terdiri dari proses yang berkait satu dengan lainnya dan saling mempengaruhi, yang apabila terputus akan mempengaruhi kehidupan. Agar manusia tidak dihadapkan pada perubahan yang tidak diduga yang akan mempengaruhi kemampuan pemanfaatan sumber daya alam hayati, maka proses ekologis yang mengandung kehidupan itu perlu dijaga dan dilindungi. Perlindungan sistem penyangga kehidupan ini meliputi usaha-usaha dan tindakan-tindakan yang berkaitan dengan perlindungan mata air, tebing, tepian sungai, danau, dan jurang, pemeliharaan fungsi hidrologi hutan, perlindungan pantai, pengelolaan daerah aliran sungai; perlindungan terhadap gejala keunikan dan keindahan alam, dan lain-lain.
+
+b. Pengawetan keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya. Sumber daya alam hayati dan ekosistemnya terdiri dari unsur-unsur hayati dan nonhayati (baik fisik maupun nonfisik). Semua unsur ini sangat berkait dan pengaruh mempengaruhi. Punahnya salah satu unsur tidak dapat diganti dengan unsur yang lain. Usaha dan tindakan konservasi untuk menjamin keanekaragaman jenis meliputi penjagaan agar unsur-unsur tersebut tidak punah dengan tujuan agar masing-masing unsur dapat berfungsi dalam alam dan agar senantiasa siap untuk sewaktu-waktu dimanfaatkan bagi kesejahteraan manusia. Pengawetan jenis tumbuhan dan satwa dapat dilaksanakan di dalam kawasan (konservasi in-situ) ataupun di luar kawasan (konservasi exsitu).
+
+c. Pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya. Usaha pemanfaatan secara lestari sumber daya alam hayati dan ekosistemnya pada hakikatnyaru nd merupakan usaha pengendalian/pembatasan dalam pemanfaatan sumber daya alam hayati an g-un dan ekosistemnya sehingga pemanfaatan tersebut dapat dilaksanakan da ng an secara terus menerus pada masa mendatang. Pe Pasal 6 n ratura Unsur hayati adalah makhluk hidup yang terdiri dari manusia, tumbuhan, satwa, di Pe dan jasad renik. Unsur nonhayati terdiri dari sinar matahari, air, udara, dan tje n tanah. Hubungan antara unsur hayati dan nonhayati harus berlangsung dalam keadaan seimbang sebagai suatu sistem penyangga kehidupan dan karena itu perlu dilindungi.
+
+#### Pasal 7
+
+Cukup jelas Pasal 8
+
+Ayat (1)
+
+Perlindungan sistem penyangga kehidupan dilaksanakan dengan cara menetapkan suatu wilayah tertentu sebagai wilayah perlindungan. Guna pengaturannya Pemerintah menetapkan pola dasar pembinaan pemanfaatan wilayah tersebut sehingga fungsi perlindungan dan pelestariannya tetap terjamin. Wilayah perlindungan sistem penyangga kehidupan ini meliputi antara lain hutan lindung, daerah aliran sungai, areal tepi sungai, daerah pantai, bagian tertentu dari zona ekonomi eksklusif Indonesia, daerah pasang surut, jurang, dan areal berpolusi berat. Pemanfaatan areal atau wilayah tersebut tetap pada subyek yang diberi hak, tetapi pemanfaatan itu harus mematuhi ketentuan yang ditetapkan Pemerintah. Dalam menetapkan wilayah tertentu sebagai wilayah sistem penyangga kehidupan, perlu diadakan penelitian dan inventarisasi, baik terhadap wilayah yang sudah ditetapkan maupun yang akan ditetapkan.
+
+Ayat (2)
+
+Dalam Peraturan Pemerintah ini perlu diperhatikan kepentingan yang serasi antara kepentingan pemegang hak dengan kepentingan perlindungan sistem penyangga kehidupan.
+
+#### Pasal 9
+
+Ayat (1)
+
+Yang dimaksud dengan hak pengusahaan di perairan adalah hak yang diberikan oleh Pemerintah untuk memanfaatkan sumber daya alam yang ada di perairan, baik yang bersifat ekstratif maupun nonekstratif, bukan hak penguasaan atas wilayah perairan tersebut. Yang dimaksud dengan perairan adalah perairan Indonesia yang meliputi perairan pedalaman (sungai, danau, waduk, rawa, dan genangan air lainnya), laut wilayah Indonesia, dan zona ekonomi eksklusif Indonesia. ru nd Ayat (2) an g-un Cukup jelas da ng an Ayat (3) Pe Termasuk dalam pengertian penertiban terhadap penggunaan dan n ratura pengelolaan tanah dan hak pengusahaan di perairan meliputi pencabutan di Pe hak atas tanah dan hak pengusahaan di perairan yang pelaksanaannya tje n sesuai dengan peraturan perundang-undangan yang berlaku. Dalam hal penertiban tersebut berupa pencabutan hak atas tanah, maka kepada pemegang hak diberikan ganti rugi sesuai dengan peraturan perundang-undangan yang berlaku.
+
+#### Pasal 10
+
+Wilayah sistem penyangga kehidupan yang mengalami kerusakan karena bencana alam seperti longsor, erosi, kebakaran, dan gempa bumi, atau karena pemanfaatannya yang tidak tepat serta oleh sebab-sebab lainnya perlu segera direhabilitasi agar dapat berfungsi sebagaimana mestinya. Rehabilitasi ini perlu mengikutsertakan masyarakat, khususnya mereka yang berhak di atas wilayah tersebut.
+
+#### Pasal 11
+
+Yang dimaksud dengan pengawetan disini adalah usaha untuk menjaga agar keanekaragaman jenis tumbuhan dan satwa beserta ekosistemnya tidak punah.
+
+Pengawetan diluar kawasan meliputi pengaturan mengenai pembatasan tindakan-tindakan yang dapat dilakukan terhadap tumbuhan dan satwa sebagaimana diatur dalam Pasal 20 sampai dengan Pasal 25 Undang-undang ini.
+
+Pengaturan diluar kawasan berupa pengawetan jenis (spesies) tumbuhan dan satwa. Pengawetan di dalam kawasan dilakukan dalam bentuk kawasan suaka alam dan zona inti taman nasional.
+
+#### Pasal 12
+
+Upaya pengawetan keanekaragaman tumbuhan dan satwa berupa kawasan suaka alam yang karena fungsi pokoknya adalah pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya, maka keutuhan dan keaslian dari kawasan suaka alam tersebut perlu dijaga dari gangguan agar prosesnya berjalan secara alami.
+
+#### Pasal 13
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas Pasal 14 Cukup jelas ru nd Pasal 15 an g-un Cukup jelas da ng an Pasal 16 Pe
+
+Ayat (1)
+
+n ratura Pengelolaan kawasan suaka alam merupakan kewajiban Pemerintah di Pe sebagai konsekuensi penguasaan oleh negara atas sumber daya alam tje n sebagaimana dimaksud dalam Pasal 33 Undang-Undang Dasar 1945.
+
+Ayat (2)
+
+Yang dimaksud dengan daerah penyangga adalah wilayah yang berada di luar kawasan suaka alam, baik sebagai kawasan hutan lain, tanah negara bebas maupun tanah yang dibebani hak yang diperlukan dan mampu menjaga keutuhan kawasan suaka alam. Pengelolaan atas daerah penyangga tetap berada di tangan yang berhak, sedangkan cara-cara pengelolaan harus mengikuti ketentuan- ketentuan yang ditetapkan dalam Peraturan Pemerintah.
+
+#### Pasal 17
+
+Ayat (1)
+
+Fungsi penunjang budidaya dapat dilaksanakan dalam bentuk penggunaan plasma nutfah yang terdapat dalam cagar alam yang bersangkutan untuk keperluan permuliaan jenis dan penangkaran. Plasma nutfah adalah unsur-unsur gen yang menentukan sifat kebakaan suatu jenis.
+
+Ayat (2)
+
+Yang dimaksud dengan wisata terbatas adalah suatu kegiatan untuk mengunjungi, melihat, dan menikmati keindahan alam di suaka margasatwa dengan persyaratan tertentu.
+
+Ayat (3)
+
+Cukup jelas
+
+#### Pasal 18
+
+Ayat (1)
+
+Adanya cagar biosfer dimaksudkan sebagai tempat penelitian, ilmu pengetahuan, dan pendidikan, serta mengamati dan mengevaluasi perubahan-perubahan yang terjadi pada kawasan yang bersangkutan. Dengan ditentukannya suatu kawasan suaka alam dan kawasan tertentu lainnya sebagai cagar biosfer, maka kawasan yang bersangkutan menjadi bagian dari pada jaringan konservasi internasional. Namun, kewenangan penentuan kegiatan penelitian, ilmu pengetahuan dan pendidikan, serta mengamati dan mengevaluasi perubahan- perubahan di dalam cagar biosfer sepenuhnya berada di tangan Pemerintah. ru nd Ayat (2) an g-un Cukup jelas da ng an Pasal 19 Pe
+
+Ayat (1)
+
+n ratura Yang dimaksud dengan perubahan terhadap keutuhan suaka alam adalah di Pe melakukan perusakan terhadap keutuhan kawasan dan ekosistemnya, tje n perburuan satwa yang berada dalam kawasan, dan memasukkan jenis-jenis bukan asli.
+
+Ayat (2)
+
+Yang dimaksud dengan pembinaan habitat satwa adalah kegiatan yang dilakukan di dalam kawasan dengan tujuan agar satwa dapat hidup dan berkembang secara alami. Contoh kegiatan tersebut antara lain pembuatan padang rumput untuk makanan satwa, pembuatan fasilitas air minum, dan sebagainya.
+
+Ayat (3)
+
+Yang dimaksud dengan jenis tumbuhan dan satwa yang tidak asli adalah jenis tumbuhan dan jenis satwa yang tidak pernah terdapat di dalam kawasan.
+
+#### Pasal 20
+
+Ayat (1)
+
+Dalam rangka mengawetkan jenis, maka ditetapkan jenis-jenis tumbuhan satwa yang dilindungi. Jenis tumbuhan dan satwa yang dilindungi dimaksudkan untuk melindungi spesies tumbuhan dan satwa agar jenis tumbuhan dan satwa tersebut tidak mengalami kepunahan. Penetapan ini dapat diubah sewaktu-waktu tergantung dari tingkat keperluannya yang ditentukan oleh tingkat bahaya kepunahan yang mengancam jenis bersangkutan.
+
+Ayat (2)
+
+Jenis tumbuhan dan satwa dalam bahaya kepunahan meliputi jenis tumbuhan dan satwa yang dalam keadaan bahaya nyaris punah dan menuju kepunahan. Tumbuhan dan satwa yang endemik adalah tumbuhan dan satwa yang terbatas penyebarannya, sedangkan jenis yang terancam punah adalah karena populasinya sudah sangat kecil serta mempunyai tingkat perkembangbiakan yang sangat lambat, baik karena pengaruh habitat maupun ekosistemnya. Jenis tumbuhan dan satwa yang populasinya jarang dalam arti populasinya kecil atau jarang sehingga pembiakannya sangat sulit.
+
+Ayat (3)
+
+Cukup jelas Pasal 21 ru nd Ayat (1) an g-un Cukup jelas da ng an Ayat (2) Pe Cukup jelas n ratura Pasal 22 di Pe
+
+Ayat (1)
+
+tje n
+
+Yang dimaksud dengan penyelamatan jenis tumbuhan dan satwa adalah suatu upaya penyelamatan yang harus dilakukan apabila dalam keadaan tertentu tumbuhan dan satwa terancam hidupnya bila tetap berada dihabitatnya dalam bentuk pengembangbiakan dan pengobatan, baik di dalam maupun di luar negeri.
+
+Ayat (2)
+
+Yang dimaksud dengan pemberian atau penukaran jenis tumbuhan dan satwa kepada pihak lain di luar negeri adalah untuk keperluan tukar menukar antar lembaga-lembaga yang bergerak di bidang konservasi tumbuhan dan satwa dan hadiah Pemerintah.
+
+Ayat (3)
+
+Membahayakan di sini berarti tidak hanya mengancam jiwa manusia melainkan juga menimbulkan gangguan atau keresahan terhadap ketenteraman hidup manusia, atau kerugian materi seperti rusaknya lahan atau tanaman atau hasil pertanian.
+
+Ayat (4)
+
+Dalam Peraturan Pemerintah tersebut antara lain diatur cara-cara mengatasi bahaya, cara melakukan penangkapan hidup-hidup, penggiringan dan pemindahan satwa yang bersangkutan, sedangkan pemusnahan hanya dilaksanakan kalau cara lain ternyata tidak memberi hasil efektif.
+
+#### Pasal 23
+
+Ayat ( 1) Yang dimaksud dengan apabila diperlukan adalah untuk koleksi tumbuhan dan satwa untuk kebun binatang, taman safari, dan untuk permuliaan jenis tumbuhan dan satwa. Pemasukan jenis tumbuhan dan satwa liar ke dalam wilayah Republik Indonesia perlu diatur untuk mencegah terjadinya polusi genetik dan menjaga kemantapan ekosistem yang ada, guna pemanfaatan optimal bagi bangsa Indonesia.
+
+Ayat (2)
+
+Cukup jelas Pasal 24 Ayat (1) ru nd Yang dimaksud dengan dirampas untuk negara adalah bahwa di samping an g-un dirampas sesuai dengan ketentuan sebagaimana dimaksud dalam da ng an Undang-undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana, juga Pe memberikan kewenangan kepada pejabat yang ditetapkan oleh n ratura Pemerintah untuk menguasai dan menyelamatkan tumbuhan dan satwa di Pe sebelum proses pengadilan dilaksanakan. tje n
+
+Ayat (2)
+
+Tumbuhan dan satwa yang dilindungi harus dipertahankan agar tetap berada di habitatnya. Oleh karena itu, tumbuhan dan satwa yang dirampas harus dikembalikan ke habitatnya. Kalau tidak mungkin dikembalikan ke habitatnya karena dinilai tidak dapat beradaptasi dengan habitatnya dan/atau untuk dijadikan barang bukti di pengadilan, maka tumbuhan dan satwa tersebut diserahkan atau dititipkan kepada lembaga yang bergerak di bidang konservasi tumbuhan dan satwa. Apabila keadaan sudah tidak memungkinkan karena rusak, cacat, dan tidak memungkinkan hidup, lebih baik dimusnahkan. Lembaga yang dimaksud dalam ayat ini dapat berupa lembaga pemerintah dan lembaga non pemerintah, misalnya kebun binatang, kebun botani, museum biologic herbarium, taman safari dan sebagainya yang ditunjuk dan ditetapkan oleh Pemerintah.
+
+#### Pasal 25
+
+Ayat (1)
+
+Lihat penjelasan Pasal 24 ayat (2)
+
+Ayat (2)
+
+Cukup jelas Pasal 26 Yang dimaksud dengan kondisi lingkungan adalah potensi kawasan berupa ekosistem, keadaan iklim, fenomena alam, kekhasan jenis tumbuhan dan satwa, dan peninggalan budaya yang berada dalam kawasan tersebut.
+
+#### Pasal 27
+
+Cukup jelas Pasal 28 Cukup jelas Pasal 29
+
+Ayat (1)
+
+Wilayah taman nasional, taman hutan raya, dan taman wisata alam meliputi areal daratan dan perairan.
+
+Ayat (2)
+
+Lihat penjelasan Pasal 16 ayat (2) Pasal 30 Cukup jelas ru nd Pasal 31 an g-un Ayat (1) da ng an Cukup jelas Pe
+
+Ayat (2)
+
+n ratura Cukup jelas di Pe
+
+#### Pasal 32
+
+tje n
+
+Yang dimaksud dengan zona inti adalah bagian kawasan taman nasional yang mutlak dilindungi dan tidak diperbolehkan adanya perubahan apa pun oleh aktivitas manusia.
+
+Yang dimaksud dengan zona pemanfaatan adalah bagian dari kawasan taman nasional yang dijadikan pusat rekreasi dan kunjungan wisata. Yang dimaksud dengan zona lain adalah zona di luar kedua zona tersebut karena fungsi dan kondisinya ditetapkan sebagai zona tertentu seperti zona rimba, zona pemanfaatan traditional zona rehabilitasi, dan sebagainya.
+
+#### Pasal 33
+
+Ayat (1)
+
+Lihat penjelasan Pasal 19 ayat ( 1)
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas
+
+#### Pasal 34
+
+Ayat (1)
+
+Pada dasarnya pengelolaan kawasan pelestarian alam merupakan kewajiban dari Pemerintah sebagai konsekuensi penguasaan oleh negara atas sumber daya alam sebagaimana dimaksud dalam Pasal 33 Undang-Undang Dasar 1945. Dalam pelaksanaan kegiatan pengelolaan atas zona pemanfaatan taman nasional, taman hutan raya, dan taman wisata alam, Pemerintah dapat memberikan hak pengusahaan kepada koperasi, badan usaha milik negara, perusahaan swasta dan perorangan.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Pengertian mengikutsertakan rakyat di sini adalah memberi kesempatan kepada rakyat sekitarnya untuk ikut berperan dalam usaha di kawasan tersebut.
+
+Ayat (4)
+
+Cukup jelas ru nd Pasal 35 an g-un Yang dimaksud dengan dalam keadaan tertentu dan sangat diperlukan adalah da ng an keadaan dan situasi yang terjadi di kawasan pelestarian alam karena bencana Pe alam (gunung meletus, keluar gas beracun, bahaya kebakaran),dan kerusakan n ratura akibat pemanfaatan terus menerus yang dapat membahayakan pengunjung atau di Pe kehidupan tumbuhan dan satwa. tje n
+
+#### Pasal 36
+
+Ayat (1)
+
+Dalam pemanfaatan jenis tumbuhan dan satwa liar harus dilakukan dengan tetap menjaga keseimbangan populasi dengan habitatnya.
+
+Ayat (2)
+
+Cukup jelas
+
+#### Pasal 37
+
+Ayat (1)
+
+Peranserta rakyat dapat berupa perorangan dan kelompok masyarakat baik yang terorganisasi maupun tidak. Agar rakyat dapat berperan secara aktif dalam kegiatan konservasi sumber daya alam hayati dan ekosistemnya, maka melalui kegiatan penyuluhan, Pemerintah perlu mengarahkan dan menggerakkan rakyat dengan mengikutsertakan kelompok-kelompok masyarakat.
+
+Ayat (2)
+
+Dalam upaya menumbuhkan dan meningkatkan sadar konservasi di kalangan rakyat, maka perlu ditanamkan pengertian dan motivasi tentang konservasi sejak dini melalui jalur pendidikan sekolah dan luar sekolah.
+
+Ayat (3)
+
+Cukup jelas Pasal 38
+
+Ayat (1)
+
+Selain Pemerintah Pusat dapat menyerahkan sebagian urusan di bidang konservasi sumber daya alam hayati dan ekosistemnya kepada Pemerintah Daerah, juga Pemerintah Pusat dapat menugaskan kepada Pemerintah Daerah Tingkat I untuk melaksanakan urusan tersebut sebagai tugas pembantuan.
+
+Ayat (2)
+
+Cukup jelas Pasal 39 Ayat (1) ru nd Cukup jelas an g-un Ayat (2) da ng an Cukup jelas Pe
+
+Ayat (3)
+
+n ratura Cukup jelas di Pe
+
+Ayat (4)
+
+tje n
+
+Cukup jelas Pasal 40
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas
+
+Ayat (4)
+
+Cukup jelas
+
+Ayat (5)
+
+Cukup jelas Pasal 41 Berdasarkan Ordonansi Perlindungan Alam Tahun 1941 Stbl. 1941 Nomor 167 (Natuurbeschermingsordonnantie 1941 Staatsblad 1941 Nummer 167) dan Undang-undang Nomor 5 Tahun 1967 tentang Ketentuan- ketentuan Pokok Kehutanan telah ditetapkan hutan suaka alam dan taman wisata.
+
+Dengan ditetapkannya Undang-undang ini, maka hutan suaka alam dan taman wisata dianggap telah ditetapkan sebagai kawasan suaka alam dan taman wisata alam.
+
+#### Pasal 42
+
+Cukup jelas Pasal 43 Cukup jelas Pasal 44 Cukup jelas Pasal 45 Cukup jelas.
+
+ru nd an g-un da ng an Pe n ratura Pe di tje n

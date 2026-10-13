@@ -15,10 +15,11 @@ repeals:
   - "PP No. 21 Tahun 1978"
 gazette: "LN. 1993/ No. 66, TLN NO. 3531, LL SETNEG : 11 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0041993.pdf&fl=P00949"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1993"
+source: "https://peraturan.bpk.go.id/Download/35188/UU%20Nomor%204%20Tahun%201993.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46496"
 bpk_page: "https://peraturan.bpk.go.id/Details/46496"
 bpk_metadata_archived: "http://web.archive.org/web/20240822111727/https://peraturan.bpk.go.id/Details/46496/uu-no-4-tahun-1993"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1993"
 consolidated: false
 retrieved: 2026-10-13
 ---

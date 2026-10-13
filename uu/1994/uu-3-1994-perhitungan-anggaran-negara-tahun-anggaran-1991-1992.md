@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1994/ No. 35, TLN NO. 3554, LL SETNEG : 3 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0031994.pdf&fl=P00955"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34780/UU%20Nomor%203%20Tahun%20%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46216"
 bpk_page: "https://peraturan.bpk.go.id/Details/46216"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133800/https://peraturan.bpk.go.id/Details/46216"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 22 Tahun 2022"
 gazette: "LN. 1995/ No. 77, TLN NO. 3614, LL SETNEG : 27 HLM"
 subject: "ADMINISTRASI DAN TATA USAHA NEGARA - HUKUM ACARA DAN PERADILAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0121995.pdf&fl=P00976"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34766/UU%20Nomor%2012%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46205"
 bpk_page: "https://peraturan.bpk.go.id/Details/46205"
 bpk_metadata_archived: "http://web.archive.org/web/20240714155949/https://peraturan.bpk.go.id/Details/46205"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

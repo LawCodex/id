@@ -17,10 +17,11 @@ amends:
   - "UU No. 6 Tahun 1989"
 gazette: "LN.1997/NO.30, TLN NO.3680, LL SETNEG : 23 HLM"
 subject: "HAK ATAS KEKAYAAN INTELEKTUAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0131997.pdf&fl=P00999"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/26653/UU%20Nomor%2013%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/37560"
 bpk_page: "https://peraturan.bpk.go.id/Details/37560"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134141/https://peraturan.bpk.go.id/Details/37560"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=13&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

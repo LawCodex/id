@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 13 Tahun 2018"
 gazette: "website peraturan.go.id"
 subject: "ILMU PENGETAHUAN DAN TEKNOLOGI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_4_TH_1990.pdf&fl=P00906"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1990"
+source: "https://peraturan.bpk.go.id/Download/35453/UU%20Nomor%204%20Tahun%201990.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46708"
 bpk_page: "https://peraturan.bpk.go.id/Details/46708"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133130/https://peraturan.bpk.go.id/Details/46708"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1990"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -37,9 +38,9 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : a. bahwa Undang-Undang Dasar 1945 mengamanatkan upaya untuk mencerdaskan kehidupan bangsa dan memajukan kebudayaan nasional;
+Menimbang : a. bahwa Undang-Undang Dasar 1945 mengamanatkan upaya untuk mencerdaskan kehidupan bangsa dan memajukan kebudayaan ru nasional; nd an g-
 
-b. bahwa karya cetak dan karya rekam merupakan salah satu hasil budaya bangsa yang sangat penting dalam menunjang pembangunan nasional pada umumnya, khususnya pembangunan pendidikan, pengembangan ilmu pengetahuan dan teknologi, penelitian dan penyebaran informasi serta pelestarian kekayaan budaya bangsa yang berdasarkan Pancasila;
+b. bahwa karya cetak dan karya rekam merupakan salah satu hasil un da ng budaya bangsa yang sangat penting dalam menunjang pembangunan an Pe nasional pada umumnya, khususnya pembangunan pendidikan, ra n tu pengembangan ilmu pengetahuan dan teknologi, penelitian dan Pe ra penyebaran informasi serta pelestarian kekayaan budaya bangsa di tje n yang berdasarkan Pancasila;
 
 c. bahwa dalam rangka pemanfaatan hasil budaya bangsa tersebut, karya cetak dan karya rekam perlu dihimpun, disimpan, dipelihara, dan dilestarikan di suatu tempat tertentu sebagai koleksi nasional;
 
@@ -53,9 +54,9 @@ DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA,
 
 MEMUTUSKAN:
 
-Menetapkan : UNDANG-UNDANG TENTANG SERAH-SIMPAN KARYA CETAK DAN
+Menetapkan : UNDANG-UNDANG TENTANG SERAH-SIMPAN KARYA CETAK DAN KARYA
 
-KARYA REKAM.
+REKAM.
 
 ## BAB I — KETENTUAN UMUM
 
@@ -71,9 +72,9 @@ Dalam Undang-undang ini yang dimaksud dengan:
 
 4. Pengusaha rekaman adalah setiap orang, persekutuan, badan hukum baik milik negara maupun swasta yang menghasilkan karya rekam;
 
-5. Perpustakaan Nasional adalah perpustakaan yang berkedudukan di ibu kota negara yang mempunyai tugas untuk menghimpun, menyimpan, melestarikan dan mendayagunakan semua karya cetak dan karya rekam yang dihasilkan di wilayah Republik Indonesia;
+5. Perpustakaan Nasional adalah perpustakaan yang berkedudukan di ibu kota negara yang mempunyai tugas untuk menghimpun, menyimpan, melestarikan ru nd dan mendayagunakan semua karya cetak dan karya rekam yang dihasilkan di an g-un wilayah Republik Indonesia; da ng an
 
-6. Perpustakaan Daerah adalah perpustakaan yang berkedudukan di ibu kota propinsi yang diberi tugas untuk menghimpun, menyimpan, melestarikan dan mendayagunakan semua karya cetak dan karya rekam yang dihasilkan di daerah.
+6. Perpustakaan Daerah adalah perpustakaan yang berkedudukan di ibu kota Pe propinsi yang diberi tugas untuk menghimpun, menyimpan, melestarikan dan n ratura mendayagunakan semua karya cetak dan karya rekam yang dihasilkan di daerah. di Pe tje n
 
 ## BAB II — KEWAJIBAN SERAH-SIMPAN KARYA CETAK DAN KARYA REKAM
 
@@ -87,9 +88,7 @@ Setiap penerbit yang berada di wilayah negara Republik Indonesia, wajib menyerah
 
 (2) Dalam hal karya rekam tersebut menggunakan bahan baku yang memerlukan penyimpanan secara khusus, maka kewajiban menyerahkan sebagaimana dimaksud dalam ayat (1), dilakukan kepada Perpustakaan Nasional atau badan lain yang ditetapkan oleh Pemerintah.
 
-(3) Ketentuan mengenai badan penyimpan hasil rekaman sebagaimana dimaksud dalam ayat
-
-(2) diatur lebih lanjut dengan Peraturan Pemerintah.
+(3) Ketentuan mengenai badan penyimpan hasil rekaman sebagaimana dimaksud dalam ayat (2) diatur lebih lanjut dengan Peraturan Pemerintah.
 
 ##### Pasal 4
 
@@ -101,11 +100,11 @@ Kewajiban serah-simpan karya cetak dan karya rekam yang diatur dalam Undang-unda
 
 ##### Pasal 6
 
-(1) Setiap orang yang memasukkan karya cetak dan atau karya rekam mengenai Indonesia dari luar negeri lebih dari 10 (sepuluh) buah setiap judulnya dengan maksud untuk diperdagangkan, wajib menyerahkan sebuah setiap judulnya kepada Perpustakaan Nasional, selambat-lambatnya 1 (satu) bulan setelah diterima oleh yang bersangkutan.
+(1) Setiap orang yang memasukkan karya cetak dan atau karya rekam mengenai ru nd Indonesia dari luar negeri lebih dari 10 (sepuluh) buah setiap judulnya dengan an g-un maksud untuk diperdagangkan, wajib menyerahkan sebuah setiap judulnya da ng an kepada Perpustakaan Nasional, selambat-lambatnya 1 (satu) bulan setelah Pe diterima oleh yang bersangkutan. n ratura
 
-(2) Setiap orang yang memasukkan karya cetak dan atau karya rekam mengenai Indonesia dari luar negeri kurang dari 10 (sepuluh) buah setiap judul, tetapi dalam jangka waktu 2
+(2) Setiap orang yang memasukkan karya cetak dan atau karya rekam mengenai di Pe
 
-(dua) tahun memasukkan lagi karya yang sama sehingga jumlahnya melebihi 10 (sepuluh) buah, maka berlaku ketentuan Pasal 6 ayat (1).
+Indonesia dari luar negeri kurang dari 10 (sepuluh) buah setiap judul, tetapi tje n dalam jangka waktu 2 (dua) tahun memasukkan lagi karya yang sama sehingga jumlahnya melebihi 10 (sepuluh) buah, maka berlaku ketentuan Pasal 6 ayat (1).
 
 (3) Pelaksanaan kewajiban serah-simpan karya rekam dengan menggunakan bahan baku yang memerlukan penyimpanan secara khusus, diatur lebih lanjut dengan Peraturan Pemerintah.
 
@@ -125,17 +124,19 @@ Karya cetak dan karya rekam yang diserahkan dan disimpan sesuai dengan ketentuan
 
 Ketentuan pelaksanaan kewajiban serah-simpan karya cetak dan karya rekam diatur lebih lanjut dengan Peraturan Pemerintah.
 
-## BAB III — PENGELOLAAN HASIL SERAH-SIMPAN
-
-KARYA CETAK DAN KARYA REKAM
+## BAB III — PENGELOLAAN HASIL SERAH-SIMPAN KARYA CETAK DAN KARYA REKAM
 
 ##### Pasal 10
 
-(1) Pengelolaan karya cetak dan karya rekam yang diserahkan untuk disimpan berdasarkan Undang-undang ini dilakukan oleh Perpustakaan Nasional dan Perpustakaan Daerah yang menerimanya, atau badan lain yang ditetapkan oleh Pemerintah dalam hal karya rekam yang berupa film ceritera atau dokumenter.
+(1) Pengelolaan karya cetak dan karya rekam yang diserahkan untuk disimpan berdasarkan Undang-undang ini dilakukan oleh Perpustakaan Nasional dan Perpustakaan Daerah yang menerimanya, atau badan lain yang ditetapkan oleh ru nd Pemerintah dalam hal karya rekam yang berupa film ceritera atau dokumenter. an g-un
 
-(2) Ketentuan lebih lanjut mengenai pengelolaan karya cetak dan karya rekam sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pemerintah.
+(2) Ketentuan lebih lanjut mengenai pengelolaan karya cetak dan karya rekam da ng an sebagaimana dimaksud dalam ayat (1) diatur lebih lanjut dengan Peraturan Pe Pemerintah. n ratura Pe di
 
-## BAB IV — KETENTUAN PIDANA
+BAB IV
+
+tje n
+
+KETENTUAN PIDANA
 
 ##### Pasal 11
 
@@ -163,13 +164,13 @@ Pelaksanaan ketentuan pidana sebagaimana dimaksud dalam Pasal 11, tidak meniadak
 
 Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+Agar setiap orang mengetahuinya, memerintahkan rupengundangan nd Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik an g-un Indonesia. da ng an Pe
 
-Disahkan di Jakarta pada tanggal 9 Agustus 1990
+Disahkan di Jakarta n ratura di Pe pada tanggal 9 Agustus 1990
 
 PRESIDEN REPUBLIK INDONESIA
 
-ttd
+tje n
 
 SOEHARTO
 
@@ -177,6 +178,126 @@ Diundangkan di Jakarta pada tanggal 9 Agustus 1990
 
 MENTERI/SEKRETARIS NEGARA
 
-ttd
+REPUBLIK INDONESIA
 
 MOERDIONO
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 4 TAHUN 1990
+
+TENTANG
+
+SERAH-SIMPAN KARYA CETAK DAN KARYA REKAM
+
+UMUM
+
+Pembangunan nasional pada hakikatnya adalah pembangunan manusia Indonesia seutuhnya dan masyarakat Indonesia seluruhnya sebagai pengamalan Pancasila, meliputi pembangunan materiil dan spiritual dengan segala seginya. Maka salah satu upaya yang perlu diwujudkan adalah pelestarian dan pemanfaatan hasil karya budaya bangsa.
+
+Karya cetak dan karya rekam pada dasarnya merupakan salah satu hasil karya budaya bangsa sebagai perwujudan cipta, rasa dan karsa manusia. Peranannya sangat penting dalam menunjang pembangunan pada umumnya, khususnya pembangunan pendidikan, penelitian, pengembangan ilmu pengetahuan dan teknologi serta penyebaran informasi. ru nd
+
+Mengingat pentingnya peranan karya cetak dan karya rekam tersebut, perlu an g-un dilaksanakan pembinaan demi pelestariannya dengan mewajibkan kepada setiap da ng an penerbit dan pengusaha rekaman untuk menyerahkan beberapa buah karya cetak dan Pe karya rekamnya guna disimpan di Perpustakaan Nasional dan Perpustakaan Daerah, n ratura sehingga dapat dimanfaatkan sebaik-baiknya oleh masyarakat. Termasuk dalam di Pe pengertian karya rekam ini adalah film, piringan, pita video dan atau rekaman suara. tje n
+
+Karya rekam tersebut wajib diserahkan kepada Perpustakaan Nasional atau badan lain yang ditetapkan oleh Pemerintah untuk disimpan.
+
+Dalam rangka inilah Undang-undang tentang Serah-Simpan Karya Cetak dan Karya Rekam disusun dalam usaha menghimpun, melestarikan dan mewujudkan koleksi karya cetak dan karya rekam secara nasional.
+
+Kewajiban serah-simpan karya cetak dan karya rekam ini juga dimaksudkan untuk mewujudkan koleksi karya-karya tersebut sebagai hasil budaya bangsa, sehingga terwujud suatu koleksi nasional yang lengkap dan dapat memenuhi keperluan dalam rangka pembangunan bangsa dan negara, khususnya dalam usaha meningkatkan kecerdasan kehidupan bangsa.
+
+Seiring dengan pemikiran di atas, maka pelestarian dan pemanfaatan karya cetak dan karya rekam dilaksanakan melalui lembaga-lembaga tertentu di tingkat pusat dan tingkat daerah. Di samping memperluas jaringan informasi langkah ini juga dimaksudkan untuk lebih mendekatkan karya-karya tersebut sebagai sumber informasi tentang budaya bangsa kepada masyarakat. Dengan demikian kewajiban serah-simpan karya cetak dan atau karya rekam ini juga merupakan salah satu realisasi upaya mencapai sasaran pemerataan kesempatan memperoleh pendidikan dan penerangan bagi masyarakat.
+
+Dengan kerangka pemikiran ini, maka kewajiban-kewajiban serah-simpan karya cetak dan karya rekam tidak hanya ditujukan kepada penerbit atau pengusaha rekaman yang menghasilkan karya cetak dan karya rekam di dalam negeri, tetapi ditujukan pula kepada setiap warga negara Republik Indonesia yang dengan berbagai pertimbangan menerbitkan karya-karyanya baik dalam bentuk karya cetak maupun karya rekam di luar negeri.
+
+Dalam upaya untuk memperkaya koleksi nasional, khususnya dengan memperhatikan salah satu tujuan yang akan dicapai melalui penyediaan koleksi karya cetak dan karya rekam sebagai salah satu sarana untuk mencerdaskan kehidupan bangsa, maka kewajiban, ini diperluas pula terhadap karya cetak dan karya rekam dari luar negeri mengenai Indonesia yang dimasukkan ke Indonesia.
+
+Masalah lain yang perlu dipertegas adalah kaitan Undang-undang ini dengan ketentuan Undang-undang Nomor 7 Tahun 1971 tentang Kearsipan. Undang-undang yang terakhir ini mempunyai obyek pokok arsip dalam arti naskah. Dengan tetap memperhatikan ketentuan Undang-undang tersebut, maka pengertian naskah pada dasarnya dibatasi pada karya-karya yang belum diterbitkan, tidak dipublikasikan dan tidak berwujud buku; maka karya cetak dan karya rekam yang menjadi obyek Undang-undang ini ru nd meliputi semua karya akhir dalam bentuk apapun yang dibuat dengan maksud an g-un diperuntukkan bagi umum. da ng an Pe
+
+PASAL DEMI PASAL
+
+n ratura Pe di Pasal 1 tje n
+
+Cukup jelas Pasal 2 Karya cetak yang wajib diserahkan untuk disimpan di Perpustakaan Nasional atau Perpustakaan Daerah termasuk cetakan kedua dan seterusnya yang mengalami perubahan isi dan atau bentuk. Pengertian penyerahan setiap karya cetak kepada Perpustakaan Nasional dan Perpustakaan Daerah dalam Undang-undang ini tidak meliputi penyerahan hak ciptanya. Dengan demikian, penyerahan karya cetak dan karya rekam ini hanya untuk disimpan, dilestarikan dan didayagunakan sesuai dengan tujuan Undang-undang ini. Dalam kaitannya dengan hak cipta, sepenuhnya berlaku ketentuan Undang-undang Hak Cipta.
+
+Jangka waktu selambatlambatnya 3 (tiga) bulan tersebut dihitung sejak penerbitannya, yaitu sejak saat pertama kali diumumkan kepada masyarakat dengan cara dan bentuk apapun, atau apabila tidak diumumkan, sejak pertama kali dipasarkan.
+
+#### Pasal 3
+
+Ayat (1)
+
+Mengenai pengertian penyerahan karya rekam dan saat penyerahannya, lihat pula penjelasan mengenai hal yang sama pada penjelasan Pasal 2.
+
+Mengingat penyimpanan karya rekam yang berupa film, kaset, foto, piringan, pita, dan yang menggunakan bahan baku yang memerlukan penyimpanan dan keahlian khusus, maka dimungkinkan untuk menyerahkan karya rekam tersebut kepada badan lain yang dikuasai oleh Pemerintah selain Perpustakaan Nasional yang akan ditetapkan lebih lanjut oleh Pemerintah.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas Pasal 4 Jangka waktu penyerahan selambat-lambatnya 3 (tiga) bulan setelah diterbitkan atau setelah proses produksi perekaman selesai.
+
+#### Pasal 5
+
+Cukup jelas Pasal 6 Ayat (1) ru nd Yang dimaksud dengan orang dalam ayat ini adalah orang perseorangan, an g-un persekutuan, badan hukum baik milik negara maupun swasta yang da ng an memasukkan karya cetak dan karya rekam ke Indonesia, Pe
+
+Ayat (2)
+
+n ratura Cukup jelas di Pe
+
+Ayat (3)
+
+tje n
+
+Cukup jelas Pasal 7 Ketentuan ini dimaksudkan untuk menjaga agar pemanfaatan film, terutama film ceritera yang disimpan di Perpustakaan Nasional atau badan lain yang ditetapkan oleh Pemerintah berdasarkan Undang-undang ini, tidak merugikan pembuat film yang bersangkutan. Sesuai dengan tujuannya penyimpanan ini hanya ditujukan untuk keperluan pelestarian dan terwujudnya koleksi nasional.
+
+Karya rekam ini tidak boleh dipertunjukkan untuk umum dengan memungut biaya. Oleh karena itu pemanfaatannya hanya dibatasi untuk tujuan pendidikan, penelitian atau keperluan lain dalam rangka pengembangan budaya bangsa.
+
+#### Pasal 8
+
+Ayat (1)
+
+Kewajiban bagi penerbit atau pengusaha rekaman untuk menyerahkan daftar judul terbitan atau rekamannya kepada Perpustakaan Daerah hanya berlaku bagi penerbit atau pengusaha rekaman yang berada di wilayah yang bersangkutan.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas Pasal 9 Cukup jelas Pasal 10
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Cukup jelas Pasal 11
+
+Ayat (1)
+
+Cukup jelas
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Cukup jelas Pasal 12 ru nd Sesuai dengan tujuan kewajiban serah-simpan ini, yang penting adalah an g-un terwujudnya koleksi nasional karya cetak dan karya rekam. Oleh karena itu da ng an pidana yang diancamkan pada dasarnya hanya ditujukan bagi pelanggaran Pe terhadap kewajiban serah-simpan karya cetak dan karya rekam, sedangkan n ratura pemenuhannya tetap harus dilakukan sekalipun pidana telah dijatuhkan. di Pe
+
+#### Pasal 13
+
+tje n
+
+Ayat (1)
+
+Yang dimaksud dengan badan-badan Pemerintah adalah Departemen, Kesekretariatan Lembaga Tertinggi/Tinggi Negara, Lembaga Pemerintah Non Departemen, Kejaksaan Agung, Perwakilan Pemerintah Republik Indonesia di luar negeri, Bank Indonesia, termasuk unit- unit kerja seperti proyek yang bekerja secara mandiri tetapi masih tetap berada dalam lingkup tugas, fungsi dan tanggung jawab lembaga-lembaga tersebut di atas.
+
+Ayat (2)
+
+Cukup jelas Pasal 14 Cukup jelas

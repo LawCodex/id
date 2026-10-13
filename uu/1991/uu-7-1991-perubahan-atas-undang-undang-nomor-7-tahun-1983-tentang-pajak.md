@@ -19,10 +19,11 @@ amends:
   - "UU No. 7 Tahun 1983"
 gazette: "LN. 1991, LL SETNEG : 7 HLM"
 subject: "PERPAJAKAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_7_TH_1991.pdf&fl=P00920"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1991"
+source: "https://peraturan.bpk.go.id/Download/35397/UU%20Nomor%207%20Tahun%201991.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46659"
 bpk_page: "https://peraturan.bpk.go.id/Details/46659"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133338/https://peraturan.bpk.go.id/Details/46659"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1991"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -17,10 +17,11 @@ repeals:
   - "UU No. 15 Tahun 1952"
 gazette: "LN. 1995/ No. 64, TLN NO. 3608, LL SETNEG : 62 HLM"
 subject: "PASAR MODAL DAN PERDAGANGAN BERJANGKA KOMODITI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0081995.pdf&fl=P00972"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34758/UU%20Nomor%208%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46197"
 bpk_page: "https://peraturan.bpk.go.id/Details/46197"
 bpk_metadata_archived: "http://web.archive.org/web/20251204021146/https://peraturan.bpk.go.id/Details/46197/uu-no-8-tahun-1995."
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

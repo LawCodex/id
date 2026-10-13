@@ -15,10 +15,11 @@ amended_by:
   - "UU No. 11 Tahun 1997"
 gazette: "LN. 1996, LL SETNEG : 10 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0021996.pdf&fl=P00979"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1996"
+source: "https://peraturan.bpk.go.id/Download/34621/UU%20Nomor%202%20Tahun%201996.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46066"
 bpk_page: "https://peraturan.bpk.go.id/Details/46066"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134016/https://peraturan.bpk.go.id/Details/46066"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1996"
 consolidated: false
 retrieved: 2026-10-13
 ---

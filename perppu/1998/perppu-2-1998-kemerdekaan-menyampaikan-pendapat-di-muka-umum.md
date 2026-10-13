@@ -13,10 +13,11 @@ status: repealed
 status_basis: "BPK: Berlaku; Setneg: dicabut"
 gazette: "LN. 1998 No. 115, TLN. No. 3772, LL SETNEG : 12 HLM"
 subject: "HAK ASASI MANUSIA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=perpu0021998.pdf&fl=P01442"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=1998"
+source: "https://peraturan.bpk.go.id/Download/43425/perpu%20No.%20002%20Tahun%201998.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/54021"
 bpk_page: "https://peraturan.bpk.go.id/Details/54021"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134350/https://peraturan.bpk.go.id/Details/54021"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=1998"
 consolidated: false
 retrieved: 2026-10-13
 ---

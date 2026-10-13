@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1996, LL SETNEG : 12 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0091996.pdf&fl=P00986"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1996"
+source: "https://peraturan.bpk.go.id/Download/34654/UU%20Nomor%209%20Tahun%201996.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46099"
 bpk_page: "https://peraturan.bpk.go.id/Details/46099"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134131/https://peraturan.bpk.go.id/Details/46099"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1996"
 consolidated: false
 retrieved: 2026-10-13
 ---

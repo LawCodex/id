@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1997/ No. 18, TLN NO. 3674, LL SETNEG : 12 HLM"
 subject: "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0081997.pdf&fl=P00994"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34482/UU%20Nomor%208%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45929"
 bpk_page: "https://peraturan.bpk.go.id/Details/45929"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134313/https://peraturan.bpk.go.id/Details/45929"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

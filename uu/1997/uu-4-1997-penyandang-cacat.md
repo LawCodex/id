@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 8 Tahun 2016"
 gazette: "LN.1997/NO.9, TLN NO.3670, LL SETNEG : 9 HLM"
 subject: "HAK ASASI MANUSIA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0041997.pdf&fl=P00990"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/26370/UU%20Nomor%204%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/37269"
 bpk_page: "https://peraturan.bpk.go.id/Details/37269"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105114/https://peraturan.bpk.go.id/Details/37269/uu-no-4-tahun-1997"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

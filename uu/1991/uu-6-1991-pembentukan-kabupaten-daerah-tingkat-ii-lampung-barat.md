@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1991, LL SETNEG : 11 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_6_TH_1991.pdf&fl=P00919"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1991"
+source: "https://peraturan.bpk.go.id/Download/35396/UU%20Nomor%206%20Tahun%201991.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46658"
 bpk_page: "https://peraturan.bpk.go.id/Details/46658"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133327/https://peraturan.bpk.go.id/Details/46658"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1991"
 consolidated: false
 retrieved: 2026-10-13
 ---

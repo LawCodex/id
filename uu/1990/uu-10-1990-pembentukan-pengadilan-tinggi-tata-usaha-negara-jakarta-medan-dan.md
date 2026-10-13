@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "website peraturan.go.id : 3 hlm"
 subject: "HUKUM ACARA DAN PERADILAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_10_TH_1990.pdf&fl=P00912"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1990"
+source: "https://peraturan.bpk.go.id/Download/35492/UU%20Nomor%2010%20Tahun%201990.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46740"
 bpk_page: "https://peraturan.bpk.go.id/Details/46740"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133032/https://peraturan.bpk.go.id/Details/46740"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1990"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -29,17 +30,17 @@ NOMOR 10 TAHUN 1990
 
 TENTANG
 
-PEMBENTUKAN PENGADILAN TINGGI TATA USAHA NEGARA JAKARTA, MEDAN, DAN
+PEMBENTUKAN PENGADILAN TINGGI TATA USAHA NEGARA JAKARTA,
 
-UJUNG PANDANG
+MEDAN, DAN UJUNG PANDANG
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : a. bahwa sesuai dengan ketentuan Pasal 6 ayat (2) Undang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara, Pengadilan Tinggi Tata Usaha Negara perlu dibentuk di setiap ibukota propinsi;
+Menimbang : a. bahwa sesuai dengan ketentuan Pasal 6 ayat (2) Undang-undang ru Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara, nd an g-Pengadilan Tinggi Tata Usaha Negara perlu dibentuk di setiap ibukota un da ng propinsi; an Pe
 
-b. bahwa Pengadilan di lingkungan Peradilan Tata Usaha Negara merupakan lembaga baru yang pembentukannya memerlukan perencanaan serta persiapan yang sebaik-baiknya, sehingga pelaksanaannya dilakukan secara bertahap;
+b. bahwa Pengadilan di lingkungan Peradilan Tata Usaha Negara ra n tu merupakan lembaga baru yang pembentukannya memerlukan Pe ra perencanaan serta persiapan yang sebaik-baiknya, sehingga di tje n pelaksanaannya dilakukan secara bertahap;
 
 c. bahwa untuk tahap pertama, dipandang perlu membentuk Pengadilan Tinggi Tata Usaha Negara yang berkedudukan di Jakarta, Medan, dan Ujung Pandang;
 
@@ -49,7 +50,9 @@ Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 24 Undang-Undang D
 
 2. Undang-undang Nomor 14 Tahun 1970 tentang Ketentuan-ketentuan Pokok Kekuasaan Kehakiman (Lembaran Negara Tahun 1970 Nomor 74, Tambahan Lembaran Negara Nomor 2951);
 
-3. Undang-undang Nomor 14 Tahun 1985 tentang Mahkamah Agung (Lembaran Negara Tahun 1985 Nomor 73, Tambahan Lembaran Negara Nomor 3316);
+3. Undang-undang Nomor 14 Tahun 1985 tentang Mahkamah Agung (Lembaran Negara Tahun 1985 Nomor 73, Tambahan Lembaran
+
+Negara Nomor 3316);
 
 4. Undang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara (Lembaran Negara Tahun 1986 Nomor 77, Tambahan Lembaran Negara Nomor 3344);
 
@@ -57,11 +60,11 @@ Dengan persetujuan
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN :
+MEMUTUSKAN:
 
-Menetapkan : UNDANG-UNDANG TENTANG PEMBENTUKAN PENGADILAN TINGGI
+Menetapkan : UNDANG-UNDANG TENTANG PEMBENTUKAN PENGADILAN TINGGI TATA
 
-TATA USAHA NEGARA JAKARTA, MEDAN, DAN UJUNG PANDANG.
+USAHA NEGARA JAKARTA, MEDAN, DAN UJUNG PANDANG.
 
 ##### Pasal 1
 
@@ -71,11 +74,11 @@ Membentuk tiga Pengadilan Tinggi Tata Usaha Negara masing-masing:
 
 2. Pengadilan Tinggi Tata Usaha Negara Medan, berkedudukan di Medan;
 
-3. Pengadilan Tinggi Tata Usaha Negara Ujung Pandang, berkedudukan di Ujung Pandang.
+3. Pengadilan Tinggi Tata Usaha Negara Ujung Pandang, berkedudukan di Ujung ru nd Pandang. an g-un Pasal 2 da ng an
 
-##### Pasal 2
+(1) Pengadilan Tinggi Tata Usaha Negara Jakarta, daerah hukumnya meliputi Pe Wilayah Daerah Khusus Ibukota Jakarta, Propinsi Jawa Barat, Jawa Tengah, n ratura Daerah Istimewa Yogyakarta, Jawa Timur, Kalimantan Barat, Kalimantan di Pe
 
-(1) Pengadilan Tinggi Tata Usaha Negara Jakarta, daerah hukumnya meliputi Wilayah Daerah Khusus Ibukota Jakarta, Propinsi Jawa Barat, Jawa Tengah, Daerah Istimewa Yogyakarta, Jawa Timur, Kalimantan Barat, Kalimantan Selatan, Kalimantan Tengah dan Kalimantan Timur.
+Selatan, Kalimantan Tengah dan Kalimantan Timur. tje n
 
 (2) Pengadilan Tinggi Tata Usaha Negara Medan, daerah hukumnya meliputi wilayah Propinsi Sumatera Utara, Daerah Istimewa Aceh, Sumatera Barat, Riau, Sumatera Selatan, Jambi, Bengkulu, dan Lampung.
 
@@ -97,19 +100,15 @@ b. sudah diajukan kepada Pengadilan Tinggi dalam lingkungan Peradilan Umum di se
 
 Undang-undang ini mulai berlaku pada tanggal mulai diterapkannya Undang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara.
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini ru nd dengan penempatannya dalam Lembaran Negara Republik Indonesia. an g-un da ng an Pe Disahkan di Jakarta pada tanggal 30 Oktober 1990 n ratura di Pe PRESIDEN REPUBLIK INDONESIA tje n
 
-Disahkan di Jakarta pada tanggal 30 Oktober 1990
-
-PRESIDEN REPUBLIK INDONESIA
-
-ttd
+SOEHARTO
 
 Diundangkan di Jakarta pada tanggal 30 Oktober 1990
 
 MENTERI/SEKRETARIS NEGARA
 
-ttd
+REPUBLIK INDONESIA
 
 MOERDIONO
 
@@ -127,17 +126,15 @@ PEMBENTUKAN PENGADILAN TINGGI TATA USAHA NEGARA JAKARTA, MEDAN,
 
 DAN UJUNG PANDANG
 
-### I.      UMUM
+### I.       UMUM
 
 Pengadilan Tinggi Tata Usaha Negara sebagai bagian dalam penyelenggaraan kekuasaan kehakiman di lingkungan Peradilan Tata Usaha Negara, sesuai dengan ketentuan Pasal 10 Undang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara, harus dibentuk dengan undang- undang. Undang-undang ini dimaksudkan untuk memenuhi ketentuan Pasal 10 Undang-undang Nomor 5 Tahun 1986 tersebut.
 
-Sesuai dengan ketentuan Pasal 6 ayat (2) Undang-undang Nomor 5 Tahun 1986, Pengadilan Tinggi Tata Usaha Negara berkedudukan di setiap ibukota propinsi, dan daerah hukumnya meliputi wilayah propinsi yang bersangkutan.
+Sesuai dengan ketentuan Pasal 6 ayat (2) Undang-undang Nomor 5 Tahun 1986, Pengadilan Tinggi Tata Usaha Negara berkedudukan di setiap ibukota propinsi, dan daerah hukumnya meliputi wilayah propinsi yang bersangkutan. ru nd Dengan demikian, Pengadilan Tinggi Tata Usaha Negara akan ada di Daerah an g-un Khusus Ibukota Jakarta dan di setiap ibukota propinsi di seluruh Indonesia. da ng an Tetapi mengingat Pengadilan di lingkungan Peradilan Tata Usaha Negara Pe merupakan lembaga baru, yang pembentukannya memerlukan perencanaan n ratura serta persiapan sebaik-baiknya, terutama dari segi penyiapan perangkat lunak di Pe dan perangkat kerasnya, maka oleh karenanya pembentukan Pengadilan Tinggi tje n
 
-Dengan demikian, Pengadilan Tinggi Tata Usaha Negara akan ada di Daerah Khusus Ibukota Jakarta dan di setiap ibukota propinsi di seluruh Indonesia.
+Tata Usaha Negara perlu dilakukan secara bertahap. Ini berarti, bilamana saatnya telah memungkinkan, maka di setiap ibukota propinsi dibentuk Pengadilan Tinggi Tata Usaha Negara yang daerah hukumnya meliputi wilayah propinsi yang bersangkutan.
 
-Tetapi mengingat Pengadilan di lingkungan Peradilan Tata Usaha Negara merupakan lembaga baru, yang pembentukannya memerlukan perencanaan serta persiapan sebaik-baiknya, terutama dari segi penyiapan perangkat lunak dan perangkat kerasnya, maka oleh karenanya pembentukan Pengadilan Tinggi Tata Usaha Negara perlu dilakukan secara bertahap. Ini berarti, bilamana saatnya telah memungkinkan, maka di setiap ibukota propinsi dibentuk Pengadilan Tinggi Tata Usaha Negara yang daerah hukumnya meliputi wilayah propinsi yang bersangkutan.
-
-### II.     PASAL DEMI PASAL
+### II.      PASAL DEMI PASAL
 
 #### Pasal 1
 
@@ -149,19 +146,15 @@ Cukup jelas
 
 Ayat (2)
 
-Cukup jelas Pasal 3 Pasal 6 ayat (2) Undang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara menentukan bahwa Pengadilan Tinggi Tata Usaha Negara berkedudukan di setiap, ibukota propinsi. Akan tetapi sesuai dengan penjelasan umum dan penjelasan Pasal 145 Undang-undang Nomor 5 Tahun 1986, pembentukannya akan dilaksanakan secara bertahap dengan memperhatikan baik faktor yang bersifat teknis maupun non teknis.
+Cukup jelas Pasal 3 Pasal 6 ayat (2) Undang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara menentukan bahwa Pengadilan Tinggi Tata Usaha
 
-Untuk tahap pertama dalam Undang-undang ini dibentuk Pengadilan Tinggi Tata Usaha Negara Jakarta, Medan, dan Ujung Pandang, dengan daerah hukum sebagaimana ditentukan dalam Pasal 2 Undang-undang ini. Oleh karena itu, daerah hukum Pengadilan Tinggi Tata Usaha Negara Jakarta, Medan, atau Ujung Pandang akan mengalami perubahan apabila tahap berikutnya dilaksanakan pembentukan Pengadilan Tinggi Tata Usaha Negara lainnya.
+Negara berkedudukan di setiap, ibukota propinsi. Akan tetapi sesuai dengan penjelasan umum dan penjelasan Pasal 145 Undang-undang Nomor 5 Tahun 1986, pembentukannya akan dilaksanakan secara bertahap dengan memperhatikan baik faktor yang bersifat teknis maupun non teknis. Untuk tahap pertama dalam Undang-undang ini dibentuk Pengadilan Tinggi Tata Usaha Negara Jakarta, Medan, dan Ujung Pandang, dengan daerah hukum sebagaimana ditentukan dalam Pasal 2 Undang-undang ini. Oleh karena itu, daerah hukum Pengadilan Tinggi Tata Usaha Negara Jakarta, Medan, atau Ujung Pandang akan mengalami perubahan apabila tahap berikutnya dilaksanakan pembentukan Pengadilan Tinggi Tata Usaha Negara lainnya.
 
 #### Pasal 4
 
 Huruf a
 
-Yang dimaksud dengan Pengadilan Tinggi dalam lingkungan Peradilan Umum adalah Pengadilan Tinggi yang daerah hukumnya meliputi wilayah propinsi sebagaimana dimaksud dalam Pasal 2.
-
-Ini berarti sengketa Tata Usaha Negara yang pada saat terbentuknya
-
-Pengadilan Tinggi Tata Usaha Negara Jakarta sudah diperiksa tetapi belum diputus oleh Pengadilan Tinggi Jakarta, Bandung, Semarang, Yogyakarta, Surabaya, Pontianak, Banjarmasin, Palangkaraya, atau Samarinda, tetap diselesaikan oleh Pengadilan Tinggi yang bersangkutan.
+Yang dimaksud dengan Pengadilan Tinggi dalam lingkungan Peradilan Umum adalah Pengadilan Tinggi yang daerah hukumnya meliputi wilayah propinsi sebagaimana dimaksud dalam Pasal 2. ru nd Ini berarti sengketa Tata Usaha Negara yang pada saat an g-un terbentuknya Pengadilan Tinggi Tata Usaha Negara Jakarta sudah da ng an diperiksa tetapi belum diputus oleh Pengadilan Tinggi Jakarta, Pe Bandung, Semarang, Yogyakarta, Surabaya, Pontianak, n ratura Banjarmasin, Palangkaraya, atau Samarinda, tetap diselesaikan di Pe oleh Pengadilan Tinggi yang bersangkutan. tje n
 
 Demikian pula halnya dengan sengketa-sengketa Tata Usaha Negara yang sudah diperiksa tetapi belum diputus oleh Pengadilan Tinggi dalam lingkungan Peradilan Umum di seluruh daerah hukum Pengadilan Tinggi Tata Usaha Negara Medan atau Ujung Pandang.
 
@@ -172,3 +165,5 @@ Sengketa Tata Usaha Negara yang pada saat terbentuknya Pengadilan Tinggi Tata Us
 #### Pasal 5
 
 Pasal 145 Undang-undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara menentukan bahwa penerapan Undang-undang tersebut diatur dengan Peraturan Pemerintah, yaitu selambat-lambatnya 5 (lima) tahun sejak Undang-undang Nomor 5 Tahun 1986 diundangkan. Dengan ketentuan ini, bilamana kemudian ditetapkan Peraturan Pemerintah untuk menyatakan dimulainya penerapan Undang-undang Nomor 5 Tahun 1986, maka tanggal mulai diterapkannya Undang-undang tersebut juga akan menjadi tanggal mulai berlakunya secara efektif Undang-undang ini.
+
+ru nd an g-un da ng an Pe n ratura Pe di tje n

@@ -19,10 +19,11 @@ amends:
   - "UU No. 7 Tahun 1983"
 gazette: "LN. 1994/ No. 60, TLN NO. 3567, LL SETNEG : 54 HLM"
 subject: "PERPAJAKAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0101994.pdf&fl=P00962"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34820/UU%20Nomor%2010%20tahun%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46232"
 bpk_page: "https://peraturan.bpk.go.id/Details/46232"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133715/https://peraturan.bpk.go.id/Details/46232"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---

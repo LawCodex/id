@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1992, LL SETNEG : 4 HLM"
 subject: "HUKUM ACARA DAN PERADILAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_20_TH_1992.pdf&fl=P00940"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35347/UU%20Nomor%2020%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46617"
 bpk_page: "https://peraturan.bpk.go.id/Details/46617"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133412/https://peraturan.bpk.go.id/Details/46617"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=20&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

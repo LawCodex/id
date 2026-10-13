@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1994/ No. 42, TLN NO. 3557, LL SETNEG : 4 HLM"
 subject: "PENGESAHAN DAN/ATAU PEMBATALAN PERSETUJUAN/KONVENSI/ PERJANJIAN INTERNASIONAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0061994.pdf&fl=P00958"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34803/UU%20Nomor%206%20Tahun%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46223"
 bpk_page: "https://peraturan.bpk.go.id/Details/46223"
 bpk_metadata_archived: "http://web.archive.org/web/20240617064104/https://peraturan.bpk.go.id/Details/46223"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---

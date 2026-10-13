@@ -27,10 +27,11 @@ repeals:
   - "UU No. 12 Tahun 1947"
 gazette: "LN. 1997, LL SETNEG : 28 HLM"
 subject: "PAJAK DAN RETRIBUSI DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0181997.pdf&fl=P01004"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34503/UU%20Nomor%2018%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45950"
 bpk_page: "https://peraturan.bpk.go.id/Details/45950"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134151/https://peraturan.bpk.go.id/Details/45950"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

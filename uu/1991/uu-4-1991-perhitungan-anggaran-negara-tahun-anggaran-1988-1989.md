@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1991, LL SETNEG : 3 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU+NO+4+TH+1991.pdf&fl=P00917"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1991"
+source: "https://peraturan.bpk.go.id/Download/35394/UU%20Nomor%204%20Tahun%201991.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46656"
 bpk_page: "https://peraturan.bpk.go.id/Details/46656"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133257/https://peraturan.bpk.go.id/Details/46656"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1991"
 consolidated: false
 retrieved: 2026-10-13
 ---

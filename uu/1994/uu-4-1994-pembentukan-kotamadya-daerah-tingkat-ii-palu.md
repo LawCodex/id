@@ -15,10 +15,11 @@ repeals:
   - "PP No. 18 Tahun 1978"
 gazette: "LN. 1994/ No. 38, TLN NO.3555, LL SETNEG : 13 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0041994.pdf&fl=P00956"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34782/UU%20Nomor%204%20Tahun%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46218"
 bpk_page: "https://peraturan.bpk.go.id/Details/46218"
 bpk_metadata_archived: "http://web.archive.org/web/20240822105529/https://peraturan.bpk.go.id/Details/46218/uu-no-4-tahun-1994"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---

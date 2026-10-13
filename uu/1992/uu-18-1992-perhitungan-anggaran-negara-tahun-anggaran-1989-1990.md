@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1992, LL SETNEG : 3 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_18_TH_1992.pdf&fl=P00938"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35339/UU%20Nomor%2018%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46615"
 bpk_page: "https://peraturan.bpk.go.id/Details/46615"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133402/https://peraturan.bpk.go.id/Details/46615"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=18&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -17,10 +17,11 @@ repeals:
   - "UU No. 5 Tahun 1959"
 gazette: "LN. 1997, LL SETNEG : 46 HLM"
 subject: "PERPAJAKAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0171997.pdf&fl=P01003"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34499/UU%20Nomor%2017%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45946"
 bpk_page: "https://peraturan.bpk.go.id/Details/45946"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134153/https://peraturan.bpk.go.id/Details/45946"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=17&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

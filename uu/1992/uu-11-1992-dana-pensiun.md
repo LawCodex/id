@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 4 Tahun 2023"
 gazette: "LN. 1992, LL SETNEG : 34 HLM"
 subject: "KEPEGAWAIAN, APARATUR NEGARA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_11_TH_1992.pdf&fl=P00931"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35321/UU%20Nomor%2011%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46603"
 bpk_page: "https://peraturan.bpk.go.id/Details/46603"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133347/https://peraturan.bpk.go.id/Details/46603"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1995/ No. 53, TLN NO. 3605, LL SETNEG : 4HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0071995.pdf&fl=P00971"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34747/UU%20Nomor%207%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46187"
 bpk_page: "https://peraturan.bpk.go.id/Details/46187"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133941/https://peraturan.bpk.go.id/Details/46187"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

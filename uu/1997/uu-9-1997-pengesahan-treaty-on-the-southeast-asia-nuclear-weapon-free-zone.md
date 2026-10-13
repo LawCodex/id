@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1997/ No. 21, TLN NO. 3675, LL SETNEG : 4 HLM"
 subject: "PENGESAHAN DAN/ATAU PEMBATALAN PERSETUJUAN/KONVENSI/ PERJANJIAN INTERNASIONAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0091997.pdf&fl=P00995"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34483/UU%20Nomor%209%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45930"
 bpk_page: "https://peraturan.bpk.go.id/Details/45930"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134316/https://peraturan.bpk.go.id/Details/45930"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

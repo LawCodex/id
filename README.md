@@ -22,12 +22,12 @@ instrument. Part of [LawCodex](https://github.com/LawCodex).
 | Category | Directory | Files | of which in force | Known but missing (`missing.tsv`) |
 |---|---|---|---|---|
 | UUD 1945 (consolidated text, original, 4 amendments) | `uud-1945/` | 6 | 6 | - |
-| Undang-Undang | `uu/` | 1643 | 1275 | 286 |
-| Undang-Undang Darurat | `uu-darurat/` | 0 | 0 | 174 |
-| Peraturan Pemerintah Pengganti Undang-Undang | `perppu/` | 165 | 149 | 7 |
-| Peraturan Pemerintah | `pp/` | 2554 | 1561 | 2454 |
-| Peraturan Presiden | `perpres/` | 2347 | 1574 | 293 |
-| **Total** | | **6715** | **4565** | **3214** |
+| Undang-Undang | `uu/` | 1922 | 1551 | 7 |
+| Undang-Undang Darurat | `uu-darurat/` | 174 | 159 | 0 |
+| Peraturan Pemerintah Pengganti Undang-Undang | `perppu/` | 164 | 148 | 8 |
+| Peraturan Pemerintah | `pp/` | 5004 | 3345 | 4 |
+| Peraturan Presiden | `perpres/` | 2527 | 1754 | 113 |
+| **Total** | | **9797** | **6963** | **132** |
 <!-- /COUNTS -->
 
 ## Structure
@@ -75,8 +75,9 @@ the operative articles are `Pasal I`, `Pasal II`...; the amended provisions they
 REPUBLIK INDONESIA"), page numbers and page-foot catchwords are removed; lines are reflowed into
 paragraphs; tabular passages are kept in fenced blocks with their original layout. Additional
 PDF files attached to an instrument (separate *lampiran*, *penjelasan*, treaty texts) follow
-under `## Berkas: <file name>`; attachments that are scans without text, or more than 12 files,
-are linked instead.
+under `## Berkas: <file name>`; attachments that are scans without text, larger than 15 MB,
+beyond the 12th file, or (for Setneg-sourced texts) any attachment — the Setneg file server is slow
+and drops large transfers — are linked at the end of the file instead.
 
 ## Status (in force / repealed)
 
@@ -163,4 +164,4 @@ python id_convert.py --kinds uud,uu,uudrt,perppu,pp,perpres
 PDF, then Setneg; when the first text looks like poor OCR (more than 5% of tokens mixing letters
 and digits), the other source is also tried and the cleaner text is kept.
 
-Retrieved: 2026-10-12.
+Retrieved: 2026-10-12 / 2026-10-13 (`retrieved` in the front matter).

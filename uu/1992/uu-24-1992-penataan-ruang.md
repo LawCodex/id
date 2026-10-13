@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 26 Tahun 2007"
 gazette: "LN. 1992, LL SETNEG : 21 HLM"
 subject: "AGRARIA, PERTANAHAN, TATA RUANG"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_24_TH_1992.pdf&fl=P00944"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=24&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35386/UU%20Nomor%2024%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46648"
 bpk_page: "https://peraturan.bpk.go.id/Details/46648"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133420/https://peraturan.bpk.go.id/Details/46648"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=24&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

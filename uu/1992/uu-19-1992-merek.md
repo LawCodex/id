@@ -19,10 +19,11 @@ repeals:
   - "UU No. 21 Tahun 1961"
 gazette: "LN. 1992, LL SETNEG : 42 HLM"
 subject: "HAK ATAS KEKAYAAN INTELEKTUAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_19_TH_1992.pdf&fl=P00939"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35345/UU%20Nomor%2019%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46616"
 bpk_page: "https://peraturan.bpk.go.id/Details/46616"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133404/https://peraturan.bpk.go.id/Details/46616"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=19&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

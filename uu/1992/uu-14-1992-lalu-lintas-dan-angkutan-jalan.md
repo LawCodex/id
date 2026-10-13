@@ -17,10 +17,11 @@ repeals:
   - "UU No. 3 Tahun 1965"
 gazette: "LN. 1992, LL SETNEG : 35 HLM"
 subject: "TRANSPORTASI DARAT / LAUT / UDARA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_14_TH_1992.pdf&fl=P00934"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35325/UU%20Nomor%2014%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46607"
 bpk_page: "https://peraturan.bpk.go.id/Details/46607"
 bpk_metadata_archived: "http://web.archive.org/web/20260829232300/https://peraturan.bpk.go.id/Details/46607/uu-no-14-tahun-19"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

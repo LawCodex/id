@@ -25,10 +25,11 @@ amends:
   - "UU No. 1 Tahun 1967"
 gazette: "LN. 1983/ No.50, TLN. No.3263, LL SETNEG : 23 HLM"
 subject: "PERPAJAKAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0071983.pdf&fl=P00850"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1983"
+source: "https://peraturan.bpk.go.id/Download/35806/UU%20Nomor%207%20Tahun%201983.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46988"
 bpk_page: "https://peraturan.bpk.go.id/Details/46988"
 bpk_metadata_archived: "http://web.archive.org/web/20231204052954/https://peraturan.bpk.go.id/Details/46988"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1983"
 consolidated: false
 retrieved: 2026-10-13
 ---

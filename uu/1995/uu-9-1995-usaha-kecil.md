@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 20 Tahun 2008"
 gazette: "LN. 1995/ No. 74, TLN NO. 3611, LL SETNEG : 19 HLM"
 subject: "PERLINDUNGAN USAHA, PERUSAHAAN, BADAN USAHA, PERDAGANGAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0091995.pdf&fl=P00973"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34760/UU%20Nomor%209%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46199"
 bpk_page: "https://peraturan.bpk.go.id/Details/46199"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133946/https://peraturan.bpk.go.id/Details/46199"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

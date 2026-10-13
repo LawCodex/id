@@ -17,10 +17,11 @@ repeals:
   - "UU No. 10 Tahun 1964"
 gazette: "website peraturan.go.id : 8 hlm"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH - STRUKTUR ORGANISASI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_11_TH_1990.pdf&fl=P00913"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1990"
+source: "https://peraturan.bpk.go.id/Download/35494/UU%20Nomor%2011%20Tahun%201990.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46741"
 bpk_page: "https://peraturan.bpk.go.id/Details/46741"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133034/https://peraturan.bpk.go.id/Details/46741"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1990"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -33,17 +34,17 @@ NOMOR 11 TAHUN 1990
 
 TENTANG
 
-SUSUNAN PEMERINTAHAN DAERAH KHUSUS IBUKOTA NEGARA REPUBLIK
+SUSUNAN PEMERINTAHAN DAERAH KHUSUS IBUKOTA NEGARA
 
-INDONESIA JAKARTA
+REPUBLIK INDONESIA JAKARTA
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : a. bahwa Jakarta sebagai Ibukota Negara Republik Indonesia memiliki kedudukan dan peranan yang penting, baik dalam mendukung dan memperlancar penyelenggaraan pemerintahan Negara Republik Indonesia maupun dalam membangun masyarakatnya yang sejahtera, dan mencerminkan citra budaya bangsa Indonesia;
+Menimbang : a. bahwa Jakarta sebagai Ibukota Negara Republik Indonesia memiliki ru kedudukan dan peranan yang penting, baik dalam nd an mendukung g-dan memperlancar penyelenggaraan pemerintahan Negara Republik un da ng Indonesia maupun dalam membangun masyarakatnya yang an Pe sejahtera, dan mencerminkan citra budaya bangsa Indonesia; ra n tura Pe
 
-b. bahwa dengan memperhatikan kedudukan dan peranan di atas. upaya pembangunan dan pengembangan Jakarta sebagai ibukota Negara Republik Indonesia perlu dilaksanakan secara selaras dan serasi dengan kedudukan dan peranan tersebut,
+b. bahwa dengan memperhatikan kedudukan dan peranan di atas. di tje n upaya pembangunan dan pengembangan Jakarta sebagai ibukota Negara Republik Indonesia perlu dilaksanakan secara selaras dan serasi dengan kedudukan dan peranan tersebut,
 
 c. bahwa untuk dapat lebih mewujudkan sasaran pembangunan dan pengembangan sebagaimana dimaksud dalam huruf b, diperlukan pengaturan tersendiri mengenai susunan pemerintahan Jakarta sebagai Ibukota Negara Republik Indonesia;
 
@@ -51,21 +52,21 @@ d. bahwa sehubungan dengan hal-hal tersebut di atas dan sesuai dengan ketentuan 
 
 Mengingat : 1. Pasal 5 ayat (1), Pasal 18, dan Pasal 20 ayat (1) Undang-Undang Dasar 1945;
 
-2. Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 38.
+2. Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 38. Tambahan Lembaran Negara Republik Indonesia Nomor 3037);
 
-Tambahan Lembaran Negara Republik Indonesia Nomor 3037);
+3. Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 2915) sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 tentang Perubahan Undang-undang Nomor 16 Tahun 1969 (Lembaran Republik Indonesia Nomor Tahun 1975 Nomor 39, Tambahan lembaran Negara Republik Indonesia Nomor 3064) dan Undang-undang Nomor 2 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 ru nd Nomor 2. Tambahan Lembaran Negara Republik Indonesia Nomor an g-un 3282); da ng an Pe
 
-3. Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 2915) sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 tentang Perubahan Undang-undang Nomor 16 Tahun 1969 (Lembaran Republik Indonesia Nomor Tahun 1975 Nomor 39, Tambahan lembaran Negara Republik Indonesia Nomor 3064) dan Undang-undang Nomor 2 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 2. Tambahan Lembaran Negara Republik Indonesia Nomor 3282);
-
-Dengan persetujuan
+Dengan persetujuan n ratura
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN :
+di Pe tje n
 
-Menetapkan : UNDANG-UNDANG TENTANG SUSUNAN PEMERINTAHAN DAERAH
+MEMUTUSKAN:
 
-KHUSUS IBUKOTA NEGARA REPUBLIK INDONESIA JAKARTA.
+Menetapkan : UNDANG-UNDANG TENTANG SUSUNAN PEMERINTAHAN DAERAH KHUSUS
+
+IBUKOTA NEGARA REPUBLIK INDONESIA JAKARTA.
 
 ## BAB I — KETENTUAN UMUM
 
@@ -87,15 +88,9 @@ Dalam Undang-undang ini yang dimaksud dengan :
 
 ##### Pasal 3
 
-Jakarta sebagai Ibukota Negara Republik Indonesia merupakan tempat kedudukan pusat pemerintahan Negara.
+Jakarta sebagai Ibukota Negara Republik Indonesia merupakan tempat kedudukan pusat pemerintahan Negara. ru nd Pasal 4 an g-un Ibukota Negara Republik Indonesia adalah (daerah khusus yang selanjutnya disebut da ng an Daerah Khusus Ibukota Jakarta. Pe n ratura di Pasal 5 Pe
 
-##### Pasal 4
-
-Ibukota Negara Republik Indonesia adalah (daerah khusus yang selanjutnya disebut Daerah Khusus Ibukota Jakarta.
-
-##### Pasal 5
-
-(1) Daerah Khusus Ibukota Jakarta adalah Daerah Tingkat I yang batas-batasnya sebagai berikut :
+(1) Daerah Khusus Ibukota Jakarta adalah Daerah Tingkat I yang batas-batasnya tje n sebagai berikut :
 
 a. Sebelah Utara berbatasan dengan laut Jawa;
 
@@ -125,17 +120,13 @@ Pemerintah Daerah Khusus Ibukota Jakarta berkedudukan di Jakarta.
 
 (1) Pembentukan, perubahan, nama, batas, dan penghapusan Wilayah Kotamadya dan Wilayah Kecamatan ditetapkan dengan Peraturan Pemerintah.
 
-(2) Pembentukan, nama, dan batas Kelurahan diatur dengan Peraturan Daerah sesuai dengan pedoman yang ditetapkan oleh Menteri.
+(2) Pembentukan, nama, dan batas Kelurahan diatur dengan Peraturan Daerah sesuai dengan pedoman yang ditetapkan oleh Menteri. ru nd BAB IV an g-un PENYELENGGARAAN PEMERINTAHAN da ng an Pe Pasal 9 n ratura
 
-## BAB IV — PENYELENGGARAAN PEMERINTAHAN
+(1) Gubernur Kepala Daerah disamping, menyelenggarakan hak, wewenang, dan di Pe kewajiban sebagaimana diatur dalam Pasal 22 dan Pasal 81 Undang-undang tje n
 
-##### Pasal 9
+Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah, juga menyelenggarakan pemerintahan yang bersifat khusus.
 
-(1) Gubernur Kepala Daerah disamping, menyelenggarakan hak, wewenang, dan kewajiban sebagaimana diatur dalam Pasal 22 dan Pasal 81 Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah, juga menyelenggarakan pemerintahan yang bersifat khusus.
-
-(2) Penyelenggaraan pemerintahan yang bersifat khusus sebagaimana dimaksud dalam ayat
-
-(1) Pasal ini merupakan akibat langsung dari kedudukan Jakarta sebagai Ibukota Negara.
+(2) Penyelenggaraan pemerintahan yang bersifat khusus sebagaimana dimaksud dalam ayat (1) Pasal ini merupakan akibat langsung dari kedudukan Jakarta sebagai Ibukota Negara.
 
 ##### Pasal 10
 
@@ -153,11 +144,9 @@ Pemerintah Daerah Khusus Ibukota Jakarta berkedudukan di Jakarta.
 
 ##### Pasal 12
 
-Untuk memimpin jalannya pemerintahan di Daerah Khusus Ibukota Jakarta, dipilih dan diangkat seorang Gubernur Kepala Daerah sesuai dengan peraturan perundang-undangan yang berlaku.
+Untuk memimpin jalannya pemerintahan di Daerah Khusus Ibukota Jakarta, dipilih dan diangkat seorang Gubernur Kepala Daerah sesuai dengan peraturan perundang-undangan yang berlaku. ru nd an g-un Pasal 13 da ng an
 
-##### Pasal 13
-
-(1) Gubernur Kepala Daerah dalam menjalankan tugasnya dibantu oleh Wakil Gubernur Kepala Daerah yang jumlahnya disesuaikan dengan kebutuhan, dan pelaksanaannya sesuai dengan peraturan perundang-undangan yang berlaku.
+(1) Gubernur Kepala Daerah dalam menjalankan tugasnya dibantu oleh Wakil Pe Gubernur Kepala Daerah yang jumlahnya disesuaikan dengan kebutuhan, dan n ratura pelaksanaannya sesuai dengan peraturan perundang-undangan yang berlaku. di Pe tje n
 
 (2) Wakil Gubernur Kepala Daerah dalam menjalankan tugasnya bertanggung jawab kepada Gubernur Kepala Daerah.
 
@@ -181,13 +170,13 @@ Untuk memimpin jalannya pemerintahan di Daerah Khusus Ibukota Jakarta, dipilih d
 
 ##### Pasal 16
 
-Dalam rangka menampung aspirasi masyarakat dan sebagai wadah komunikasi timbal balik pada tingkat Kotamadya, dibentuk Lembaga Musyawarah Kota yang keanggotaannya terdiri dari organisasi kekuatan sosial politik, ABRI, dan unsur pemerintah yang selanjutnya diatur oleh Menteri.
+Dalam rangka menampung aspirasi masyarakat dan sebagai wadah komunikasi timbal balik pada tingkat Kotamadya, dibentuk Lembaga Musyawarah Kota yang keanggotaannya terdiri dari organisasi kekuatan sosial politik, ABRI, dan unsur pemerintah yang selanjutnya diatur oleh Menteri. ru nd Pasal 17 an g-un Pembentukan dan pengembangan perangkat Wilayah dan Daerah di lingkungan da ng an Pemerintah Daerah Khusus Ibukota Jakarta dilaksanakan sesuai dengan kebutuhan, Pe kedudukan, dan fungsinya sebagai Ibukota Negara. n ratura Pe di
 
-##### Pasal 17
+BAB VI
 
-Pembentukan dan pengembangan perangkat Wilayah dan Daerah di lingkungan Pemerintah Daerah Khusus Ibukota Jakarta dilaksanakan sesuai dengan kebutuhan, kedudukan, dan fungsinya sebagai Ibukota Negara.
+tje n
 
-## BAB VI — PEMBIAYAAN
+PEMBIAYAAN
 
 ##### Pasal 18
 
@@ -203,13 +192,11 @@ Dengan berlakunya Undang-undang ini, ketentuan yang telah ada sebagai pelaksanaa
 
 a. Undang-undang Nomor 2 Pnps Tahun 1961 tentang Pemerintahan Daerah Khusus Ibukota Jakarta Raya (Lembaran Negara Republik Indonesia Tahun 1961 Nomor 274, Tambahan Lembaran Negara Republik Indonesia Nomor 2316) sebagaimana telah diubah dengan Undang-undang Nomor 15 Pnps Tahun 1963 (Lembaran Negara Republik Indonesia Tahun 1963 Nomor 117);
 
-b. Undang-undang Nomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus Ibukota Jakarta Raya Tetap Sebagai Ibukota Negara Republik Indonesia Dengan Nama Jakarta (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 2671);
+b. Undang-undang Nomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus Ibukota Jakarta Raya Tetap Sebagai Ibukota Negara Republik Indonesia Dengan Nama Jakarta (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 2671); tetap berlaku sepanjang tidak bertentangan dan belum diganti dengan yang ru nd baru berdasarkan Undang-undang ini. an g-un da ng an BAB VIII Pe
 
-tetap berlaku sepanjang tidak bertentangan dan belum diganti dengan yang baru berdasarkan Undang-undang ini.
+KETENTUAN PENUTUP
 
-## BAB VIII — KETENTUAN PENUTUP
-
-##### Pasal 20
+n ratura Pe di Pasal 20 tje n
 
 Dengan berlakunya Undang-undang ini, Undang-undang Nomor 2 Pnps Tahun 1961 tentang Pemerintahan Daerah Khusus Ibukota Jakarta Raya (Lembaran Negara Republik Indonesia Tahun 1961 Nomor 274, Tambahan Lembaran Negara Republik Indonesia Nomor 2316) sebagaimana telah diubah dengan Undang-undang Nomor 15 Pnps Tahun 1963 (Lembaran Negara Republik Indonesia Tahun 1963 Nomor 117), dan Undang-undang Nomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus Ibukota Jakarta Raya. Tetap Sebagai Ibukota Negara Republik Indonesia Dengan Nama Jakarta (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 2671), dinyatakan tidak berlaku lagi.
 
@@ -223,17 +210,15 @@ Disahkan di Jakarta pada tanggal 14 Nopember 1990
 
 PRESIDEN REPUBLIK INDONESIA
 
-ttd
-
 SOEHARTO
 
 Diundangkan di Jakarta pada tanggal 14 Nopember 1990
 
 MENTERI/SEKRETARIS NEGARA
 
-ttd
+REPUBLIK INDONESIA
 
-MOERDIONO
+MOERDIONO ru nd an g-un da ng an Pe n ratura Pe di tje n
 
 ## PENJELASAN
 
@@ -245,27 +230,27 @@ NOMOR 11 TAHUN 1990
 
 TENTANG
 
-SUSUNAN PEMERINTAHAN DAERAH KHUSUS IBUKOTA
+SUSUNAN PEMERINTAHAN DAERAH KHUSUS IBUKOTA NEGARA REPUBLIK
 
-NEGARA REPUBLIK INDONESIA JAKARTA
+INDONESIA JAKARTA
 
 UMUM
 
 Bahwa sejarah perjuangan Bangsa Indonesia yang terkait dengan Ibukota Negara Republik Indonesia Jakarta telah ada sejak tanggal 22 Juni 1527, yaitu pada saat Fatahillah mengalahkan armada asing, yang kemudian mengganti nama Sunda Kelapa menjadi Jayakarta dan peristiwa ini selanjutnya diperingati sebagai hari jadi kota Jakarta.
 
-Dalam perkembangan selanjutnya Jakarta mempunyai peranan penting baik dalam sejarah perjuangan bangsa maupun dalam ketatanegaraan Indonesia. Banyak momentum penting dalam sejarah kebangkitan nasional, kesatuan dan persatuan bangsa, serta sejarah ketatanegaraan Indonesia yang terjadi di Jakarta, seperti lahirnya Boedi Oetomo, Sumpah Pemuda, Proklamasi Kemerdekaan serta penetapan Pancasila dan Undang-Undang Dasar 1945. Nilai-nilai sejarah tersebut sangat besar artinya bagi usaha pembinaan bangsa dan pengembangan lebih lanjut Jakarta sebagai Ibukota Negara Republik Indonesia.
+Dalam perkembangan selanjutnya Jakarta mempunyai peranan penting baik dalam sejarah perjuangan bangsa maupun dalam ketatanegaraan Indonesia. Banyak momentum penting dalam sejarah kebangkitan nasional, kesatuan dan persatuan bangsa, serta sejarah ketatanegaraan Indonesia yang terjadi di Jakarta, seperti ru nd lahirnya Boedi Oetomo, Sumpah Pemuda, Proklamasi Kemerdekaan serta penetapan an g-un Pancasila dan Undang-Undang Dasar 1945. Nilai-nilai sejarah tersebut sangat besar da ng an artinya bagi usaha pembinaan bangsa dan pengembangan lebih lanjut Jakarta sebagai Pe Ibukota Negara Republik Indonesia. n ratura
 
-Mengingat pentingnya kedudukan Jakarta sebagai Ibukota Negara, maka telah dikeluarkan beberapa peraturan perundang-undangan yang mengaturnya secara khusus yaitu Undang-undang Nomor 2 Pnps Tahun 1961 tentang Pemerintah Daerah Khusus Ibukota Jakarta Raya sebagaimana telah diubah dengan Undang-undang Nomor 15 Pnps Tahun 1963 yang menetapkan antara lain bahwa Jakarta dikuasai langsung oleh Presiden, dan Undang-undang Nomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus Ibukota Jakarta Raya Tetap Sebagai Ibukota Negara Republik Indonesia Dengan Nama Jakarta, yang menyatakan bahwa Daerah Khusus Ibukota Jakarta tetap sebagai Ibukota Negara. Namun kedua Undang-undang ini tidak memenuhi lagi tuntutan pertumbuhan dan perkembangan Jakarta sebagai Ibukota Negara.
+Mengingat pentingnya kedudukan Jakarta sebagai Ibukota Negara, maka telah di Pe dikeluarkan beberapa peraturan perundang-undangan yang mengaturnya secara khusus tje n yaitu Undang-undang Nomor 2 Pnps Tahun 1961 tentang Pemerintah Daerah Khusus Ibukota Jakarta Raya sebagaimana telah diubah dengan Undang-undang Nomor 15 Pnps Tahun 1963 yang menetapkan antara lain bahwa Jakarta dikuasai langsung oleh Presiden, dan Undang-undang Nomor 10 Tahun 1964 tentang Pernyataan Daerah Khusus Ibukota Jakarta Raya Tetap Sebagai Ibukota Negara Republik Indonesia Dengan Nama Jakarta, yang menyatakan bahwa Daerah Khusus Ibukota Jakarta tetap sebagai Ibukota Negara. Namun kedua Undang-undang ini tidak memenuhi lagi tuntutan pertumbuhan dan perkembangan Jakarta sebagai Ibukota Negara.
 
-Oleh karena itu Undang-undang Nomor 5 Tahun 1974 tentang Pokok- pokok Pemerintahan Di Daerah dalam Pasal 6 menyatakan bahwa: "Ibukota Negara Republik Indonesia Jakarta mengingat pertumbuhan dan perkembangannya dapat mempunyai dalam wilayahnya susunan pemerintahan dalam bentuk lain yang sejauh mungkin disesuaikan dengan ketentuan-ketentuan dalam Undang-undang ini, yang pencaturannya ditetapkan dengan Undang- undang."
-
-Jakarta sebagai Ibukota Negara Republik Indonesia yang setingkat dengan Propinsi adalah Daerah Tingkat I. Sebagai Daerah Tingkat I, Jakarta mempunyai ciri tersendiri berbeda dengan Daerah Tingkat I lainnya yang bersumber dari beban tugas, tanggung jawab, dan tantangan yang lebih kompleks. Kompleksitas permasalahan itu berkaitan erat dengan faktor luas wilayah yang terbatas, jumlah dan populasi penduduk yang tinggi dengan segala dampak yang ditimbulkannya terhadap aspek-aspek pemukiman, taan wilayah, transportasi, komunikasi, dan faktor-faktor lainnya. Untuk menjawab tantangan yang serba kompleks itu maka sangat dirasakan pentingnya membina dan menumbuh-kembangkan Jakarta dalam satu kesatuan perencanaan, pelaksanaan dan pengendalian baik dengan Pemerintah Pusat maupun dengan Pemerintah Daerah sekitarnya. Dengan demikian diharapkan Jakarta akan mampu memberikan pelayanan yang cepat, terpadu, dan terkendali.
+Oleh karena itu Undang-undang Nomor 5 Tahun 1974 tentang Pokok- pokok Pemerintahan Di Daerah dalam Pasal 6 menyatakan bahwa: "Ibukota Negara Republik Indonesia Jakarta mengingat pertumbuhan dan perkembangannya dapat mempunyai dalam wilayahnya susunan pemerintahan dalam bentuk lain yang sejauh mungkin disesuaikan dengan ketentuan-ketentuan dalam Undang-undang ini, yang pencaturannya ditetapkan dengan Undang- undang." Jakarta sebagai Ibukota Negara Republik Indonesia yang setingkat dengan Propinsi adalah Daerah Tingkat I. Sebagai Daerah Tingkat I, Jakarta mempunyai ciri tersendiri berbeda dengan Daerah Tingkat I lainnya yang bersumber dari beban tugas, tanggung jawab, dan tantangan yang lebih kompleks. Kompleksitas permasalahan itu berkaitan erat dengan faktor luas wilayah yang terbatas, jumlah dan populasi penduduk yang tinggi dengan segala dampak yang ditimbulkannya terhadap aspek-aspek pemukiman, taan wilayah, transportasi, komunikasi, dan faktor-faktor lainnya. Untuk menjawab tantangan yang serba kompleks itu maka sangat dirasakan pentingnya membina dan menumbuh-kembangkan Jakarta dalam satu kesatuan perencanaan, pelaksanaan dan pengendalian baik dengan Pemerintah Pusat maupun dengan Pemerintah Daerah sekitarnya. Dengan demikian diharapkan Jakarta akan mampu memberikan pelayanan yang cepat, terpadu, dan terkendali.
 
 Berhubung Daerah Khusus Ibukota Jakarta saat ini terbagi dalam 5 (lima) Wilayah Kotamadya, maka di setiap Kotamadya dibentuk Lembaga Musyawarah Kota (LMK) dalam rangka menampung dan menyalurkan aspirasi masyarakat.
 
-Sebagai konsekuensi dari kedudukannya sebagai Ibukota Negara, Jakarta menjadi tempat penyelenggaraan Sidang Umum Majelis Permusyawaratan Rakyat Republik Indonesia, pusat kegiatan penyelenggaraan pcmerintahan negara, pusat kegiatan kehidupan politik nasional, tempat penyelenggaraan acara-acara kenegaraan, tempat kedudukan kedutaan negara lain, serta tempat pengaturan dan pembinaan Wilayah Daerah Khusus Ibukota sehingga mencerminkan citra masyarakat Indonesia yang berkepribadian nasional. Hal-hal tersebut tidak hanya akan menambah beban tugas, tanggung jawab, dan tantangan yang dihadapi, tetapi juga akan selalu mewarnai setiap derap langkah penyelenggaraan pemerintahan, pembangunan, dan kemasyarakatan.
+Sebagai konsekuensi dari kedudukannya sebagai Ibukota Negara, Jakarta menjadi tempat penyelenggaraan Sidang Umum Majelis Permusyawaratan Rakyat Republik Indonesia, pusat kegiatan penyelenggaraan pcmerintahan negara, pusat kegiatan kehidupan politik nasional, tempat penyelenggaraan acara-acara kenegaraan, tempat kedudukan kedutaan negara lain, serta tempat pengaturan dan pembinaan Wilayah Daerah Khusus Ibukota sehingga mencerminkan citra masyarakat Indonesia yang ru nd berkepribadian nasional. Hal-hal tersebut tidak hanya akan menambah beban tugas, an g-un tanggung jawab, dan tantangan yang dihadapi, tetapi juga akan selalu mewarnai da ng an setiap derap langkah penyelenggaraan pemerintahan, pembangunan, dan Pe kemasyarakatan. n ratura Secara nyata setiap beban tugas, tanggung jawab, dan tantangan yang dihadapi di Pe
 
-Secara nyata setiap beban tugas, tanggung jawab, dan tantangan yang dihadapi Jakarta selaku Ibukota Negara sekaligus juga merupakan beban Jakarta selaku Daerah Tingkat I, baik di bidang-pemerintahan, pembangunan maupun kemasyarakatan yang bermuara pada terwujudnya masyarakat sejahtera lahir batin. Oleh karena itu dalam melaksanakan tugas dari tanggung jawab di atas diperlukan dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara yang didukung oleh Anggaran Pendapatan dan Belanja Daerah.
+Jakarta selaku Ibukota Negara sekaligus juga merupakan beban Jakarta selaku Daerah tje n
+
+Tingkat I, baik di bidang-pemerintahan, pembangunan maupun kemasyarakatan yang bermuara pada terwujudnya masyarakat sejahtera lahir batin. Oleh karena itu dalam melaksanakan tugas dari tanggung jawab di atas diperlukan dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara yang didukung oleh Anggaran Pendapatan dan Belanja Daerah.
 
 Mengingat beban tugas, tanggung jawab, dan tantangan yang dihadapi Jakarta sebagai Ibukota Negara Republik Indonesia, maka dipandang perlu untuk memberikan kelonggaran dalam mengembangkan dan membentuk perangkat Daerah dan Wilayah yang lebih fleksibel dan dinamis sesuai dengan kebutuhan nyata serta tetap memperhatikan prinsip dayaguna dan hasilguna. Sejalan dengan itu maka pengaturan mengenai jumlah keanggotaan dan susunan Dewan Perwakilan Rakyat Daerah Tingkat I Daerah Khusus Ibukota Jakarta disesuaikan dengan beban tugas dan tanggung jawab tersebut di atas.
 
@@ -277,15 +262,9 @@ Cukup jelas Pasal 2 Cukup jelas Pasal 3 Sebagai konsekuensi dari kedudukannya se
 
 #### Pasal 4
 
-Cukup jelas Pasal 5 Cukup jelas Pasal 6 Cukup jelas Pasal 7
+Cukup jelas Pasal 5 Cukup jelas Pasal 6 Cukup jelas Pasal 7 Ayat (1) ru nd Wilayah-wilayah Kota di Daerah Khusus Ibukota Jakarta yang ada pada an g-un saat diundangkannya Undang-undang ini menjadi Wilayah- wilayah da ng an Kotamadya. Pe n ratura Ayat (2) di Pe
 
-Ayat (1)
-
-Wilayah-wilayah Kota di Daerah Khusus Ibukota Jakarta yang ada pada saat diundangkannya Undang-undang ini menjadi Wilayah- wilayah Kotamadya.
-
-Ayat (2)
-
-Cukup jelas
+Cukup jelas tje n
 
 Ayat (3)
 
@@ -319,11 +298,7 @@ f. tempat pengaturan dan pembinaan wilayah Daerah Khusus Ibukota Jakarta sehingg
 
 Ayat ( 1)
 
-Mengingat permasalahan pemerintahan Daerah Khusus Ibukota Jakarta bersifat kompleks, maka untuk kelancaran dan kecepatan pelaksanaan tugas yang bersifat khusus, Gubernur Kepala Daerah berdasarkan Undang-undang ini ditetapkan bertanggung jawab langsung kepada Presiden.
-
-Ayat (2)
-
-Sekalipun dalam rangka penyelenggaraan pemerintahan yang bersifat khusus Gubernur Kepala Daerah berdasarkan Undang-undang ini bertanggung jawab langsung kepada Presiden, tetapi dalam pelaksanaannya juga memperhatikan dan memperoleh petunjuk serta bimbingan dari Menteri.
+Mengingat permasalahan pemerintahan Daerah Khusus Ibukota Jakarta bersifat kompleks, maka untuk kelancaran dan kecepatan pelaksanaan tugas yang bersifat khusus, Gubernur Kepala Daerah berdasarkan Undang-undang ini ditetapkan bertanggung jawab langsung kepada Presiden. ru nd an g-un Ayat (2) da ng an Sekalipun dalam rangka penyelenggaraan pemerintahan yang bersifat Pe khusus Gubernur Kepala Daerah berdasarkan Undang-undang ini n ratura bertanggung jawab langsung kepada Presiden, tetapi dalam di Pe pelaksanaannya juga memperhatikan dan memperoleh petunjuk serta tje n bimbingan dari Menteri.
 
 #### Pasal 11
 
@@ -343,13 +318,7 @@ Cukup jelas Pasal 14
 
 Ayat (1)
 
-Cukup jelas
-
-Ayat (2)
-
-Yang dimaksud dengan memperhatikan kekhususan dalam ayat ini ialah bahwa dalam menentukan jumlah keanggotaan Dewan Perwakilan Rakyat Daerah
-
-Tingkat I Daerah Khusus Ibukota Jakarta agar memperhatikan dinamika dan masalah-masalah masyarakat Ibukota Jakarta yang kompleks.
+Cukup jelas ru nd Ayat (2) an g-un Yang dimaksud dengan memperhatikan kekhususan dalam ayat ini ialah da ng an bahwa dalam menentukan jumlah keanggotaan Dewan Perwakilan Rakyat Pe Daerah Tingkat I Daerah Khusus Ibukota Jakarta agar memperhatikan n ratura dinamika dan masalah-masalah masyarakat Ibukota Jakarta yang di Pe kompleks. tje n
 
 #### Pasal 15
 
@@ -373,4 +342,4 @@ c. penyelenggaraan Lembaga Musyawarah Kota di setiap wilayah Kotamadya dalam Dae
 
 Ayat (2)
 
-Cukup jelas Pasal 19 Cukup jelas Pasal 20 Cukup jelas Pasal 21 Cukup jelas
+Cukup jelas Pasal 19 Cukup jelas Pasal 20 ru nd Cukup jelas an g-un Pasal 21 da ng an Cukup jelas Pe n ratura Pe di tje n

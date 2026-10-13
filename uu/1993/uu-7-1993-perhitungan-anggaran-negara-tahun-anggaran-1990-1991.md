@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1993/ No. 69, TLN NO. 3534, LL SETNEG : 2 HLM"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=uu0071993.pdf&fl=P00952"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1993"
+source: "https://peraturan.bpk.go.id/Download/35305/UU%20Nomor%207%20Tahun%201993.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46587"
 bpk_page: "https://peraturan.bpk.go.id/Details/46587"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133709/https://peraturan.bpk.go.id/Details/46587"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1993"
 consolidated: false
 retrieved: 2026-10-13
 ---

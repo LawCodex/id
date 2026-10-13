@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: sebagian"
 gazette: "LN. 2014 No. 245, LL SETNEG : 130 HLM"
 subject: "PARTAI POLITIK DAN PEMILU - PEMILIHAN UMUM DAERAH, DPRD, PEMILIHAN KEPALA DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpu+Nomor+1+Tahun+2014.pdf&fl=P14892"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2014"
+source: "https://peraturan.bpk.go.id/Download/42633/Perpu%20Nomor%201%20Tahun%202014.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/53255"
 bpk_page: "https://peraturan.bpk.go.id/Details/53255"
 bpk_metadata_archived: "http://web.archive.org/web/20240919145419/https://peraturan.bpk.go.id/Details/53255"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2014"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -43,7 +44,9 @@ b. bahwa kedaulatan rakyat dan demokrasi sebagaimana dimaksud dalam huruf a, per
 
 c. bahwa Undang-Undang Nomor 22 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Walikota yang mengatur mekanisme pemilihan kepala daerah secara tidak langsung melalui Dewan Perwakilan Rakyat Daerah telah mendapatkan penolakan yang luas oleh rakyat dan proses pengambilan keputusannya telah menimbulkan persoalan serta kegentingan yang memaksa sesuai Putusan Mahkamah Konstitusi Nomor 138/PUU-VII/2009;
 
-d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Pemerintah Pengganti Undang-Undang tentang Pemilihan Gubernur, Bupati, dan Walikota;
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Pemerintah Pengganti Undang-Undang tentang
+
+Pemilihan Gubernur, Bupati, dan Walikota;
 
 Mengingat: 1. Pasal 22 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
@@ -85,7 +88,9 @@ Dalam Peraturan Pemerintah Pengganti Undang-Undang ini yang dimaksud dengan:
 
 11. Dewan Kehormatan Penyelenggara Pemilihan Umum yang selanjutnya disingkat DKPP adalah lembaga yang bertugas menangani pelanggaran kode etik penyelenggara pemilihan umum dan merupakan satu kesatuan fungsi penyelenggaraan pemilihan umum.
 
-12. Panitia Pemilihan Kecamatan yang selanjutnya disingkat PPK adalah panitia yang dibentuk oleh KPU Kabupaten/Kota untuk menyelenggarakan Pemilihan di tingkat Kecamatan atau nama lain.
+12. Panitia Pemilihan Kecamatan yang selanjutnya disingkat PPK adalah panitia yang dibentuk oleh KPU
+
+Kabupaten/Kota untuk menyelenggarakan Pemilihan di tingkat Kecamatan atau nama lain.
 
 13. Panitia Pemungutan Suara yang selanjutnya disingkat PPS adalah panitia yang dibentuk oleh KPU Kabupaten/Kota untuk menyelenggarakan Pemilihan di tingkat Desa atau sebutan lain/Kelurahan.
 
@@ -127,7 +132,7 @@ Dalam Peraturan Pemerintah Pengganti Undang-Undang ini yang dimaksud dengan:
 
 Pemilihan dilaksanakan secara demokratis berdasarkan asas langsung, umum, bebas, rahasia, jujur, dan adil.
 
-### Bagian Kedua — Prinsip Pelaksanaan
+### Bagian Kedua
 
 ##### Pasal 3
 
@@ -415,9 +420,7 @@ s. melaksanakan tugas dan wewenang yang berkaitan dengan Pemilihan Gubernur sesu
 
 t. melakukan evaluasi dan membuat laporan penyelenggaraan Pemilihan Bupati dan Walikota;
 
-u. menyampaikan hasil Pemilihan Bupati dan Walikota kepada KPU Provinsi, Gubernur, dan DPRD
-
-kabupaten/Kota; dan
+u. menyampaikan hasil Pemilihan Bupati dan Walikota kepada KPU Provinsi, Gubernur, dan DPRD kabupaten/Kota; dan
 
 v. melaksanakan tugas dan wewenang lain yang diberikan oleh KPU, KPU Provinsi, dan/atau ketentuan peraturan perundang-undangan.
 
@@ -471,7 +474,9 @@ Kabupaten/Kota.
 
 (3) Komposisi keanggotaan PPK memperhatikan keterwakilan perempuan paling sedikit 30% (tiga puluh persen).
 
-(4) Dalam menjalankan tugasnya, PPK dibantu oleh sekretariat yang dipimpin oleh Sekretaris dari Pegawai Negeri Sipil yang memenuhi persyaratan.
+(4) Dalam menjalankan tugasnya, PPK dibantu oleh sekretariat yang dipimpin oleh Sekretaris dari Pegawai
+
+Negeri Sipil yang memenuhi persyaratan.
 
 (5) PPK melalui KPU Kabupaten/Kota mengusulkan 3 (tiga) nama calon sekretaris PPK kepada Bupati/Walikota untuk selanjutnya dipilih dan ditetapkan 1 (satu) nama sebagai Sekretaris PPK dengan Keputusan Bupati/Walikota.
 
@@ -2972,6 +2977,8 @@ ttd.
 AMIR SYAMSUDIN
 
 LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2014 NOMOR 245
+
+## Berkas: Perpu Nomor 1 Tahun 2014 - Penjelasan.pdf
 
 ## PENJELASAN
 

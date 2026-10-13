@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 11 Tahun 2010"
 gazette: "LN. 1993/ No. 10, TLN NO. 3513, LL SETNEG : 5 HLM"
 subject: "PARIWISATA DAN KEBUDAYAAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_5_TH_1992.pdf&fl=P00925"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35315/UU%20Nomor%205%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46597"
 bpk_page: "https://peraturan.bpk.go.id/Details/46597"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133515/https://peraturan.bpk.go.id/Details/46597"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

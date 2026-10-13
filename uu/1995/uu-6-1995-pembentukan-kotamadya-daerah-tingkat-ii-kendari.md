@@ -15,10 +15,11 @@ repeals:
   - "PP No. 19 Tahun 1978"
 gazette: "LN. 1995/ No. 44, TLN NO. 3602, LL SETNEG : 12 HLM"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0061995.pdf&fl=P00970"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34744/UU%20Nomor%206%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46184"
 bpk_page: "https://peraturan.bpk.go.id/Details/46184"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133938/https://peraturan.bpk.go.id/Details/46184"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=6&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

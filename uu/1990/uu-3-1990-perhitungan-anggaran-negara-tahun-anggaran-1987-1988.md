@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "website peraturan.go.id : 2 hlm"
 subject: "APBN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_3_TH_1990.pdf&fl=P00905"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1990"
+source: "https://peraturan.bpk.go.id/Download/35451/UU%20Nomor%203%20Tahun%201990.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46706"
 bpk_page: "https://peraturan.bpk.go.id/Details/46706"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133115/https://peraturan.bpk.go.id/Details/46706"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=3&thn=1990"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -35,11 +36,13 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : bahwa Perhitungan Anggaran Negara Tahun Anggaran 1987/1988 perlu ditetapkan dengan Undang-undang;
+Menimbang : bahwa Perhitungan Anggaran Negara Tahun Anggaran 1987/1988 perlu ditetapkan dengan Undang-undang; ru nd an g-
 
-Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 23 Undang-Undang Dasar 1945;
+Mengingat : 1. Pasal 5 ayat (1), Pasal 20 ayat (1), dan Pasal 23 Undang-Undang un da ng Dasar 1945; an Pe
 
-2. Indische Comptabiliteitswet (Staatsblad Tahun 1925 Nomor 448) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-undang Nomor 9 Tahun 1968 (Lembaran Negara Tahun 1968 Nomor 53, Tambahan Lembaran Negara Nomor 2860);
+2. Indische Comptabiliteitswet (Staatsblad Tahun 1925 Nomor 448) ra n tu sebagaimana telah beberapa kali diubah, terakhir dengan Pe ra
+
+Undang-undang Nomor 9 Tahun 1968 (Lembaran Negara Tahun 1968 di tje n Nomor 53, Tambahan Lembaran Negara Nomor 2860);
 
 3. Undang-undang Nomor 3 Tahun 1987 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1987/1988 (Lembaran Negara Tahun 1987 Nomor 12, Tambahan Lembaran Negara Nomor 3349);
 
@@ -49,11 +52,11 @@ Dengan persetujuan
 
 DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-MEMUTUSKAN :
+MEMUTUSKAN:
 
-Menetapkan : UNDANG-UNDANG TENTANG PERHITUNGAN ANGGARAN NEGARA
+Menetapkan : UNDANG-UNDANG TENTANG PERHITUNGAN ANGGARAN NEGARA TAHUN
 
-TAHUN ANGGARAN 1987/1988.
+ANGGARAN 1987/1988.
 
 ##### Pasal 1
 
@@ -63,19 +66,13 @@ TAHUN ANGGARAN 1987/1988.
 
 (3) Sisa - anggaran - lebih Perhitungan Anggaran Tahun Anggaran 1987/1988 adalah sebesar Rp 175.832.715.600,63 (seratus tujuh puluh lima milyar delapan ratus tiga puluh dua juta tujuh ratus lima belas ribu enam ratus dan enam puluh tiga perseratus rupiah).
 
-(4) Perincian pendapatan, belanja, dan sisa - anggaran - lebih sebagaimana dimaksud dalam ayat (1) sampai dengan ayat (3), adalah seperti tersebut pada Lampiran Undang-undang ini.
+(4) Perincian pendapatan, belanja, dan sisa - anggaran - lebih sebagaimana dimaksud dalam ayat (1) sampai dengan ayat (3), adalah seperti tersebut pada ru nd Lampiran Undang-undang ini. an g-un da ng an Pasal 2 Pe Undang-undang ini mulai berlaku pada tanggal diundangkan. n ratura Pe di Agar setiap orang mengetahuinya, memerintahkan pengundangan tje n
 
-##### Pasal 2
-
-Undang-undang ini mulai berlaku pada tanggal diundangkan.
-
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
 Disahkan di Jakarta pada tanggal 19 Juli 1990
 
 PRESIDEN REPUBLIK INDONESIA
-
-ttd
 
 SOEHARTO
 
@@ -85,6 +82,44 @@ MENTERI/SEKRETARIS NEGARA
 
 REPUBLIK INDONESIA
 
-ttd
-
 MOERDIONO
+
+## PENJELASAN
+
+ATAS
+
+UNDANG-UNDANG REPUBLIK INDONESIA
+
+NOMOR 3 TAHUN 1990
+
+TENTANG
+
+PERHITUNGAN ANGGARAN NEGARA TAHUN ANGGARAN 1987/1988
+
+UMUM
+
+Perhitungan Anggaran Negara Tahun Anggaran 1987/1988 diajukan oleh Pemerintah kepada Dewan Perwakilan Rakyat untuk memenuhi kewajiban mengadakan perhitungan dan pertanggungjawaban tentang pelaksanaan Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1987/1988, sebagaimana dimaksud dalam Pasal 6 ayat
+
+(1) Undang-undang Nomor 3 Tahun 1987 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1987/1988.
+
+PASAL DEMI PASAL
+
+ru nd Pasal 1 an g-un Ayat (1) da ng an Cukup jelas Pe
+
+Ayat (2)
+
+n ratura Cukup jelas di Pe
+
+Ayat (3)
+
+tje n
+
+Cukup jelas
+
+Ayat (4)
+
+Yang dimaksudkan Lampiran Undang-undang ini ialah Lampiran tentang : - Perhitungan Anggaran Negara Tahun Anggaran 1987/1988. - Perhitungan Anggaran Pendapatan Rutin Tahun Anggaran 1987/ 1988. - Perhitungan Anggaran Pendapatan Pembangunan Tahun Anggaran 1987/1988. - Perhitungan Anggaran Belanja Rutin Tahun Anggaran 1987/ 1988. - Perhitungan Anggaran Belanja Pembangunan Pembiayaan Rupiah Tahun Anggaran 1987/1988. - Perhitungan Anggaran Belanja Pembangunan Bantuan Proyek/ Teknis Tahun Anggaran 1987/1988.
+
+#### Pasal 2
+
+Cukup jelas.

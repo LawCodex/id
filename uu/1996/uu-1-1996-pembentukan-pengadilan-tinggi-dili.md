@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1996/ LL SETNEG : 4 HLM"
 subject: "HUKUM ACARA DAN PERADILAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0011996.pdf&fl=P00978"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1996"
+source: "https://peraturan.bpk.go.id/Download/34619/UU%20Nomor%201%20tahun%201996.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46064"
 bpk_page: "https://peraturan.bpk.go.id/Details/46064"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134001/https://peraturan.bpk.go.id/Details/46064"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=1&thn=1996"
 consolidated: false
 retrieved: 2026-10-13
 ---

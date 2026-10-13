@@ -17,10 +17,11 @@ amends:
   - "UU No. 19 Tahun 1992"
 gazette: "LN. 1997 LL SETNEG : 17 HLM"
 subject: "HAK ATAS KEKAYAAN INTELEKTUAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0141997.pdf&fl=P01000"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34492/UU%20Nomor%2014%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45939"
 bpk_page: "https://peraturan.bpk.go.id/Details/45939"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134144/https://peraturan.bpk.go.id/Details/45939"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=14&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

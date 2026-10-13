@@ -15,10 +15,11 @@ repeals:
   - "PP No. 4 Tahun 1975"
 gazette: "website peraturan.go.id : 7 hlm"
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_7_TH_1990.pdf&fl=P00909"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1990"
+source: "https://peraturan.bpk.go.id/Download/35458/UU%20Nomor%207%20Tahun%201990.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46712"
 bpk_page: "https://peraturan.bpk.go.id/Details/46712"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133154/https://peraturan.bpk.go.id/Details/46712"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1990"
 consolidated: false
 retrieved: 2026-10-13
 ---
@@ -37,17 +38,15 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : a. bahwa berhubung dengan perkembangan dan kemajuan Propinsi Daerah Tingkat I Sulawesi Utara dan Kabupaten Daerah Tingkat II Minahasa pada umumnya serta Kota Administratif Bitung pada khususnya, dipandang perlu untuk meningkatkan penyelenggaraan pemerintahan dan pembangunan guna menjamin terpenuhinya tuntutan perkembangan dan kemajuan dimaksud di masa mendatang;
+Menimbang : a. bahwa berhubung dengan perkembangan dan kemajuan Propinsi Daerah Tingkat I Sulawesi Utara dan Kabupaten Daerah Tingkat II ru Minahasa pada umumnya serta Kota Administratif Bitung pada nd an g-khususnya, dipandang perlu untuk meningkatkan penyelenggaraan un da ng pemerintahan dan pembangunan guna menjamin terpenuhinya an Pe tuntutan perkembangan dan kemajuan dimaksud di masa ra n tu mendatang; Pe ra
 
-b. bahwa Kota Administratif Bitung dalam perkembangannya telah menunjukkan kemajuan-kemajuan di bidang penyelenggaraan pemerintahan dan pelaksanaan pembangunan yang didukung oleh kemampuan dan potensi wilayah;
+b. bahwa Kota Administratif Bitung dalam perkembangannya telah di tje n menunjukkan kemajuan-kemajuan di bidang penyelenggaraan pemerintahan dan pelaksanaan pembangunan yang didukung oleh kemampuan dan potensi wilayah;
 
 c. bahwa perkembangan dan kemajuan tersebut bukan saja memberikan dampak berupa peningkatan kebutuhan pelayanan di bidang pemerintahan, pembangunan, dan kemasyarakatan, tetapi juga memberikan gambaran mengenai kemampuan daerah untuk mulai melaksanakan sendiri penyelenggaraan beberapa urusan pemerintahan di wilayah tersebut;
 
 d. bahwa untuk lebih meningkatkan dayaguna dan hasilguna penyelenggaraan pemerintahan dan pelaksanaan pembangunan di wilayah, dipandang perlu Kota Administratif Bitung dibentuk menjadi Kotamadya Daerah Tingkat II yang berhak mengatur dan mengurus rumah tangganya sendiri;
 
-e. bahwa berdasarkan Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah, maka pembentukan Kota
-
-Admi- nistratif Bitung menjadi Kotamadya Daerah Tingkat II Bitung harus ditetapkan dengan Undang-undang;
+e. bahwa berdasarkan Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah, maka pembentukan Kota Administratif Bitung menjadi Kotamadya Daerah Tingkat II Bitung harus ditetapkan dengan Undang-undang;
 
 Mengingat : 1. Pasal 5 ayat (1), Pasal 18, dan Pasal 20 ayat (1) Undang-Undang Dasar 1945;
 
@@ -55,11 +54,13 @@ Mengingat : 1. Pasal 5 ayat (1), Pasal 18, dan Pasal 20 ayat (1) Undang-Undang D
 
 3. Undang-undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);
 
-4. Undang-undang Nomor 13 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang Nomor 2 Tahun 1964 tentang Pembentukan Daerah Tingkat I Sulawesi Tengah dan Daerah Tingkat I Sulawesi Tenggara dengan mengubah Undang-undang Nomor 47 Prp. Tahun 1960 tentang Pembentukan Daerah Tingkat I Sulawesi UtaraTengah dan Daerah Tingkat I Sulawesi Selatan-Tenggara (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 268) menjadi Undang-undang;
+4. Undang-undang Nomor 13 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang Nomor 2 Tahun 1964 tentang Pembentukan Daerah Tingkat I Sulawesi Tengah dan Daerah Tingkat I Sulawesi Tenggara dengan mengubah Undang-undang Nomor 47 Prp. Tahun 1960 tentang Pembentukan Daerah Tingkat I Sulawesi UtaraTengah dan Daerah Tingkat I Sulawesi Selatan-Tenggara ru nd (Lembaran Negara Republik Indonesia Tahun 1964 Nomor 7, an g-un Tambahan Lembaran Negara Republik Indonesia Nomor 268) da ng an menjadi Undang-undang; Pe
 
-5. Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan Rakyat, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara Republik Indonesia Tahun 1969 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 2915) sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 (Lembaran Negara Republik Indonesia Tahun 1975 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 3064) dan Undang-undang Nomor 2 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985
+5. Undang-undang Nomor 16 Tahun 1969 tentang Susunan dan n ratura Kedudukan Majelis Permusyawaratan Rakyat, Dewan Perwakilan di Pe
 
-Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 3282);
+Rakyat, dan Dewan Perwakilan Rakyat Daerah (Lembaran Negara tje n
+
+Republik Indonesia Tahun 1969 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 2915) sebagaimana telah diubah dengan Undang-undang Nomor 5 Tahun 1975 (Lembaran Negara Republik Indonesia Tahun 1975 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 3064) dan Undang-undang Nomor 2 Tahun 1985 (Lembaran Negara Republik Indonesia Tahun 1985 Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 3282);
 
 Dengan persetujuan
 
@@ -83,11 +84,13 @@ Dalam Undang-undang ini yang dimaksud dengan:
 
 3. Kota Administraitf Bitung adalah sebagaimana dimaksud dalam Peraturan Pemerintah Nomor 4 Tahun 1975 tentang Pembentukan Kota Administratif Bitung;
 
-4. Kabupaten Daerah Tingkat II Minahasa adalah sebagaimana dimaksud dalam Undang-undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi;
+4. Kabupaten Daerah Tingkat II Minahasa adalah sebagaimana dimaksud dalam Undang-undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi; ru nd
 
-5. Propinsi Daerah Tingkat I Sulawesi Utara adalah sebagairnana dimaksud dalam Undang-undang Nomor 13 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang Nomor 2 Tahun 1964 tentang Pembentukan Daerah
+5. Propinsi Daerah Tingkat I Sulawesi Utara adalah sebagairnana dimaksud dalam an g-un Undang-undang Nomor 13 Tahun 1964 tentang Penetapan Peraturan Pemerintah da ng an Pengganti Undang-undang Nomor 2 Tahun 1964 tentang Pembentukan Daerah Pe Tingkat I Sulawesi Tengah dan Daerah Tingkat I Sulawesi Tenggara dengan n ratura mengubah Undang-undang Nomor 47 Prp. Tahun 1960 tentang Pembentukan di Pe
 
-Tingkat I Sulawesi Tengah dan Daerah Tingkat I Sulawesi Tenggara dengan mengubah Undang-undang Nomor 47 Prp. Tahun 1960 tentang Pembentukan Daerah Tingkat I Sulawesi. Utara-Tengah dan Daerah Tingkat I Sulawesi Selatan Tenggara menjadi Undang-undang.
+Daerah Tingkat I Sulawesi. Utara-Tengah dan Daerah Tingkat I Sulawesi Selatan tje n
+
+Tenggara menjadi Undang-undang.
 
 ## BAB II — PEMBENTUKAN DAN BATAS WILAYAH
 
@@ -115,7 +118,7 @@ Dengan terbentuknya Kotamadya Daerah Tingkat II Bitung, maka Kota Administratif 
 
 ##### Pasal 6
 
-(1) Wilayah Kotamadya Daerah Tinkgat II Bitung mempunyai batas-batas sebagai berikut:
+(1) Wilayah Kotamadya Daerah Tingkat II Bitung mempunyai batas-batas sebagai berikut:
 
 a. Sebelah Utara berbatasan dengan Kecamatan Likupang Kabupaten Daerah Tingkat II Minahasa dan Laut Maluku;
 
@@ -123,11 +126,13 @@ b. Sebelah Timur berbatasan dengan Laut Maluku;
 
 c. Sebelah Selatan berbatasan dengan Kecamatan Kauditan Kabupaten Daerah Tingkat II Minahasa dan Laut Maluku;
 
-d. Sebelah Barat berbatasan dengan Kecamatan Dimembe dan Kecamatan Kauditan Kabupaten Daerah Tingkat II Minahasa.
+d. Sebelah Barat berbatasan dengan Kecamatan Dimembe dan Kecamatan ru nd Kauditan Kabupaten Daerah Tingkat II Minahasa. an g-un
 
-(2) Batas wilayah sebagaimana dimaksud dalam ayat (1) Pasal ini dituangkan dalam peta yang merupakan bagian yang tidak terpisahkan dari Undang-undang ini.
+(2) Batas wilayah sebagaimana dimaksud dalam ayat (1) Pasal ini dituangkan dalam da ng an peta yang merupakan bagian yang tidak terpisahkan dari Undang-undang ini. Pe
 
-(3) Penentuan batas wilayah Kotamadya Daerah Tingkat II Bitung secara pasti di lapangan sebagaimana dimaksud dalam ayat (1) Pasal ini ditetapkan oleh Menteri Dalam Negeri.
+(3) Penentuan batas wilayah Kotamadya Daerah Tingkat II Bitung secara pasti di n ratura lapangan sebagaimana dimaksud dalam ayat (1) Pasal ini ditetapkan oleh di Pe
+
+Menteri Dalam Negeri. tje n
 
 ## BAB III — PEMERINTAH DAERAH DAN PERANGKAT WILAYAH/DAERAH
 
@@ -141,9 +146,7 @@ Dengan terbentuknya Kotamadya Daerah Tingkat II Bitung, dibentuk Dewan Perwakila
 
 ##### Pasal 9
 
-Untuk kelengkapan perangkat pemerintahan di Kotainadya Daerah Tingkat II Bitung, dibentuk Sekretariat Wilayah/Daerah Tingkat II, Sekretariat Dewan Perwakilan.
-
-Rakyat Daerah Tingkat II, Dinas Daerah, dan Instansi lainnya sesuai dengan peraturan perundang-undangan yang berlaku.
+Untuk kelengkapan perangkat pemerintahan di Kotainadya Daerah Tingkat II Bitung, dibentuk Sekretariat Wilayah/Daerah Tingkat II, Sekretariat Dewan Perwakilan. Rakyat Daerah Tingkat II, Dinas Daerah, dan Instansi lainnya sesuai dengan peraturan perundang-undangan yang berlaku.
 
 ## BAB IV — URUSAN RUMAH TANGGA DAERAH
 
@@ -163,15 +166,19 @@ e. Pemadam Kebakaran;
 
 f. Pertanian Tanaman Pangan;
 
-g. Kesehatan;
+g. Kesehatan; ru nd
 
-h. Pendidikan Dasar;
+h. Pendidikan Dasar; an g-un
 
-i. Pendapatan.
+i. Pendapatan. da ng an
 
-(2) Penambahan atau pengurangan urusan sebagaimana dimaksud dalam ayat (1) Pasal ini diatur sesuai dengan peraturan perundang-undangan yang berlaku.
+(2) Penambahan atau pengurangan urusan sebagaimana dimaksud dalam ayat (1) Pe Pasal ini diatur sesuai dengan peraturan perundang-undangan yang berlaku. n ratura Pe di
 
-## BAB V — KETENTUAN PERALUM
+BAB V
+
+tje n
+
+KETENTUAN PERALUM
 
 ##### Pasal 11
 
@@ -199,13 +206,13 @@ c. Badan-badan Usaha Milik Daerah Kabupaten Daerah Tingkat II Minahasa yang temp
 
 d. Hutang-hutang Pemerintah Kabupaten Daerah Tingkat II Minahasa yang kegunaannya berlokasi di wilayah Kotamadya Daerah Tingkat II Bitung;
 
-e. Perlengkapan kantor, arsip, dokumentasi, dan perpustakaan.
+e. Perlengkapan kantor, arsip, dokumentasi, dan perpustakaan. ru nd
 
-(2) Pelaksanaan penyerahan sebagaimana dimaksud dalam ayat (1) Pasal ini selambat-lambatnya harus diselesaikan dalam waktu 1 (satu) tahun terhitung sejak diresmikannya Kotamadya Daerah Tingkat II yang bersangkutan.
+(2) Pelaksanaan penyerahan sebagaimana dimaksud dalam ayat (1) Pasal ini an g-un selambat-lambatnya harus diselesaikan dalam waktu 1 (satu) tahun terhitung da ng an sejak diresmikannya Kotamadya Daerah Tingkat II yang bersangkutan. Pe n ratura di Pasal 14 Pe
 
-##### Pasal 14
+(1) Pemerintah memberikan sejumlah dana sebagai modal pangkal kepada tje n
 
-(1) Pemerintah memberikan sejumlah dana sebagai modal pangkal kepada Pemerintah Kotamadya Daerah Tingkat II Bitung selama 3 (tiga) tahun berturut turut, terhitung sejak peresmiannya.
+Pemerintah Kotamadya Daerah Tingkat II Bitung selama 3 (tiga) tahun berturut turut, terhitung sejak peresmiannya.
 
 (2) Jumlah modal pangkal sebagaimana dimaksud dalam ayat (1) Pasal ini ditetapkan oleh Menteri Keuangan atas usul Menteri Dalam Negeri:
 
@@ -225,21 +232,21 @@ Ketentuan lebih lanjut yang diperlukan sebagai pelaksanaan Undang-undang ini, di
 
 ##### Pasal 18
 
-Undang-undang ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
 Disahkan di Jakarta pada tanggal 15 Agustus 1990
 
 PRESIDEN REPUBLIK INDONESIA
 
-ttd
+SOEHARTO
 
-Diundangkan di Jakarta pada tanggal 15 Agustus 1990
-
-MENTERI/SEKRETARIS NEGARA
-
-ttd
+Diundangkan di Jakarta pada tanggal 15 Agustus 1990 ru nd MENTERI/SEKRETARIS NEGARA an g-un REPUBLIK INDONESIA da ng an Pe
 
 MOERDIONO
+
+n ratura Pe di tje n
 
 ## PENJELASAN
 
@@ -253,21 +260,15 @@ TENTANG
 
 PEMBENTUKAN KOTAMADYA DAERAH TINGKAT II BITUNG
 
-### I.   UMUM
+### I.       UMUM
 
-Berdasarkan Peraturan Pemerintah Nomor 4 Tahun 1975 Kecamatan Bitung ditetapkan sebagai Kota Administratif dengan tujuan untuk meningkatkan penyelenggaraan urusan pemerintahan sebagai sarana dalam pembinaan wilayah dan pembangunan untuk meningkatkan kesejahteraan masyarakat.
-
-Kota Administratif Bitung mempunyai kedudukan dan peranan yang strategis ditinjau dari segi ekonomis, politik, sosial budaya, dan pertahanan keamanan.
-
-Sebagai pelabuhan Samudera merupakan pintu utama bagi lalu-lintas perekonomian Sulawesi Utara dengan wilayah-wilayah lainnya. Kedudukan dan posisi tersebut mempunyai dampak terhadap laju pertumbuhan di bidang perekonomian pada umumnya, sehingga mengalami perkembangan dan kemajuan yang pesat dalam segala bidang. Sejalan dengan itu pemerintah telah berhasil menggali dan mengolah potensi wilayah di berbagai sektor antara lain perikanan, perdagangan, pertanian, perkebunan, perhubungan, transportasi, dan pariwisata.
-
-Perkembangan Kota Bitung dalam berbagai bidang tersebut di atas. diikuti pula dengan peningkatan jumlah penduduk yang cepat. Pada tahun 1975 penduduk berjumlah 65.078 jiwa dan pada tahun 1989 meningkat menjadi 94.038 jiwa dengan laju pertumbuhan rata-rata 3,2% per tahun. Hal ini mengakibatkan bertambah beratnya beban tugas pemerintahan, pembangunan, dan pembinaan kemasyarakatan. Berdasarkan hal-hal tersebut di atas dan dalam rangka lebih meningkatkan dayaguna dan hasilguna penyelenggaraan pemerintahan dan pembangunan, maka Kota Administratif Bitung perlu ditingkatkan menjadi Kotamadya Daerah Tingkat II Bitung.
+Berdasarkan Peraturan Pemerintah Nomor 4 Tahun 1975 Kecamatan Bitung ditetapkan sebagai Kota Administratif dengan tujuan untuk meningkatkan penyelenggaraan urusan pemerintahan sebagai sarana dalam pembinaan wilayah dan pembangunan untuk meningkatkan kesejahteraan masyarakat. Kota Administratif Bitung mempunyai kedudukan dan peranan yang strategis ditinjau dari segi ekonomis, politik, sosial budaya, dan pertahanan keamanan. Sebagai pelabuhan Samudera merupakan pintu utama bagi lalu-lintas perekonomian Sulawesi Utara dengan wilayah-wilayah lainnya. Kedudukan dan posisi tersebut mempunyai dampak terhadap laju pertumbuhan di bidang perekonomian pada umumnya, sehingga mengalami perkembangan dan kemajuan yang pesat dalam ru nd segala bidang. Sejalan dengan itu pemerintah telah berhasil menggali dan an g-un mengolah potensi wilayah di berbagai sektor antara lain perikanan, da ng an perdagangan, pertanian, perkebunan, perhubungan, transportasi, dan Pe pariwisata. n ratura Perkembangan Kota Bitung dalam berbagai bidang tersebut di atas. diikuti pula di Pe dengan peningkatan jumlah penduduk yang cepat. Pada tahun 1975 penduduk tje n berjumlah 65.078 jiwa dan pada tahun 1989 meningkat menjadi 94.038 jiwa dengan laju pertumbuhan rata-rata 3,2% per tahun. Hal ini mengakibatkan bertambah beratnya beban tugas pemerintahan, pembangunan, dan pembinaan kemasyarakatan. Berdasarkan hal-hal tersebut di atas dan dalam rangka lebih meningkatkan dayaguna dan hasilguna penyelenggaraan pemerintahan dan pembangunan, maka Kota Administratif Bitung perlu ditingkatkan menjadi Kotamadya Daerah Tingkat II Bitung.
 
 Dengan terbentuknya Kotamadya Daerah Tingkat II Bitung, maka Kota Administratif Bitung yang dibentuk berdasarkan Peraturan Pemerintah Nomor 4 Tahun 1975, dihapus. Dengan demikian Kabupaten Daerah Tingkat II Minahasa wilayahnya berkurang seluas wilayah Kotamadya Daerah Tingkat II Bitung.
 
 Penentuan batas wilayah Kotamadya Daerah Tingkat II Bitung secara pasti ditetapkan oleh Menteri Dalam Negeri setelah mempertimbangkan usul dan saran Gubernur Kepala Daerah Tingkat I Sulawesi Utara yang didasarkan atas hasil penelitian dan pengukuran di lapangan.
 
-### II.   PASAL DEMI PASAL
+### II.      PASAL DEMI PASAL
 
 #### Pasal 1
 
@@ -275,23 +276,21 @@ Cukup jelas Pasal 2 Wilayah Kotamadya Daerah Tingkat II Bitung berasal dari wila
 
 #### Pasal 3
 
-Cukup jelas Pasal 4 Cukup jelas Pasal 5 Cukup jelas Pasal 6 Cukup jelas Pasal 7 Cukup jelas
+Cukup jelas Pasal 4 Cukup jelas Pasal 5 Cukup jelas Pasal 6 Cukup jelas Pasal 7 ru nd Cukup jelas an g-un Pasal 8 da ng an Cukup jelas Pe Pasal 9 n ratura Cukup jelas di Pe
 
-#### Pasal 8
+#### Pasal 10
 
-Cukup jelas
-
-#### Pasal 9
-
-Cukup jelas Pasal 10
+tje n
 
 Ayat (1)
 
-Kewenangan pangkal dalam Pasal ini adalah urusan-urusan pemerintahan yang secara nyata telah dilaksanakan oleh pemerintah Kota Administratif Bitung dan yang berdasarkan kenyataan sudah mampu dilaksanakan. Pendapatan sebagaimana yang dimaksud huruf i ayat (1) Pasal ini adalah sebagaimana dimaksud dalam Pasal 55 Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah.
+Kewenangan pangkal dalam Pasal ini adalah urusan-urusan pemerintahan yang secara nyata telah dilaksanakan oleh pemerintah Kota Administratif Bitung dan yang berdasarkan kenyataan sudah mampu dilaksanakan. Pendapatan sebagaimana yang dimaksud huruf i ayat (1) Pasal ini adalah sebagaimana dimaksud dalam Pasal 55 Undang- undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah.
 
 Ayat (2)
 
-Cukup jelas Pasal 11 Pada saat terbentuknya Kotamadya Daerah Tingkat II Bitung, pengangkatan Kepala Daerah belum dapat dilakukan melalui pemilihan sesuai dengan tata cara dan ketentuan peraturan perundang-undangan yang berlaku, oleh karena itu perlu diangkat Pejabat Walikotamadya Kepala Daerah Tingkat II sampai dilantiknya Walikotamadya Kepala Daerah Tingkat II hasil pemilihan Dewan Perwakilan Rakyat Daerah Tingkat II Kotamadya Daerah Tingkat II Bitung.
+Cukup jelas Pasal 11 Pada saat terbentuknya Kotamadya Daerah Tingkat II Bitung, pengangkatan Kepala Daerah belum dapat dilakukan melalui pemilihan sesuai dengan tata cara dan ketentuan peraturan perundang-undangan yang berlaku, oleh karena itu perlu diangkat Pejabat Walikotamadya Kepala Daerah Tingkat II sampai dilantiknya Walikotamadya Kepala Daerah Tingkat II hasil pemilihan Dewan Perwakilan Rakyat Daerah
+
+Tingkat II Kotamadya Daerah Tingkat II Bitung.
 
 #### Pasal 12
 
@@ -303,15 +302,15 @@ b. Cukup jelas
 
 Ayat (2)
 
-Cukup jelas
-
-#### Pasal 13
+Cukup jelas Pasal 13
 
 Ayat (1)
 
-Dengan terbentuknya Kotamadya Daerah Tingkat II Bitung, maka untuk dayaguna dan hasilguna dalam penyelenggaraan pemerintahan, pembangunan, dan pembinaan kemasyarakatan Kotamadya Daerah Tingkat II Bitung digunakan pegawai- pegawai, tanah, gedung-gedung beserta peralatannya, dan fasilitas pelayanan umum yang telah ada yang selama ini telah dipakai oleh Kota Administratif Bitung sebagai bagian dari Kabupaten Daerah Tingkat II Minahasa. Untuk itu dalam rangka tertib administrasi diperlukan tindakan hukum berupa penyerahan dari Pemerintah Kabupaten Daerah Tingkat II Minahasa kepada Pemerintah Kotamadya Daerah Tingkat II Bitung.
+Dengan terbentuknya Kotamadya Daerah Tingkat II Bitung, maka untuk dayaguna dan hasilguna dalam penyelenggaraan pemerintahan, pembangunan, dan pembinaan kemasyarakatan Kotamadya Daerah Tingkat II Bitung digunakan pegawai- pegawai, ru nd tanah, gedung-gedung beserta peralatannya, dan fasilitas an g-un pelayanan umum yang telah ada yang selama ini telah dipakai oleh da ng an Kota Administratif Bitung sebagai bagian dari Kabupaten Daerah Pe Tingkat II Minahasa. Untuk itu dalam rangka tertib administrasi n ratura diperlukan tindakan hukum berupa penyerahan dari Pemerintah di Pe
 
-Begitu juga dengan Badan-badan Usaha Milik Daerah Tingkat II Minahasa yang tempat kedudukan dan kegiatannya berada di Kotamadya Daerah Tingkat II Bitung, untuk dayaguna dan hasilguna penyelenggaraannya perlu diserahkan oleh Pemerintah Kabupaten Daerah Tingkat II Minahasa kepada Pemerintah Kotamadya Daerah Tingkat II Bitung. Menyertai penyerahan hal-hal tersebut di atas, maka segala hutang-piutang yang kegunaanya berlokasi di Wilayah Kotamadya Daerah Tingkat II Bitung diserahkan pula kepada Pemerintah Kotamadya Daerah Tingkat II Bitung.
+Kabupaten Daerah Tingkat II Minahasa kepada Pemerintah tje n
+
+Kotamadya Daerah Tingkat II Bitung. Begitu juga dengan Badan-badan Usaha Milik Daerah Tingkat II Minahasa yang tempat kedudukan dan kegiatannya berada di Kotamadya Daerah Tingkat II Bitung, untuk dayaguna dan hasilguna penyelenggaraannya perlu diserahkan oleh Pemerintah Kabupaten Daerah Tingkat II Minahasa kepada Pemerintah Kotamadya Daerah Tingkat II Bitung. Menyertai penyerahan hal-hal tersebut di atas, maka segala hutang-piutang yang kegunaanya berlokasi di Wilayah Kotamadya Daerah Tingkat II Bitung diserahkan pula kepada Pemerintah Kotamadya Daerah Tingkat II Bitung.
 
 Ayat (2)
 
@@ -319,8 +318,4 @@ Yang dimaksud sejak diresmikannya Kotamadya Daerah Tingkat II Bitung adalah terh
 
 #### Pasal 14
 
-Cukup jelas Pasal 15 Cukup jelas
-
-#### Pasal 16
-
-Cukup jelas Pasal 17 Cukup jelas Pasal 18 Cukup jelas
+Cukup jelas Pasal 15 Cukup jelas Pasal 16 Cukup jelas Pasal 17 Cukup jelas Pasal 18 Cukup jelas ru nd an g-un da ng an Pe n ratura Pe di tje n

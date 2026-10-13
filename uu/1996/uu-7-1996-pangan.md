@@ -15,87 +15,90 @@ repealed_by:
   - "UU No. 18 Tahun 2012"
 gazette: "LN. 1996/NO.99, TLN NO.3656, LL SETNEG : 19 HLM"
 subject: "BANTUAN, SUMBANGAN, BENCANA/KEBENCANAAN, DAN PENANGGULANGAN BENCANA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0071997.pdf&fl=P00984"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1996"
+source: "https://peraturan.bpk.go.id/Download/47092/UU%20Nomor%207%20Tahun%201996.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46097"
 bpk_page: "https://peraturan.bpk.go.id/Details/46097"
 bpk_metadata_archived: "http://web.archive.org/web/20241120005205/https://peraturan.bpk.go.id/Details/46097/uu-no-7-tahun-1996%E2%97%8F"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=7&thn=1996"
 consolidated: false
 retrieved: 2026-10-13
 ---
 
 # Undang-Undang Nomor 7 Tahun 1996 tentang Pangan
 
-UNDANG - UNDANG REPUBLIK INDONESIA
+UNDANG-UNDANG REPUBLIK INDONESIA
 
 NOMOR 7 TAHUN 1996
 
-TENTANG
-
-PANGAN
+TENTANG PANGAN
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-PRESIDEN REPUBLIK INDONESIA
+PRESIDEN REPUBLIK INDONESIA,
 
-Menimbang : a. bahwa pangan merupakan kebutuhan dasar manusia yang pemenuhannya menjadi hak asasi setiap rakyat Indonesia dalam mewujudkan sumber daya manusia yang berkualitas untuk melaksanakan pembangunan nasional;
+Menimbang:
+
+a. bahwa pangan merupakan kebutuhan dasar manusia yang pemenuhannya menjadi hak asasi setiap rakyat Indonesia dalam mewujudkan sumber daya manusia berkualitas untuk melaksanakan pembangunan nasional;
 
 b. bahwa pangan yang aman, bermutu, bergizi, beragam, dan tersedia secara cukup merupakan persyaratan utama yang harus dipenuhi dalam upaya terselenggaranya suatu sistem pangan yang memberikan perlindungan bagi kepentingan kesehatan serta makin berperan dalam meningkatkan kemakmuran dan kesejahteraan rakyat;
 
 c. bahwa pangan sebagai komoditas dagang memerlukan dukungan sistem perdagangan pangan yang jujur dan bertanggung jawab sehingga tersedia pangan yang terjangkau oleh daya beli masyarakat serta turut berperan dalam peningkatan pertumbuhan ekonomi nasional;
 
-d. bahwa sehubungan dengan pertimbangan pada butir a, butir b, dan butir c, serta untuk mewujudkan sistem pengaturan, pembinaan, dan pengawasan yang efektif di bidang pangan, maka perlu dibentuk Undang-undang tentang Pangan.
+d. bahwa sehubungan dengan pertimbangan pada butir a, butir b, dan butir c, serta untuk mewujudkan sistem pengaturan, pembinaan, dan pengawasan yang efektif di bidang pangan, maka perlu dibentuk Undang-undang tentang Pangan;
 
-Mengingat : Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 27 ayat (2), dan Pasal 33 Undang-undang Dasar 1945.
+Mengingat:
 
-Dengan Persetujuan :
+Pasal 5 ayat (1), Pasal 20 ayat (1), Pasal 27 ayat (2), dan Pasal 33 Undang-Undang Dasar 1945;
 
-DEWAN PERWAKILAN RAKYAT INDONESIA
+Dengan persetujuan
 
-MEMUTUSKAN :
+DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
 
-Menetapkan : UNDANG-UNDANG TENTANG PANGAN
+MEMUTUSKAN:
+
+Menetapkan : UNDANG-UNDANG TENTANG PANGAN.
 
 ## BAB I — KETENTUAN UMUM
 
 ##### Pasal 1
 
-Dalam Undang-undang ini yang dimaksud dengan :
+Dalam Undang-undang ini yang dimaksud dengan:
 
-1. Pangan adalah segala sesuatu yang berasal dari sumber hayati dan air, baik yang diolah maupun tidak diolah, yang diperuntukkan sebagai makanan atau minuman bagi konsumsi manusia, termasuk bahan tambahan pangan, bahan baku pangan, dan bahan lainnya yang digunakan dalam proses penyiapan, pengolahan, dan atau pembuatan makanan atau minuman.
+1. Pangan adalah segala sesuatu yang berasal dari sumber hayati dan air, baik yang diolah maupun tidak diolah, yang diperuntukkan sebagai makanan atau minuman bagi konsumsi manusia, termasuk bahan tambahan pangan, bahan baku pangan, dan bahan lain yang digunakan dalam proses penyiapan, pengolahan, dan atau pembuatan makanan atau minuman.
 
 2. Pangan olahan adalah makanan atau minuman hasil proses dengan cara atau metode tertentu dengan atau tanpa bahan tambahan.
 
-3. Sistem pangan adalah segala sesuatu yang berhubungan dengan pengaturan, pembinaan, dan atau pengawasan terhadap kegiatan atau proses produksi pangan dan peredaran pangan sampai dengan siap dikonsumsi manusia.
+3. Sistem pangan adalah segala sesuatu yang berhubungan dengan pengaturan, pembinaan, dan atau pengawasan terhadap kegiatan atau proses produksi pangan dan perdaran pangan sampai dengan siap dikonsumsi manusia.
 
 4. Keamanan pangan adalah kondisi dan upaya yang diperlukan untuk mencegah pangan dari kemungkinan cemaran biologis, kimia, dan benda lain yang dapat mengganggu, merugikan, dan membahayakan kesehatan manusia.
 
-5. Produksi pangan adalah kegiatan atau proses menghasilkan, menyiapkan, mengolah, membuat, mengawetkan, mengemas kembali, dan atau mengubah bentuk pangan.
+5. Produksi pangan adalah kegiatan atau proses menghasilkan, menyiapkan, mengolah, membuat, mengawetkan, mengemas, mengemas kembali, dan atau mengubah bentuk pangan.
 
 6. Pengangkutan pangan adalah setiap kegiatan atau serangkaian kegiatan dalam rangka memindahkan pangan dari satu tempat ke tempat lain dengan cara atau sarana angkutan apa pun dalam rangka produksi, peredaran, dan atau perdagangan pangan.
 
-7. Peredaran pangan adalah setiap kegiatan atau serangkaian kegiatan dalam rangka penyaluran pangan kepada masyarakat, baik untuk diperdagangkan maupun tidak.
+7. Peredaran pangan adalah setiap kegitan atau serangkaian kegitan dalam rangka penyaluran pangan kepada masyarakat, baik untuk diperdagangkan maupun tidak.
 
-8. Perdagangan pangan adalah setiap kegiatan atau serangkaian kegiatan dalam rangka penjualan dan atau pembelian pangan, termasuk penawaran untuk menjual pangan, dan kegaitan lain yang berkenaan dengan pemindahtanganan pangan dengan memperoleh imbalan.
+8. Perdagangan pangan adalah setiap kegiatan atau serangkaian kegiatan dalam rangka penjualan dan atau pembelian pangan, termasuk penawaran untuk menjual pangan, dan kegiatan lain yang berkenaan dengan pemindahtangann pangan dengan memperoleh imbalan.
 
-9. Sanitasi pangan adalah upaya pencegahan terhadap kemungkinan bertumbuh dan berkembangbiaknya jasad renik pembusuk dan patogen dalam makanan, minuman, peralatan, dan bangunan yang dapat merusak pangan dan membahayakan manusia.
+9. Sanitisi pangan adalah upaya pencegahan terhadap kemungkinan bertumbuh dan berkembang biaknya jasad renik pembusuk dan patogen dalam makanan, minuman, peralatan, dan bangunan yang dapat merusak pangan dan membayakan manusia.
 
-10. Kemasan pangan adalah bahan yang digunakan untuk mewadahi dana atau membungkus pangan, baik yang bersentuhan langsung dengan pangan maupun tidak.
+10. Kemasan pangan adalah bahan yang digunakan untuk mewadahi dan atau membungkus pangan, baik yang bersentuhan langsung dengan pangan maupun tidak.
 
-11 Iradiasai pangan adalah metode penyinaran terhadap pangan baik dengan menggunakan zat radioaktif maupun akselerator untuk mencegah terjadinya pembusukan dan kerusakan serta membebaskan pangan dari jasad renik patogen.
+11. Iradiasi pangan adalah metode penyinaran terhadap pangan, baik dengan menggunakan zat radioaktif maupun akselerator untuk mencegah terjadinya pembusukan dan kerusakan serta membebasakan pangan dari jasad renik patogen.
 
 12. Rekayasa genetika pangan adalah suatu proses yang melibatkan pemindahan gen (pembawa sifat) dari suatu jenis hayati ke jenis hayati lain yang berbeda atau sama untuk mendapatkan jenis baru yang mampu menghasilkan produk pangan yang lebih unggul.
 
-13. Mutu pangan adalah nilai yang ditentukan atas dasar kreteria keamanan pangan, kandungan gizi, dan standar perdagangan terhadap bahan makanan, dan minuman.
+13. Mutu pangan adalah nilai yang ditentukan atas dasar kriteria keamanan, pangan, kandungan gizi, dan standar perdagangan terhadap bahan makanan, makanan, dan minuman.
 
 14. Gizi pangan adalah zat atau senyawa yang terdapat dalam pangan yang terdiri atas karbohidrat, protein, lemak, vitamin, dan mineral serta turunannya yang bermanfaat bagi pertumbuhan dan kesehatan manusia.
 
-15. Label pangan adalah setiap keterangan mengenai pangan yang berbentuk gambar, tulisan, kombinasi keduanya, atau bentuk lainnya yang disertakan pada apangan, dimasukkan ke dalam, ditempelkan pada, atau merupakan bagian kemasan pangan.
+15. Label pangan adalah setiap keterangan mengenai pangan yang berbentuk gambar, tulisan, kombinasi keduanya, atau bentuk lain yang disertakan pada pangan, dimasukkan ke dalam, ditempelkan pada, atau merupakan bagian kemasan pangan.
 
-16. Iklan pangan adalah setiap keterangan atau pernyataan mengenai pangan dalam bentuk gambar, tulisan, atau bentuk lain yang dilakuikan dengan berbagai cara untuk pemasaran dan atau perdagangan pangan.
+16. Iklan pangan adalah setiap keterangan atau pernyataan mengenai pangan dalam bentuk gambar, tulisan, atau bentuk lain yang dilakukan dengan berbagai cara untuk pemasaran dan atau perdagangan pangan.
 
-17. Ketahanan pangan adalah kondisi terpenuhinya pangan bagi rumah tangga yang tercermin dari tersedinya pangan yang cukup, baik jumlah maupun mutunya, aman, merata, dan terjangkau.
+17. Ketahanan pangan adalah kondisi terpenuhinya pangan dari rumah tangga yang tercermin dari tersedianya pangan yang cukup, baik jumlah maupun mutunya, aman, merata, dan terjangkau.
 
-18. Setiap orang adalah orang perorangan atau badan usaha, baik yang berbentuk badan hukum maupun tidak.
+18. Setiap orang adalah orang perseorangan atau badan usaha, baik yang berbentuk badan hukum maupun tidak.
 
 ##### Pasal 2
 
@@ -103,99 +106,75 @@ Pembangunan pangan diselenggarakan untuk memenuhi kebutuhan dasar manusia yang m
 
 ##### Pasal 3
 
-Tujuan pengaturan, pembinaan, dan pengawsan pangan adalah :
+Tujuan pengaturan, pembinaan, dan pengawasan pangan adalah:
 
-a. Tersediannya pangan yang memenuhi persyaratan keamanan, mutu, dan gizi bagi kepentingan kesehatan manusia.
+a. tersedianya pangan yang memenuhi persyaratan keamanan, mutu, dan gizi bagi kepentingan kesehatan manusia;
 
-b. Terciptanya perdagangan pangan yang jujur dan bertanggung jawab; dan
+b. terciptanya perdagangan pangan yang jujur dan bertanggung jawab; dan
 
-c. Terwujudnya tingkat kecukupan pangan dengan harga yang wajar dan terjangkau sesuai dengan kebutuhan masyarakat.
+c. terwujudnya tingkat kecukupan pangan dengan harga yang wajar dan terjangkau sesuai dengan kebutuhan masyarakat.
 
-## BAB II — KEMANAN PANGAN
+## BAB II — KEAMANAN PANGAN
 
 ### Bagian Pertama — Sanitasi Pangan
 
-##### Pasal 4
+Pasal 4..
 
-(1). Pemerintah menetapkan persyaratan sanitasi dalam kegaitan atau proses produksi, penyimpanan, pengangkutan , dan atau peredaran pangan.
+(1) Pemerintah menetapkan persyaratan sanitasi dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan.
 
-(2). Persyaratan...
-
-(2). Persyaratan sebagaimana dimaksud pada ayat
-
-(1) merupakan persyaratan minimal yang wajib dipenuhi dan ditetapkan serta diterapkan secara bertahap dengan memperhatikan kesiapan dan kebutuhan siatem pangan.
+(2) Persyratan sebagaimana dimaksud pada ayat (1) merupakan persyaratan minimal yang wajib dipenuhi dan ditetapkan serta diterapkan secara bertahap dengan memperhatikan kesiapan dan kebutuhan sistem pangan.
 
 ##### Pasal 5
 
-(1) Sarana dana atau prasarana yang digunakan secara langsung atau tidak langsung dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan wajib memenuhi persyaratan sanitasi.
+(1) Sarana dan atau prasarana yang digunakan secara langsung atau tidak langsung dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan wajib memenuhi persyaratan sanitasi.
 
-(2) Penyelenggaraaan kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan serta penggunaan sarana dan prasarana, sebagaimana dimaksud pada ayat (1), dilakukan sesuai dengan persyaratan sanitasi.
+(2) Penyelenggaraan kegiatan atau proses produksi, penyimpanan, pengangkutan dan atau peredaran pangan serta penggunaan sarana dan prasarana, sebagaimana dimaksud pada ayat (1), dilakukan sesuai dengan persyaratan sanitasi.
 
 ##### Pasal 6
 
-Setiap orang bertanggung kjawab dalam penyelenggaraan kegiatan atau proses produksi penyimpanan, pengangkutan, dan atau peredaran pangan wajib :
-
-a. memenuhi persyaratan sanitasi, keamanan, dan atau keselamatan manusia;
-
-b. menyelenggarakan program pemantauan sanitasi secara berkala ; dan
-
-c. menyelenggarakan pengawasan atas pemenuhan persyaratan sanitasi.
+Setiap orangan yang bertanggung jawab dalam penyelenggaraan kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan wajib: a.memenuhi persyaratan sanitasi, keamanan, dan atau keselamatan manusia; b.menyelenggarakan program pemantauan sanitasi secara berkala; dan c.menyelenggarakan pengawasan atas pemenuhan persyaratan sanitasi.
 
 ##### Pasal 7
 
-Orang perseorangan yang menangani secara langsung dan atau berada langsung dalam lingkungan kegitan atau proses produksi, penyimpnana, pengangkutan, dan atau peredaran pangan wajib memenuhi persyaratan sanitasi.
+Orang perseorangan yang menangani secara langsung dan atau berada langsung dalam lingkungan kegiatan atau proses produksi, penyimpangan, pengangkutan, dan atau peredaran pangan wajib memenuhi persyaratan sanitasi.
 
 ##### Pasal 8
 
-Setiap orang dilarang menyelenggarakan kegiatan atau proses produksi, penyimpanan, pengangkutan dan atau peredaran pangan dalam keadaan yang tidak memenuhi persyaratan sanitasi.
+Setiap orang dilarang menyelenggarakan kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan dalam keadaan yang tidak memenuhi persyataran sanitasi.
 
 ##### Pasal 9
 
 Ketentuan sebagaimana dimaksud dalam Pasal 4, Pasal 5, Pasal 6, dan Pasal 7 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
-### Bagian Kedua — Bahan Tamabahan Pangan
+### Bagian Kedua — Bahan Tambahan Pangan
 
 ##### Pasal 10
 
-(1) Setiap orang yang memproduksi pangan untuk diedarkan dilarang menggunakan bahan apa pun sebagai bahan tambahan pangan yang dinyatakan terlarang melampaui ambang batas maksimal yang ditetapkan.
+(1) Setiap orang yang memproduksi pangan untuk diedarkan dilarang menggunakan bahan apa pun sebagai bahan tambahan pangan yang dinyatakan terlarang atau melampaui ambang batas maksimal yang ditetapkan.
 
-(2) Pemerintah menetapkan lebih lanjut bahan yang dilarang dan atau dapat digunakan sebagai bahan tambahan pangan dalam kegiatan atau proses produksi pangan serta ambang batas maksimal sebagaimana dimaksud pada ayat (1).
+(2) Pemerintah menetapkan lebih lanjut bahan yang dilarang dan atau dapat digunakan sebagai bahan tambahan pengan dalam kegiatan atau proses produksi pangan serta ambang batas maksimal sebagaimana dimaksud pada ayat (1).
 
 ##### Pasal 11
 
-Bahan yang akan digunakan sebagai bahan tamabahan pangan, tetapi belum diketahui dampaknya bagi kesehatan manusia, wajib terlebih dahulu diperiksa keamanannya, dan penggunaannya dalam kegiatan atau proses produksi pangan untuk diedarkan dilakukan setelah memperoleh persetujuan Pemerintah.
+Bahan yang akan digunakan sebagai bahan tambahan pangan, tetapi belum diketahui dampaknya bagi kesehatan manusia, wajib terlebih dahulu diperiksa keamananya, dan penggunaannya dalam kegiatan atau proses produksi pangan untuk diedarkan dilakukan setelah memperoleh persetujuan Pemerintah.
 
 ##### Pasal 12
 
-Ketentuan sebagaimana dimaksud dalam Pasal 10 dan Pasal 11 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+Ketetnuan sebagaimana dimaksud dalam Pasal 10 dan Pasal 11 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ### Bagian Ketiga — Rekayasa Genetika dan Iradiasi Pangan
 
 ##### Pasal 13
 
-(1). Setiap orang yang memproduksi pangan atau menggunakan bahan baku, bahan tambahan pangan dan atau bahan bantu lain dalam kegiatan atau proses produksi pangan yang dihasilkan dari proses rekayasa genetika wajib terlebih dahulu memeriksakan keamanan pangan bagi kesehatan manusia sebelum diedarkan.
+(1) Setiap orang yang memproduksi pangan atau menggunakan bahan baku, bahan tambahan pangan, dan atau bahan bantu lain dalam kegiatan atau proses produksi pangan yang dihasilkan dari proses rekayasa genetika wajib terbelih dahulu memeriksakan keamanan pangan bagi kesehatan manusia sebelum diedarkan.
 
-```
-(2). Pemerintah         menetapkan          persyaratan        dan
-   prinsip       penelitian,              pengembangan,        dan
-   pemanfaatan       metode       rekayasa     genetika      dalam
-```
-
-kegiatan atau proses produksi pangan, serta menetapkan persyaratan bagi pengujian pangan yang dihasilkan dari proses rekayasa genetika.
+(2) Pemerintah menetapkan persyaratan dan prinsip penelitian, pengembangan dan pemanfaatan metode rekayasa genetika dalam kegaitan atau proses produksi pangan, serta menetapkan persyaratan bagi pengujian pangan yang dihasilkan dari proses rekayasa genetika.
 
 ##### Pasal 14
 
-(1). Iradiasi dalam kegiatan atau proses produksi pangan dilakukan berdasrkan izin Pemerintah.
+(1) Iradiasi dalam kegiatan atau proses produksi pangan dilakukan berdasarkan izin Pemerintah.
 
-(2). Proses perizinan, penyelenggaraan kegiatan dan atau proses produksi pangan yang dilakukan dengan menggunakan teknik dan atau
-
-```
-metode     iradiasi          sebagaimana     dimaksud       pada
-ayat      (1),       wajib       memenuhi         persyaratan
-kesehtan,            penanganan             limbah          dan
-```
-
-penanggulangan bahaya bahan radioaktif untuk menjamin keamanan pangan, keselamatan kerja, dan kelestarian lingkungan.
+(2) Proses perizinan penyelenggaraan kegiatan dan atau proses produksi pangan yang dilakukan dengan menggunakan teknik dan atau metode iradiasi sebagiamana dimaksud pada ayat (21), wajib memenuhi persyaratan kesehatan penanganan limbah da penanggulanan bahaya bahan radioaktif untuk menjamin keamanan pangan, keselamatan kerja, dan kelestarian lingkungan.
 
 ##### Pasal 15
 
@@ -205,25 +184,11 @@ Ketentuan sebagaimana dimaksud dalam Pasal 13 dan Pasal 14 ditetapkan lebih lanj
 
 ##### Pasal 16
 
-(1). Setiap orang memproduksi pangan untuk diedarkan dilarang menggunakan bahan apa pun
+(1) Setiap orang memproduksi pangan untuk diedarkan dilarang menggunakan bahan apa pun sebagai kemasan pangan yang dinyatakan dilarang dan atau yang dapat melepaskan cemaran yang merugikan atau membahayakan kesehatan manusia.
 
-```
-sebagai       kemasan           pangan     yang      dinyatakan
-terlarang       dan     atau     yang     dapat      melepaskan
-cemaran       yang      merugikan         atau     membahayakan
-```
+(2) Pengemasan pangan yang diedarkan dilakukan melalui tata cara yang dapat menghindarkan terjadinya kerusakan dan atau pencemaran.
 
-kesehatan manusia.
-
-(2). Pengemasan pangan yang diedarkan dilakukan melalui tata cara yang dapat menghindarkan terjadinya kerusakan dan atau pencemaran.
-
-```
-(3). Pemerintah            menetapkan       bahan      yang   dilarang
-     digunakan       sebagai         kemasan    pangan        dan    tata
-     cara       pengemasan           pangan       tertentu           yang
-```
-
-diperdagangkan.
+(3) Pemeirntah menetapkan bahan yang dilarang digunakan sebagai kemasan pangan dan tata cara pengemasan pangan tertentu yang dipaerdagangankan.
 
 ##### Pasal 17
 
@@ -231,78 +196,59 @@ Bahan yang akan digunakan sebagai kemasan pangan, tetapi belum diketahui dampakn
 
 ##### Pasal 18
 
-(1). Setiap orang dilarang membuka kemasan akhir pangan untuk dikemas kembali dan diperdagangkan.
+(1) Setiap orang dilarang membuka kemasan akhir pangan untuk dikamas kembali dan diperdagangkan.
 
-```
-(2). Ketentuan          sebagaimana           dimaksud     pada    ayat
-      (1)    tidak      berlaku          terhadap      pangan      yang
-      pengadaannya         dalam      jumlah     besar     dan    lazim
-      dikemas     kembali        dalam        jumlah   kecil      untuk
-```
-
-diperdagangkan lebih lanjut.
+(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak berlaku terhadap pangan yang pengadaannya dalam jumlah besar dan lazim dikemas kembali dalam jumlah kecil untuk diperdagangkan lebih lanjut.
 
 ##### Pasal 19
 
-Ketentuan sebagaimana dimaksud dalam Pasl 16, Pasal 17, dan Pasal 18 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+Ketentuan sebagaimana dimaksud dalam Pasal 16, Pasal 17, dan Pasal 18 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
-### Bagian Kelima — Jaminan Mutu Pangan dan Pemeriksaan Laboratorium
+### Bagian Kelima — Jaminan Mutu Pangan dan Pemeriksaan
+
+Laboratorium
 
 ##### Pasal 20
 
 (1) Setiap orang yang memproduksi pangan untuk diperdagangkan wajib menyelenggarakan sistem jaminan mutu, sesuai dengan jenis pangan yang diproduksi.
 
-```
-(2)     Terhadap            pangan              tertentu           yang
-      diperdagangkan,           Pemerintah       dapat     menetapkan
-      persyaratan       agar         pangan     tersebut     terselih
-      dahulu      diuji         secara     laboratoris         sebelum
-```
+(2) Terhadap pangan tertentu yang diperdagangkan, Pemerintah dapat menetpakan persyaratan agar pangan tersebut terlebih dahulu diuji secara laboratoris sebelum peredarannya.
 
-peredarannya.
+(3) Pengujian secara laboratoris, sebagaimana dimaksud pada ayat (2), dilakukan di laboratorium yang ditunjuk oleh dan atau telah memperoleh akreditasi dari Pemerintah.
 
-(3) Pengujian seecara laboratoris, sebagaimana dimaksud ayat (2), dilakukan di Laboratorium yang ditunjuk oleh dan atau telah memperoleh akreditasi dari Pemerintah.
+(4) Sistem jaminan mutu serta persyaratan pengujian secara laboratoris, sebagaimana dimaksud pada ayat (1) dan ayat (2), ditetapkan dan diterapkan secara bertahap dengan memperhatikan kesiapan dan kebutuhan sistem pangan.
 
-```
-(4)    Sistem       jaminan          mutu     serta    persyaratan
-      pengujian      secara          laboratoris,      sebagaimana
-      dimaksud      pada         ayat   (1)     dan    ayat     (2),
-      ditetapkan      dan        diterapkan     secara    bertahap
-```
-
-dengan memperhatikan kesiapan dan kebutuhan sistem pangan.
-
-(5) Ketentuan sebagaiamana dimaksud pada ayat (1), ayat (2), dan ayat (3) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+(5) Ketentuan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ### Bagian Keenam — Pangan Tercemar
 
 ##### Pasal 21
 
-Setiap orang dilarang mengedarkan :
+Setiap orang dilarang mengedarkan:
 
-a. Pangan yang mengandung bahan beracun, berbahaya, atau yang dapat merugikan atau membahayakan kesehatan atau jiwa manusia.
+a. pangan yang mengandung bahan beracun, berbahaya atau yang dapat merugikan atau membahayakan kesehatan atau jiwa manusia;
 
-b. Pangan yang mengandungcemaran yang melampaui ambang batas maksimal yang ditetapkan.
+b. pangan yang mengandung cemaran yang melampaui ambang batas maksimal yang ditetapkan;
 
-c. Pangan yang mengandung bahan yang dilarang digunkan dalam kegiatan atau proses produksi pangan;
+c. pangan yang mengandung bahan yang dilarang digunakan dalam kegiatan atau proses produksi pangan;
 
-d. Pangan yang mengandung bahan yang kotor, busuk, tengik, terurai, atau mengandung bahan nabati atau hewani yang berpenyakit atau berasal dari bangkai sehinggga menjadikan pangan tidak layak dikonsumsi manusia;
+d. pangan yang mengandung bahan yang kotor, busuk, tengik, terurai, atau mengandung bahan nabati atau hewani yang berpenyakit atau berasal dari bangkai sehingga menjadikan pangan tidak layak dikonsumsi manusia;
 
-e. Pangan yang sudah kadaluwarsa.
+e. pangan yang sudah kedaluawarsa.
 
 ##### Pasal 22
 
-Untuk mengawasi dan mencegah tercemarnya pangan, Pemerintah :
+Untuk mengawasi dan mencegah tercemarnya pangan, Pemerintah:
 
-a. Menetapkan bahan yang dilarang digunakan dalam kegaitan atau proses produksi pangan serta ambang batas maksimal cemaran yang diperbolehkan;
+a. menetapkan bahan yang dilarang digunakan dalam kegiatan atau proses produksi pangan serta ambang batas maksimal cemaran yang diperbolehkan;
 
-b. Mengatur dan atau menetapkan persyaratan bagi penggunaan cara, metode, dan atau bahan tertentu dalam kegiatan atau proses produksi, pengolahan, penyimpanan, pengangkutan, dan atau peredaran pangan yang dapat memiliki risiko yang merugikan dan atau membahayakan kesehatan manusia;
+b. mengatur dan atau menetapkan persyaratan bagi penggunaan cara, metode, dan atau bahan tertentu dalam kegiatan atau proses produksi, pengolahan, penyimpanan, pengangkutan, dan atau peredaran pangan yang dapat memiliki risiko yang merugikan dan atau membahayakan kesehatan manusia;
 
-c. Menetapkan bahan yang dilarang digunakan dalam memproduksi peralatan pengolahan, penyiapan, pemasaran, dan atau penyajian pangan.
+c. menetapkan bahan yang dilarang digunakan dalam memproduksi peralatan pengolahan, peyiapan, pemasaran, dan atau penyajian pangan.
 
 ##### Pasal 23
 
-Ketentuan sebagaimana dimaksud dalam Pasal 21 dan Pasal 22 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+Ketentuan sebagiamana dimaksud dalam Pasal 21 dan Pasal 22 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ## BAB III — MUTU DAN GIZI PANGAN
 
@@ -310,27 +256,21 @@ Ketentuan sebagaimana dimaksud dalam Pasal 21 dan Pasal 22 ditetapkan lebih lanj
 
 ##### Pasal 24
 
-(1). Pemerintah menetapkan standar mutu pangan.
+(1) Pemerintah menetapkan standar mutu pangan.
 
-```
-(2). Terhadap               pangan            tertentu          yang
-     diperdagangkan,                    Pemerintah            dapat
-     memberlakukan              dan     mewajibkan       pemenuhan
-```
-
-standar mutu pangan yang ditetapkan berdasarkan ketentuan sebagaimana dimaksud pada ayat (1).
+(2) Terhadap pangan tertentu yang diperdagangkan, Pemerintah dapat memberlakukan dan mewajibkan pemenuhan standar mutu pangan yang ditetapkan berdasarkan ketentuan sebagaimana dimaksud pada ayat (1).
 
 ##### Pasal 25
 
-(1). Pemerintah menetapkan persyaratan sertifikasi mutu pangan yang diperdagangnkan.
+(1) Pemerintah menetapkan persyaratan sertifikasi mutu pangan yang diperdagangkan.
 
-(2). Persyaratan sertifikasi mutu pangan, sebgaiaman dimaksud pada ayat (1), diterapkan secara bertahap berdasarkan jenis pangan dengan memperhatikan kesiapan dan kebutuhan sistem pangan.
+(2) Persyaratan sertifikasi mutu pangan, sebagaimana dimaksud pada ayat (1), diterapkan secara bertahap berdasarkan jenis pangan dengan memperhatikan kesiapan dan kebutuhan sistem pangan
 
 ##### Pasal 26
 
-Setiap orang dilarang memperdagangkan :
+Setiap orang dilarang memperdagangkan:
 
-a. pangan tertentu, sebagaimana dimaksud dalam Pasal 24 ayat (2), apabila tidak memenuhi standar mutu yang ditetapkan sesuai denan peruntukannya;
+a. pangan tertentu, sebagaimana dimaksud dalam pasal 24 ayat (1), apabila tidak memenuhi standar mutu yang ditetapkan sesuai dengan peruntukkannya;
 
 b. pangan yang mutunya berbeda atau tidak sama dengan mutu pangan yang dijanjikan;
 
@@ -340,27 +280,19 @@ c. pangan yang tidak memenuhi persyaratan sertifikasi mutu pangan, sebagaimana d
 
 ##### Pasal 27
 
-(1). Pemerintah menetapkan dan menyelenggarakan kebijakan di bidang gizi bagi perbaikan status gizi masyarakat.
+(1) Pemerintah menetapkan dan menyelenggarakan kebijakan di bidang gizi bagi perbaikan status gizi masyarakat.
 
-```
-(2). Untuk    meningkatkan             kandungan       gizi    pangan
-   olahan       tertentu               yang      diperdagangkan,
-   Pemerintah            dapat        menetapkan       persyaratan
-```
+(2) Untuk meningkatakan kandungan gizi pangan olahan tertentu yang diperdagangkan, Pemerintah dapat menetapkan persyaratan khusus mengenai komposisi pangan.
 
-khusus, mengenai komposisi pangan.
+(3) Dalam hal terjadi kekeurangan dan atau penurunan status gizi masyarakat, Pemerintah dapat menetapkan persyaratan bagi perbaikan atau pengayaan gizi pangan tertentu yang diedarkan.
 
-(3). Dalam hal terjadinya kekurangan dan atau penurunan status gizi masyarakat, Pemerintah dapat menetapkan persyaratan bagi perbaikan atau pengayaan gizi pangan tertentu yang diedarkan.
-
-(4). Setiap orang memproduksi pangan, sebagaimana dimaksud pada ayat (2) dan ayat (3), wajib memenuhi persyaratan tentang gizi yang ditetapkan.
+(4) Setiap orang yang memproduksi pangan, sebagaimana dimaksud pada ayat (2) dan ayat (3), wajib memenuhi persyaratan tentang gizi yang ditetapkan.
 
 ##### Pasal 28
 
-(1). Setiap orang memproduksi pangan olahan tertentu untuk diperdagangkan wajib menyelenggarakan tata cara pengolahan pangan yang dapat menghambat proses penurunan atau kehilangan kandungan gizi bahan baku pangan yang digunakan.
+(1) Setiap orang yang memproduksi pangan olahan tertentu untuk dipergadangkan wajib menyelenggarakan tata cara pengolahan pangan yang dapat menghambat proses penurunan atau kehilangan kandungan gizi bahan baku pangan yang digunakan.
 
-(2). Pangan olahan tertentu serta tata cara pengolahan pangan, sebagaimana dimaksud pada ayat (1), diatur lebih lanjut oleh
-
-Pemerintah.
+(2) Pangan olahan tertentu serta tata cara pengolahan pangan, sebagaimana dimaksud pada ayat (1), diatur lebih lanjut oleh Pemerintah.
 
 ##### Pasal 29
 
@@ -370,70 +302,53 @@ Ketentuan sebagaimana dimaksud dalam Pasal 24, Pasal 25, Pasal 27, dan Pasal 28 
 
 ##### Pasal 30
 
-(1). Setiap orang yang memproduksi atau memasukkan ke dalam wilayah Indonesia pangan yang dikemas untuk diperdagangkan wajib mencantumkan label pada, di dalam, dan atau di kemasan pangan.
+(1) Setiap orang yang memproduksi atau memasukkan ke dalam wilayah Indonesia pangan yang dikemas untuk diperdagangkan wajib mencantumkan label pada, di dalam, dan atau di kemasan pangan.
 
-(2). Label, sebagaiaman dimaksud pada ayat (1), memuat sekurang-kurangnya keterangan mengenai :
+(2) Label, sebagaimana dimaksud pada ayat (1), memuat sekurang-kurangnya keterangan mengenai:
 
-a. nama produk;
+a. nama produksi;
 
-b. daftar bahan yang digunakan ;
+b. daftar bahan yang digunakan;
 
 c. berat bersih atau isi bersih;
 
-d. nama dan alamat pihak yang memproduksi atau memasukkan pangan ke dalam wilayah Indoensia.
+d. nama dan alamat pihak yang memproduksi atau memasukkan pangan ke dalam wilayah Indoensia;
 
 e. keterangan tentang halal; dan
 
-f. tangal, bulan, dan tahun kadaluwarsa.
+f. tanggal, bulan, dan tahun kedaluwarsa.
 
-(3). Selain ketrangan sebagaiaman dimaksud pada ayat (2), Pemerintah dapat menetapkan keterangan lain yang wajib atau dilarang untuk dicantumkan pada label pangan.
+(3) Selain keterangan sebagimana dimaksud pada ayat (2), Pemerintah dapat menetapkan keterangan lain yang wajib atau dilarang untuk dicantumkan pada label pangan.
 
 ##### Pasal 31
 
 (1) Keterangan pada label, sebagaimana dimaksud dalam Pasal 30, ditulis atau dicetak atau ditampilkan secara tegas dan jelas sehingga dapat mudah dimengerti oleh masyarakat.
 
-2) Keterangan pada label, sebagaimana dimaksud pada ayat (1), ditulis atau dicetak dengan menggunakan bahasa Indonesia, angka Arab, dan huruf Latin.
+(2) Keterangan pada label, sebagaimana dimaksud pada ayat (1), ditulis atau dicetak dengan menggunakan bahasa Indoensia, angka Arab, dan huruf Latin.
 
-(3) Penggunaan istilah asing, selain dimaksud pada ayat (2), dapat dilakukan sepanjang tidak ada padanannya, tidak dapat diciptakan padanannya, atau digunakan untuk kepentingan perdagangan pangan ke luar negeri.
+(3) Penggunaan istilah asing, selain sebagaimana dimaksud pada ayat (2), dapat dilakukan sepanjang tidak ada padanannya, tidak dapat diciptakan padanannya, atau digunakan untuk kepentingan perdagangan pangan ke luar negeri.
 
 ##### Pasal 32
 
-Setiap orang dilarang mengganti, melabel kembali, atau menukar tanggal, bulan, dan tahun kadaluwarsa pangan yang diedarkan.
+Setiap orang dilarang mengganti, melabel kembali, atau menukar tanggal, bulan, dan tahun kedaluwarsa pangan yang diedarkan.
 
 ##### Pasal 33
 
 (1) Setiap label dan atau iklan tentang pangan yang diperdagangkan harus memuat keterangan mengenai pangan dengan benar dan tidak menyesatkan.
 
-(2) Setiap orang dilarang memberikan keterangan
-
-```
-atau      pernyataan              tentang      pangan          yang
-diperdagangkan             melalui,      dalam,       dan      atau
-dengan    label       atau      iklan    apabila    keterangan
-atau    pernyataan          tersebut      tidak     benar       dan
-```
-
-atau menyesatkan.
+(2) Setiap orang dilarang memberikan keternagan atau pernyataan tentang pangan yang diperdagangkan melalui, dalam, dan atau dengan label atau iklan apabila keterangan atau pernyataan tersebut tidak benar dan atau menyesatkan.
 
 (3) Pemerintah mengatur, mengawasi, dan melakukan tindakan yang diperlukan agar iklan tentang pangan yang diperdagangkan tidak memuat keterangan yang dapat menyesatkan.
 
 ##### Pasal 34
 
-(1) Setiap orang yang menyatakan dalam label atau iklan bahwa pangan yang diperdagangkan adalah sesuai dengan persyaratan agama atau kepercayaan tertentu bertanggung jawab atas kebenaran pernyataan berdasarkan persyaratan agama atau kepercayaan tersebut.
+(1) Setiap orang yang menyatakan dalam label atau iklan bahwa pangan yang diperdagangkan adalah sesuai dengan persyaratan agama atau kepercayaan tertentu bertanggung jawab atas kebenaran pernyataan berdasarkan agama atau kepercayaan tersebut.
 
-2) Label tentang pangan olahan tertentu yang diperdagangkan untuk bayi, anak berumur dibawah lima tahun, dan ibu yang sedang hamil atau menyusui wajib memuat keterangan tentang
-
-```
-peruntukan,          cara         penggunaan,       dan        atau
-keterangan           lain         yang    perlu       diketahui
-mengenai      dampak        pangan       terhadap     kesehatan
-```
-
-manusia.
+(2) Label tentang pangan olahan tertentu yang diperdagangkan untuk bayi, anak berumur di bawah lima tahun, dan ibu yang sedang hamil atau menyusui wajib memuat keterangan tentang peruntukan, cara penggunaan, dan atau keterangan lain yang perlu diketahui mengenai dampak pangan terhadap kesehatan manusia.
 
 ##### Pasal 35
 
-Ketentuan sebagai mana dimaksud dalam Pasal 30, Pasal 31, Pasal 33, dan Pasal 34 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+Ketentuan sebagaimana dimaksud dalam Pasal 30, Pasal 31, Pasal 33, dan Pasal 34 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ## BAB V — PEMASUKAN DAN PENGELUARAN PANGAN KE DALAM DAN DARI WILAYAH INDONESIA
 
@@ -445,111 +360,85 @@ Ketentuan sebagai mana dimaksud dalam Pasal 30, Pasal 31, Pasal 33, dan Pasal 34
 
 ##### Pasal 37
 
-Terhadap pangan yang dimasukkan ke dalam wilayah Indonesia, sebagaimana dimaksud dalam Pasal 36, Pemerintah dapat menetapkan persyaratan bahwa :
+Terhadap pangan yang dimasukkan ke dalam wilayah Indonesia, sebagaimana dimaksud dalam Pasal 36, Pemerintah dapat menetapkan persyaratan bahwa:
 
-a. pangan telah diuji dan atau diperiksan serta dinyatakan lulus dari segi keamanan, mutu, dan atau gizi oleh instansi yang berwenang di negara asal;
+a. pangan telah diuji dan atau diperiksa serta dinyatakan lulus dari segi keamanan, mutu dan atau gizi oleh instansi yang berwenang di negara asal;
 
-b. pangan dilengkapi dengan dokumen hasil pengujian dan atau pemeriksaan, sebagaimana dimaksud pada huruf a ; dan atau
+b. pangan yang dilengkapi dengan dokumen hasil pengujian dan atau pemeriksaan, sebagaimana dimaksud pada huruf a; dan atau
 
-c. pangan terlebih dahulu diuji dan atau diperiksa di Indonesia dari segi keamanan, mutu, dan atau gizi sebelum peredarannya.
+c. pangan terlebih dahulu diuji dan atau diperiksa di Indonesia dari segi keamanan, mutu dan atau gizi sebelum peredarannya.
 
 ##### Pasal 38
 
-Setiap orang yang memasukkan pangan ke dalam wilayah Indonesia untuk diedarkan bertanggung jawab atas keamanan, mutu, dan gizi pangan.
+Setiap orang yang memasukkan pangan ke dalam wilayah Indonesia untuk diedarkan bertanggung jawab atas keamanan, mutu dan gizi pangan.
 
 ##### Pasal 39
 
-Pemerintah dapat menetapkan persyaratan agar pangan yang dikeluarkan dari wilayah Indonesia untuk diedarkan terlebih dahulu diuji dan atau diperiksakan dari segi keamanan, mutu, persyaratan label, dan atau gizi pangan.
+Pemerintah dapat menetapkan persyaratan agar pangan yang dikeluarkan dari wilayah Indonesia untuk diedarkan terlebih dahulu diuji dan atau diperiksa dari segi keamanan, mutu, persyaratan label, dan atau gizi pangan.
 
 ##### Pasal 40
 
-Ketentuan sebagaiaman dimaksud dalam Pasal 37, Pasal 38, dan Pasal 39 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+Ketentuan sebagaimana dimaksud dalam Pasal 37, Pasal 38 dan Pasal 39 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ## BAB VI — TANGGUNG JAWAB INDUSTRI PANGAN
 
 ##### Pasal 41
 
-(1) Badan usaha yang memproduksi pangan olahan untuk diedarkan dana atau orang perseorangan dalam badan usaha yang diberi tanggung jawab terhadap jalannya usaha tersebut bertanggung jawab atas keamanan pangan yang diproduksinya terhadap kesehatan orang lain yang mengkonsumsi pangan tersebut.
+(1) Badan usaha yang memproduksi pangan olahan untuk diedarkan dan atau orang perseorangan dalam badan usaha yang diberi tanggung jawab terhadap jalannya usaha tersebut bertanggungjawab atas keamanan pangan yang diproduksinya terhadap kesehatan orang lain yang mengkonsumsi pangan tersebut.
 
-```
-(2)    Orang       perseorangan                yang      kesehatannya
-      terganggu     atau         ahli    waris    dari       orang    yang
-      meninggal      sebagai            akibat     langsung         karena
-      mengkonsumsi          pangan       olahan       yang     diedarkan
-```
+(2) Orang perseorangan yang kesehatannya terganggu atau ahli waris dari orang yang meninggal sebagai akibat langsung karena mengkonsumsi pangan olahan yang diedarkan berhak mengajukan gugatan ganti rugi terhadap badan usaha dan atau orang perseorangan dalam badan usaha, sebagaimana dimaksud pada ayat (1).
 
-berhak mengajukan gugatan ganti rugi terhadap badan usaha dan atau orang perseorangan dalam badan usaha, sebagaimana dimaksud pada ayat (1).
+(3) Dalam hal terbukti bahwa pangan olahan yang diedarkan dan dikonsumsi tersebut mengandung bahan yang dapat merugikan dan atau membahayakan kesehatan manusia atau bahan lain yang dilarang, maka badan usaha dan atau orang perseorangan dalam badan usaha, sebagaimana dimaksud pada ayat (1), wajib mengganti segala kerugian yang secara nyata ditimbulkan.
 
-(3) Dalam hal terbukti bahwa pangan olahan yang diedarkan dan dikonsumsi tersebut mengandung bahan yang dapat merugikan dan atau membahayakan kesehatan manusia atau bahan lain yang dilarang, maka badan usaha dan atau orang perseorang dalam badan usaha, sebagaimana dimaksud pada ayat (1), wajib mengganti segala kerugian yang secara nyata ditimbulkan.
+(4) Selain ketentuan sebagaimana dimaksud pada ayat (3) dalam hal badan usaha dan atau orang perseorangan dalam badan usaha dapat membuktikan bahwa hal tersebut bukan diakibatkan kesalahan atau kelalaiannya, maka badan usaha dan atau orang perseorangan dalam badan usaha tidak wajib mengganti kerugian.
 
-(4) Selain ketentuan sebagaimana dimaksud pada ayat (3) dalam hal badan usaha dan atau orang perseorang dalam badan usaha dapat membuktikan bahwa hal tersebut bukan diakibatkan kesalahan atau kelaliannya, maka badan usaha dana atau orang perseorangan dalam badan usaha tidak wajib mengganti kerugian.
-
-(5) Besarnya ganti rugi, sebagaimana dimaksud pada ayat (3), setinggi-tingginya sebesar Rp.500.000.000,00 (lima ratus juta rupiah) untuk setiap orang yang dirugikan kesehatannya atau kematiaan yang ditimbulkan.
+(5) Besarnya ganti rugi, sebagaimana dimaksud pada ayat (3), setinggi-tingginya sebesar Rp.500.000.000,00 (lima ratus juta rupiah) untuk setiap orang yang dirugikan kesehatannya atau kematian yang ditimbulkan.
 
 ##### Pasal 42
 
-Dalam hal pihak sebagaimana dimaksud dalam Pasal 41 ayat (1) tidak diketahui atau tidak berdomisili di Indonesia, ketentuan dalam Pasal 41 ayat (3) dana ayat (5) diberlakukan terhadap orang yang mengedarkan dana atau memasukkan pangan ke dalam wilayah Indonesia.
+Dalam hal pihak sebagaimana dimaksud dalam Pasal 41 ayat (1) tidak diketahui atau tidak berdomisili di Indonesia, ketentuan dalam Pasal 41 ayat (3) dan ayat (5) diberlakukan terhadap orang yang mengedarkan dan atau memasukkan pangan ke dalam wilayah Indonesia.
 
 ##### Pasal 43
 
 (1) Dalam hal kerugian yang ditimbulkan melibatkan jumlah kerugian materi yang besar dan atau korban yang tidak sedikit, Pemerintah berwenang mengajukan gugatan ganti rugi, sebagaimana dimaksud dalam Pasal 41 ayat (2).
 
-```
-(2)    Gugatan       ganti       rugi,       sebagaimana       dimaksud
-      pada    ayat     (1),      diajukan       untuk     kepentingan
-      orang     yang       mengalami         kerugian      dan     atau
-```
-
-musibah.
+(2) Gugatan ganti rugi, sebagaimana dimaksud pada ayat (1), diajukan untuk kepentingan orang yang mengalami kerugian dan atau musibah.
 
 ##### Pasal 44
 
 Ketentuan sebagaimana dimaksud dalam Pasal 42 dan Pasal 43 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
-## BAB VIII — KETAHANAN PANGAN
+## BAB VII — KETAHANAN PANGAN
 
 ##### Pasal 45
 
 (1) Pemerintah bersama masyarakat bertanggung jawab untuk mewujudkan ketahanan pangan.
 
-```
-(2)     Dalam        rangka    mewujudkan         ketahanan       pangan,
-      sebagaimana             dimaksud          pada       ayat       (1),
-      Pemerintah              menyelenggarakan             pengaturan,
-      pembinaan,             pengendalian,         dan      pengawasan
-```
-
-terhadap ketersediaan pangan yang cukup, baik jumlah maupun mutunya, aman, bergizi, beragam, merata, dan terjangkau oleh daya beli masyarakat.
+(2) Dalam rangka mewujudkan ketahanan pangan, sebagaimana dimaksud pada ayat (1), Pemerintah menyelenggarakan pengaturan, pembinaan, pengendalian, dan pengawasan terhadap ketersediaan pangan yang cukup, baik jumlah maupun mutunya, aman, bergizi, beragam, merata, dan terjangkau oleh daya beli masyarakat.
 
 ##### Pasal 46
 
-Dalam pelaksanaan ketentuan sebagaiaman dimaksud dalam Pasal 45, Pemerintah :
+Dalam pelaksanaan ketentuan sebagaimana dimaksud dalam Pasal 45, Pemerintah:
 
 a. menyelenggarakan, membina, dan atau mengkoordinasikan segala upaya atau kegiatan untuk mewujudkan cadangan pangan nasional;
 
 b. menyelenggarakan, mengatur dan atau mengkoordinasikan segala upaya atau kegiatan dalam rangka penyediaan, pengadaan, dan atau penyaluran pangan tertentu yang bersifat pokok;
 
-c. menetapkan dan menyelenggarakan kebijakan mutu pangan nasional dan penganekaragaman pangan;d. mengambil tindakan untuk mencegah dan atau menanggulangi gejala kekurangan pangan, keadaan darurat, dan atau spekulasi atau manipulasi dalam pengadaan dan peredaran pangan.
+c. menetapkan dan menyelenggarakan kebijakan mutu pangan nasional dan penganekaragaman pangan;
+
+d. mengambil tindakan yang diperlukan untuk mencegah dan atau menanggulangani gejala kekurangan pangan, keadaan darurat, dan atau spekulasi atau manipulasi dalam pengadaan dan perdaran pangan.
 
 ##### Pasal 47
 
-(1) Cadangan pangan nasional, sebagaimana dimaksud dalam Pasal 46 huruf a, terdiri atas :
+(1) Cadangan pangan nasional, sebagamana dimaksud dalam pasal 46 huruf a, terdiri atas:
 
 a. cadangan pangan Pemerintah;
 
 b. cadangan pangan masyarakat.
 
-(2) Cadangan pangan Pemerintah ditetapkan secara berkala dengan memperhitungkan tingkat
+(2) Cadangan pangan Pemerintah ditetapkan secara berkala dengan memperhitungkan tingkat kebutuhan nyata pangan masyarakat dan ketersediaan pangan, serta dengan mengantisipasi terjadinya kekurangan pangan dan atau keadaan darurat.
 
-```
-kebutuhan          nyata           pangan       masyarakat        dan
-ketersediaan                pangan,             serta          dengan
-mengantisipasi            terjadinya         kekurangan        pangan
-```
-
-dan atau keadaan darurat.
-
-(3) Dalam uapaya mewujudkan cadangan pangan nasional, sebagaimana dimaksud pada ayat (1), Pemerintah :
+(3) Dalam upaya mewujudkan cadangan pangan nasional, sebagaimana dimaksud pada ayat (1), Pemerintah:
 
 a. mengembangkan, membina, dan atau membantu penyelenggaraan cadangan pangan masyarakat dan Pemerintah di tingkat pedesaan, perkotaan, propinsi, dan nasional;
 
@@ -561,24 +450,15 @@ Untuk mencegah dan atau menanggulangi gejolak harga pangan tertentu yang dapat m
 
 ##### Pasal 49
 
-(1) Pemerintah melakukan pembinaan yang meliputi upaya :
+(1) Pemerintah melaksanakan pembinaan yang meliputi upaya:
 
 a. pengembangan sumber daya manusia di bidang pangan melalui kegiatan pendidikan dan pelatihan, terutama usaha kecil;
 
-b. untuk mendorong dan meningkatkan peran
-
-```
-serta           masyarakat             dalam         kegiatan
-pengembangan               sumber        daya        manusia,
-peningkatan              kemampuan        usaha        kecil,
-penyuluhan          di        bidang      pangan,       serta
-```
-
-penganekaragamanan pangan;
+b. untuk mendorong dan meningkatkan peran serta masyarakat dalam kegiatan pengembangan sumber daya manusia, peningkatan kemampuan usaha kecil, penyuluhan di bidang pangan, serta penganekaragaman pangan;
 
 c. untuk mendorong dan mengarahkan peran serta asosiasi dan organisasi profesi di bidang pangan;
 
-d. untuk mendorong dan menunjang kegiatan penelitian dana atau pengembangan teknologi di bidang pangan;
+d. untuk mendorong dan menunjang kegiatan penelitian dan atau pengembangan teknologi di bidang pangan;
 
 e. penyebarluasan pengetahuan dan penyuluhan di bidang pangan;
 
@@ -586,23 +466,21 @@ f. pembinaan kerja sama internasional di bidang pangan, sesuai dengan kepentinga
 
 g. untuk mendorong dan meningkatkan kegiatan penganekaragaman pangan yang dikonsumsi masyarakat serta pemantapan mutu pangan tradisional.
 
-(2) Ketentuan sebagaimana dimaksud pada ayat
-
-(1) diatur lebih lanjut oleh Pemerintah.
+(2) Ketentuan sebagaimana dimaksud pada ayat (1) diatur lebih lanjut oleh Pemerintah.
 
 ##### Pasal 50
 
-Ketentuan sebagaiaman dimaksud dalam Pasal 45, Pasal 46, Pasal 47, Pasal 48, dan Pasal 49 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+Ketentuan sebagaimana dimaksud dalam Pasal 45, Pasal 46, Pasal 48, dan Pasal 49 ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ## BAB VIII — PERAN SERTA MASYARAKAT
 
 ##### Pasal 51
 
-Masyarakat memiliki kesempatan untuk berperan seluas-luasnya dalam mewujudkan perlindungan bagi orang perseorangan yang mengkonsumsi pangan, sesuai dengan ketentuan Undang-undang ini dan peraturan pelaksananaanya serta peraturan perundang-undangan lain yang berlaku.
+Masyarakat memiliki kesempatan untuk berperan seluas-luasnya dalam mewujudkan perlindungan bagi orang perseorangan yang mengkonsumsi pangan, sesuai dengan ketentuan Undang-undang ini dan peraturan pelaksanaannya serta peraturan perundang-undangan lain yang berlaku.
 
 ##### Pasal 52
 
-Dalam rangka penyempurnaan dan peningkatan sistem pangan, masyarakat dapat menyampaikan permasalahan, masukan, dan atau cara pemecahan mengenai hal-hal di bidang pangan.
+Dalam rangka penyempurnaan dan peningkatan sistem pangan, masyarakat dapat menyampaikan permasalahan, masukan dan atau cara pemecahan mengenai hal-hal di bidang pangan.
 
 ## BAB IX — PENGAWASAN
 
@@ -610,84 +488,57 @@ Dalam rangka penyempurnaan dan peningkatan sistem pangan, masyarakat dapat menya
 
 (1) Untuk mengawasi pemenuhan ketentuan Undang-undang ini, Pemerintah berwenang melakukan pemeriksaan dalam hal terdapat dugaan terjadinya pelanggaran hukum di bidang pangan.
 
-2) Dalam melaksanakan fungsi pemeriksaan, sebagaimana dimaksud pada ayat (1), Pemerintah berwenang :
+(2) Dalam melaksanakan fungsi pemeriksaan, sebagaimana dimaksud pada ayat (1), Pemerintah berwenang:
 
-```
-a.   memasuki        setiap        tempat        yang      diduga
- digunakan          dalam        kegiatan        atau      proses
- produksi,       penyimpanan,             pengangkutan,       dan
- perdagangan              pangan        untuk          memeriksa,
-```
+a. memasuki setiap tempat yang diduga digunakan dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan perdagangan pangan untuk memeriksa, meneliti dan mengambil contoh pangan dan segala sesuatu yang diduga digunakan dalam kegiatan produksi, penyimpanan, pengangkutan, dan atau perdagangan pangan;
 
-meneliti, dan mengambil contoh pangan dan segala sesuatu yang diduga digunakan dalam kegiatan produksi, penyimpanan, pengangkutan, dan atau perdagangan pangan;
-
-```
-b.   menghentikan,             memeriksa,        dan     mencegah
- setiap     sarana        angkutan        yang    diduga     atau
- patut       diduga            yang       digunakan         dalam
- pengangkutan         pangan          serta    mengambil      dan
-```
-
-memeriksa contoh pangan;
+b. menghentikan, memeriksa dan mencegah setiap sarana angkutan yang diduga atau patut diduga digunakan dalam pengangkutan pangan serta mengambil dan memeriksa contoh pangan;
 
 c. membuka dan meneliti setiap kemasan pangan;
 
-d. memeriksa setiap buku, dokumen, atau catatan lain yang diduga memuat keterangan mengaenai kegiatan produksi, penyimpanan, pengangkutan, dan atau perdagangan pangan, termasuk mengadakan atau mengutip keterangan tersebut;
+d. memeriksa setiap buku, dokumen, atau catatan lain yang diduga memuat keterangan mengenai kegiatan produksi, penyimpanan, pengangkutan, dan atau perdagangan pangan, termasuk menggandakan atau mengutip keterangan tersebut;
 
-e. memerintahkan untuk memeprhatikan izin usaha atau dokumen lain sejenis.
+e. memerintahkan untuk memperlihatkan izin usaha atau dokumen lain sejenis.
 
-(3) Pejabat pemeriksan untuk melakukan pemeriksaan,sebagaimana dimaksud ayat (2), dilengkapi dengan surat perintah.
+(3) Pejabat pemeriksa untuk melakukan pemeriksaan, sebagaimana dimaksud pada ayat (2), dilengkapi dengan surat perintah.
 
-(4) Dalam hal berdasarkan hasil pemeriksaan, sebagaimana dimaksud pada ayat (2), patut diduga merupakan tindak pidanan di bidang pangan, segera dilakukan tindakan penyidikan oleh penyidik berdasarkan peraturan perundang-undangan yang berlaku.
+(4) Dalam hal berdasarkan hasil pemeriksaan, sebagaimana dimaksud pada ayat (2), patut diduga merupakan tindak pidana di bidang pangan, segera dilakukan tindakan penyidikan oleh penyidik berdasarkan peraturan perundang-undangan yang berlaku.
 
-(5) Ketentuan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+(5) Ketentuan sebagaimana dimaksud pada ayat (1), ayat (2) dan ayat (3) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ##### Pasal 54
 
-```
-(1)    Dalam       melaksanakan             fungsi      pengawasan,
-      sebagaimana         dimaksud          dalam      Pasal      53,
-      Pemerintah         berwenang          mengambil      tindakan
-```
+(1) Dalam melaksanakan fungsi pengawasan, sebagaimana dimaksud dalam Pasal 53, Pemerintah berwenang mengambil tindakan administratif terhadap pelanggaran ketentuan Undang-undang ini.
 
-administratif terhadap pelanggaran ketentuan Undang-undang ini.
-
-(2) Tindakan adminstratif, sebagaimana dimaksud pada ayat (1), dapat berupa :
+(2) Tindakan administratif, sebagaimana dimaksud pada ayat (1), dapat berupa:
 
 a. peringatan secara tertulis;
 
-```
-b.    larangan             mengedarkan           untuk        sementara
-  waktu          dan       atau        perintah       untuk     menarik
-  produk            pangan            dari     peredaran        apabila
-  terdapat          risiko            tercemarnya       pangan      atau
-```
-
-pangan tidak aman bagi kesehatan manusia;
+b. larangan mengedarkan untuk sementara waktu dan atau perintah untuk menarik produk pangan dari peredaran apabila terdapat risiko tercemarnya pangan atau pangan tidak aman bagi kesehatan manusia;
 
 c. pemusnahan pangan jika terbukti membahayakan kesehatan dan jiwa manusia;
 
 d. penghentian produksi untuk sementara waktu;
 
-e. pengenaan denda paling tinggi Rp. 50.000.000,00 (lima puluh juta rupiah); dan atau
+e. pengenaan denda paling tinggi Rp. 50.000.000,00 (lima puluh juta ripuah); dan atau
 
 f. pencabutan izin produksi atau izin usaha.
 
-(3) Ketentuan sebagaimana dimaksud pada ayat (1), dan ayat (2) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+(3) Ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ## BAB X — KETENTUAN PIDANA
 
 ##### Pasal 55
 
-Barang siapa dengan sengaja :
+Barangsiapa dengan sengaja:
 
-a. menyelenggarakan kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan dalam keadaan yang tidak memenuhi persyaratan sanitasi, sebagaimana dimaksud dalam Pasal 8;
+a. menyelenggarakan kegiatan atau proses produksi, penyimpangan, pengangkutan, dan atau peredaran pangan dalam keadaan yang tidak memenuhi persyaratan sanitasi, sebagaimana dimaksud dalam Pasal 8;
 
-b. menggunakan bahan yang dilarang digunakan sebagai bahan tamabahan pangan atau menggunakan bahan tamabahan pangan secara melampaui ambang batas maksimal yang ditetapkan, sebagaimana dimaksud dalam Pasal 10 ayat (1);
+b. menggunakan bahan yang dilarang digunakan sebagai bahan tambahan pangan atau menggunakan bahan tambahan pangan secara melampaui ambang batas maksimal yang ditetapkan, sebagaimana dimaksud dalam Pasal 10 ayat (1);
 
-c. menggunakan bahan yang dilarang digunakan sebagai kemasan pangan dan atau bahan apa pun yang dapat melepaskan cemaran yang merugikan atau membahayakan kesehatan manusia, sebagaimana dimaksud dalam Pasal 16 ayat (1);
+c. menggunakan bahan yang dilarang digunakan sebagai kemasan pangan dan atau bahan apa pun yang dapat melepaskan cemaran yang yang merugikan atau membahayakan kesehatan manusia, sebagaimana dimaksud dalam Pasal 16 ayat (1);
 
-d. mengedarkan pangan yang dilarang untuk diedarkan, sebagaimana dimaksud dalam Pasal 21 huruf a, huruf b, huruf, c, huruf d, dan huruf e;
+d. mengedarkan pangan yang dilarang untuk diedarkan, sebagaimana dimaksud dalam Pasal 21 huruf a, huruf b, huruf c, huruf d, atau huruf e;
 
 e. memperdagangkan pangan yang tidak memenuhi standar mutu yang diwajibkan, sebagaimana dimaksud dalam Pasal 26 huruf a;
 
@@ -695,138 +546,127 @@ f. memperdagangkan pangan yang mutunya berbeda atau tidak sama dengan mutu panga
 
 g. memperdagangkan pangan yang tidak memenuhi persyaratan sertifikasi mutu pangan, sebagaimana dimaksud dalam Pasal 26 huruf c;
 
-h. mengganti, melebel kembali, atau menukar tanggal, bulan, dan tahun kadaluwarsa pangan yang diedarkan sebagaiaman dimaksud dalam Pasal 32;
-
-dipidana dengan pidana penjara paling lama 5 (lima) tahun dana atau denda paling banyak Rp. 600.000.000,00 (enam ratus juta rupiah).
+h. mengganti, melabel kembali, atau menukar tanggal, bulan, dan tahun kedaluwarsa pangan yang diedarkan, sebagaimana dimaksud dalam Pasal 32; dipidana dengan pidana penjara paling lama 5 (lima) tahun dan atau denda paling banyak Rp. 600.000.000,00 (enam ratus juta rupiah).
 
 ##### Pasal 56
 
-Barang siapa :
+Barangsiapa karena kelalaiannya:
 
 a. menyelenggarakan kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan dalam keadaan yang tidak memenuhi persyaratan sanitasi, sebagaimana dimaksud dalam Pasal 8;
 
-b. menggunakan bahan yang dilarang digunakan sebagaimana bahan tambahan pangan atau menggunakan bahan tambahan pangan secara melampaui ambang batas maksimal yang ditetapkan, sebagaimana dimaksud dalam Pasal 10 ayat (1);
+b. menggunakan bahan yang dilarang digunakan sebagai bahan tambahan pangan atau menggunakan bahan tambahan pangan secara melampaui ambang batas maksimal yang ditetapkan; sebagaimana dimaksud dalam Pasal 10 ayat (1);
 
 c. menggunakan bahan yang dilarang digunakan sebagai kemasan pangan dan atau bahan apa pun yang dapat melepaskan cemaran yang merugikan atau membahayakan kesehatan manusia, sebagaimana dimaksud dalam Pasal 16 ayat (1);
 
-d. mengedarkan pangan yang dilarang untuk diedarkan sebagaimana dimaksud dalam Pasal 21 huruf a, huruf b, huruf c, huruf d, atau huruf e;
-
-dipidana dengan pidana penjara paling lama 1 (satu) tahun dan atau denda paling banyak Rp. 120.000.000,00 (seratus dua puluh juta rupiah).
+d. mengedarkan pangan yang dilarang untuk diedarakan, sebagaimana dimaksud dalam Pasal 21 huruf a, huruf b, huruf c, huruf d, atau huruf e; dipidana dengan pidana penjara paling lama 1 (satu) tahun dan atau denda paling banyak Rp. 120.000.000,00 (seratus dua puluh juta rupiah).
 
 ##### Pasal 57
 
-Ancaman pidana atas pelanggaran, sebagaiaman dimaksud dalam Pasal 55 huruf a, huruf b, huruf c, dan huruf d serta Pasal 56, ditambah seperempat apabila menimbulkan kerugian terhadap kesehatan manusia atau ditamabah sepertiga apabila menimbulkan kematian.
+Ancaman pidana atas pelanggaran, sebagaimana dimaksud dalam Pasal 55 huruf a, huruf b, huruf c, dan huruf d serta Pasal 56, ditambah seperempat apabila menimbulkan kerugian terhadap kesehatan manusia atau ditambah sepertiga apabila menimbulkan kematian.
 
 ##### Pasal 58
 
-Barangsiapa :
+Barangsiapa:
 
-a. menggunakan suatu bahan sebagai bahan tamabahan pangan dan mengedarkan pangan tersebut secara bertentangan dengan ketentuan dalam Pasal 11;
+a. menggunakan suatu bahan sebagai bahan tambahan pangan dan mengedarkan pangan tersebut serta bertentangan dengan ketentuan dalam Pasal 11;
 
-b. mengedarkan pangan yang diproduksi atau menggunakan bahan baku, bahan tamabahan pangan, dan atau bahan bantu lain dalam kegiatan atau proses produksi pangan yang dihasilkan dari proses rekayasa genetika, tanpa lebih dahulu memeriksakan keamanan pangan, sebagaimana dimaksud dalam Pasal 13 ayat (1);
+b. mengedarkan pangan yang diproduksi atau menggunakan bahan baku, bahan tambahan pangan, dan atau bahan bantu lain dalam kegiatan atau proses produksi pangan yang dihasilkan dari proses rekayasa genetika, tanpa lebih dahulu memeriksakan keamanan pangan, sebagaimana dimaksud dalam Pasal
 
-c. menggunakan Iridiasi dalam kegiatan atau proses produksi pangan tanpa izin, sebagaimana dimaksud dalam Pasal 14 ayat (1);
+13 ayat (1).
 
-d. menggunakan suatu bahan sebagi kemasan pangan untuk diedarkan secara bertentangan dalam ketentuan Pasal 17.e. membuka kemasan akhir pangan untuk dikemas kembali dan memerdagangkanya, sebagai mana yang dimaksud dalam Pasal 18 ayat (1)
+c. menggunakan iradiasi dalam kegiatan atau proses produksi pangan tanpa izin, sebagaimana dimaksud dalam Pasal 14 ayat (1);
 
-f. mengedarkan pangan tertentu yang diperdagangkan terlebihdahulu tanpa di uji secara labolatoris,sebagaimana yang dimaksud dalam Pasal 20 ayat (2)
+d. menggunakan suatu bahan sebagai kemasan pangan untuk diedarkan secara bertentangan dengan ketentuan dalam Pasal 17;
 
-g. memproduksi pangan tanpa memenuhi persyaratantentang gizi pangan yang ditetapkan, sebagaimana yang dimaksud dalam Pasal 27 ayat (4)
+e. membuka kemasan akhir pangan untuk dikemas kembali dan memperdagangkannya, sebagaimana dimaksud dalam Pasal 18 ayat (1);
 
-h. memproduksi atau memasukan kedalam wilayah indnesia pangan yang dikemas untuk diperdagangkan tanpa mencantumkan label,sebagimana yang dimaksud dalam Pasal 30 atau Pasal 31
+f. mengedarkan pangan tertentu yang diperdagangkan tanpa lebih dahulu diuji secara laboratoris, sebagaimana dimaksud dalam Pasal 20 ayat (2);
 
-i. memberikan keterangan atau pernyataan secara tidak benar dalam iklan atau label bahwa pangan yang diperdagangkan adalah sesuai menurut persyaratan agama atau kepercayaan tertentu,sebagimana dimaksud dalam Pasal 34 ayat(1)
+g. memproduksi pangan tanpa memenuhi persyaratan tentang gizi pangan yang ditetapkan, sebagaimana dimaksud dalam Pasal 27 ayat (4);
 
-k. memasukan pangan kedalam wilayah indonesia dan atau mengedarkan didalam wilayah indonesia pangan yang tiak memenuhi ketentuan Undang-undang ini dan peraturan pelaksanaannya, sebagimana dimaksud dalam pasal 36 ayat (2)
+h. memproduksi atau memasukkan ke dalam wilayah Indonesia pangan yang dikemas untuk diperdagangkan tanpa mencantumkan label, sebagaimana dimaksud dalam Pasal 30 atau Pasal 31;
 
-l. menghambat kelancaran proses pemeriksaan, sebagimana dimaksud dalam Pasal 53 dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan atau denda paling banyak Rp. 360.000.000,00 (tiga ratus enam puluh juta rupiah).
+i. memberikan keterangan atau pernyataan secara tidak benar dan atau menyesatkan mengenai pangan yang diperdagangkan melalui, dalam, dan atau dengan label dan atau iklan, sebagaimana dimaksud dalam Pasal 33 ayat (2);
+
+j. memberikan pernyataan atau keterangan yang tidak benar dalam iklan atau label bahwa pangan yang diperdagangkan adalah sesuai memenuhi persyaratan agama atau kepercayaan tertentu, sebagaimana dimaksud dalam Pasal 34 ayat (1);
+
+k. memasukkan pangan ke dalam wilayah Indonesia dan atau mengedarkan di dalam wilayah Indonesia pangan yang tidak memenuhi ketentuan Undang-undang ini dan peraturan pelaksanaannya, sebagaimana dimaksud dalam Pasal 36 ayat (2);
+
+l. menghambat kelancaran proses pemeriksaan, sebagaimana dimaksud dalam Pasal 53; dipidana dengan pidana penjara paling lama 3 (tiga) tahun dan atau denda paling banyak Rp. 360.000.000,00 (tiga ratus enam puluh juta rupiah).
 
 ##### Pasal 59
 
-Barang siapa :
+Barangsiapa:
 
-a. tidak menyelenggarakan kegiatan atau proses produksi, menyimpan, pengangkutan dan atau peredaran pangan yang memenuhi persyaratan sanitasi, keamanan, dan atau keselamatan manusia, atau tidak menyelenggarakan program pemantauan sanitasi secara berkala, atau tidak melaksanakan pengawasan atas pemenuhan persyaratan sanitasi, sebagaimana yang dimaksud dalam Pasal 6.
+a. tidak menyelenggarakan kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan yang memenuhi persyaratan sanitasi, keamanan, dan atau keselamatan manusia, atau tidak menyelenggarakan program pemantauan sanitasi secara berkala, atau tidak menyelenggarakan pengawasan atas pemenuhan persyaratan sanitasi, sebagaimana dimaksud dalam Pasal 6;
 
-b. tidak memenuhi persyaratan sanitasi, sebagaimana dimaksud dalam Pasal 7.
+b. tidak memenuhi persyaratan sanitasi, sebagaimana dimaksud dalam Pasal 7;
 
-c. tidak melaksanakan tata cara pengemasan pangan yang ditetapkan, sebagaimana dimaksud dalam Pasal 16 ayat (3).
+c. tidak melaksanakan tata cara pengemasan pangan yang ditetapkan, sebagaimana dimaksud dalam Pasal 16 ayat (3);
 
-d. tidak menyelengarakan sistem jaminan mutu yang ditetapkan dalam kegiatan atau proses produksi pangan untuk diperdagangkan, sebagaimana dimaksud dalam Pasal 20 ayat (1).
+d. tidak menyelenggarakan sistem jaminan mutu yang ditetapkan dalam kegiatan atau proses produksi pangan untuk diperdagangkan, sebagaimana dimaksud dalam Pasal 20 ayat (1);
 
-e. tidak memuat keterangan yang wajib dicantumkan pada label, sebagaimana yang dimaksud dalam Pasal 34 ayat (2) meskipun telah diperingatkan secara tertulis oleh pemerintah, dipidana dengan pedana penjara paling lama 4 (empat) tahun dan denda paling banyak Rp.480.000.000,00 (empat ratus delapan puluh juta rupiah).
+e. tidak memuat keterangan yang wajib dicantumkan pada label, sebagaimana dimaksud dalam Pasal 34 ayat (2); meskipun telah diperingatkan secara tertulis oleh Pemerintah, dipidana dengan pidana penjara paling lama 4 (empat) tahun dan atau denda paling banyak Rp. 480.000.000,00 (empat ratus delapan puluh juta rupiah).
 
 ## BAB XI — PENYERAHAN URUSAN DAN TUGAS PEMBANTUAN
 
 ##### Pasal 60
 
-```
-(1). Pemerintah           dapat         menyerahkan           sebagian
-     urusan     dibidang            pangan    kepada        Pemerintah
-     Daerah,     sesuai        dengan    peraturan          perundang-
-```
+(1) Pemerintah dapat menyerahkan sebagian urusan di bidang pangan kepada Pemerintah Daerah, sesuai dengan peraturan perundang-undangan yang berlaku.
 
-undangan yang berlaku.
+(2) Pemerintah dapat menugaskan Pemerintah Daerah untuk melaksanakan tugas pembantuan di bidang pangan.
 
-(2). Pemerintah dapat menugaskan Pemerintah Daerah untuk melaksanakan tugas pembantu dibidang pangan.
-
-(3). Ketentuan sebagaimana yang dimaksud pada ayat (1) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
+(3) Ketentuan sebagaimana dimaksud pada ayat (1) ditetapkan lebih lanjut dengan Peraturan Pemerintah.
 
 ## BAB XII — KETENTUAN LAIN-LAIN
 
 ##### Pasal 61
 
-```
-(1). Dalam       hal       terjadi      kekurangan      pangan    yang
-     sangat         mendesak,                Pemerintah          dapat
-     mengesampingkan                 untuk     sementara         waktu
-     ketentuan             Undang-undang          ini       tentang
-```
+(1) Dalam hal terjadi keadaan kekurangan pangan yang sangat mendesak, Pemerintah dapat mengesampingkan untuk sementara waktu ketentuan Undang-undang ini tentang persyaratan keamanan pangan, label, mutu, dan atau persyaratan gizi pangan.
 
-persyaratan keamanan pangan, label, mutu, dan atau persyaratan gizi pangan.
-
-(2). Ketentuan sebagaimana dimaksud dalam ayat
-
-(1) dilaksanakan dengan tetap memperhatikan keselamatan dan terjaminnya kesehatan masyarakat.
+(2) Ketentuan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan tetap memperhatikan keselamatan dan terjaminnya kesehatan masyarakat.
 
 ##### Pasal 62
 
-Bilamana dipandang perlu, Pemerintah dapat menunjuk instansi untuk mengkoordinasi terlaksananya Undang-undang ini.
+Bilamana dipandang perlu, Pemerintah dapat menunjuk instansi untuk mengkoordinasikan terlaksananya Undang-undang ini.
 
 ##### Pasal 63
 
-Undang-undang ini dan peraturan pelaksanaanya tidak berlaku bagi pangan yang diproduksi dan dikonsumsi oleh kalangan rumah tangga.
+Undang-undang ini dan peraturan pelaksanaannya tidak berlaku bagi pangan yang diproduksi dan dikonsumsi oleh kalangan rumah tangga.
 
-## BAB XIII — KETENTUAN PERALIHAN
+## BAB XIII — KETENTUAN PERADILAN
 
 ##### Pasal 64
 
-Pada saat mulai berlakukanya Undang-undang ini semua peraturan perundang-undangan tentang pangan yang telah ada dinyatakan tetap berlaku sepanjang tidak bertentangan dengan Undang-undang ini.
+Pada saat mulai berlakunya Undang-undang ini semua peraturan perundang-undangan tentang pangan yang telah ada dinyatakan tetap berlaku sepanjang tidak bertentangan dengan Undang-undang ini.
 
 ## BAB XIV — KETENTUAN PENUTUP
 
 ##### Pasal 65
 
-Undang-undang ini mulai berlaku pada tanggal ditetapkan.
+Undang-undang ini mulai berlaku pada tanggal diundangkan.
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+Agar setiap orang dapat mengetahuinya, memerintahkan pengundangan Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
 
-Disahkan di Jakarta pada tanggal 4 November 1996
+Ditetapkan di Jakarta pada tanggal 4 Nopember 1996
 
 PRESIDEN REPUBLIK INDONESIA
 
-ttd
+ttd.
 
 SOEHARTO
 
-Diundangkan di Jakarta pada tanggal 4 November 1996
+Diundangkan di Jakarta pada tanggal 4 Nopember 1996
 
-MENTERI NEGERA SEKRETARIS NEGARA
+MENTERI NEGARA SEKRETARIS NEGARA
 
-ttd
+REPUBLIK INDONESIA,
+
+ttd.
 
 MOERDIONO
 
-LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 1996 NOMOR 99
+LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 99 TAHUN 1996
 
 ## PENJELASAN
 
@@ -840,83 +680,91 @@ TENTANG
 
 PANGAN
 
-### I. UMUM
+UMUM
 
-Pembangunan nasional merupakan pencerminan kehendak untuk terus-menerus meningkatkan kemakmuran dan kesejahteraan rakyat Indonesia secara adil dan merata dalam segala aspek kehidupan serta diselenggarakan secara terpadu, terarah, dan berkesinambungan dalam rangka mewujudkan suatu masyarakat yang adil dan makmur, baik materi maupun spiritual, berdasarkan Pancasila dan Undang-Undang Dasar 1945.
+Pembangunan nasional merupakan pencerminan kehendak untuk terus-menerus meningkatkan kemakmuran dan kesejahteraan rakyat Indonesia secara adil dan merata dalam segala aspek kehidupan serta diselenggarakan secara terpadu, terarah dan berkesinambungan dalam rangka mewujudkan suatu masyarakat yang adil dan makmur, baik material maupun spiritual, berdasarkan Pancasila dan Undang-Undang-Dasar 1945.
 
-Pangan sebagai kebutuhan dasar manusia yang pemenuhannya merupakan hak asasi setiap rakyat Indonesia harus senantiasa tersedia cukup setiap waktu, aman, bermutu, bergizi, dan beragam dengan harga yang terjangkau oleh daya beli masyarakat. Untuk mencapai semua itu, perlu diselenggarakan suatu sistem pangan yang memberikan perlindungan, baik bagi pihak yang memproduksi maupun yang mengkonsumsi pangan, serta tidak bertentangan dengan keyakinan masyarakat. Sumber daya manusia yang berkualitas selain unsur terpenting yang perlu memperoleh prioritas dalam pembangunan, juga sebagai salah satu faktor penentu keberhasilan pembangunan. Peningkatan kualitas sumber daya manusia sangat ditentukan, antara lain, oleh kualitas pangan yang dikonsumsinya.
+Pangan sebagai kebutuhan dasar manusia yang pemenuhannya merupakan hak asasi setiap rakyat Indonesia harus senantiasa tersedia cukup setiap waktu, aman, bermutu, bergizi, dan beragam dengan harga yang terjangkau oleh daya beli masyarakat.
+
+Untuk mencapai semua itu, perlu diselenggarakan suatu sistem pangan yang memberikan perlingdungan, baik bagi pihak yang memproduksi maupun yang mengkonsumsi pangan, serta tidak bertentangan dengan keyakinan masyarakat.
+
+Sumber daya manusia yang berkualitas selain merupakan unsur terpenting yang perlu memperoleh prioritas dalam pembangunan, juga sebagai salah satu faktor penentu keberhasilan pembangunan. Peningkatan kualitas sumber daya manusia sangat ditentukan, antara lain, oleh kualitas pangan yang dikonsumsinya.
 
 Kegiatan atau proses produksi pangan untuk diedarkan atau diperdagangkan harus memenuhi ketentuan tentang sanitasi pangan, bahan tambahan pangan, residu cemaran, dan kemasan pangan. Hal lain yang patut diperhatikan oleh setiap orang yang memproduksi pangan adalah penggunaan metode tertentu dalam kegiatan atau proses produksi pangan yang memiliki kemungkinan timbulnya risiko yang dapat merugikan atau membahayakan kesehatan manusia, seperti rekayasa genetika atau iradiasi, harus dilakukan berdasarkan persyaratan tertentu.
 
 Setiap orang yang memproduksi pangan untuk diperdagangkan perlu memperhatikan ketentuan mengenai mutu dan gizi pangan yang ditetapkan. Pangan tertentu yang diperdagangkan dapat diwajibkan untuk terlebih dahulu diperiksa di laboratorium sebelum diedarkan. Dalam upaya meningkatkan kandungan gizi pangan olahan tertentu, Pemerintah berwenang untuk menetapkan persyaratan tentang komposisi pangan tersebut.
 
-Setiap orang yang memproduksi pangan untuk diedarkan perlu dibebani tanggung jawab, terutama apabila pangan yang diproduksinya menyebabkan baik kerugian pada kesehatan manusia maupun kematian orang yang mengkonsumsi pangan tersebut. Dalam hal itu, Undang-undang ini secara spesifik mengatur tanggung jawab industri pangan untuk memberikan ganti rugi kepada pihak yang dirugikan. Di samping tanggung jawab untuk memberikan ganti rugi sebagaimana dimaksud di atas, Undang-undang ini juga menetapkan ketentuan sanksi lainnya, baik yang bersifat administratif maupun pidana terhadap para pelanggarnya.
+Setiap orang yang memproduksi pangan untuk diedarkan perlu dibebani tanggung jawab, terutama apabila pangan yang diproduksinya menyebabkan baik kerugian pada kesehatan manusia maupun kematian orang yang mengkonsumsi pangan tersebut.
 
-Dalam kegiatan perdagangan pangan, masyarakat yang mengkonsumsi perlu diberikan sarana yang memadai agar memperoleh informasi yang benar dan tidak menyesatkan.
+Dalam hal itu, Undang-undang ini secara spesifik mengatur tanggung jawab industri pangan untuk memberikan ganti rugi kepada pihak yang dirugikan. Di samping tanggung jawab untuk memberikan ganti rugi sebagaimana dimaksud di atas, Undang-undang ini juga menetapkan ketentuan sanksi lainnya, baik yang bersifat administratif maupun pidana terhadap para pelanggarnya.
 
-Sehubungan dengan hal tersebut, perlu ditetapkan ketentuan mengenai label dan iklan tentang pangan. Dengan demikian, masyarakat yang mengkonsumsi pangan dapat mengambil keputusan berdasarkan informasi yang akurat sehingga tercipta perdagangan pangan yang jujur dan bertanggung jawab, yang pada gilirannya menumbuhkan persaingan yang sehat di kalangan para pengusaha pangan. Khusus menyangkut label atau iklan tentang pangan yang mencantumkan pernyataan bahwa pangan telah sesuai dengan dengan persyaratan atau kepercayaan tertentu, maka orang yang membuat pernyataan tersebut bertanggung jawab terhadap kebenaran pernyataan dimaksud.
+Dalam kegiatan perdagangan pangan, masyarakat yang mengkonsumsi perlu diberikan sarana yang memadai agar memperoleh informasi yang benar dan tidak menyesatkan. Sehubungan dengan hal tersebut, perlu ditetapkan ketentuan mengenai label dan iklan tentang pangan. Dengan demikian, masyarakat yang mengkonsumsi pangan dapat mengambil keputusan berdasarkan informasi yang akurat sehingga tercipta perdagangan pangan yang jujur dan bertanggung jawab, yang pada gilirannya menumbuhkan persaingan yang sehat di kalangan para pengusaha pangan. Khusus menyangkut label atau iklan tentang pangan yang mencantumkan pernyataan bahwa pangan telah sesuai dengan persyaratan atau kepercayaan tertentu, maka orang yang membuat pernyataan tersebut bertanggung jawab terhadap kebenaran pernyataan dimaksud.
 
-Pengusaha kecil di bidang pangan pada tahap-tahap awal mungkin mengalami kesulitan untuk memenuhi keseluruhan persyaratan yang ditetapkan oleh Undang-undang ini.
+Pengusaha kecil di bidang pangan pada tahap-tahap awal mungkin mengalami kesulitan untuk memenuhi keseluruhan persyaratan yang ditetapkan oleh Undang-undang ini. Untuk mengatasi hal ini, diperlukan pembinaan secara berkesinambungan agar pengusaha kecil tersebut dapat memenuhi persyaratan keamanan, mutu, dan gizi pangan. Berkenaan dengan itu, pelaksanaan ketentuan-ketentuan tersebut dilakukan secara bertahap.
 
-Untuk mengatasi hal ini, diperlukan pembinaan secara berkesinambungan agar pengusaha kecil tersebut dapat memenuhi persyaratan keamanan, mutu, dan gizi pangan. Berkenaan dengan itu, pelaksanaan ketentuan-ketentuan tersebut dilakukan secara bertahap.
-
-Ketentuan mengenai keamanan, mutu dan gizi pangan, serta label dan iklan pangan tidak hanya berlaku bagi pangan yang diproduksi dan atau diedarkan di wilayah Indonesia, tetapi juga bagi pangan yang dimasukkan ke dalam wilayah Indonesia. Dalam hal-hal tertentu bagi produksi pangan nasional yang akan diedarkan di luar negeri, diberlakukan ketentuan yang sama.
+Ketentuan menganai keamanan, mutu, dan gizi pangan, serta label dan iklan pangan tidak hanya bagi pangan yang diproduksi dan atau diedarkan di wilayah Indonesa, tetapi juga bagi pangan yang dimasukkan ke dalam wilayah Indonesia. Dalam hal-hal tertentu bagi produksi pangan nasional yang akan diedarkan di luar negeri, diberlakukan ketentuan yang sama.
 
 Sebagai komoditas dagang, pangan memiliki peranan yang sangat besar dalam peningkatan citra pangan nasional di dunia internasional dan sekaligus penghasil devisa.
 
-Oleh karena itu, produksi pangan nasional harus mampu memenuhi standar yang berlaku secara internasional dan memerlukan dukungan perdagangan yang dapat memberi peluang bagi pengusaha di bidang pangan, baik yang besar, menengah maupun kecil, untuk mendukung pertumbuhan ekonomi. Pengaturan mengenai pangan juga diarahkan untuk mewujudkan ketahanan pangan yang mencakup ketersediaan dan cadangan pangan, serta terjangkau sesuai dengan kebutuhan konsumsi masyarakat. Pemerintah bersama masyarakat perlu memelihara cadangan pangan nasional. Di samping itu, Pemerintah dapat mengendalikan harga pangan tertentu, baik untuk tujuan stabilitasi harga maupun untuk mengatasi keadaan apabila terjadi kekurangan pangan atau keadaan darurat lainnya.
+Oleh karena itu, produksi pangan nasional harus mampu memenuhi standar yang berlaku secara internasional dan memerlukan dukungan perdagangan pangan yang dapat memberi peluang bagi pengusaha di bidang pangan, baik yang besar, menengah maupun kecil, untuk mendukung pertumbuhan ekonomi.
 
-Undang-undang tentang Pangan dimaksudkan sebagai landasan hukum bagi pengaturan, pembinaan, dan pengawasan terhadap kegiatan atau proses produksi, peredaran, dan atau perdagangan pangan. Sebagai landasan hukum di bidang pangan.
+Pengaturan mengenai pangan juga diarahkan untuk mewujudkan ketahanan pangan yang mencakup ketersediaan dan cadangan pangan, serta terjangkau sesuai dengan kebutuhan konsumsi masyarakat. Pemerintah besama masyarakat perlu memelihara cadangan pangan nasional. Di samping itu, Pemerintah dapat mengendalikan harga pangan tertentu, baik untuk tujuan stabilisasi harga maupun untuk mengatasi keadaan apabila terjadi kekurangan pangan atau keadaan darurat lainnya.
 
-Undang-undang ini dimaksudkan menjadi acuan dari berbagai peraturan perundang-undangan yang berkaitan dengan pangan, baik yang sudah ada maupun yang akan dibentuk. Pada saat Undang-undang ini diberlakukan, telah terdapat berbagai peraturan perundang-undangan yang berkaitan dengan pangan, antara lain :
+Undang-undang tentang Pangan dimaksudkan sebagai landasan hukum bagi pengaturan, pembinaan, dan pengawasan terhadap kegiatan atau proses produksi, peredaran, dan atau perdagangan pangan. Sebagai landasan hukum di bidang pangan, Undang-undang ini dimaksudkan menjadi acuan dari berbagai peraturan perundang-undangan yang berkaitan dengan pangan, baik yang sudah ada maupun yang akan dibentuk. Pada saat Undang-undang ini diberlakukan, telah terdapat berbagai peraturan perundang-undangan yang berkaitan dengan pangan, antara lain:
 
 1. Undang-undang Nomor 6 Tahun 1967 tentang Ketentuan-ketentuan Pokok Peternakan dan Kesehatan Hewan (Lembaran Negara Tahun 1967 Nomor 10, Tambahan Lembaran Negara Nomor 2824);
 
-2. Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di Daerah (Lembaran Negara Tahun 1974 Nomor 38, Tambahan Lembaran Negara Nomor 3037);
+2. Undang-undang Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan Di daerah (Lembaran Negara Tahun 1974 Nomor 38, Tambahan Lembaran Negara Nomor 3037);
 
-3. Undang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan Pokok Pengelolaan Lingkungan Hidup (Lembaran Negara Tahun 1982 Nomor 12, Tambahan Lembaran Negara Nomor 3215);
+3. Undang-undang Nomor 4 Tahun 1982 tentang Ketentuan-ketentuan Pokok
+
+Pengelolaan Lingkungan Hidup (Lembaran Negara Tahun 1982 Nomor 12, Tambahan Lembaran Negara Nomor 3215);
 
 4. Undang-undang Nomor 5 Tahun 1984 tentang Perindustrian (Lembaran Negara Tahun 1984 Nomor 22, Tambahan Lembaran Negara Nomor 3274);
 
-5. Undang-undang Nomor 9 Tahun 1985 tentang Periklanan (Lembaran Negara Tahun 1985 Nomor 46, Tambahan Lembaran Negara Nomor 3299);
+5. Undang-undang Nomor 9 Tahun 1985 tentang Perikanan (Lembaran Negara Tahun 1985 Nomor 46, Tambahan Lembaran Negara Nomor 3299);
 
 6. Undang-undang Nomor 12 Tahun 1992 tentang Sistem Budidaya Tanaman (Lembaran Negara Tahun 1992 Nomor 46, Tambahan Lembaran Negara Nomor 3478);
 
-7. Undang-undang Nomor 16 Tahun 1992 tentang Karantina Hewan, Ikan dna Tumbuhan (Lembaran Negara Tahun 1992 Nomor 56, Tambahan Lembaran Negara Nomor 3482);
+7. Undang-undang Nomor 16 Tahun 1992 tentang Karantina Hewan, Ikan, dan Tumbuhan (Lembaran Negara Tahun 1992 Nomor 56, Tambahan Lembaran Negara Nomor 3482);
 
-8. Undang-undang Nomor 23 tahun 1992 tentang Kesehatan (Lembaran Negara Tahun 1992 Nomor 100, Tambahan Lembaran Negara Nomor 3495);
+8. Undang-undang Nomor 23 Tahun 1992 tentang Kesehatan (Lembaran Negara Tahun 1992 Nomor 100, Tambahan Lembaran Negara Nomor 3495);
 
 9. Undang-undang Nomor 25 Tahun 1992 tentang Perkoperasian (Lembaran Negara Tahun 1992 Nomor 116, Tambahan Lembaran Negara Nomor 3502);
 
 10. Undang-undang Nomor 9 Tahun 1995 tentang Usaha Kecil (Lembaran Negara Tahun 1995 Nomor 74, Tambahan Lembaran Negara Nomor 3611);
 
-11. Undang-undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Tahun 1995 Nomor 75, Tambahan Lembaran Negara Nomor 3612).
+8. Undang-undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Tahun 1995 Nomor 75, Tambahan Lembaran Negara Nomor 3612);
 
-Berdasarkan pemikiran-pemikiran sebagaimana yang diuraikan, Undang-undang tentang Pangan memuat pokok-pokok :
+Berdasarkan pemikiran-pemikiran sebagaimana yang diuraikan, Undang-undang tentang Pangan menurut pokok-pokok:
 
-a. persyaratan teknis tentang pangan, yang meliputi ketentuan keamanan pangan, ketentuan mutu dan gizi pangan, serta ketentuan label dan iklan pangan, sebagai suatu sistem standarisasi pangan yang bersifat menyeluruh;
+a. persyaratan teknis tentang pangan, yang meliputi ketentuan keamanan pangan, ketentuan mutu dan gizi pangan, serta ketentuan label dan iklan pangan, sebagai suatu sistem standaridasi pangan yang bersifat menyeluruh;
 
-b. tanggung jawab setiap orang yang memproduksi, menyimpan, mengangkut, dan atau mengedarkan pangan, serta sanksi hukum yang sesuai agar mendorong pemenuhan atas ketentuan-ketentuan yang ditetapkan;
+b. tanggungjawab setiap orang yang memproduksi, menyimpan, mengangkut, dan atau mengedarkan pangan, serta sanksi hukum yang sesuai agar mendorong pemenuhan atas ketentuan-ketentuan yang ditetapkan;
 
 c. peranan Pemerintah dan masyarakat dalam mewujudkan tingkat kecukupan pangan di dalam negeri dan penganekaragaman pangan yang dikonsumsi secara tidak bertentangan dengan keyakinan masyarakat;
 
-d. tugas Pemerintah untuk membina serta mengembangkan industri pangan nasional, terutama dalam upaya peningkatan citra pangan nasional dan ekspor. Pengaturan, pembinaan, dan atau pengawasan terhadap kegiatan atau proses produksi, peredaran, dan atau perdagangan pangan dalam Undang-undang ini bersifat pokok-pokok, sedangkan penjabarannya lebih lanjut ditetapkan oleh Pemerintah secara menyeluruh dan terkoordinasi.
+d. tugas Pemerintah untuk membina serta mengembangkan industri pangan nasional, terutama dalam upaya peningkatan citra pangan nasional dan ekspor.
 
-Semuanya itu diselenggarakan dengan tetap memperhatikan kesiapan dan kebutuhan sistem pangan nasional, serta perkembangan yang terkadi baik secara regional maupun internasional.
+Pengaturan, pembinaan dan atau pengawasan terhadap kegiatan atau proses produksi, peredaran, dan atau perdagangan pangan dalam Undang-undang ini bersifat pokok-pokok, sedangkan penjabarannya lebih lanjut ditetapkan oleh Pemerintah secara menyeluruh dan terkoordinasi.
 
-### II. PASAL DEMI PASAL
+Semuanya itu diselenggarakan dengan tetap memperhatikan kesiapan dan kebutuhan sistem pangan nasional, serta perkembangan yang terjadi baik secara regional maupun internasional.
+
+PASAL DEMI PASAL
 
 #### Pasal 1
 
 Angka 1
 
-Pengertian "pangan", termasuk permen karet atau sejenisnya, tetapi tidak mencakup kosmetik, tembakau, hasil tembakau, atau bahan yang diperuntukkan sebagai obat. Yang dimaksud dengan "bahan lain" adalah bahan yang digunakan dalam proses penyiapan, pengelolaan, dan atau pembuatan makanan atau minuman di luar bahan tambahan pangan dan bahan bantu pangan, misalnya, bahan-bahan katalisator seperti enzim pencernaan.
+Pengertian “Pangan”, termasuk permen karet atausejenisnya, tetapi tidak mencakup kosmetik, tembakau, hasil tembakau, atau bahan yang diperuntukkan sebagai obat.
+
+Yang dimaksud dengan “bahan lain” adalah bahan yang digunakan dalam proses penyiapan, pengolahan, dan atau pembuatan makanan atau minuman di luar bahan tambahan pangan dan bahan bantu pangan, misalnya, bahan-bahan katalisator seperti pencernaan.
 
 Angka 2
 
-Pengertian "pangan olahan" (pocessed foods) dalam ketentuan ini mencakup baik pangan olahan yang siap untuk dikonsumsi manusia maupun pangan olahan setengah jadi, yang digunakan selanjutnya sebagai bahan baku pangan.
+Pengertian “pangan olahan” (processed foods) dalam ketentuan ini mencakup baik pangan olahan yang siap untuk dikonsumsi manusia maupun pangan olahan setengah jadi, yang digunakan selanjutnya sebagai bahan baku pangan.
 
-Dengan ketentuan ini, pengertian "pangan yang tidak diolah" adalah makanan atau minuman yang secara langsung dapat dikonsumsi oleh manusia tanpa diolah lebih dahulu.
+Dengan ketentuan, pengertian “pangan yang tidak diolah” adalah makanan atau minuman yang secara langsung dapat dikonsumsi oleh manusia tanpa diolah lebih dahulu.
 
 Angka 3
 
@@ -940,7 +788,7 @@ Cukup jelas
 
 Angka 8
 
-Yang dimaksud dengan "penawaran untuk menjual pangan" adalah kegiatan yang lazim dilakukan sebelum terjadinya tindakan pembelian dan atau penjulan pangan, misalnya, pemberian secara cuma-cuma sampel produk pangan dalam rangka promosi.
+Yang dimaksud dengan “penawaran untuk menjual pangan” adalah kegiatan yang lazim dilakukan sebelum terjadinya tindakan pembelian dan atau penjualan pangan, misalnya, pemberian secara cuma-cuma sampel produk pangan dalam rangka promosi.
 
 Angka 9
 
@@ -984,33 +832,33 @@ Cukup jelas
 
 #### Pasal 2
 
-Pembangunan di bidang pangan harus memberikan manfaat bagi kemanusiaan dan kesejahteraan masyarakat, baik lahir maupun batin, karena manfaat tersebut dapat dinikmati oleh seluruh lapisan masyarakat secara adil dan merata dengan tetap bersandarkan pada daya dan potensi yang berkembang di dalam negeri.
+Pembangunan di bidang pangan harus memberikan manfaat bagi kemanusiaan dan kesejahteraan masyarakat, baik lahir maupun batin, karena manfaat tersebut dapat dinikmati oleh seluruh lapisan masyarakat secara adil dan merata dengan tetap bersandarkan pada daya dan potensi yang berkembangan di dalam negeri.
 
 #### Pasal 3
 
-Perdagangan pangan yang jujur dan bertanggung jawab merupakan prasyarat terjadinya persaingan yang sehat bagi terbentuknya harga yang wajar bagi pihak yang menghasilkan dan mengkonsumsi pangan, sedangkan "terjangkau" dimaksudkan sebagai jaminan ketersediaan pangan, baik fisik maupun kemampuan ekonomi pihak yang mengkonsumsi pangan.
+Perdagangan pangan yang jujur dan bertanggung jawab merupakan prasyarat terjadinya persaingan yang sehat bagi terbentuknya harga yang wajar bagi pihak yang menghasilkan dan mengkonsumsi pangan, sedangkan “terjangkau” dimaksudkan sebagai ketersediaan pangan, baik fisik maupun kemampuan ekonomi pihak yang mengkonsumsi pangan.
 
 #### Pasal 4
 
 Ayat (1)
 
-Yang dimaksud dengan "persyaratan sanitasi" adalah standar kebersihan dan kesehatan yang harus dipenuhi sebagai upaya mematikan atau mencegah hidupnya jasad renik patogen dan mengurangi jumlah jasad renik lainnya agar pangan yang dihasilkan dan dikonsumsi tidak membahayakan kesehatan dan jiwa manusia.
+Yang dimaksud dengan “persyaratan sanitasi” adalah standar kebersihan dan kesehatan yang harus dipenuhi sebagai upaya mematikan atau mencegah hidupnya jasad renik patogen dan mengurangi jumlah jasad renik lainnya agar pangan yang dihasilkan dan dikonsumsi tidak membahayakan kesehatan dan jiwa manusia.
 
-Dalam pengertian "persyaratan sanitasi" sudah tercakup pula pengertian persyaratan higienis.
+Dalam pengertian “persyaratan sanitasi” sudah tercakup pula pengertian persyaratan higienis.
 
 Ayat (2)
 
-Dengan ketentuan ini setiap orang yang memproduksi, menyimpan, mengangkut, dan atau mengedarkan pangan diperkenankan untuk menerapkan standar sanitasi yang lebih tinggi.
+Dengan ketentuan ini setiap orang memproduksi, menyimpan, mengangkut, dan atau mengedarkan pangan diperkenankan untuk menerapkan standar sanitasi yang lebih tinggi.
 
-Persyaratan sanitasi dimaksud ditetapkan secara berjenjang, sesuai dengan jenis kegiatan yang dilakukan, karena kebutuhan sanitasi dari setiap kegiatan tersebut berbeda. Penetapan dan penerapan persyaratan sanitasi dilakukan secara bertahap dan disesuaikan dengan jenis kegiatan yang dilakukan, misalnya, untuk proses produksi, penyimpanan, dan pengangkutan. Penerapan persyaratan juga dilakukan secara bertahap, sesuai dengan perkembangan sistem pangan serta kesiapan peraturan pelaksanaan yang dikaitkan dengan pelaksanaan pembinaan yang dilakukan oleh Pemerintah untuk meningkatkan kemampuan, khususnya pengusaha menengah dan kecil, termasuk pengusaha pangan olahan informal dan tradisional.
+Persyaratan sanitasi dimaksud ditetapkan secara berjenjang sesuai dengan jenis kegiatan yang dilakukan, karena kebutuhan sanitasi dari setiap kegiatan tersebut berbeda. Penetapan dan penerapan persyaratan sanitasi dilakukan secara bertahap dan disesuaikan dengan jenis kegiatan yang dilakukan, misalnya, untuk proses produksi, penyimpanan, dan pengangkutan. Penerapan persyaratan juga dilakukan secara bertahap, sesuai dengan perkembangan sistem pangan serta kesiapan peraturan pelaksanaan yang dikaitkan dengan pelaksanaan pembinaan yang dilakukan oleh Pemerintah untuk meningkatkan kemampuan, khususnya pengusaha menengah dan kecil, termasuk pengusaha pangan olahan informal dan tradisional.
 
-Yang dimaksud dengan "persyaratan minimal" adalah persyaratan yang sekurang-kurangnya wajib dipenuhi dalam menjaga keamanan pangan dalam rangka melindungi kesehatan dan jiwa manusia.
+Yang dimaksud dengan “persyaratan minimal” adalah persyaratan yang sekurang-kurangnya wajib dipenuhi dalam menjaga keamanan pangan dalam rangka melindungi kesehatan dan jiwa manusia.
 
 #### Pasal 5
 
 Ayat (1)
 
-Yang dimaksud "sarana dan atau prasarana" dalam ketentuan ini, antara lain, meliputi kelaikan desain dan konstruksi, peralatan dan infalasi, fasilitas pembuangan limbah, dan fasilitas lainnya yang secara langsung atau tidak langsung digunakan dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan.
+Yang dimaksud “sarana dan atau prasarana” dalam ketentuan ini, antara lain, meliputi kelaikan desain dan konstruksi, peralatan dan instalasi, fasilitas pembuangan limbah, dan fasilitas lainnya yang secara langsung atau tidak langsung digunakan dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan.
 
 Ayat (2)
 
@@ -1018,13 +866,13 @@ Kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pan
 
 #### Pasal 6
 
-Yang dimaksud dengan "setiap orang yang bertanggung jawab" dalam ketentuan ini adalah setiap orang yang melakukan, berkepentingan, atau memperoleh manfaat dari kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan, misalnya, produsen, penyedia tempat penyimpanan, pengangkut, dan atau pengedar pangan, baik milik sendiri maupun menyewa sarana dan prasarana yang diperlukan.
+Yang dimaksud dengan “setiap orang yang bertanggung jawab” dalam ketentuan ini adalah setiap orang yang melakukan, berkepentingan, atau memperoleh manfaat dari kegiatan atau proses pruduksi, penyimpanan, pengangkutan, dan atau peredaran pangan, misalnya produsen, penyedia tempat penyimpanan, pengangkut dan atau pengedar pangan, baik milik sendiri maupun menyewa sarana dan prasarana yang diperlukan.
 
-Ketentuan ini juga berlaku bagi mereka yang diberi tanggung jawab atau bertanggung jawab di bidang sanitasi dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan, baik melalui ikatan kerja, kontrak, maupun kesepakatan yang lain.
+Ketentuan ini juga berlaku bagi mereka yang diberi tanggung jawab atau bertanggung jawab di bidang sanitasi dalam kegiatan atau proses produksi, penyimpanan, pengangkutan dan atau peredaran pangan, baik melalui ikatan kerja, kontrak, maupun kesepakatan yang lain.
 
 Huruf a
 
-Ketentuan ini menegaskan bahwa kewajiban untuk selalu menjaga tingkat kebersihan dan kesehatan dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan tidak hanya terbatas pada pemenuhan persyaratan yang ditetapkan Pemerintah berdasarkan ketentuan dalam Pasal 4, tetapi juga dalam arti yang lebih luas sehingga mencakup pula persyaratan keamanan dan atau keselamatan manusia dengan batasan yang objektif, faktual, dan berdasarkan akal sehat.
+Ketentuan ini menegaskan bahwa kewajiban untuk selalu menjaga tingkat kebersihan dan kesehatan dalam kegiatan atau proses produksi, penyimpanan, pengangkutan dan atau peredaran pangan tidak hanya terbatas pada pemenuhan persyaratan yang ditetapkan Pemerintah berdasarkan ketentuan dalam Pasal 4, tetapi juga dalam arti yang lebih luas sehingga mencakup pula persyaratan keamanan dan atau keselamatan manusia dengan batasan yang objektif, faktual, dan berdasarkan akal sehat.
 
 Huruf b
 
@@ -1036,11 +884,11 @@ Cukup jelas
 
 #### Pasal 7
 
-Yang dimaksud dengan "orang perseorangan" dalam ketentuan ini adalah mereka yang secara langsung menangani atau terlibat dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan.
+Yang dimaksud dengan “orang perseorangan” dalam ketentuan ini adalah mereka yang secara langsung menangani atau terlibat dalam kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan.
 
 Ketentuan ini diperlukan karena risiko pencemaran pangan tidak jarang diakibatkan oleh kelalaian orang perseorangan tersebut. Ketentuan ini juga berlaku bagi mereka yang, meskipun tidak menangani langsung, tetapi berada langsung dalam lingkungan kegiatan atau proses produksi, penyimpanan, pengangkutan, dan atau peredaran pangan, seperti mandor, satuan pengamanan, atau pengunjung produsen/pabrik pangan.
 
-Persyaratan sanitasi dalam kaitannya dengan "orang perseorangan" ini tidak hanya terbatas pada pola atau standar perilaku yang memenuhi persyaratan sanitasi, tetapi juga termasuk kesehatan orang perseorangan tersebut karena tidak jarang penyakit manusia ditularkan melalui pangan yang diedarkan.
+Persyaratan sanitasi dalam kaitannya dengan “orang perseorangan” ini tidak hanya terbatas pada pola atau standar perilaku yang memenuhi persyaratan sanitasi, tetapi juga termasuk kesehatan orang perseorangan tersebut karena tidak jarang penyakit manusia ditularkan melalui pangan yang diedarkan.
 
 #### Pasal 8
 
@@ -1054,7 +902,7 @@ Cukup jelas
 
 Ayat (1)
 
-Yang dimaksud dengan "bahan tambahan pangan" adalah bahan yang ditambahkan ke dalam pangan untuk mempengaruhi sifat atau bentuk pangan, atara lain, bahan pewarna, pengawet, penyedap rasa, anti gumpal, pemucat, dan pengental.
+Yang dimaksud dengan “bahan tambahan pangan” adalah bahan yang ditambahkan ke dalam pangan untuk mempengaruhi sifat atau bentuk pangan, antara lain, bahan pewarna, pengawet, penyedap rasa, anti gumpal, pemucat, dan pengental.
 
 Ayat (2)
 
@@ -1064,7 +912,7 @@ Bahan tambahan pangan yang dilarang antara lain asam borat (boric acid) dan seny
 
 #### Pasal 11
 
-Pemeriksaan tersebut dimaksudkan untuk mengetahui apakah bahan tersebut maan bagi atau tidak merugikan atau membahayakan kesehatan manusia. Selain itu, juga diperiksa dosis penggunaan untuk menentukan ambang batas maksimal penggunaan bahan tersebut sehingga dapat dinyatakan aman dan tidak merugikan atau membahayakan kesehatan manusia.
+Pemeriksaan tersebut dimaksudkan untuk mengetahui apakah bahan tersebut aman bagi atau tidak merugikan atau membahayakan kesehatan manusia. Selain itu, juga diperiksa dosis penggunaan untuk menentukan ambang batas maksimal penggunaan bahan tersebut sehingga dapat dinyatakan aman dan tidak merugikan atau membahayakan kesehatan manusia.
 
 #### Pasal 12
 
@@ -1074,7 +922,9 @@ Cukup jelas
 
 Ayat (1)
 
-"Bahan baku" adalah bahan utama yang dipakai dalam kegiatan atau proses produksi pangan. Bahan baku dapat berupa bahan mentah, bahan setengah jadi, atau bahan jadi. "Bahan bantu lain" adalah bahan yang tidak termasuk dalam pengertian baik bahan baku maupun bahan tambahan pangan dan berfungsi untuk membantu mempercepat atau memperlambat proses rekayasa genetika.
+Bahan baku” adalah bahan utama yang dipakai dalam kegiatan atau proses produksi pangan. Bahan baku dapat berupa bahan mentah, bahan setengah jadi, atau bahan jadi.
+
+Bahan baku lain” adalah bahan yang tidak termasuk dalam pengertian baik bahan baku maupun bahan tambahan pangan dan berfungsi untuk membantu mempercepat atau memperlambat proses rekayasa genetika.
 
 Ayat (2)
 
@@ -1088,9 +938,9 @@ Iradiasi dalam kegiatan atau proses produksi dan penyimpanan pangan hanya dapat 
 
 Ayat (2)
 
-Mekanisme perizinan yang akan dijabarkan lebih lanjut dengan Peraturan Pemerintah, antara lain, mencakup persyaratan :
+Mekanisme perizinan yang akan dijabarkan lebih lanjut dengan Peraturan Pemerintah antara lain, mencakup persyaratan:
 
-a) pemberian izin yang menyangkut sarana dan prasarana serta manajemen dan mekanisme pengawasan;
+a) pemberian izin yang menyangkut sarana dan prasarana serta menajemen dan mekanisme pengawasan;
 
 b) kesehatan dan keamanan karyawan;
 
@@ -1098,7 +948,7 @@ c) pelestarian lingkungan;
 
 d) pengangkutan bahan-bahan yang mengandung zat radioaktif;
 
-e) pembuangan dan pengelolaan limbah yang mengandung zat radioaktif; dan
+e) pembuangan dan pengolahan limbah yang mengandung zat radioaktif; dan:
 
 f) mekanisme penanggulangan bencana.
 
@@ -1116,11 +966,13 @@ Ayat (2)
 
 Ketentuan ini mewajibkan setiap orang yang memproduksi pangan yang akan diedarkan untuk melakukan pengemasan atau melaksanakan tata cara pengemasan secara benar sehingga dapat dihindari terjadinya pencemaran terhadap pangan.
 
-Benar tidaknya pengemasan yang dilakukan atau tata cara pengemasan yang dilaksanakan, antara lain, dapat diukur dari tingkat kehati-hatian yang diterapkan pada saat melakukan pengemasan, jenis komoditas pangan yang dikemas, perlakuan khusus yang diperlukan bagi pangan tersebut, serta kebutuhan untuk melindungi kemungkinan tercemarnya pangan sejak proses produksi sampai dengan siap dikonsumsi.
+Benar tidaknya pengemasan yang dilakukan atau tata cara pengemasan yang dilaksanakan, antara lain, dapat diukur dari tingkat kehati-hatian yang diterapkan pada saat melakukan pengemasan, jenis komoditas yang dikemas, perlakukan khusus yang diperlukan bagi pangan tersebut, serta kebutuhan untuk melindungi kemungkinan tercemarnya pangan sejak proses produksi sampai dengan siap dikonsumsi.
 
 Ayat (3)
 
-Terhadap pangan tertentu yang diperdagangkan, Pemerintah dapat menetapkan dan berwenang memberlakukan serta mewajibkan pemenuhan persyaratan atau tata cara tertentu dalam rangka pengemasan pangan tersebut. Misalnya, pangan yang memiliki kadar lemak tinggi dan bersuhu tinggi tidak boleh dikemas dengan menggunakan kemasan plastik karena dapat memberikan peluang lepasnya monomer plastik yang bersifat karsinogenik ke dalam pangan dan mencemarinya.
+Terhadap pangan tertentu yang diperdagangkan, Pemerintah dapat menetapkan dan berwenang memberlakukan serta mewajibkan pemenuhan persyaratan atau tata sara tertentu dalam rangka pengemasan pangan tersebut.
+
+Misalnya, pangan yang memiliki kadar lemak tinggi dan bersuhu tinggi tidak boleh dikemas dengan menggunakan kemasan plastik karena dapat memberikan peluang lepasnya monomer plastik yang bersifat korsinogenik ke dalam pangan dan mencemarinya.
 
 #### Pasal 17
 
@@ -1130,35 +982,37 @@ Cukup jelas
 
 Ayat (1)
 
-Yang dimaksud dengan "kemasan akhir pangan" adalah kemasan final terhadap produk pangan yang lazim dilakukan pada tahap akhir proses atau kegiatan produksi yang siap diperdagangkan bagi konsumsi manusia.
+Yang dimaksud dengan “kemasan akhir pangan” adalah kemasan final terhadap produk pangan yang lazim dilakukan pada tahap akhir proses atau kegiatan produksi yang siap diperdagangkan bagi konsumsi manusia.
 
 Ketentuan ini bersifat preventif karena tidak jarang suatu produk pangan tercemar oleh bahan yang dapat merugikan atau membahayakan kesehatan manusia karena tindakan pengemasan kembali tersebut.
 
 Ayat (2)
 
-Pengadaan pangan dalam jumlah besar yang lazimnya tidak dikemas secara final dan dimaksudkan untuk diperdagangkan (diecer) lebih lanjut dalam kemasan yang lebih kecil tidak tunduk pada ketentuan ayat (1). Kelaziman tersebut disesuaikan dengan kebiasaan yang berlaku bagi komoditas pangan yang bersangkutan atau kebiasaan masyarakat setempat.
+Pengadaan pangan dalam jumlah besar yang lazimnya tidak dikemas secara final dan dimaksudkan untuk diperdagangkan (diecer) lebih lanjut dalam kemasan yang lebih kecil tidak tunduk pada ketentuan ayat (1).
+
+Kelaziman tersebut disesuaikan dengan kebiasaan yang belaku bagi komoditas pangan yang bersangkutan atau kebiasaan masyarakat setempat.
 
 #### Pasal 19
 
-Cukup jelas
-
-#### Pasal 20
+Cukup jelas Pasal 20
 
 Ayat (1)
 
-Sistem jaminan mutu merupakan uapay pencegahan yang perlu diperhatikan dan atau dilaksanakan dalam rangka menghasilkan pangan yang aman bagi kesehatan manusia dan bermutu, yang lazimnya diselenggarakan sejak awal kegiatan produksi pangan sampai dengan siap untuk diperdagangkan, dan merupakan sistem pengawasan dan pengendalian mutu yang selalu berkembang menyesuaikan dengan perkembangan ilmu pengetahuan dan teknologi.
+Sistem jaminan mutu merupakan upaya pencegahan yang perlu diperhatikan dan atau dilaksanakan dalam rangka menghasilkan pangan yang aman bagi kesehatan manusia dan bermutu, yang lazimnya diselenggarakan sejak awal kegiatan produksi pangan sampai dengan siap untuk diperdagangkan, dan merupakan sistem pengawasan dan pengendalian mutu yang selalu berkembang menyesuaikan dengan perkembangan ilmu pengetahuan dan teknologi.
 
 Ayat (2)
 
-Di samping sistem jaminan mutu yang diselenggarakan oleh setiap orang yang memproduksi pangan, maka upaya mewujudkan ketersediaan pangan yang aman dapat ditempuh melalui pengujian secara laboratoris atas pangan yang diproduksi. Persyaratan pemeriksaan laboratorium ini terutama diperuntukkan bagi pangan tertentu yang diperdagangkan, yang akan diatur lebih lanjut oleh Pemerintah.
+Disamping sistem jaminan mutu yang diselenggarakan sendiri oleh setiap orang yang memproduksi pangan, maka upaya mewujudkan ketersediaan pangan yang aman dapat ditempuh melalui pengujian secara laboratoris atas pangan yang diproduksi. Persyaratan pemeriksaan laboratorium ini terutama diperuntukkan bagi pangan tertentu yang diperdagangnkan, yang akan diatur lebih lanjut oleh Pemerintah.
 
 Ayat (3)
 
-Laboratorium yang melaksanakan pengujian dimaksud harus memenuhi persyaratan teknis yang ditetapkan dan melaksanakan pengujian berdasarkan tata cara yang telah dibakukan. Ketentuan ini memberi kemungkinan bagi laboratorium-laboratorium yang bukan milik Pemerintah untuk melakukan pengujian itu. Misalnya, laboratorium milik setiap orang yang memproduksi pangan, atau yang merupakan bagian dari sistem jaminan mutu yang diterapkan, atau laboratorium milik pihak ketiga selama laboratorium tersebut telah diperiksa kelainkannya dan memperoleh akreditasi dari instansi Pemerintah yang bertanggung jawab, baik secara teknis perlengkapan laboratorium tersebut maupun berkenaan dengan pemenuhan persyaratan lain berdasarkan Undang-undang ini dan peraturan pelaksanaannya.
+Laboratorium yang melaksanakan pengujian dimaksud harus memenuhi persyaratan teknis yang ditetapkan dan melaksanakan pengujian berdasarkan tata cara yang telah dibakukan.
+
+Ketentuan ini memberi kemungkinan bagi laboratorium yang bukan milik Pemerintah untuk melakukan pengujian itu. Misalnya, laboratorium milik setiap orang yang memproduksi pangan, atau yang merupakan bagian dari sistem jaminan mutu yang diterapkan, atau laboratorium milik pihak ketiga selama laboratorium tersebut telah diperiksa kelaikannya dan memperoleh akreditasi dari instansi Pemerintah yang bertanggung jawab, baik secara teknis perlengkapan laboratorium tersebut maupun berkenaan dengan pemenuhan persyaratan lain berdasarkan Undang-undang ini dan peraturan pelaksanaannya.
 
 Ayat (4)
 
-Yang dimaksud dengan "ditetapkan dan diterapkan secara bertahap" adalah pelaksanaan persyaratan jaminan mutu dan pengujian secara laboratoris disesuaikan dengan jenis kegiatan yang dilakukan, antara lain, untuk proses produksi, penyimpanan, dan pengangkutan. Penerapan persyaratan ini dilakukan secara bertahap, sesuai dengan perkembangan sistem pangan serta kesiapan peraturan pelaksanaan yang dikaitkan pula dengan pelaksanaan pembinaan yang dilakukan oleh Pemerintah untuk meningkatkan kemampuan, khususnya pengusaha menengah dan kecil, termasuk pengusaha pangan olahan informal dan tradisional.
+Yang dimaksud dengan “ditetapkan dan diterapkan secara bertahap” adalah pelaksanaan persyaratan jaminan mutu dan pengujian secara laboratoris disesuaikan dengan jenis kegiatan yang dilakukan, antara lain, untuk proses produksi, penyimpanan, dan pengangkutan. Penerapan persyaratan ini dilakukan secara bertahap, sesuai dengan perkembangan sistem pangan serta kesiapan peraturan pelaksanaan yang dikaitkan pula dengan pelaksanaan pembinaan yang dilakukan oleh Pemerintah untuk meningkatkan kemampuan, khususnya pengusaha menengah dan kecil, termasuk pengusaha pangan olahan informal dan tradisional.
 
 Ayat (5)
 
@@ -1168,7 +1022,9 @@ Cukup jelas
 
 Huruf a
 
-Yang dimaksud dengan "merugikan kesehatan’ adalah dampak yang timbul akibat adanya bahan beracun atau bahan lain dalam tubuh yang dapat mengganggu penyerapan senyawa atau zat gizi ke dalam darah, tetapi tidak membahayakan kesehatan. Yang dimaksud dengan "membahayakan kesehatan" adalah dampak yang timbul akibat adanya bahan beracun atau berbahaya seperti residu pestisida, mikotoksin, logam berat, hormon, dan obat-obatan hewan.
+Yang dimaksud dengan “merugikan kesehatan” adalah dampak yang timbul akibat adanya bahan beracun atau bahan lain dalam tubuh yang dapat mengganggu penyerapan senyawa atau zat gizi ke dalam darah, tetapi tidak membahayakan kesehatan.
+
+Yang dimaksud dengan “membahayakan kesehatan” adalah dampak yang timbul akibat adanya bahan beracun atau berbahaya seperti residu pestisida, mikotoksin, logam berat, hormon, dan obat-obatan hewan.
 
 Huruf b
 
@@ -1182,23 +1038,23 @@ Huruf d
 
 Yang dimaksud dengan :
 
-a) "bahan yang kotor" adalah bahan yang bercampur dengan kotoran seperti tanah, pasir, atau bahan lain;
+a) bahan yang kotor” adalah bahan yang bercampur dengan kotoran seperti tanah, pasir, atau bahan lain;
 
-b) "bahan yang busuk" adalah bahan yang bentuk, rupa, atau baunya sudah tidak sesuai dengan keadaan normal bahan tersebut.
+b) bahan yang busuk” adalah bahan yang bentuk, rupa, atau baunya sudah tidak sesuai dengan keadaan normal bahan tersebut;
 
-c) "bahan yang tengik" adalah bahan yang bau atau aromanya sudah berbeda dari bau atau aroma normal yang antara lain disebabkan oleh terjadinya proses oksidasi;
+c) bahan yang tengik” adalah bahan yang bau dan aromanya sudah berbeda dari bau atau aroma normal yang antara lain disebabkan oleh terjadinya proses oksidasi;
 
-d) "bahan yang terurai" adalah bahan yang rupa atau bentuknya telah berubah dari keadaan normal;
+d) bahan yang terurai” adalah bahan yang rupa atau bentuknya telah berubah dari keadaan normal;
 
-e) "bahan yang mengandung bahan nabati atau hewani yang berpenyakit" adala bahan nabati atau hewani yang mengandung penyakit yang dapat menular kepada manusia, misalnya, ikan atau udang yang mengandung bibit penyakit kolera atau daging yang mengandung cacing;
+e) bahan yang mengandung bahan nabati atau hewani yang berpenyakit” adalah bahan nabati atau hewani yang mengandung penyakit yang dapat menular kepada manusia, misalnya, ikan atau udang yang mengandung bibit penyakit kolera atau daging yang mengandung cacing;
 
-f) "bangkai" adalah bahan hewani yang mati secara alamiah atau matinya tidak dimaksudkan untuk dikonsumsi sebagai pangan, misalnya, ayam yang mati bukan karena sengaja dipotong untuk dikonsumsi sebagai pangan.
+f) bangkai adalah bahan hewani yang mati secara alamiah atau matinya tidak dimaksudkan untuk dikonsumsi sebagai pangan, misalnya, ayam yang mati bukan karena sengaja dipotong untuk dikonsumsi sebagai pangan.
 
-Pelaksanaan lebih lanjut dari ketentuan ini harus senantiasa memperhatikan fakta yang ditemukan, tolok ukur objektif dalam menentukan tingkat kelayakan pangan sebagai makanan atau minuman yang dikonsumsi manusia, dan keamanan terhadap kesehatan dan jiwa manusia yang mengkonsumsi pangan tersebut.
+Pelaksanaan lebih lanjut dari ketentuan ini harus senantiasa memperhatikan fakta yang ditemukan, tolak ukur objektif dalam menentukan tingkat kelayakan pangan sebagai makanan dan minuman yang dikonsumsi manusia, dan keamanan terhadap kesehatan dan jiwa manusia yang mengkonsumsi pangan tersebut.
 
 Huruf e
 
-Pelaksanaan dalam ketentuan ini diselenggarakan berdasarkan ketentuan yang mengatur jangka waktu atau masa kelayakan untuk dikonsumsi.
+Pelaksanaan dalam ketentuan ini diselenggarakan berdasarkan ketentuan yang mengatur jangka waktu atau masa kelayakan pangan untuk dikonsumsi.
 
 #### Pasal 22
 
@@ -1208,11 +1064,11 @@ Cukup jelas
 
 Huruf b
 
-Ketentuan ini dimaksudkan untuk mengantisipasi perkembangan ilmu pengetahuan dan teknologi dalam kegiatan produksi, penyimpanan, pengangkutan, dan atau peredaran pangan.
+Ketentuan ini dimaksudkan untuk mengantisipasi perkembangan ilmu pengetahuan dan teknologi dalam kegiatan produksi, penyimpanan, pengangkutan dan atau peredaran pangan.
 
 Huruf c
 
-yang dimaksud dengan "peralatan" dalam ketentuan ini, antara lain, piring, gelas, sendok, garpu, alat masak, dan tempat peragaan pangan.
+Yang dimaksud dengan “peralatan” dalam ketentuan ini, antara lain, piring, gelas, sendok, garpu, alat masak, dan tempat peragaan pangan.
 
 #### Pasal 23
 
@@ -1222,23 +1078,27 @@ Cukup jelas
 
 Ayat (1)
 
-Yang dimaksud dengan "standar mutu pangan" dalam ketentuan ini adalah spesifikasi atau persyaratan teknis yang dibakukan tentang mutu pangan, misalnya, dari segi bentuk, warna, atau komposisi yang disusun berdasarkan kriteria tertentu yang sesuai dengan perkembangan ilmu pengetahuan dan teknologi serta aspek lain yang terkait.
+Yang dimaksud dengan “standar mutu pangan” dalam ketentuan ini adalah spesifikasi atau persyaratan teknis yang dibakukan tentang mutu pangan, misalnya, dari segi bentuk, warna, atau komposisi yang disusun berdasarkan kriteria tertentu yang sesuai dengan perkembangan ilmu pengetahuan dan teknologi serta aspek lain yang terkait.
 
 Standar mutu pangan tersebut mencakup baik pangan olahan maupun pangan yang tidak diolah.
 
-Dalam pengertian yang lebih luas, standar yang berlaku bagi pangan mencakup berbagai persyaratan keamanan pangan, gizi, mutu, dan persyaratan lain dalam rangka menciptakan perdagangan pangan yang jujur, misalnya, persyaratan tentang label dan iklan. Berbagai standar tersebut tidak bertentangan satu sama lain atau berdiri sendiri, tetapi justru merupakan satu kesatuan yang bulat, yang penjabarannya lebih lanjut diatur oleh Pemerintah.
+Dalam pengertian yang lebih luas, standar yang berlaku bagi pangan mencakup berbagai persyaratan keamanan pangan, gizi, mutu, dan persyaratan lain dalam rangka menciptakan perdagangan pangan yang jujur, misalnya persyaratan tentang label dan iklan. Berbagai standar tersebut tidak bertentangan satu sama lain atau berdiri sendiri, tetapi justru merupakan satu kesatuan yang bulat, yang penjabarannya lebih lanjut diatur oleh Pemerintah.
 
 Ayat (2)
 
-Yang dimaksud dengan "pangan tertentu yang diperdagangkan" pada ayat ini adalah produk pangan yang atas pertimbangan manfaat, nilai gizi, dan aspek perdagangan harus memenuhi standar mutu tertentu. Penetapan standar mutu pangan oleh Pemerintah, sebagaimana dimaksud pada ayat (1), merupakan upaya standarisasi mutu pangan yang diedarkan, dan terutama berguna sebagai suatu tolok ukur yang objektif bagi pangan yang diedarkan. Hal ini tidak berarti bahwa standar mutu yang ditetapkan oleh kalangan yang berkepentingan di bidang pangan tidak diakui keberadaannya, misalnya, yang ditetapkan oleh asosiasi di bidang pangan, terutama apabila standar mutu tersebut lebih tinggi daripada standar mutu yang ditetapkan Pemerintah. Di sisi lain, Pemerintah perlu diberikan kewenangan untuk mewajibkan pemenuhan standar mutu yang ditetapkan bagi produksi pangan tertentu yang diperdagangkan, terutama dalam rangka mewujudkan perdagangan pangan yang jujur dan bertanggung jawab.
+Yang dimaksud dengan “pangan tertentu yang diperdagangkan” pada ayat ini adalah produk pangan yang atas pertimbangan manfaat, nilai gizi, dan aspek perdagangan harus memenuhi standar mutu tertentu.
 
-Dalam melaksanakan ketentuan ini Pemerintah memperhatikan masukan, saran, atau pertimbangan dari masyarakat. Hal ini penting, mengingat masyarakat adalah pihak yang merasakan langsung akibat dari diberlakukannya aturan hukum di bidang pangan, baik masyarakat yang memproduksi pangan maupun yang mengkonsumsi pangan.
+Penetapan standar mutu pangan oleh Pemerintah, sebagaimana dimaksud pada ayat (1), merupakan upaya standarisasi mutu pangan yang diedarkan, dan terutama berguna sebagai suatu tolak ukur yang objektif bagi pangan yang diedarkan. Hal ini tidak berarti bahwa standar mutu yang ditetapkan oleh kalangan yang berkepentingan di bidang pangan tidak diakui keberadaannya, misalnya, yang ditetapkan oleh asosiasi di bidang pangan, terutama apabila standar mutu tersebut lebih tinggi daripada standar mutu yang ditetapkan Pemerintah.
+
+Di sisi lain, Pemerintah perlu diberikan kewenangan untuk mewajibkan pemunuhan standar mutu yang ditetapkan bagi produksi pangan tertentu yang diperdagangkan, terutana dalam rangka mewujudkan perdagangan pangan yang jujur dan bertanggung jawab. Dalam melaksanakan ketentuan ini Pemerintah memperhatikan masukan, saran, atau pertimbangan dari masyarakat. Hal ini penting, mengingat masyarakat adalah pihak yang merasakan langsung akibat dari diberlakukannya aturan hukum di bidang pangan, baik masyarakat yang memproduksi pangan maupun yang mengkonsumsi pangan.
 
 #### Pasal 25
 
 Ayat (1)
 
-Sertifikasi adalah syarat-syarat yang harus dipenuhi dalam proses pengawasan mutu pangan, yang penyelenggaranya dapat dilakukan secara laboratoris atau cara lain sesuai dengan perkembangan teknologi. Sertifikasi mutu diberlakukan untuk lebih memberikan jaminan kepada masyarakat bahwa pangan yang dibeli telah memenuhi standar mutu tertentu, tanpa mengurangi tanggung jawab pihak yang memproduksi pangan untuk memenuhi ketentuan Undang-undang ini dan peraturan pelaksanaannya.
+Sertifikasi adalah syarat-syarat yang harus dipenuhi dalam proses pengawasan mutu pangan, yang penyelenggaraannya dapat dilakukan secara laboratoris atau cara lain sesuai dengan perkembangan teknologi.
+
+Sertifikasi mutu diberlakukan untuk lebih memberikan jaminan kepada masyarakat bahwa pangan yang dibeli telah memenuhi standar mutu tertentu, tanpa mengurangi tanggung jawab pihak yang memproduksi pangan untuk memenuhi ketentuan Undang-undang ini dan peraturan pelaksanaannya.
 
 Ayat (2)
 
@@ -1248,11 +1108,13 @@ Cukup jelas
 
 Huruf a
 
-Apabila terhadap suatu pangan tertentu yang diperdagangkan telah diberlakukan standar mutu tertentu berdasarkan ketentuan dalam Pasal 24 ayat (2) dan apabila tidak memenuhi standar mutu yang telah ditetapkan, maka pangan tersebut tidak dapat diperdagangkan. Misalnya, terhadap suatu pangan tertentu telah ditetapkan standar mutu berdasarkan peruntukannya bagi konsumsi langsung manusia dan ternyata tidak memenuhi standar, maka pangan tersebut tidak dapat diperdagangkan untuk dikonsumsi langsung. Namun, hal ini tidak berarti bhawa pangan tersebut tidak dapat diperdagangkan untuk tujuan lain, misalnya, untuk digunakan lebih lanjut sebagai bahan baku pangan dengan tetap memperhatikan standar mutu yang mungkin berlaku dan ditetapkan berdasarkan peruntukkannya sebagai bahan baku pangan.
+Apabila terhadap suatu pangan tertentu yang diperdagangkan telah diberlakukan standar mutu tertentu berdasarakan ketentuan dalam Pasal 24 ayat (2) dan apabila tidak memenuhi standar mutu yang telah ditetapkan, maka pangan tersebut tidak dapat diperdagangkan. Misalnya, terhadap suatu pangan tertentu telah dapat diperdagangkan untuk dikonsumsi langsung. Namun, hal ini tidak berarti bahwa pangan tersebut tidak dapat diperdagangkan untuk tujuan lain, misalnya, untuk digunakan lebih lanjut sebagai bahan baku pangan dengan tetap memperlihatkan standar mutu yang mungkin berlaku dan ditetapkan berdasarkan peruntukannya sebagai bahan baku pangan.
 
 Huruf b
 
-Ketentuan ini berlaku terutama apabila terdapat janji dari pihak yang memproduksi pangan untuk diperdagangkan atau pihak yang memperdagangkan bahwa pangan yang bersangkutan memenuhi suatu standar mutu tertentu, tetapi ternyata tidak memenuhi standar mutu yang dijanjikan tersebut. Apabila menyangkut perdagangan pangan yang wajib memenuhi standar mutu tertentu, yang ditetapkan berdasarkan ketentuan dalam Pasal 24 ayat (2) tetapi tidak ada perjanjian tersendiri mengenai mutu pangan tadi, maka janji dimaksud dianggap telah terjadi sekurang-kurangnya sama dengan standar mutu tersebut. Suatu pangan dapat menjadi tidak memenuhi standar mutu yang dijanjikan, misalnya, karena telah tercampur atau sengaja dicampur dengan bahan lain sehingga satu atau lebih komposisi pangan menjadi hilang, berkurang, atau bertambah secara berlebihan sehingga tidak murni lagi dam mutunya tidak sama dengan standar mutu yang berlaku atau yang dijanjikan.
+Ketentuan ini berlaku terutama apabila terdapat janji dari pihak yang memproduksi pangan untuk diperdagangkan atau pihak yang memperdagangkan bahwa pangan yang bersangkutan memenuhi suatu standar mutu tertentu, tetapi ternyata tidak memenuhi standar mutu yang dijanjikan tersebut. Apabila menyangkut perdagangkan pangan yang wajib memenuhi standar mutu tertentu, yang ditetapkan berdasarkan ketentuan dalam Pasal 24 ayat (2) tetapi tidak ada perjanjian tersendiri mengenai mutu pangan tadi, maka janji dimaksud dianggap telah terjadi sekurang-kurangnya sama dengan standar mutu tersebut.
+
+Suatu pangan dapat menjadi tidak memenuhi standar mutu yang dijanjikan, misalnya, karena telah tercampur atau sengaja dicampur dengan bahan lain sehingga satu atau lebih komposisi pangan menjadi hilang, berkurang, atau bertambah secara berlebihan sehingga tidak murni lagi dan mutunya tidak sama dengan standar mutu yang berlaku atau yang dijanjikan.
 
 Huruf c
 
@@ -1262,29 +1124,37 @@ Cukup jelas
 
 Ayat (1)
 
-Perbaikan status gizi masyarakat pada ayat ini sudah termasuk di dalamnya pengertian peningkatan status dan mutu gizi masyarakat.
+Perbaikan status gizi masyarakat pada ayat ini sudah termasuk di dalamnya pengertian peningkatan sistem dan mutu gizi masyarakat.
 
 Ayat (2)
 
-Yang dimaksud dengan "pangan olahan tertentu" pada ayat ini adalah pangan olahan untuk konsumsi bagi kelompok tertentu, misalnya, susu formula untuk bayi, pangan yang diperuntukkan bagi ibu hamil atau menyusui, pangan khusus bagi penderita penyakit tertentu, atau pangan lain sejenis yang mempunyai pengaruh besar terhadap perkembangan kualitas kesehatan manusia. Yang dimaksud dengan "komposisi" adalah kandungan zat-zat serta jumlahnya, yang harus terdapat di dalam pangan tersebut, baik berupa zat gizi maupun non-gizi.
+Yang dimaksud dengan “pangan olahan tertentu” pada ayat ini adalah pangan olahan untuk konsumsi bagi kelompok tertentu, misalnya, susu formula untuk bayi, pangan yang diperuntukkan bagi ibu hamil atau menyusui, pangan khusus bagi penderita penyakit tertentu, atau pangan lain sejenis yang mempunyai pengaruh besar terhadap perkembangan kualitas kesehatan manusia.
+
+Yang dimaksud dengan “komposisi” adalah kandungan zat-zat serta jumlahnya, yang harus terdapat di dalam pangan tersebut, baik berupa zat gizi maupun non-gizi.
 
 Ayat (3)
 
-Ketentuan ini dimaksudkan untuk menanggulangi keadaan kekurangan dan atau penurunan status gizi masyarakat, yang lazimnya dilakukan untuk sementara waktu dan atau di wilayah tertentu sampai keadaan tersebut dapat ditanggulangi. Pangan yang banyak dikonsumsi oleh masyarakat kemungkinan besar dapat digunakan sebagai sarana untuk memperbaiki status gizi masyarakat dengan cara menambahkan zat gizi yang diperlukan dalam jenis pangan tersebut.
+Ketentuan ini dimaksudkan untuk menanggulangi keadaan kekurangan dan atau penurunan status gizi masyarakat, yang lazimnya dilakukan untuk sementara waktu dan atau di wilayah tertentu sampai keadaan tersebut dapat ditanggulangi.
+
+Pangan yang banyak dikonsumsi oleh masyarakat kemungkinan besar dapat digunakan sebagai sarana untuk memperbaiki status gizi masyarakat dengan cara menambahkan zat gizi yang diperlukan dalam jenis pangan tersebut.
 
 Ayat (4)
 
 Kandungan gizi dalam pangan, sebagaimana yang dimaksud pada ayat (2) dan ayat (3), merupakan salah satu faktor penentu dalam proses pembentukan sumber daya manusia yang berkualitas. Oleh karena itu, peranan setiap orang yang memproduksi pangan tersebut dalam rangka perbaikan status gizi masyarakat menjadi sangat penting.
 
-Apabila dalam rangka pelaksanaan ketentuan pada ayat (2) dan ayat (3) Pemerintah menetapkan persyaratan tertentu bagi peningkatan kandungan gizi suatu produk pangan, maka pihak yang memproduksi pangan tersebut wajib memenuhi persyaratan yang ditetapkan.
+Apabila dalam rangka pelaksanaan ketentuan pada ayat (2) dan ayat (3) Pemerintah menetapkan persyratan tertentu bagi peningkatan kandungan gizi suatu produk pangan, maka pihak yang memproduksi pangan tersebut wajib memenuhi persyaratan yang ditetapkan.
 
 #### Pasal 28
 
 Ayat (1)
 
-Kandungan gizi bahan baku pangan yang digunakan dalam kegiatan atau proses pangan sangat menentukan mutu gizi pangan yang dihasilkan.
+Kandungan gizi bahan baku pangan yang digunakan dalam kegiatan atau proses produksi pangan sangat menentukan mutu gizi pangan yang dihasilkan. Namun, pada dasarnya kandungan gizi bahan baku pangan dapat mengalami penurunan dalam proses pengolahan pangan yang pada akhirnya mempengaruhi kandungan gizi pangan yang dihasilkan.
 
-Namun, pada dasarnya kandungan gizi bahan baku pangan dapat mengalami penurunan dalam proses pengelolaan pangan yang pada akhirnya mempengaruhi kandungan gizi pangan yang dihasilkan. Penurunan kandungan gizi tidak dapat dihindarkan, tetapi hal tersebut dapat ditekan seminimal mungkin melalui pola pengelolaan pangan yang tepat. Tata cara tersebut dimulai sejak pemilihan bahan baku, penyiapan, penyimpanan, pembuatan dan kegiatan atau proses lain sehingga menjadi produk jadi yang siap diperdagangkan. Bagi pangan tertentu yang diproduksi secara masal yang mempunyai jangkauan yang luas Pemerintah mewajibkan penyelenggaraan tata cara pengelolaan yang dimaksud di atas.
+Penurunan kandungan gizi tidak dihindarkan, tetapi hal tersebut dapat ditekan seminimal mungkin melalui pola pengolahan pangan yang tepat.
+
+Tata cara tersebut dimulai sejak pemilihan bahan baku, penyiapan, penyimpanan, pencampuran, pembuatan, dan kegiatan atau proses lain sehingga menjadi produk jadi yang siap diperdagangkan.
+
+bagi pangan tertentu yang diproduksi secara masal yang mempunyai jangkauan yang luas Pemerintah mewajibkan penyelenggaraan tata cara pengolahan yang dimaksud di atas.
 
 Ayat (2)
 
@@ -1292,11 +1162,15 @@ Cukup jelas
 
 #### Pasal 29
 
-Cukup jelas Pasal 30
+Cukup jelas
+
+#### Pasal 30
 
 Ayat (1)
 
-Tujuan pemberian label pada pangan yang dikemas adalah agar masyarakat yang membeli dan atau mengkonsumsi pangan memperoleh informasi yang benar dan jelas tentang setiap produk pangan yang dikemas, baik menyangkut asal, keamanan, mutu, kandungan gizi, maupun keterangan lain yang diperlukan sebelum memutuskan akan membeli dan atau mengkonsumsi pangan tersebut. Ketentuan ini berlaku bagi pangan yang telah melalui proses pengemasan akhir dan siap untuk diperdagangkan (pre-packaged), tetapi tidak berlaku bagi perdagangan pangan yang dibungkus di hadapan pembeli. Penggunaan label dalam kemasan selalu berkaitan dengan aspek perdagangan.
+Tujuan pemberian label pada pangan yang dikemas adalah agar masyarakat yang membeli dan atau mengkonsumsi pangan memperoleh informasi yang benar dan jelas tentang setiap produk pangan yang dikemas, baik menyangkut asal, keamanan, mutu, kandungan gizi, maupun keterangan lain yang diperlukan sebelum memutuskan akan membeli dan atau mengkonsumsi pangan tersebut. Ketentuan ini berlaku bagi pangan yang melalui proses pengemasan akhir dan siap untuk diperdagangkan (prepackaged), tetapi tidak berlaku bagi perdagangan pangan yang dibungkus di hadapan pembeli.
+
+Penggunaan label dalam kemasan selalu berkaitan dengan aspek perdagangan.
 
 Ayat (2)
 
@@ -1318,7 +1192,7 @@ Cukup jelas
 
 Huruf e
 
-Keterangan halal untuk suatu produk pangan sangat penting bagi masyarakat Indonesia yang mayoritas memeluk agama Islam.
+Keterangan halal untuk suatu produk pangan sangat penting bagi masyarakat Indonesia yang mayoritas memeluk agama Isalam.
 
 Namun, pencantumannya pada label pangan baru merupakan kewajiban apabila setiap orang yang memproduksi pangan dan atau memasukkan pangan ke dalam wilayah Indonesia untuk diperdagangkan menyatakan bahwa pangan yang bersangkutan adalah halal bagi umat Islam. Adapun keterangan tentang halal dimaksudkan agar masyarakat terhindar dari mengkonsumsi pangan yang tidak halal (haram).
 
@@ -1330,7 +1204,7 @@ Cukup jelas
 
 Ayat (3)
 
-Yang dimaksud dengan "keterangan lain" adalah keterangan-keterangan selain yang dimaksud pada ayat (2), misalnya, keterangan mengenai tata cara penggunaan, kandungan gizi pangan, ataupun efek samping pangan bagi kelompok masyarakat tertentu, seperti lanjut usia, pengidap penyakit tertentu, atau mereka yang sedang menjalani program diet. Di samping itu, Pemerintah dapat melarang pencantuman gambar atau tulisan pada label yang dapat memberikan gambaran yang menyesatkan atau tidak benar, misalnya, mencantumkan gambar buah jeruk segar pada minuman yang tidak menggunakan jeruk sebagai bahan baku atau mencantumkan tulisan bahwa susu formula dapat menggantikan fungsi air susu ibu (ASI).
+Yang dimaksud dengan “keterangan lain” adalah keterangan-keterangan selain yang dimaksud pada ayat (2), misalnya, keterangan mengenai tata cara penggunaan, kandungan gizi pangan, ataupun efek samping pangan bagi kelompok masyarakat tertentu, seperti lanjut usia, pengidap penyakit tertentu, atau mereka yang sedang menjalani program diet. Di samping itu, Pemerintah dapat melarang pencantuman gambar atau tulisan pada label yang dapat memberikan gambaran yang menyesatkan atau tidak benar, misalnya, mencantumkan gambar buah jeruk segar pada minuman yang tidak menggunakan jeruk sebagai bahan baku atau mencantumkan tulisan bahwa susu formula dapat menggantikan fungsi air susu ibu (ASI).
 
 #### Pasal 31
 
@@ -1344,19 +1218,19 @@ Cukup jelas
 
 Ayat (3)
 
-Yang dimaksud dengan "istilah asing" adalah bahasa, angka atau huruf selain bahasa Indonesia, angka Arab atau huruf Latin, serta istilah teknis atau ilmiah, misalnya, rumus kimia untuk menyebutkan suatu jenis bahan yang digunakan dalam komposisi pangan.
+Yang dimaksud dengan “istilah asing” adalah bahasa, angka atau huruf selain bahasa Indonesia, angka Arab atau huruf Latin, serta istilah teknis atau ilmiah, misalnya, rumus kimia untuk menyebutkan suatu jenis bahan yang digunakan dalam komposisi pangan.
 
 #### Pasal 32
 
-Yang dimaksud dengan "mengganti" dalam ketentuan ini adalah kegiatan menghapus, mencabut, menutup, atau mengganti label, baik sebagian maupun seluruhnya.
+Yang dimaksud dengan “mengganti” dalam ketentuan ini adalah kegiatan menghapus, mencabut, menutup, atau mengganti label, baik sebagian maupun seluruhnya.
 
 #### Pasal 33
 
 Ayat (1)
 
-Suatu "keterangan dianggap tidak benar" apabila keterangan tersebut bertentangan dengan kenyataan sebenarnya atau tidak memuat keterangan yang diperlukan agar keterangan tersebut dapat memberikan gambaran atau kesan yang sebenarnya tentang pangan.
+Suatu “keterangan dianggap tidak benar” apabila keterangan tersebut bertentangan dengan kenyataan sebenarnya atau tidak memuat keterangan yang diperlukan agar keterangan tersebut dapat memberikan gambaran atau kesan yang sebenarnya tentang pangan.
 
-Yang dimaksud dengan "keterangan yang menyesatkan" adalah pernyataan yang berkaitan dengan hal-hal seperti sifat, harga, bahan, mutu, komposisi, manfaat, atau keamanan pangan yang meskipun benar, dapat menimbulkan gambaran yang menyesatkan pemahaman mengenai pangan yang bersangkutan.
+Yang dimaksud dengan “keterangan yang menyesatkan” adalah pernyataan yang berkaitan dengan hal-hal seperti sifat, harga, bahan, mutu, komposisi, manfaat, atau keamanan pangan yang meskipun benar, dapat menimbulkan gambaran yang menyesatkan pemahaman mengenai pangan yang bersangkutan.
 
 Ayat (2)
 
@@ -1378,13 +1252,11 @@ Cukup jelas
 
 #### Pasal 35
 
-Cukup jelas
-
-#### Pasal 36
+Cukup jelas Pasal 36
 
 Ayat (1)
 
-Selain Undang-undang ini dan peraturan pelaksanaannya, pemasukan pangan ke dalam wilayah Indonesia harus tetap memperhatikan peraturan perundang-undangan lain yang berlaku, misalnya, peraturan perundang-undangan di bidang kepabeanan dan di bidang karantina hewan, iklan dan tumbuhan.
+Selain Undang-undang ini dan peraturan pelaksanaannya, pemasukan pangan ke dalam wilayah Indonesia harus tetap memperhatikan peraturan perundang-undangan lain yang berlaku, misalnya, peraturan perundang-undangan di bidang kepabeanan dan di bidang karantina hewan, ikan, dan tumbuhan.
 
 Ayat (2)
 
@@ -1392,7 +1264,7 @@ Cukup jelas
 
 #### Pasal 37
 
-Ketentuan ini dimaksudkan untuk mengantisipasi situasi atau keadaan tertentu yang terjadi di negara asal pangan, yang diperkirakan dapat mengurangi pemenuhan ketentuan tentang keamanan, mutu, dan atau gizi pangan yang ditetapkan berdasarkan Undang-undang ini.
+Ketentuan ini dimaksudkan untuk mengantisipasi situasi atau keadaan tertentu yang terjadi di negara asal pangan yang diperkirakan dapat mengurangi pemenuhan ketentuan tentang keamanan, mutu, dan atau gizi pangan yang ditetapkan berdasarkan Undang-undang ini.
 
 Huruf a
 
@@ -1426,19 +1298,19 @@ Tanggung jawab dimaksud tidak hanya berlaku bagi badan usaha, baik yang berbentu
 
 Ayat (2)
 
-Persyaratan utama yang harus dibuktikan oleh penggugat atau ahli waris adalah bahwa yang bersangkutan mengalami kerugian kesehatan atau mengalami musibah kematian, dan hal tersebut merupakan akibat langsung dari mengkonsumsi pangan olahan yang diproduksi oleh tergugat. Ahli waris dalam mengajukan gugatan perlu melengkapi diri dengan bukti-bukti yang sah secara hukum mengenai statusnya sebagai ahli waris dari orang yang meninggal karena mengkonsumsi pangan olahan yang diproduksi oleh tergugat.
+Persyaratan utama yang harus dibuktikan oleh penggugat atau ahli waris adalah bahwa yang bersangkutan mengalami kerugian kesehatan atau mengalami musibah kematian, dan hal tersebut merupakan akibat langsung dari mengkonsumsi pangan olahan yang diproduksi oleh tergugat.
+
+Ahli waris dalam mengajukan gugatan perlu melengkapi diri dengan bukti-bukti yang sah secara hukum mengenai statusnya sebagai ahli waris dari orang yang meninggal karena mengkonsumsi pangan olahan yang diproduksi oleh tergugat.
 
 Ayat (3)
 
-Pembuktian di sini terutama dilakukan secara laboratoris, tetapi tidak menutup penggunaan cara pembuktian lain dengan tetap melindungi kepentingan pihak yang beritikad baik.
+Pembuktian di sini terutama dilakukan secara labiratoris, tetapi tidak menutup penggunaan cara pembuktian lain dengan tetap melindungi kepentingan pihak yang beritikad baik.
 
 Ayat (4)
 
 Tergugat mempunyai hak untuk membuktikan bahwa yang bersangkutan tidak bersalah, atau bahwa alasan yang mendasari gugatan bukan disebabkan oleh kesalahan atau kelalaiannya, atau bahwa kerugian yang diderita penggugat diakibatkan oleh kesalahan atau kelalaian pihak lain.
 
-Ayat (5)
-
-Cukup jelas
+Ayat (5 Cukup jelas
 
 #### Pasal 42
 
@@ -1448,9 +1320,11 @@ Cukup jelas
 
 Ayat (1)
 
-Yang dimaksud dengan "kerugian materi" adalah kerugian yang bersifat kebendaan yang dapat dinilai dengan uang. Sementara itu, yang dimaksud dengan "korban manusia" adalah kerugian yang tidak dapat langsung dinilai dengan uang seperti gangguan kesehatan, cacat badan dan atau psikis, baik yang segera dapat diidentifikasi maupun yang tidak, serta kematian.
+Yang dimaksud dengan “kerugian materi” adalah kerugian yang bersifat kebendaan yang dapat dinilai dengan uang. Sementara itu, yang dimaksud dengan “korban manusia” adalah kerugian yang tidak dapat langsung dinilai dengan uang seperti gangguan kesehatan, cacat badan dan atau psikis, baik yang segera dapat diidentifikasi mauun yang tidak, serta kematian.
 
-Peranan Pemerintah dalam hal ini semata-mata bersifat pelayanan dan dalam rangka perlindungan kepentingan masyarakat yang mengkonsumsi pangan. Oleh karena itu, hal ini harus dilaksanakan dengan itikad baik, terutama dalam hal kerugian materi dan atau korban manusia yang terjadi secara nyata tidak memungkinkan diajukannya gugatan secara individual atau terpisah. Dalam hal Pemerintah melaksanakan kewenangannya berdasarkan ketentuan ini, hak untuk mengajukan gugatan dari setiap korban tidak menjadi hilang. Dalam kasus seperti ini hakim berwenang untuk menggabungkan atau memeriksa secara terpisah gugatan yang diajukan berdasarkan fakta awal yang ditemukan.
+Peranan Pemerintah dalam hal ini semata-mata bersifat pelayanan dan dalam rangka perlindungan kepentingan masyarakat yang mengkonsumsi pangan. Oleh karena itu, hal ini harus dilaksanakan dengan iktikad baik, terutama dalam hal kerugian materi dan atau korban manusia yang terjadi secara nyata tidak memungkinkan diajukannya gugatan secara individual atau terpisah.
+
+Dalam hal Pemerintah melaksanakan kewenangannya berdasarkan ketentuan ini, hak untuk mengajukan gugatan dari setiap korban tidak menjadi hilang. Dalam kasus seperti ini hakim berwenang untuk menggabungkan atau memeriksa secara terpisah gugatan yang diajukan berdasarkan fakta awal yang ditemukan.
 
 Ayat (2)
 
@@ -1476,7 +1350,7 @@ Huruf a
 
 Cadangan pangan nasional adalah persediaan pangan di seluruh pelosok wilayah Indonesia untuk konsumsi manusia, bahan baku industri, dan untuk menghadapi keadaan darurat.
 
-Cadangan pangan nasional diupayakan berada di dalam negeri dan harus senantiasa cukup untuk mengatasi masalah kekurangan pangan, atau terjadinya berbagai kebutuhan yang mendadak akibat bencana, atau pengaruh fluktuasi harga. Berbagai kekuatan ekonomi seperti pengusaha, pedagang, atau koperasi didorong untuk mengelola cadangan pangan agar pemenuhan kebutuhan pangan rakyat Indonesia senantiasa dapat dipenuhi.
+Cadangan pangan nasional diupayakan berada di dalam negeri dan harus senantiasa cukup untuk mengatasi masalah kekeurangan pangan, atau terjadinya berbagai kebutuhan yang mendadak akibat bencana, atau pengaruh fluktuasi harga. Berbagai kekuatan ekonomi seperti pengusaha, pedangan, atau koperasi didorong untuk mengelola cadangan pangan agar pemenuhan kebutuhan pangan rakyat Indonesia senantiasa dapat dipenuhi.
 
 Huruf b
 
@@ -1488,7 +1362,7 @@ Cukup jelas
 
 Huruf d
 
-Untuk mencegah timbulnya atau menanggulangi gejala kekurangan pangan, Pemerintah dapat mengupayakan berbagai bentuk bantuan, antara lain, bantuan pangan darurat, bantuan pangan dengan harga khusus, dan atau bentuk bantuan lainnya. Selain itu, Pemerintah juga dapat mengambil tindakan yang diperlukan untuk menanggulangi tindakan spekulasi atau manipulasi dalam pengadaan dan peredaran pangan, yang secara langsung atau tidak langsung mengganggu sistem pangan, termasuk mengganggu ketersediaan pangan dengan harga yang terjangkau secara memadai.
+Untuk mencegah timbulnya atau menanggulangi gejala kekeurangan pangan, Pemerintah dapat mengupayakan berbagai bentuk bantuan, antara lain bantuan pangan darurat, bantuan pangan dengan harga khusus, dan atau bentuk bantuan lainnya. Selain itu, Pemerintah juga dapat mengambil tindakan yang diperlukan untuk menanggulangi tindakan spekulasi atau manipulasi dalam pengadaan dan peredaran pangan, yang secara langsung atau tidak langsung mengganggu sistem pangan, termasuk mengganggu ketersediaan pangan dengan harga yang terjangkau secara memadai.
 
 #### Pasal 47
 
@@ -1496,15 +1370,15 @@ Ayat (1)
 
 Huruf a
 
-Yang dimaksud dengan "cadangan pangan Pemerintah" dalam ketentuan ini adalah cadangan pangan yang dikelola atau dikuasai oleh Pemerintah.
+Yang dimaksud dengan “cadangan pangan Pemerintah” dalam ketentuan ini adalah cadangan pangan yang dikelola atau dikuasai oleh Pemerintah.
 
 Huruf b
 
-Yang dimaksud dengan "cadangan pangan masyarakat" dalam ketentuan ini adalah cadangan pangan yang dikelola atau dikuasai oleh masyarakat, termasuk petani, koperasi, pedagang, dan industri rumah tangga.
+Yang dimaksud dengan “cadangan pangan masyarakat” dalam ketentuan ini adalah cadangan pangan yang dikekola atau dikuasai oleh masyarakat, termasuk petani, koperasi, pedagang, dan industri rumah tangga.
 
 Ayat (2)
 
-Yang dimaksud dengan "keadaan darurat" dalam ketentuan ini adalah terjadinya peristiwa bencana alam, paceklik yang hebat, dan sebagainya yang terjadi di luar kemampuan manusia untuk mencegah atau menghindarinya meskipun dapat diperkirakan.
+Yang dimaksud dengan “keadaan darurat” dalam ketentuan ini adalah terjadinya peristiwa bencana alam, paceklik yang hebat, dan sebagainya yang terjadi di luar kemampuan manusia untuk mencegah atau menghindarinya meskipun dapat diperkirakan.
 
 Ayat (3)
 
@@ -1518,9 +1392,9 @@ Cukup jelas
 
 #### Pasal 48
 
-Yang dimaksud dengan "tindakan yang diperlukan dalam rangka mengendalikan harga pangan tersebut" menurut ketentuan ini, antara lain, berupa tindakan dalam rangka stabilisasi harga pangan yang dilakukan untuk mencegah fluktuasi harga, baik yang dilakukan melalui mekanisme pasar maupun melalui intervensi pasar, secara langsung ataupun tidak langsung. Tindakan stabilisasi harga pangan juga merupakan upaya untuk menjamin terciptanya harga yang wajar, baik dari sisi pihak yang memproduksi maupun dari sisi masyarakat yang mengkonsumsi pangan. Untuk menunjang upaya terciptanya harga pangan yang terkendali,
+Yang dimaksud dengan “tidakan yang diperlukan dalam rangka mengendalikan harga pangan tersebut” menurut ketentuan ini, antara lain, berupa tindakan dalam rangka stabilisasi harga pangan yang dilakukan untuk mencegah fluktuasi harga, baik yang dilakukan melalui mekanisme pasar maupun melalui intervensi pasar, secara langsung ataupun tidak langsung.
 
-Pemerintah perlu memelihara cadangan pangan yang cukup di dalam negeri yang senantiasa dapat dimanfaatkan untuk mengatasi fluktuasi harga atau kekurangan pangan yang terjadi secara mendadak, baik akibat spekulasi, manipulai, maupun sebab lain yang terjadi di dalam ataupun di luar negeri.
+Tindakan stabilisasi harga pangan juga merupakan upaya untuk menjamin terciptanya harga yang wajar, baik dari sisi pihak yang memproduksi maupun dari sisi masyarakat yang mengkonsumsi pangan. Untuk menunjang upaya terciptanya harga pangan yang terkendali, Pemerintah perlu memelihara cadangan pangan yang cukup di dalam negeri yang senantiasa dapat dimafaatkan untuk mengatasi fluktuasi harga atau kekeurangan pangan yang terjadi secara mendadak, baik akibat spekulasi, manipulasi, maupun sebab lain yang terjadi di dalam ataupun di luar negeri.
 
 #### Pasal 49
 
@@ -1532,7 +1406,9 @@ Cukup jelas
 
 Huruf b
 
-Peran serta masyarakat dalam upaya peningkatan kemampuan usaha kecil akan didorong dan ditingkatkan dalam rangka pemberdayaan usaha kecil di bidang pangan sehingga secara bertahap dapat memenuhi berbagai ketentuan Undang-undang ini. Baik Pemerintah maupun masyarakat menyelenggarakan upaya pembinaan dan pemasyarakatan berbagai ketentuan Undang-undang ini sehingga usaha kecil di bidang pangan dapat tumbuh dan berkembang serta memenuhi berbagai persyaratan keamanan pangan yang dapat menjamin kesehatan manusia.
+Peran serta masyarakat dalam upaya peningkatan kemampuan usaha kecil akan didorong dan ditingkatkan dalam rangka pemberdayaan usaha kecil di bidang pangan sehingga secara bertahap dapat memenuhi berbagai ketentuan Undang-undang ini.
+
+Baik Pemerintah maupun masyarakat menyelenggarakan upaya pembinaan dan pemasyarakatan berbagai ketentuan Undang-undang ini sehingga usaha kecil di bidang pangan dapat tumbuh dan berkembang serta memenuhi berbagai persyaratan keamanan pangan yang dapat menjamin kesehatan manusia.
 
 Huruf c
 
@@ -1548,9 +1424,11 @@ Cukup jelas
 
 Huruf f
 
-Kerja sama dimaksud tidak hanya terbataspada tingkat kebijakan yang bersifat umum, tetapi mencakup pula hal-hal yang konkret seperti pemberian bantuan pangan kepada negara tetangga atau dalam rangka mewujudkan cadangan pangan nasional. Misalnya, apabila produksi atau cadangan pangan di dalam negeri jauh lebih besar daripada yang dibutuhkan dan untuk membina hubungan baik antara Indonesia dan negara lain, maka kelebihan itu dapat dipakai untuk membantu negara lain yang sedang mengalami kelaparan atau kekurangan pangan.
+Kerja sama dimaksud tidak hanya terbatas pada tingkat kebijakan yang bersifat umum, tetapi mencakup hal-hal yang konkret seperti pemberian bantuan pangan kepada negara tetangga atau dalam rangka mewujudkan cadangan pangan nasional. Misalnya, apabila produksi atau cadangan pangan di dalam negeri jauh lebih besar daripada yang dibutuhkan dan untuk membina hubungan baik antara Indonesia dan negara lain, maka kelebihan itu dapat dipakai untuk membantu negara lain yang sedang mengalami kelaparan atau kekurangan pangan.
 
-Bantuan kepada negara sahabat ini dapat dilakukan selama tidak bertentangan dengan kepentingan nasional. Dengan demikian, dalam melakukan kerja sama internasional untuk memperoleh bantuan pangan, Pemerintah harus waspada agar semua tawaran tersebut tidak mengakibatkan keterikatan yang merugikan kepentingan nasional.
+Bantuan kepada negara sahabat ini dapat dilakukan selama tidak bertentangan dengan kepentingan nasional.
+
+Dengan demikian, dalam melakukan kerja sama internasional untuk memperoleh bantuan pangan, Pemerintah harus waspada agar semua tawaran tersebut tidak mengakibatkan keterikatan yang merugikan kepentingan nasional.
 
 Huruf g
 
@@ -1558,7 +1436,11 @@ Cukup jelas
 
 Ayat (2)
 
-Cukup jelas Pasal 50 Cukup jelas
+Cukup jelas
+
+#### Pasal 50
+
+Cukup jelas
 
 #### Pasal 51
 
@@ -1566,7 +1448,7 @@ Cukup jelas
 
 #### Pasal 52
 
-Masyarakat dapat menyampaikan permasalahan, masukan, dan atau pemecahan masalah dalam rangka penyempurnaan dan peningkatan sistem pangan kepada Pemerintah, baik langsung maupun tidak langsung antara lain melalui media cetak, media elektronik, atau seminar, baik secara individu, kelompok, maupun organisasi profesi dan organisasi kemasyarakatan lainnya. Khusus yang menyangkut perlindungan anggota masyarakat yang dirugikan dan yang ingin mengajukan gugatan dapat dilakukan oleh orang perseorangan, lembaga, atau organisasi bantuan hukum dengan surat kuasa dan sesuai dengan ketentuan hukum yang berlaku.
+Masyarakat dapat menyampaikan permasalahan, masukan, dan atau pemecahan masalah dalam rangka penyempurnaan dan peningkatan sistem pangan kepada Pemerintah, baik langsung maupun tidak langsung antara lain melalui media cetak, media elektronik, atau seminar, baik secara individu, kelompok maupun melalui organisasi profesi dan organisasi kemasyarakatan lainnya. Khusus yang menyangkut perlindungan anggota masyarakat yang dirugikan dan yang ingin mengajukan gugatan dapat dilakukan oleh orang perseorangan, lembaga, atau organisasi bantuan hukum dengan surat kuasa dan sesuai dengan ketentuan hukum yang berlaku.
 
 #### Pasal 53
 
@@ -1582,7 +1464,7 @@ Cukup jelas
 
 Huruf b
 
-Yang dimaksud dengan "menghentikan" adalah perbuatan mencegah keberangkatan dan atau membuat menjadi berhenti setiap sarana angkutan yang dimaksud dlaam ketentuan ini, dan dilakukan oleh pejabat yang berwenang berdasarkan peraturan perundang-undangan yang berlaku.
+Yang dimaksud dengan “menghentikan” adalah perbuatan mencegah keberangkatan dan atau membuat menjadi berhenti setiap sarana angkutan yang dimaksud dalam ketentuan ini, dan dilakukan oleh pejabat yang berwenang berdasarkan peraturan perundang-undangan yang berlaku.
 
 Huruf c
 
@@ -1598,11 +1480,13 @@ Cukup jelas
 
 Ayat (3)
 
-Persyaratan surat perintah dalam ketentuan ini dimaksudkan agar tercipta tertib pelaksanaan kewenangan pemeriksaan tersebut, sehingga memberikan rasa aman terhadap pihak yang beritikad baik.
+Persyaratan surat perintah dalam ketentuan ini dimaksudkan agar tercipta tertib pelaksanaan kewenangan pemeriksaan tersebut, sehingga memberikan rasa aman terhadap pihak yang beriktikad baik.
 
 Ayat (4)
 
-Ayat ini merujuk pada penyidikan sebagai tindak lanjut dari pemeriksaan, karena tindakan penyidikan sudah diatur dalam peraturan perundang-undangan yang berlaku, antara lain, Undang-undang tentang Hukum Acara Pidana, Undang-undang tentang Kesehatan, Undang-undang tentang Karantina Hewan, Ikan, dan Tumbuhan, serta Undang-undang tentang Sistem Budaya Tanaman.
+Ayat ini merujuk pada penyidikan sebagai tindak lanjut dari pemeriksaan, karena tindakan penyidikan sudah diatur dalam peraturan perundang-undangan yang berlaku, antara lain, Undang-undang tentang Hukum Acara Pidana, Undang-undang tentang Kesehatan, Undang-undang tentang
+
+Karantina Hewan, Ikan, dan Tumbuhan, serta Undang-undang tentang Sistem Budidaya Tanaman.
 
 Ayat (5)
 
@@ -1650,13 +1534,13 @@ Cukup jelas
 
 Ayat (1)
 
-Yang dimaksud dengan "kekurangan pangan yang sangat mendesak" adalah keadaan sangat darurat yang ditandai oleh timbulnya kelangkaan ketersediaan pangan akibat bencana alam, wabah penyakit, kegagalan panen, terjadinya perang, dan kelangkaan pasokan pangan di pasar dunia.
+Yang dimaksud dengan “kekurangan pangan yang sangat mendesak” adalah keadaan sangat darurat yang ditandai oleh timbulnya kelangkaan ketersediaan pangan akibat bencana alam, wabah penyakit, kegagalan panen, terjadinya perang, dan kelangkaan pasokan pangan di pasar dunia.
 
-Yang dimaksud dengan "mengesampingkan" adalah langkah atau tindakan untuk tidak mengikuti sebagian atau seluruh persyaratan yang dimaksud pada ayat ini.
+Yang dimaksud dengan “mengesampingkan” adalah langkah atau tindakan untuk tidak mengikuti sebagian atau seluruh persyaratan yang dimaksud pada ayat ini.
 
 Ayat (2)
 
-Yang dimaksud dengan "memperhatikan keselamatan dan terjaminnya kesehatan masyarakat" adalah langkah atau tindakan yang perlu dilakukan agar tidak terjadi gangguan kesehatan masyarakat secara umum, misalnya, menyebarnya wabah penyakit menular dan kekurangan pangan (busung lapar) dengan selalu tetap memberikan prioritas bagi terjaminnya kecukupan pangan bagi golongan rawan.
+Yang dimaksud dengan “memperhatikan keselamatan dan terjaminnya kesehatan masyarakat” adalah langkah atau tindakan yang perlu dilakukan agar tidak terjadi gangguan kesehatan masyarakat secara umum, misalnya, menyebarnya wabah penyakit menular dan kekurangan pangan (busung lapar) dengan selalu tetap memberikan prioritas bagi terjaminnya kecukupan pangan bagi golongan rawan.
 
 #### Pasal 62
 
@@ -1666,7 +1550,7 @@ Cukup jelas
 
 Kalangan rumah tangga perlu dikecualikan dari pelaksanaan Undang-undang ini.
 
-Kata "diproduksi dan dikonsumsi" dalam pasal ini dimaksudkan sebagai pengolahan pangan untuk dikonsumsi sendiri oleh keluarga yang bersangkutan.
+Kata “ diproduksi dan dikonsumsi” dalam pasal ini dimaksudkan sebagai pengolahan pangan untuk dikonsumsi sendiri oleh keluarga yang bersangkutan.
 
 Adapun terhadap peredaran pangan olahan hasil usaha kecil, baik informal maupun tradisional, Pemerintah akan melakukan pembinaan dan pengaturan secara bertahap.
 

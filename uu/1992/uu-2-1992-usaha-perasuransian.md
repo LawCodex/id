@@ -15,10 +15,11 @@ repealed_by:
   - "UU No. 40 Tahun 2014"
 gazette: "LN. 1993, LL SETNEG : 19 HLM"
 subject: "ASURANSI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_2_TH_1992.pdf&fl=P00922"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35312/UU%20Nomor%202%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46594"
 bpk_page: "https://peraturan.bpk.go.id/Details/46594"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133430/https://peraturan.bpk.go.id/Details/46594"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=2&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

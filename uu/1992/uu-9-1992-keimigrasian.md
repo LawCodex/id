@@ -17,10 +17,11 @@ repealed_by:
   - "UU No. 6 Tahun 2011"
 gazette: "LN. 1992, LL SETNEG : 29 HLM"
 subject: "KEWARGANEGARAAN DAN IMIGRASI"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_9_TH_1992.pdf&fl=P00929"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35319/UU%20Nomor%209%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46601"
 bpk_page: "https://peraturan.bpk.go.id/Details/46601"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133556/https://peraturan.bpk.go.id/Details/46601"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=9&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

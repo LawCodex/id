@@ -17,10 +17,11 @@ repeals:
   - "UU No. 1 Tahun 1964"
 gazette: "LN. 1992, LL SETNEG : 20 HLM"
 subject: "BANTUAN, SUMBANGAN, BENCANA / KEBENCANAAN, DAN PENANGGULANGAN BENCANA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_4_TH_1992.pdf&fl=P00924"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35314/UU%20Nomor%204%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46596"
 bpk_page: "https://peraturan.bpk.go.id/Details/46596"
 bpk_metadata_archived: "http://web.archive.org/web/20251124093812/https://peraturan.bpk.go.id/Details/46596/uu-no-"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

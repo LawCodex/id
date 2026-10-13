@@ -17,10 +17,11 @@ amended_by:
   - "UU No. 11 Tahun 2020"
 gazette: "LN. 1997/ No. 10, TLN NO. 3671, LL SETNEG : 26 HLM"
 subject: "NARKOTIKA"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0051997.pdf&fl=P00991"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1997"
+source: "https://peraturan.bpk.go.id/Download/34479/UU%20Nomor%205%20Tahun%201997.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/45926"
 bpk_page: "https://peraturan.bpk.go.id/Details/45926"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134305/https://peraturan.bpk.go.id/Details/45926"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=5&thn=1997"
 consolidated: false
 retrieved: 2026-10-13
 ---

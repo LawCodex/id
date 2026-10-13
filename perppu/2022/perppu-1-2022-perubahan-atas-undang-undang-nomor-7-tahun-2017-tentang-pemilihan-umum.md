@@ -15,10 +15,11 @@ amends:
   - "UU No. 7 Tahun 2017"
 gazette: "LN.2022/No.224, TLN No.6832, jdih.setneg.go.id: 14 hlm."
 subject: "PARTAI POLITIK DAN PEMILU"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Salinan+Perpu+Nomor+1+tahun+2022.pdf&fl=P19556"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2022"
+source: "https://peraturan.bpk.go.id/Download/278453/Perpu%20Nomor%201%20tahun%202022.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/232762"
 bpk_page: "https://peraturan.bpk.go.id/Details/232762"
 bpk_metadata_archived: "http://web.archive.org/web/20240919151338/https://peraturan.bpk.go.id/Details/232762"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=1&thn=2022"
 consolidated: false
 retrieved: 2026-10-13
 ---

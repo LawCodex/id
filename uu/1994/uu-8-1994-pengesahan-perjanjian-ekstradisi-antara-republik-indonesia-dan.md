@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1994/ No.58, TLN NO. 3565, LL SETNEG : 3 HLM"
 subject: "PENGESAHAN DAN/ATAU PEMBATALAN PERSETUJUAN/KONVENSI/ PERJANJIAN INTERNASIONAL"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0081994.pdf&fl=P00960"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34816/UU%20Nomor%208%20Tahun%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46228"
 bpk_page: "https://peraturan.bpk.go.id/Details/46228"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133827/https://peraturan.bpk.go.id/Details/46228"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=8&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---

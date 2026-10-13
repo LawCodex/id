@@ -25,10 +25,11 @@ repeals:
   - "UU No. 18 Tahun 1953"
 gazette: "LN. 1992, LL SETNEG : 41 HLM"
 subject: "KESEHATAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_23_TH_1992.pdf&fl=P00943"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35354/UU%20Nomor%2023%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46620"
 bpk_page: "https://peraturan.bpk.go.id/Details/46620"
 bpk_metadata_archived: "http://web.archive.org/web/20241115233502/https://peraturan.bpk.go.id/Details/46620/uu-no-23-"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=23&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

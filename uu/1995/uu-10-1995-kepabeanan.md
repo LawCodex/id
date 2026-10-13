@@ -15,10 +15,11 @@ amended_by:
   - "UU No. 17 Tahun 2006"
 gazette: "LN. 1995/ No. 75, TLN NO. 3612, LL SETNEG : 76 HLM"
 subject: "BEA CUKAI, EKSPOR-IMPOR, KEPABEANAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0101995.pdf&fl=P00974"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1995"
+source: "https://peraturan.bpk.go.id/Download/34762/UU%20Nomor%2010%20Tahun%201995.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46201"
 bpk_page: "https://peraturan.bpk.go.id/Details/46201"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133833/https://peraturan.bpk.go.id/Details/46201"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=10&thn=1995"
 consolidated: false
 retrieved: 2026-10-13
 ---

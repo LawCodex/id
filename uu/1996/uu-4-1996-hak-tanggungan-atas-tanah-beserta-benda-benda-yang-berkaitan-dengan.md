@@ -13,10 +13,11 @@ status: in_force
 status_basis: "BPK: Berlaku; Setneg: berlaku"
 gazette: "LN. 1996, LL SETNEG : 18 HLM"
 subject: "AGRARIA, PERTANAHAN, TATA RUANG - FIDUSIA DAN LEMBAGA PEMBIAYAAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0041996.pdf&fl=P00981"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1996"
+source: "https://peraturan.bpk.go.id/Download/34649/UU%20Nomor%204%20Tahun%201996.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46093"
 bpk_page: "https://peraturan.bpk.go.id/Details/46093"
 bpk_metadata_archived: "http://web.archive.org/web/20240919134046/https://peraturan.bpk.go.id/Details/46093"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=4&thn=1996"
 consolidated: false
 retrieved: 2026-10-13
 ---

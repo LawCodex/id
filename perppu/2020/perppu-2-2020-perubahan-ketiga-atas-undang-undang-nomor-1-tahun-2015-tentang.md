@@ -17,10 +17,11 @@ amends:
   - "UU No. 1 Tahun 2015"
 gazette: "LN.2020/NO.128, TLN NO.6512, JDIH.SETKAB.GO.ID : 6 HLM."
 subject: "OTONOMI DAERAH DAN PEMERINTAH DAERAH - PARTAI POLITIK DAN PEMILU - PEMILIHAN UMUM DAERAH, DPRD, PEMILIHAN KEPALA DAERAH"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=Perpu+Nomor+2+Tahun+2020.pdf&fl=P18867"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2020"
+source: "https://peraturan.bpk.go.id/Download/127439/Perpu%20Nomor%202%20Tahun%202020.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/136554"
 bpk_page: "https://peraturan.bpk.go.id/Details/136554"
 bpk_metadata_archived: "http://web.archive.org/web/20240614005159/https://peraturan.bpk.go.id/Details/136554/"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=PERPU&no=2&thn=2020"
 consolidated: false
 retrieved: 2026-10-13
 ---

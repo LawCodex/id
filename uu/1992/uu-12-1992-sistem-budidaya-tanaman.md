@@ -17,10 +17,11 @@ repeals:
   - "UU No. 2 Tahun 1961"
 gazette: "LN. 1992, LL SETNEG : 30 HLM"
 subject: "KEHUTANAN DAN PERKEBUNAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU_NO_12_TH_1992.pdf&fl=P00932"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1992"
+source: "https://peraturan.bpk.go.id/Download/35322/UU%20Nomor%2012%20Tahun%201992.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46604"
 bpk_page: "https://peraturan.bpk.go.id/Details/46604"
 bpk_metadata_archived: "http://web.archive.org/web/20250124032738/https://peraturan.bpk.go.id/Details/46604/uu-no-"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=12&thn=1992"
 consolidated: false
 retrieved: 2026-10-13
 ---

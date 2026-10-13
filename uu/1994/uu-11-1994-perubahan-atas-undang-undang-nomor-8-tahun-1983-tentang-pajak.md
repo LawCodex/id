@@ -18,10 +18,11 @@ amends:
   - "UU No. 8 Tahun 1983"
 gazette: "LN. 1994/ No. 61, TLN NO. 3568, LL SETNEG : 27 HLM"
 subject: "PERPAJAKAN"
-source: "https://jdih.setneg.go.id/api/hukumproduk/pdf?l=uploads&f=UU0111994.pdf&fl=P00963"
-source_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1994"
+source: "https://peraturan.bpk.go.id/Download/34833/UU%20Nomor%2011%20Tahun%201994.pdf"
+source_page: "https://peraturan.bpk.go.id/Details/46235"
 bpk_page: "https://peraturan.bpk.go.id/Details/46235"
 bpk_metadata_archived: "http://web.archive.org/web/20240919133716/https://peraturan.bpk.go.id/Details/46235"
+setneg_page: "https://jdih.setneg.go.id/detailperaturan?jns=UU&no=11&thn=1994"
 consolidated: false
 retrieved: 2026-10-13
 ---
